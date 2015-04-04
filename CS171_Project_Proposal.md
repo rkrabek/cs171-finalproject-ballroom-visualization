@@ -32,7 +32,8 @@ The current inspiration for our visualization is based on the New York Times vis
 
 
 Visualization 1 
-![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.pdf)
+![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
+See Images/Visualization1_Inspiration if image does not appear
 source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1
 
 Instead of touchdowns, our visualization will be tracking world rankings in ballroom dance based on points compiled through an analysis of results in competition. Instead of individuals, the lines in our dataset will track couples. Our visualization will have the option of letting the user customize their visualization to their needs. There will be functionality for the user to opt to display data that compares them to the five couples above and below them currently, that compares them to all of the dancers in their country at their level and style, to compare themselves with the top dancers in the world, and to compare themselves to a customized set of other dancers. The simplicity of this design combined with its ability to convey a large amount of information effectively is why we were attracted to this design. We will use bolded lines and color when necessary to highlight the couples in question, possibly shades of red to point out the five most similar couples that are below the user in ranking and shades of green to point out the five most similar couples that are above the user in ranking. Like this image, additional information about less emphasized lines will be available on mouse-over. To 
