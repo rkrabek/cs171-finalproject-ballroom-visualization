@@ -83,7 +83,7 @@ Goal: Secure useable data. This will include aggregating data from different ser
 Goal: Visualization 1 should be functional for at least one of the possible features (i.e. it can compare a couple to the five most similar couples above and below them in ranking OR compare a couple to a customizable set of dancers). It does not need to have all of the visual features set in their final form (e.g. colors and line styles do not need to be in their final version and mouse-over functionality does not need to be fully implemented) but it should be readable and serve the purpose of comparing a dancer to a set of their competitors over time. Process book should be in progress.
 
 ###### Week of 4/20 - 4/26
-Visualization 2 should be functional. Similar qualifications apply in terms of style and full functionality as for visualization 1 described above. The style and functionality of Visualization 1 should be refined and improved. Interactivity between the two figures should be functional. Continue process book.
+Visualization 3 should be functional. Similar qualifications apply in terms of style and full functionality as for visualization 1 described above. The style and functionality of Visualization 1 should be refined and improved. Interactivity between the two figures should be functional. Continue process book.
 
 ###### Week of 4/27 - 5/3
 Both Visualizations 1 and 3 should be improved and refined in terms of style and functionality. Additional features (including Visualizations 2 and 4) should be implemented as is feasible. Continue process book.
