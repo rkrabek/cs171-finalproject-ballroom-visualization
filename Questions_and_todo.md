@@ -38,6 +38,7 @@ OR
 6. Interaction
 	1. Hover over competition point
 	2. Trigger bar chart changes
+	3. Event handlers
 
 ## Useful Links
 [Building a line chart in d3 part 1](http://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js--cms-22935)
