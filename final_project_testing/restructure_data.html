@@ -40,8 +40,9 @@
 	<div id="chart"></div>
 </body>	
 	<script>
-	    var allData = 
-        {
+	    var allData = []
+
+        allData[0] = {
         "events": [
             {
                 "date": "07 Mar 2015",
@@ -498,37 +499,91 @@
         "url": "15th_Annual_Berkeley_Classic_Ballroom_Competition_2015_27394",
         "name": "15th Annual Berkeley Classic Ballroom Competition 2015",
         "rating": "88"
-    }
-    
-    reshape()
- 
- //console.log(allData)
- function reshape() {  
-    //console.log(allData) 
-    var nested_rows = d3.nest()
-        .key(function(d) {
-            console.log(d)
-            d.events(function(e) {
-                e.results(function(k) {
-                    return r.coupleid; 
-                })
+    };
+        
+/*
+})*/
+    // creates an array of all of the couple id numbers from all of the events...
+    var couples = [];
+    count = 0
+    allData.map(function(d,i) {
+        d.events.map(function(e,j) {
+            e.results.map(function(r,k) {
+                couples.push(r["coupleid"]);
+                    score: r["score"],
+                    change: r["change"],
+                    date: e["date"],
+                    style: e["style"],
+                    compid: d["compid"],
+                    compname: d["name"]
+                count++        
             })
         })
-        /*.rollup(function(d, i) { 
-            d.events(function(e, j) {
-                e.results(function(r, k) {
-            return {
-                "name": d[0].continent,
-                "continent": d[0].continent,
-                "gdp":d3.mean(d,function(g) { return +g.gdp;}),
-                "life_expectancy":d3.mean(d,function(g) { return +g.life_expectancy}),
-                "population":d3.mean(d,function(g) { return +g.population}),
-                "year": d3.median(d, function(g){return g.year})
-            };
-        })*/
-        .entries(allData); 
-    console.log(nested_rows)
-    }
+    });        
+
+console.log(couples) */
+
+
+//Attempt 1 (d3.nest)
+/*
+            var nested_rows = d3.nest()
+                .key(function() { 
+                    allData.map(function(d,i) {
+                        d.events.map(function(e,j) {
+                            e.results.map(function(r,k) {
+                                return r.coupleid; 
+                            }) 
+                        })
+                    })
+                })
+              .rollup(function() { 
+                    allData.map(function(d,i) {
+                        d.events.map(function(e,j) {
+                            e.results.map(function(r,k) {
+                                //debugger;
+                                return {
+                                    //"coupleid": r.coupleid,
+                                    "score": r.score,
+                                    "change": r.change,
+                                    "date": e.date,
+                                    "style": e.style,
+                                    "compid": d.compid,
+                                    "compname": d.name
+                                };
+                            })
+                        })
+                    })
+                }) 
+                .entries(allData);
+    
+    console.log(nested_rows) */
+
+//ATTEMPT 2 
+    var eventResults;
+    var allResults = [];
+
+    allData.map(function(d,i) {
+        d.events.map(function(e,j) {
+                    debugger;
+            e.results.map(function(r,k) {
+                console.log(r["coupleid"])
+                allResults.push {
+                    coupleid: r["coupleid"],
+                    score: r["score"],
+                    change: r["change"],
+                    date: e["date"],
+                    style: e["style"],
+                    compid: d["compid"],
+                    compname: d["name"]
+                };
+            })
+        })
+    }); debugger;
+
+console.log(allResults) 
+
+
+
       function update_aggregate() {
         d3.selectAll(".filter_radio").each(function(d) {   
           // if continent is checkedd, return aggregated data
@@ -560,8 +615,9 @@
                 year: d.values["year"]
               }; 
             });
+
           d3.select("table").remove();
-          update_table(aggregate_data);
+            update_table(aggregate_data);
           };
         });
       }
