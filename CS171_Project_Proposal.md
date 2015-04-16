@@ -30,7 +30,7 @@ We will need to perform some aggregating and sanitizing procedures after we scra
 The current inspiration for our visualization is based on the New York Times visualization tracking touchdown passes by Payton Manning against other quarterbacks from 1935 to the present.
 
 
-#####Visualization 1 
+#####Visualization 1 Inspiration 
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
 See Images/Visualization1_Inspiration if image does not appear
 source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1
@@ -43,17 +43,16 @@ To more easily view upward and downward trends, a visualization showing trends f
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization2_Inspiration.png)
 Source: http://www.tvmcalcs.com/uploads/blog_files/recession_chart_final.jpg
 
-Colors will be chosen more sparingly than in this design in order to better highlight the user’s country relative to the others, however the general layout will be similar. The user will be able to track the change in their country’s competitiveness over time by brushing over dates in Visualization 1, which will trigger a corresponding change in Visualization 2.
-
-Additionally, snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
+An additional integrated view could provide information about the competitiveness of the dancer’s home country versus other countries on average over time. This will be accomplished through a bar chart showing the top 9 countries, in terms of average points per couple, along with the user’s country, or top 10 countries if the user’s country is in the top 10.
 
 #####Visualization 3 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization3_Inspiration.png)
 Source: Section 6/final
 
-Colors will be chosen more sparingly than in this design in order to better highlight the user’s country relative to the others, however the general layout will be similar. The user will be able to track the change in their country’s competitiveness over time by brushing over dates in Visualization 1, which will trigger a corresponding change in Visualizations 2 and 3.
+Colors will be chosen more sparingly than in this design in order to better highlight the user’s country relative to the others, however the general layout will be similar. The user will be able to track the change in their country’s competitiveness over time by brushing over dates in Visualization 1, which will trigger a corresponding change in Visualization 2.
 
 Additionally, snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
+Visualization 3 Inspiration
 
 #####Visualization 4 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
