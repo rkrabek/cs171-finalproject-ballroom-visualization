@@ -2,11 +2,11 @@
 ### Robert Krabek and Leila Hofer
 ### April 3, 2015
 
-* Background and Motivation *
+## Background and Motivation
 
 There are tens of thousands of ballroom dancers around the world who compete regularly in events where they are judged by a panel of professionals against their competitors and given placements accordingly. The need to track ones progress is paramount for dancers aiming to assess the effectiveness of their training regimes or simply to see how they measure up against their peers. The current web-based infrastructure that presents information on dancers’ results does not aggregate or display data in a way that makes comparisons over time or between couples easy and intuitive. This project therefore aims to meet the need for an intuitive, user-friendly way for dancers to see where they stand in the world of competitive ballroom.
 
-* Project Objectives *
+## Project Objectives
 
 Project Objectives Summary
 - Allow dancers to track their individual progress in competitions over time 
@@ -18,20 +18,20 @@ As stated above, this project aims to allow dancers to track their progress and 
 
 Our goal is to produce a visualization that is customizable and answer a variety of questions about dancers’ progress over time and relative to others. To accomplish this we intend to implement a series of coordinated displays pertaining both to the individual dancer and to overall trends in the ballroom world.  Through this project we hope to better our understanding of how to manipulate and present data with JavaScript and d3 and to create a useful product for ballroom dancers around the world. 
 
-*Data*
+## Data
 
 The primary data we are interested in comes from [DancesportInfo.net](http://dancesportinfo.net/), one of the only definitive sources of data for competitive ballroom results. DancesportInfo’s databases currently contain results from 26,353 competitions in 91 countries for over 20,641 registered dancers. The [API](http://www.programmableweb.com/api/dancesportinfo) for procuring data from DancesportInfo.net is linked below. The API allows extraction of the necessary data for this project, e.g. competitor names, results, competitions, etc.
 
-*Data Processing*
+## Data Processing
 
 We will need to perform some aggregating and sanitizing procedures after we scrape the data before we can begin visualizing. Different types of DanceSport data require different scraping services within the API so we will have to bind results from these different services together into a dataset that we can use. We will also have to figure out how to deal with very recent data as data from recent competitions is not necessarily updated all at once, meaning there can be missing values for these competitions. Once we have our dataset assembled, most of the values we will be deriving from there will be aggregated and averaged values for the countries producing the most competitive dancers. These values will require summing all of the results for dancers from a given country and averaging them over the number of dancers from that country. We will also be allowing filtering by date. The processing will all be done in JavaScript and D3 with calls to the DancesportInfo API.
 
-*Visualization*
+## Visualization
 
 The current inspiration for our visualization is based on the New York Times visualization tracking touchdown passes by Payton Manning against other quarterbacks from 1935 to the present.
 
 
-Visualization 1 
+#####Visualization 1 
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
 See Images/Visualization1_Inspiration if image does not appear
 source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1
@@ -40,7 +40,7 @@ Instead of touchdowns, our visualization will be tracking world rankings in ball
 
 To more easily view upward and downward trends, a visualization showing trends for just the individual couple could highlight moments of exceptionally positive or negative growth. This visualization would be similar to the visualization shown below that highlights moments of recessions on a chart of unemployment trends. This view would be integrated with the original multiple couple comparison chart through a brush that would capture certain dates on the main chart and display them on this chart. On mouse-over the chart will display the specific competitions at which competitors lost or gained points. Red and green rectangles will highlight moments of exceptionally negative or exceptionally positive growth respectively.
 
-Visualization 2 Inspiration
+#####Visualization 2 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization2_Inspiration.png)
 Source: http://www.tvmcalcs.com/uploads/blog_files/recession_chart_final.jpg
 
@@ -48,7 +48,7 @@ Colors will be chosen more sparingly than in this design in order to better high
 
 Additionally, snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
 
-Visualization 3 Inspiration
+#####Visualization 3 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization3_Inspiration.png)
 Source: Section 6/final
 
@@ -56,13 +56,13 @@ Colors will be chosen more sparingly than in this design in order to better high
 
 Additionally, snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
 
-Visualization 4 Inspiration
+#####Visualization 4 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
 Source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1)
 
 Obviously there would have to be two highlighted lines per snapshot in our visualization as they are meant to compare the user to another couple specifically.
 
-*Must-Have Features*
+##Must-Have Features
 
 Visualization 1 and visualization 3 are the two crucial elements of our design. Visualization 1 will be a plot of a couple’s total points over time compared to a selected group of competitor’s total points over time. The inspiration for this visualization is displayed in the previous section and will accomplishes the first three objectives of our project:
 - Allow dancers to track their individual progress in competitions over time 
@@ -72,11 +72,11 @@ Visualization 1 and visualization 3 are the two crucial elements of our design. 
 Visualization 3, or the comparison of the competitiveness of a dancer’s native country in the larger world of ballroom, will give competitors a way to contextualize their success even if they are not competing on a world-level. Seeing the competitiveness of the field is crucial for contextualizing the results we aim to display in visualization 1. This will accomplish the last objective of our project:
 - Display overall trends in results for the top couples and countries
 
-*Optional Features*
+##Optional Features
 
 Optional features in include Visualizations 2 and 4 (inspirations shown above). These include an interactive visualization of exceptional growth and decline in a couple’s career, as shown in the inspiration for Visualization 2, and a series of customizable snapshots of comparisons with another couple. 
 
-*Project Schedule*
+##Project Schedule
 
 ###### Week of 4/6 - 4/12
 Goal: Secure useable data. This will include aggregating data from different services of the API into a usable format, sanitizing data to deal with missing values, and ensuring all necessary variables are present.
