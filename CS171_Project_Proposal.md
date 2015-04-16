@@ -1,6 +1,5 @@
 # CS 171 Project Proposal
-### Robert Krabek and Leila Hofer
-### April 3, 2015
+#### Robert Krabek and Leila Hofer   April 3, 2015
 
 ## Background and Motivation
 
@@ -8,7 +7,7 @@ There are tens of thousands of ballroom dancers around the world who compete reg
 
 ## Project Objectives
 
-Project Objectives Summary
+*Summary*
 - Allow dancers to track their individual progress in competitions over time 
 - Allow dancers to compare their results to other similar dancers over time
 - Allow customized comparisons of results between dancers.
