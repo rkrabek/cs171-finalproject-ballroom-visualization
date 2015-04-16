@@ -510,18 +510,11 @@
         d.events.map(function(e,j) {
             e.results.map(function(r,k) {
                 couples.push(r["coupleid"]);
-                    score: r["score"],
-                    change: r["change"],
-                    date: e["date"],
-                    style: e["style"],
-                    compid: d["compid"],
-                    compname: d["name"]
-                count++        
             })
         })
     });        
 
-console.log(couples) */
+console.log(couples)
 
 
 //Attempt 1 (d3.nest)
@@ -559,7 +552,7 @@ console.log(couples) */
     console.log(nested_rows) */
 
 //ATTEMPT 2 
-    var eventResults;
+   /* var eventResults;
     var allResults = [];
 
     allData.map(function(d,i) {
@@ -620,7 +613,7 @@ console.log(allResults)
             update_table(aggregate_data);
           };
         });
-      }
+      } */
 
 
 	</script>
