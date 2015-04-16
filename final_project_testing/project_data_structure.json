@@ -1,0 +1,90 @@
+    {   
+        "couples": [
+            {
+                "coupleid": "268675",
+                "couple": "Stephen Nadeau & Jessica Smith", 
+                "country": "USA",
+                "competitions": [
+                    {
+                        "date": "13 Feb 2015",
+                        "style": "Ballroom",
+                        "change": "=",
+                        "score": "1352",
+                        "result": "1",
+                        "age": "Amateur",
+                        "compid": "25894",
+                        "url": "Boston_University_Ballroom_Competition_268675",
+                        "name": "Boston University Ballroom Competition 2015",
+                        "rating": "10"
+                    },
+                    {
+                        "date": "5 Mar 2015",
+                        "style": "Ballroom",
+                        "change": "+5",
+                        "score": "1357",
+                        "result": "3",
+                        "age": "Amateur",
+                        "compid": "17937",
+                        "url": "15th_Annual_Berkeley_Classic_Ballroom_Competition_2015_268675",
+                        "name": "15th Annual Berkeley Classic Ballroom Competition 2015",
+                        "rating": "88"
+                    },
+                    {
+                        "date": "10 Apr 2015",
+                        "style": "Ballroom",
+                        "change": "+1",
+                        "score": "1358",
+                        "result": "3",
+                        "age": "Amateur",
+                        "compid": "27394",
+                        "url": "25th_Annual_Harvard_Invitational_2015_268675",
+                        "name": "25th Annual Harvard Invitational 2015",
+                        "rating": "10"
+                    }
+                ]    
+            },
+            {
+                "coupleid": "119900",
+                "couple": "John Smith & Jane Doe",
+                "country": "USA",
+                "competitions": [
+                    {
+                        "date": "13 Feb 2015",
+                        "style": "Ballroom",
+                        "change": "=",
+                        "score": "1292",
+                        "result": "1",
+                        "age": "Amateur",
+                        "compid": "25894",
+                        "url": "Boston_University_Ballroom_Competition_119900",
+                        "name": "Boston University Ballroom Competition 2015",
+                        "rating": "102"
+                    },
+                    {
+                        "date": "5 Mar 2015",
+                        "style": "Ballroom",
+                        "change": "+10",
+                        "score": "1302",
+                        "result": "3",
+                        "age": "Amateur",
+                        "compid": "17937",
+                        "url": "15th_Annual_Berkeley_Classic_Ballroom_Competition_2015_119900",
+                        "name": "15th Annual Berkeley Classic Ballroom Competition 2015",
+                        "rating": "88"
+                    },
+                    {
+                        "date": "10 Apr 2015",
+                        "style": "Ballroom",
+                        "change": "-1",
+                        "score": "1301",
+                        "result": "3",
+                        "age": "Amateur",
+                        "compid": "27394",
+                        "url": "25th_Annual_Harvard_Invitational_2015_119900",
+                        "name": "25th Annual Harvard Invitational 2015",
+                        "rating": "10"
+                    }
+                ]
+            }
+        ]
+    }

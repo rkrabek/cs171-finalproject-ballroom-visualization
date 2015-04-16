@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Project Test</title>
+
+    <!-- ADD Libraries-->
+    <script src="2015-cs171-homework/hw3/libs/d3/d3.min.js" charset="utf-8"></script>
+    <script src="2015-cs171-homework/hw3/libs/jquery/jquery-2.1.1.min.js" charset="utf-8"></script>
+    <script src="2015-cs171-homework/hw3/libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+	<!-- Load c3.js -->
+	<script src="c3-0.4.10/c3.min.js"></script>
+
+    <!--Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="2015-cs171-homework/hw3/libs/bootstrap/css/bootstrap.min.css">	
+	<!-- Load c3.css -->
+	<link href="c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
+   
+    <!-- Get some nice font-->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- add own vis classes-->
+    <!--<script src = "js/priovis.js"></script>-->
+    <!--<script src = "js/agevis.js"></script>-->
+    <!--<script src = "js/countvis.js"></script>-->
+
+    <!-- add own stylesheet-->
+    <!--<link rel="stylesheet" type="text/css" href="css/myStyle.css">-->
+
+</head>
+<body>
+    <div class="container">
+        <h1>Project Test</h1>
+    </div>   
+    <div> 
+    	<button class="small" onclick="hide();">Hide</button>
+    	<button class="small" onclick="show();">Show</button>
+    </div>
+	<div id="chart"></div>
+</body>	
+	<script>
+	    var allData = 
+        {
+        "events": [
+            {
+                "date": "07 Mar 2015",
+                "style": "Ballroom",
+                "url": "Novice_Intl._Tango_(T)_382785",
+                "name": "Novice Intl. Tango (T)",
+                "results": [
+                    {
+                        "coupleid": "215874",
+                        "couple": "Aziz Mussilimov & Tiffany Shen",
+                        "country": "USA",
+                        "change": "+4",
+                        "score": "1306",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "219494",
+                        "couple": "John Punin & Fernanda Huerta",
+                        "country": "USA",
+                        "change": "-1",
+                        "score": "1274",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "272380",
+                        "couple": "Octavian-Daniel Dumitran & Alice Liang",
+                        "country": "USA",
+                        "change": "+2",
+                        "score": "1234",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "252506",
+                        "couple": "Ryan Mcdaniel & Marissa Guillen",
+                        "country": "USA",
+                        "change": "-5",
+                        "score": "1204",
+                        "result": "4"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Ballroom",
+                "url": "Novice_Intl._V._Waltz_(V)_382786",
+                "name": "Novice Intl. V. Waltz (V)",
+                "results": [
+                    {
+                        "coupleid": "219494",
+                        "couple": "John Punin & Fernanda Huerta",
+                        "country": "USA",
+                        "change": "+3",
+                        "score": "1277",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "252506",
+                        "couple": "Ryan Mcdaniel & Marissa Guillen",
+                        "country": "USA",
+                        "change": "+14",
+                        "score": "1218",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "272380",
+                        "couple": "Octavian-Daniel Dumitran & Alice Liang",
+                        "country": "USA",
+                        "change": "-17",
+                        "score": "1217",
+                        "result": "3"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Ballroom",
+                "url": "Novice_Standard_(WFQ)_382788",
+                "name": "Novice Standard (WFQ)",
+                "results": [
+                    {
+                        "coupleid": "219494",
+                        "couple": "John Punin & Fernanda Huerta",
+                        "country": "USA",
+                        "change": "+11",
+                        "score": "1288",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "215874",
+                        "couple": "Aziz Mussilimov & Tiffany Shen",
+                        "country": "USA",
+                        "change": "-9",
+                        "score": "1297",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "276588",
+                        "couple": "Chris Henzie & Rebecca Fernandez",
+                        "country": "USA",
+                        "change": "+38",
+                        "score": "1094",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "263291",
+                        "couple": "Alvin Kerber & Brittany Whitehill",
+                        "country": "USA",
+                        "change": "+15",
+                        "score": "1114",
+                        "result": "4"
+                    },
+                    {
+                        "coupleid": "272380",
+                        "couple": "Octavian-Daniel Dumitran & Alice Liang",
+                        "country": "USA",
+                        "change": "-19",
+                        "score": "1198",
+                        "result": "5"
+                    },
+                    {
+                        "coupleid": "252506",
+                        "couple": "Ryan Mcdaniel & Marissa Guillen",
+                        "country": "USA",
+                        "change": "-30",
+                        "score": "1188",
+                        "result": "6"
+                    },
+                    {
+                        "coupleid": "276587",
+                        "couple": "Alex Vasilyev & Solene Sinclair",
+                        "country": "USA",
+                        "change": "-6",
+                        "score": "1044",
+                        "result": "7"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Ballroom",
+                "url": "Open_Standard_(WTVFQ)_382790",
+                "name": "Open Standard (WTVFQ)",
+                "results": [
+                    {
+                        "coupleid": "121538",
+                        "couple": "Christian Solares & Whitney Myers",
+                        "country": "USA",
+                        "change": "+2",
+                        "score": "1446",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "197800",
+                        "couple": "Gene Tseng & Vivian Hui Zhang",
+                        "country": "USA",
+                        "change": "+8",
+                        "score": "1400",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "267499",
+                        "couple": "Ken Leung & Jessica Lee",
+                        "country": "USA",
+                        "change": "+1",
+                        "score": "1377",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "234830",
+                        "couple": "Jihai Chen & Jennifer Chang",
+                        "country": "USA",
+                        "change": "-11",
+                        "score": "1362",
+                        "result": "4"
+                    },
+                    {
+                        "coupleid": "176352",
+                        "couple": "John Huang & Angela He",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1068",
+                        "result": "5"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Ballroom",
+                "url": "Pre-Champ_Standard_(WTFQ)_382792",
+                "name": "Pre-Champ Standard (WTFQ)",
+                "results": [
+                    {
+                        "coupleid": "267499",
+                        "couple": "Ken Leung & Jessica Lee",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1377",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "219494",
+                        "couple": "John Punin & Fernanda Huerta",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1288",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "272380",
+                        "couple": "Octavian-Daniel Dumitran & Alice Liang",
+                        "country": "USA",
+                        "change": "+5",
+                        "score": "1203",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "252506",
+                        "couple": "Ryan Mcdaniel & Marissa Guillen",
+                        "country": "USA",
+                        "change": "-6",
+                        "score": "1182",
+                        "result": "4"
+                    },
+                    {
+                        "coupleid": "176352",
+                        "couple": "John Huang & Angela He",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1068",
+                        "result": "5"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Latin",
+                "url": "Novice_Intl._Jive_(J)_382783",
+                "name": "Novice Intl. Jive (J)",
+                "results": [
+                    {
+                        "coupleid": "262148",
+                        "couple": "Devin Davis & Risha Rose",
+                        "country": "USA",
+                        "change": "+10",
+                        "score": "1085",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "267498",
+                        "couple": "Felix Amirfathi & Amanda Kim",
+                        "country": "USA",
+                        "change": "+19",
+                        "score": "1061",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "263291",
+                        "couple": "Alvin Kerber & Brittany Whitehill",
+                        "country": "USA",
+                        "change": "+14",
+                        "score": "1044",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "276584",
+                        "couple": "Anthony Sosso & Tegan Brennan",
+                        "country": "USA",
+                        "change": "-11",
+                        "score": "1036",
+                        "result": "4"
+                    },
+                    {
+                        "coupleid": "276585",
+                        "couple": "Samuel Anspach & Jodie Tarpo",
+                        "country": "USA",
+                        "change": "-26",
+                        "score": "1024",
+                        "result": "5"
+                    },
+                    {
+                        "coupleid": "263285",
+                        "couple": "Justin Fisher & Jaime Berkland",
+                        "country": "USA",
+                        "change": "-7",
+                        "score": "991",
+                        "result": "6"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Latin",
+                "url": "Novice_Intl._Paso_Doble_(P)_382784",
+                "name": "Novice Intl. Paso Doble (P)",
+                "results": [
+                    {
+                        "coupleid": "238259",
+                        "couple": "Paul Daniels & Amy Leung",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1335",
+                        "result": "1"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Latin",
+                "url": "Novice_Latin_(SCR)_382787",
+                "name": "Novice Latin (SCR)",
+                "results": [
+                    {
+                        "coupleid": "267498",
+                        "couple": "Felix Amirfathi & Amanda Kim",
+                        "country": "USA",
+                        "change": "+26",
+                        "score": "1087",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "263291",
+                        "couple": "Alvin Kerber & Brittany Whitehill",
+                        "country": "USA",
+                        "change": "+28",
+                        "score": "1072",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "262148",
+                        "couple": "Devin Davis & Risha Rose",
+                        "country": "USA",
+                        "change": "-12",
+                        "score": "1073",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "276584",
+                        "couple": "Anthony Sosso & Tegan Brennan",
+                        "country": "USA",
+                        "change": "+12",
+                        "score": "1048",
+                        "result": "4"
+                    },
+                    {
+                        "coupleid": "263285",
+                        "couple": "Justin Fisher & Jaime Berkland",
+                        "country": "USA",
+                        "change": "+27",
+                        "score": "1018",
+                        "result": "5"
+                    },
+                    {
+                        "coupleid": "276585",
+                        "couple": "Samuel Anspach & Jodie Tarpo",
+                        "country": "USA",
+                        "change": "-1",
+                        "score": "1023",
+                        "result": "6"
+                    },
+                    {
+                        "coupleid": "276586",
+                        "couple": "Phillip Skahan & Danae Cardenas",
+                        "country": "USA",
+                        "change": "-35",
+                        "score": "1020",
+                        "result": "7"
+                    },
+                    {
+                        "coupleid": "276587",
+                        "couple": "Alex Vasilyev & Solene Sinclair",
+                        "country": "USA",
+                        "change": "-42",
+                        "score": "1008",
+                        "result": "8"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Latin",
+                "url": "Open_Latin_(SCRPJ)_382789",
+                "name": "Open Latin (SCRPJ)",
+                "results": [
+                    {
+                        "coupleid": "121538",
+                        "couple": "Christian Solares & Whitney Myers",
+                        "country": "USA",
+                        "change": "+2",
+                        "score": "1390",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "238259",
+                        "couple": "Paul Daniels & Amy Leung",
+                        "country": "USA",
+                        "change": "-2",
+                        "score": "1333",
+                        "result": "2"
+                    }
+                ],
+                "age": "Amateur"
+            },
+            {
+                "date": "07 Mar 2015",
+                "style": "Latin",
+                "url": "Pre-Champ_Latin_(SCRJ)_382791",
+                "name": "Pre-Champ Latin (SCRJ)",
+                "results": [
+                    {
+                        "coupleid": "238259",
+                        "couple": "Paul Daniels & Amy Leung",
+                        "country": "USA",
+                        "change": "=",
+                        "score": "1333",
+                        "result": "1"
+                    },
+                    {
+                        "coupleid": "267498",
+                        "couple": "Felix Amirfathi & Amanda Kim",
+                        "country": "USA",
+                        "change": "+6",
+                        "score": "1093",
+                        "result": "2"
+                    },
+                    {
+                        "coupleid": "263291",
+                        "couple": "Alvin Kerber & Brittany Whitehill",
+                        "country": "USA",
+                        "change": "-4",
+                        "score": "1068",
+                        "result": "3"
+                    },
+                    {
+                        "coupleid": "276585",
+                        "couple": "Samuel Anspach & Jodie Tarpo",
+                        "country": "USA",
+                        "change": "-2",
+                        "score": "1021",
+                        "result": "4"
+                    }
+                ],
+                "age": "Amateur"
+            }
+        ],
+        "compid": "27394",
+        "url": "15th_Annual_Berkeley_Classic_Ballroom_Competition_2015_27394",
+        "name": "15th Annual Berkeley Classic Ballroom Competition 2015",
+        "rating": "88"
+    }
+    
+    reshape()
+ 
+ //console.log(allData)
+ function reshape() {  
+    //console.log(allData) 
+    var nested_rows = d3.nest()
+        .key(function(d) {
+            console.log(d)
+            d.events(function(e) {
+                e.results(function(k) {
+                    return r.coupleid; 
+                })
+            })
+        })
+        /*.rollup(function(d, i) { 
+            d.events(function(e, j) {
+                e.results(function(r, k) {
+            return {
+                "name": d[0].continent,
+                "continent": d[0].continent,
+                "gdp":d3.mean(d,function(g) { return +g.gdp;}),
+                "life_expectancy":d3.mean(d,function(g) { return +g.life_expectancy}),
+                "population":d3.mean(d,function(g) { return +g.population}),
+                "year": d3.median(d, function(g){return g.year})
+            };
+        })*/
+        .entries(allData); 
+    console.log(nested_rows)
+    }
+      function update_aggregate() {
+        d3.selectAll(".filter_radio").each(function(d) {   
+          // if continent is checkedd, return aggregated data
+          console.log(d)
+          if (d3.select(this).attr("id") == "continent" && d3.select(this).node().checked) {
+            var nested_rows = d3.nest()
+              .key(function(d) { 
+                console.o
+                return d.continent; })
+              .rollup(function(d) { 
+                return {
+                  "name": d[0].continent,
+                  "continent": d[0].continent,
+                  "gdp":d3.mean(d,function(g) { return +g.gdp;}),
+                  "life_expectancy":d3.mean(d,function(g) { return +g.life_expectancy}),
+                  "population":d3.mean(d,function(g) { return +g.population}),
+                  "year": d3.median(d, function(g){return g.year})
+                };
+              })
+              .entries(filtered_data); 
+            // format data as array
+            aggregate_data = nested_rows.map(function(d) {
+              return { 
+                name: d.values["name"],
+                continent: d.values["continent"],
+                gdp: d.values["gdp"],
+                life_expectancy: d.values["life_expectancy"],
+                population: d.values["population"],
+                year: d.values["year"]
+              }; 
+            });
+          d3.select("table").remove();
+          update_table(aggregate_data);
+          };
+        });
+      }
+
+
+	</script>
+
+
+
+
+
+
