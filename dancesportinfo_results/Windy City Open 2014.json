@@ -1,0 +1,646 @@
+{
+    "name": "Windy City Open 2014",
+    "url": "Windy_City_Open_2014_24917",
+    "events": [
+        {
+            "url": "Professional_Championship_Ballroom_(WTVFQ)_343014",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+27",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1646"
+                },
+                {
+                    "change": "+23",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "coupleid": "252489",
+                    "score": "1625"
+                },
+                {
+                    "change": "-11",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Yuriy Shelkovyy & Oksana Ivanova-Shelkovyy",
+                    "coupleid": "91601",
+                    "score": "1633"
+                },
+                {
+                    "change": "-33",
+                    "result": "4",
+                    "country": "Japan",
+                    "couple": "Yosuke Mato & Aya Nakamura",
+                    "coupleid": "187495",
+                    "score": "1637"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vance Mabry & Samantha Simmons",
+                    "coupleid": "233316",
+                    "score": "1571"
+                },
+                {
+                    "change": "-4",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Gillitzer & Deborah Gillitzer",
+                    "coupleid": "252490",
+                    "score": "1542"
+                }
+            ],
+            "name": "Professional Championship Ballroom (WTVFQ)",
+            "age": "Professional",
+            "date": "28 Aug 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Ballroom_(WTVFQ)_343017",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1660"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "coupleid": "252489",
+                    "score": "1639"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Yuriy Shelkovyy & Oksana Ivanova-Shelkovyy",
+                    "coupleid": "91601",
+                    "score": "1629"
+                },
+                {
+                    "change": "-20",
+                    "result": "4",
+                    "country": "Japan",
+                    "couple": "Yosuke Mato & Aya Nakamura",
+                    "coupleid": "187495",
+                    "score": "1617"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vance Mabry & Samantha Simmons",
+                    "coupleid": "233316",
+                    "score": "1571"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Gillitzer & Deborah Gillitzer",
+                    "coupleid": "252490",
+                    "score": "1539"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (WTVFQ)",
+            "age": "Professional",
+            "date": "28 Aug 2014"
+        },
+        {
+            "url": "Adult_Novice_Ballroom_(WTQ)_342993",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Straley & Katherine Ardeleanu",
+                    "coupleid": "214047",
+                    "score": "1030"
+                }
+            ],
+            "name": "Adult Novice Ballroom (WTQ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Star_2_Open_WCO_Scholarship_Ballroom_(WTVFQ)_343010",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+35",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tomas Baliutavicius & Gabrielle Bartkeviciute",
+                    "coupleid": "204588",
+                    "score": "1024"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1324"
+                },
+                {
+                    "change": "-26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Krzysztof Piekosz & Julia Jasinska",
+                    "coupleid": "252469",
+                    "score": "1303"
+                }
+            ],
+            "name": "Star 2 Open WCO Scholarship Ballroom (WTVFQ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Star_3_Open_WCO_Scholarship_Ballroom_(WTVFQ)_343012",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Artiom Veller & Anna Kalinowski",
+                    "coupleid": "260809",
+                    "score": "1222"
+                }
+            ],
+            "name": "Star 3 Open WCO Scholarship Ballroom (WTVFQ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Ballroom_(WTQ)_343004",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Schwartz & Beth Anne Yeager",
+                    "coupleid": "257682",
+                    "score": "1059"
+                }
+            ],
+            "name": "Senior III Novice Ballroom (WTQ)",
+            "age": "Over50",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Ballroom_(WTFQ)_343005",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Schwartz & Beth Anne Yeager",
+                    "coupleid": "257682",
+                    "score": "1059"
+                }
+            ],
+            "name": "Senior III Pre-Champ Ballroom (WTFQ)",
+            "age": "Over50",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Ballroom_(WTFQ)_342999",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1450"
+                }
+            ],
+            "name": "Senior I Pre-Champ Ballroom (WTFQ)",
+            "age": "Senior",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Ballroom_(WTQ)_343001",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Schwartz & Beth Anne Yeager",
+                    "coupleid": "257682",
+                    "score": "1059"
+                }
+            ],
+            "name": "Senior II Novice Ballroom (WTQ)",
+            "age": "Senior",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Ballroom_(WTFQ)_343002",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1450"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Bill Betz & Patricia Pappas",
+                    "coupleid": "203497",
+                    "score": "1322"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "David Schwartz & Beth Anne Yeager",
+                    "coupleid": "257682",
+                    "score": "1059"
+                }
+            ],
+            "name": "Senior II Pre-Champ Ballroom (WTFQ)",
+            "age": "Senior",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Adult_Championship_Latin_(CSRPJ)_342990",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Brandon Segovia & Serena Pav",
+                    "coupleid": "38849",
+                    "score": "1494"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tzeching Lin & Esther Foo",
+                    "coupleid": "176984",
+                    "score": "1408"
+                }
+            ],
+            "name": "Adult Championship Latin (CSRPJ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Adult_Novice_Latin_(CRJ)_342994",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Straley & Katherine Ardeleanu",
+                    "coupleid": "214047",
+                    "score": "951"
+                }
+            ],
+            "name": "Adult Novice Latin (CRJ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Star_2_Open_WCO_Scholarship_Latin_(CSRPJ)_343011",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1350"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Krzysztof Piekosz & Julia Jasinska",
+                    "coupleid": "252469",
+                    "score": "1329"
+                }
+            ],
+            "name": "Star 2 Open WCO Scholarship Latin (CSRPJ)",
+            "age": "Amateur",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(CSRPJ)_343019",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1559"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1521"
+                },
+                {
+                    "change": "+27",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Malyeyev & Stephanie Smolen",
+                    "coupleid": "253306",
+                    "score": "1393"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1478"
+                },
+                {
+                    "change": "-26",
+                    "result": "5",
+                    "country": "Japan",
+                    "couple": "Yosuke Mato & Aya Nakamura",
+                    "coupleid": "187495",
+                    "score": "1473"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Yuriy Shelkovyy & Oksana Ivanova-Shelkovyy",
+                    "coupleid": "91601",
+                    "score": "1318"
+                }
+            ],
+            "name": "Professional Rising Star Latin (CSRPJ)",
+            "age": "Professional",
+            "date": "29 Aug 2014"
+        },
+        {
+            "url": "Adult_Championship_Ballroom_(WTVFQ)_342988",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jonathan Bailey & Hannah Augustine",
+                    "coupleid": "142567",
+                    "score": "1470"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alan Burns & Kelly Batchelor",
+                    "coupleid": "38825",
+                    "score": "1297"
+                }
+            ],
+            "name": "Adult Championship Ballroom (WTVFQ)",
+            "age": "Amateur",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Senior_III_Championship_Ballroom_(WTVFQ)_343003",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Gene Hwang & Chong Lee",
+                    "coupleid": "175010",
+                    "score": "1322"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodia Lakhovsky & Sonia Lakhovsky",
+                    "coupleid": "157138",
+                    "score": "1175"
+                }
+            ],
+            "name": "Senior III Championship Ballroom (WTVFQ)",
+            "age": "Over50",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Ballroom_(WTVFQ)_342998",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alan Burns & Kelly Batchelor",
+                    "coupleid": "38825",
+                    "score": "1319"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1428"
+                }
+            ],
+            "name": "Senior I Championship Ballroom (WTVFQ)",
+            "age": "Senior",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Senior_II_Championship_Ballroom_(WTVFQ)_343000",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1428"
+                },
+                {
+                    "change": "+23",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Gene Hwang & Chong Lee",
+                    "coupleid": "175010",
+                    "score": "1322"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jim Ning & Jenny Wang",
+                    "coupleid": "123071",
+                    "score": "1317"
+                },
+                {
+                    "change": "-20",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Bill Betz & Patricia Pappas",
+                    "coupleid": "203497",
+                    "score": "1302"
+                }
+            ],
+            "name": "Senior II Championship Ballroom (WTVFQ)",
+            "age": "Senior",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Youth_Open_Ballroom_(WTVFQ)_343013",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Artiom Veller & Anna Kalinowski",
+                    "coupleid": "260809",
+                    "score": "1222"
+                }
+            ],
+            "name": "Youth Open Ballroom (WTVFQ)",
+            "age": "Youth",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Professional_Championship_Latin_(CSRPJ)_343016",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Hayk Balasanyan & Emilia Pogosyan",
+                    "coupleid": "141088",
+                    "score": "1715"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1563"
+                },
+                {
+                    "change": "+7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1528"
+                },
+                {
+                    "change": "+16",
+                    "result": "4",
+                    "country": "Japan",
+                    "couple": "Yosuke Mato & Aya Nakamura",
+                    "coupleid": "187495",
+                    "score": "1489"
+                },
+                {
+                    "change": "+2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1480"
+                },
+                {
+                    "change": "+12",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Yuriy Shelkovyy & Oksana Ivanova-Shelkovyy",
+                    "coupleid": "91601",
+                    "score": "1330"
+                },
+                {
+                    "change": "-40",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Domas Vaitkus & Brittni Thorne",
+                    "coupleid": "252491",
+                    "score": "1484"
+                }
+            ],
+            "name": "Professional Championship Latin (CSRPJ)",
+            "age": "Professional",
+            "date": "30 Aug 2014"
+        },
+        {
+            "url": "Junior_I_Open_Ballroom_(WTVFQ)_342996",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1324"
+                }
+            ],
+            "name": "Junior I Open Ballroom (WTVFQ)",
+            "age": "Junior",
+            "date": "31 Aug 2014"
+        },
+        {
+            "url": "Junior_I_Open_Latin_(CSRPJ)_342997",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1350"
+                }
+            ],
+            "name": "Junior I Open Latin (CSRPJ)",
+            "age": "Junior",
+            "date": "31 Aug 2014"
+        }
+    ],
+    "compid": "24917",
+    "rating": "176"
+}

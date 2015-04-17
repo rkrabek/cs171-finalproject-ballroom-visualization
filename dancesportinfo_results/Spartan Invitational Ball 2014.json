@@ -1,0 +1,134 @@
+{
+    "events": [
+        {
+            "date": "20 Sep 2014",
+            "style": "Ballroom",
+            "url": "Novice_Standard_(WQF)_346358",
+            "name": "Novice Standard (WQF)",
+            "results": [
+                {
+                    "coupleid": "262149",
+                    "couple": "Kevin Kerber & Brittany Whitehill",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "20 Sep 2014",
+            "style": "Ballroom",
+            "url": "Pre-Champ_Intl._Tango_(T)_346361",
+            "name": "Pre-Champ Intl. Tango (T)",
+            "results": [
+                {
+                    "coupleid": "144100",
+                    "couple": "Christopher Li & Lillian Luu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1244",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "20 Sep 2014",
+            "style": "Ballroom",
+            "url": "Pre-Champ_Standard_(WQF)_346364",
+            "name": "Pre-Champ Standard (WQF)",
+            "results": [
+                {
+                    "coupleid": "144100",
+                    "couple": "Christopher Li & Lillian Luu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1244",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "20 Sep 2014",
+            "style": "Latin",
+            "url": "Novice_Latin_(CRS)_346355",
+            "name": "Novice Latin (CRS)",
+            "results": [
+                {
+                    "coupleid": "262147",
+                    "couple": "Andrew Notohamiprodjo & Kimberly Lester",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1253",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "262148",
+                    "couple": "Devin Davis & Risha Rose",
+                    "country": "USA",
+                    "change": "+16",
+                    "score": "1066",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "144100",
+                    "couple": "Christopher Li & Lillian Luu",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1156",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "262149",
+                    "couple": "Kevin Kerber & Brittany Whitehill",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "896",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "20 Sep 2014",
+            "style": "Latin",
+            "url": "Pre-Champ_Intl._Jive_(J)_346360",
+            "name": "Pre-Champ Intl. Jive (J)",
+            "results": [
+                {
+                    "coupleid": "246089",
+                    "couple": "Khoa Nguyen & Lisa Chi",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1368",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "20 Sep 2014",
+            "style": "Latin",
+            "url": "Pre-Champ_Latin_(CRS)_346362",
+            "name": "Pre-Champ Latin (CRS)",
+            "results": [
+                {
+                    "coupleid": "246089",
+                    "couple": "Khoa Nguyen & Lisa Chi",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1368",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25122",
+    "url": "Spartan_Invitational_Ball_2014_25122",
+    "name": "Spartan Invitational Ball 2014",
+    "rating": "59"
+}

@@ -1,0 +1,1076 @@
+{
+    "name": "PDX Ballroom Classic 2015",
+    "url": "PDX_Ballroom_Classic_2015_26867",
+    "events": [
+        {
+            "url": "Adult_Championship_Standard_(WTVFQ)_373881",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1483"
+                },
+                {
+                    "change": "+22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dmitriy Vorobiev & Sofie Elliott",
+                    "coupleid": "272804",
+                    "score": "1430"
+                },
+                {
+                    "change": "-21",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tyler Wilson & Annie Seeley",
+                    "coupleid": "204683",
+                    "score": "1470"
+                },
+                {
+                    "change": "-10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dmitry Ischenko & Sasha Grocott",
+                    "coupleid": "170614",
+                    "score": "1416"
+                },
+                {
+                    "change": "+12",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1319"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "coupleid": "204230",
+                    "score": "1346"
+                }
+            ],
+            "name": "Adult Championship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Adult_Novice_Standard_(WFQ)_373944",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1365"
+                },
+                {
+                    "change": "+3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tomas Filler & Radka Pokorna",
+                    "coupleid": "85077",
+                    "score": "1119"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "David Crawford & Natasha Wollkind",
+                    "coupleid": "262289",
+                    "score": "1084"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Anton Tseytlin & Jessica Petrochuk",
+                    "coupleid": "234699",
+                    "score": "1022"
+                }
+            ],
+            "name": "Adult Novice Standard (WFQ)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_373892",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1365"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "coupleid": "204230",
+                    "score": "1338"
+                }
+            ],
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Standard_(WFQ)_373940",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Lazar Isakharov & Alena Budko",
+                    "coupleid": "231229",
+                    "score": "1200"
+                }
+            ],
+            "name": "Junior I Novice Standard (WFQ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Championship_Standard_(WTVFQ)_373883",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1443"
+                }
+            ],
+            "name": "Junior II Championship Standard (WTVFQ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Standard_(WFQ)_373951",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "1020"
+                },
+                {
+                    "change": "-19",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1022"
+                }
+            ],
+            "name": "Junior II Novice Standard (WFQ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Standard_(WTFQ)_373895",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "966"
+                }
+            ],
+            "name": "Junior II Pre-Champ Standard (WTFQ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_373882",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Winston Chow & Lilly Chow",
+                    "coupleid": "12326",
+                    "score": "1398"
+                },
+                {
+                    "change": "+13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1272"
+                },
+                {
+                    "change": "+16",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Bill Hingley & Glenda Hingley",
+                    "coupleid": "131855",
+                    "score": "1153"
+                },
+                {
+                    "change": "-28",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Robert Tempas & Laurel Tempas",
+                    "coupleid": "166315",
+                    "score": "1264"
+                }
+            ],
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "age": "Over50",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Novice_Standard_(WFQ)_373953",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1212"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Randy Norman & Paulette Norman",
+                    "coupleid": "131844",
+                    "score": "1191"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1161"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Bill Manning & Frances Manning",
+                    "coupleid": "272812",
+                    "score": "1023"
+                },
+                {
+                    "change": "-12",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Edward Brennan & Cecilia Wong",
+                    "coupleid": "249195",
+                    "score": "1032"
+                }
+            ],
+            "name": "Senior III Novice Standard (WFQ)",
+            "age": "Over50",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Standard_(WTFQ)_373894",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+34",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1226"
+                },
+                {
+                    "change": "+36",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Bill Hingley & Glenda Hingley",
+                    "coupleid": "131855",
+                    "score": "1189"
+                },
+                {
+                    "change": "+36",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1142"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Randy Norman & Paulette Norman",
+                    "coupleid": "131844",
+                    "score": "1196"
+                },
+                {
+                    "change": "-41",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Robert Tempas & Laurel Tempas",
+                    "coupleid": "166315",
+                    "score": "1223"
+                },
+                {
+                    "change": "-53",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1219"
+                }
+            ],
+            "name": "Senior III Pre-Champ Standard (WTFQ)",
+            "age": "Over50",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_373884",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitry Ischenko & Sasha Grocott",
+                    "coupleid": "170614",
+                    "score": "1418"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1365"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1324"
+                }
+            ],
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_373893",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1365"
+                }
+            ],
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_373880",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1364"
+                },
+                {
+                    "change": "-18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Winston Chow & Lilly Chow",
+                    "coupleid": "12326",
+                    "score": "1398"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1259"
+                }
+            ],
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Novice_Standard_(WFQ)_373943",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+27",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1167"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Randy Norman & Paulette Norman",
+                    "coupleid": "131844",
+                    "score": "1193"
+                },
+                {
+                    "change": "-26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1204"
+                },
+                {
+                    "change": "+3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Edward Brennan & Cecilia Wong",
+                    "coupleid": "249195",
+                    "score": "1044"
+                },
+                {
+                    "change": "-3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Bill Manning & Frances Manning",
+                    "coupleid": "272812",
+                    "score": "1011"
+                }
+            ],
+            "name": "Senior II Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_373896",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1365"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1230"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Randy Norman & Paulette Norman",
+                    "coupleid": "131844",
+                    "score": "1194"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1140"
+                }
+            ],
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Championship_Standard_(WTVFQ)_373879",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mike Monokandilos & Sophia Brodsky",
+                    "coupleid": "272803",
+                    "score": "1394"
+                },
+                {
+                    "change": "-18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1443"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1307"
+                }
+            ],
+            "name": "Youth Championship Standard (WTVFQ)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Standard_(WFQ)_373941",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+35",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "1001"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1041"
+                },
+                {
+                    "change": "-27",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Anton Tseytlin & Jessica Petrochuk",
+                    "coupleid": "234699",
+                    "score": "1023"
+                }
+            ],
+            "name": "Youth Novice Standard (WFQ)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Standard_(WTFQ)_373891",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "966"
+                }
+            ],
+            "name": "Youth Pre-Champ Standard (WTFQ)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Adult_Championship_Latin_(SCRPJ)_373886",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+41",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1420"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Umar Dyallo & Natasha Zrazhevskaya",
+                    "coupleid": "212202",
+                    "score": "1473"
+                },
+                {
+                    "change": "-16",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Rhett Grant & Yelena Vayn",
+                    "coupleid": "270582",
+                    "score": "1450"
+                },
+                {
+                    "change": "+4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1384"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Peter Krastev & Janine Roffle",
+                    "coupleid": "204229",
+                    "score": "1360"
+                },
+                {
+                    "change": "-24",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Tyler Wilson & Annie Seeley",
+                    "coupleid": "204683",
+                    "score": "1360"
+                }
+            ],
+            "name": "Adult Championship Latin (SCRPJ)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Adult_Novice_Latin_(SCR)_373957",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Norbert Teston & Marina Khalina",
+                    "coupleid": "259473",
+                    "score": "1196"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Anton Tseytlin & Jessica Petrochuk",
+                    "coupleid": "234699",
+                    "score": "1032"
+                }
+            ],
+            "name": "Adult Novice Latin (SCR)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_373897",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Peter Krastev & Janine Roffle",
+                    "coupleid": "204229",
+                    "score": "1360"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Norbert Teston & Marina Khalina",
+                    "coupleid": "259473",
+                    "score": "1201"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Latin_(SCR)_373967",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Lazar Isakharov & Alena Budko",
+                    "coupleid": "231229",
+                    "score": "1199"
+                }
+            ],
+            "name": "Junior I Novice Latin (SCR)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Championship_Latin_(SCRPJ)_373888",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1426"
+                }
+            ],
+            "name": "Junior II Championship Latin (SCRPJ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Latin_(SCR)_373955",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1319"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "937"
+                }
+            ],
+            "name": "Junior II Novice Latin (SCR)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Latin_(SCRJ)_373899",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1319"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "937"
+                }
+            ],
+            "name": "Junior II Pre-Champ Latin (SCRJ)",
+            "age": "Junior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Championship_Latin_(SCRPJ)_373889",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1229"
+                }
+            ],
+            "name": "Senior III Championship Latin (SCRPJ)",
+            "age": "Over50",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Latin_(SCRJ)_373908",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1203"
+                }
+            ],
+            "name": "Senior III Pre-Champ Latin (SCRJ)",
+            "age": "Over50",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Championship_Latin_(SCRPJ)_373890",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+20",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1207"
+                },
+                {
+                    "change": "-20",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1214"
+                }
+            ],
+            "name": "Senior I Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Novice_Latin_(SCR)_373966",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Norbert Teston & Marina Khalina",
+                    "coupleid": "259473",
+                    "score": "1196"
+                }
+            ],
+            "name": "Senior I Novice Latin (SCR)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Latin_(SCRJ)_373907",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1234"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Norbert Teston & Marina Khalina",
+                    "coupleid": "259473",
+                    "score": "1196"
+                }
+            ],
+            "name": "Senior I Pre-Champ Latin (SCRJ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Championship_Latin_(SCRPJ)_373885",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1187"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1229"
+                }
+            ],
+            "name": "Senior II Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Novice_Latin_(SCR)_373963",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Rene Nunez & Lori Hajari",
+                    "coupleid": "100653",
+                    "score": "1211"
+                }
+            ],
+            "name": "Senior II Novice Latin (SCR)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Latin_(SCRJ)_373898",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1229"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Rene Nunez & Lori Hajari",
+                    "coupleid": "100653",
+                    "score": "1211"
+                },
+                {
+                    "change": "-26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "coupleid": "84065",
+                    "score": "1203"
+                }
+            ],
+            "name": "Senior II Pre-Champ Latin (SCRJ)",
+            "age": "Senior",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Championship_Latin_(SCRPJ)_373887",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1426"
+                },
+                {
+                    "change": "+21",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mike Monokandilos & Sophia Brodsky",
+                    "coupleid": "272803",
+                    "score": "1397"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1384"
+                },
+                {
+                    "change": "-36",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kevin Sun & Julia Moseyko",
+                    "coupleid": "237561",
+                    "score": "1385"
+                }
+            ],
+            "name": "Youth Championship Latin (SCRPJ)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Latin_(SCR)_373960",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1319"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Anton Tseytlin & Jessica Petrochuk",
+                    "coupleid": "234699",
+                    "score": "1032"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "937"
+                }
+            ],
+            "name": "Youth Novice Latin (SCR)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Latin_(SCRJ)_373900",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jordan Naini & Christina Tatevosyan",
+                    "coupleid": "272391",
+                    "score": "1319"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Levenkov & Victoria Alkin",
+                    "coupleid": "234698",
+                    "score": "937"
+                }
+            ],
+            "name": "Youth Pre-Champ Latin (SCRJ)",
+            "age": "Youth",
+            "date": "24 Jan 2015"
+        }
+    ],
+    "compid": "26867",
+    "rating": "188"
+}

@@ -1,0 +1,449 @@
+{
+    "events": [
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Standard_ADC_Challenge_(W+T+V+F+Q)_329347",
+            "name": "Amateur Standard ADC Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1502",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "254453",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "country": "USA",
+                    "change": "+13",
+                    "score": "1401",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "38297",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "country": "USA",
+                    "change": "-13",
+                    "score": "1395",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Standard_Pre-Champ_(W+T+F+Q)_329351",
+            "name": "Amateur Standard Pre-Champ (W/T/F/Q)",
+            "results": [
+                {
+                    "coupleid": "138400",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1245",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Senior_III_Standard_Novice_(W+F+Q)_329359",
+            "name": "Senior III Standard Novice (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "257449",
+                    "couple": "Andrew Kirk & Stephanie Kirk",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1006",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Senior_I_Standard_ADC_Challenge_(W+T+V+F+Q)_329354",
+            "name": "Senior I Standard ADC Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "230152",
+                    "couple": "Yuko Naululani Yu & Thomas Yu",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1436",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "210958",
+                    "couple": "Gregory Rominger & Jennifer Albury",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1387",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Senior_I_Standard_Novice_(W+F+Q)_329356",
+            "name": "Senior I Standard Novice (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "243206",
+                    "couple": "John Conquest & Etsuko Kayama",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1026",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Standard_ADC_Challenge_(W+T+V+F+Q)_329357",
+            "name": "Senior II Standard ADC Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "210958",
+                    "couple": "Gregory Rominger & Jennifer Albury",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1388",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "78580",
+                    "couple": "Ted Damianos & Eunmee Damianos",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1326",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Standard_Novice_(W+F+Q)_329358",
+            "name": "Senior II Standard Novice (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "243206",
+                    "couple": "John Conquest & Etsuko Kayama",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1034",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "257449",
+                    "couple": "Andrew Kirk & Stephanie Kirk",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1006",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Ballroom",
+            "url": "Youth_Standard_ADC_Challenge_(W+T+V+F+Q)_329362",
+            "name": "Youth Standard ADC Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1502",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "254453",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1401",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Amateur_Latin_ADC_Challenge_(C+S+R+P+J)_329346",
+            "name": "Amateur Latin ADC Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "158624",
+                    "couple": "Nikita Malakhov & Nadezda Vlasova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1632",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "38297",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1472",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "243176",
+                    "couple": "Ben Lavon & Aliona Cheborak",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1448",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "207582",
+                    "couple": "Junis Alico & Denitsa Rakitska",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1403",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "190078",
+                    "couple": "Travis Hendershot & Kyrsten Hendershot",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1348",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Amateur_Latin_Novice_(C+S+R)_329348",
+            "name": "Amateur Latin Novice (C/S/R)",
+            "results": [
+                {
+                    "coupleid": "239557",
+                    "couple": "N Le & Suzanne Smith",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1157",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "233392",
+                    "couple": "Ralph Nerette & Natalye Mill",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1134",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Amateur_Latin_Pre-Champ_(C+S+R+J)_329350",
+            "name": "Amateur Latin Pre-Champ (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "207582",
+                    "couple": "Junis Alico & Denitsa Rakitska",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1404",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "190078",
+                    "couple": "Travis Hendershot & Kyrsten Hendershot",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1347",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "138400",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1248",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "233392",
+                    "couple": "Ralph Nerette & Natalye Mill",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1145",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "239557",
+                    "couple": "N Le & Suzanne Smith",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1146",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Junior_I_ADC_Challenge_(C+S+R+P+J)_329352",
+            "name": "Junior I ADC Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "242741",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1238",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Junior_II_Latin_ADC_Challenge_(C+S+R+P+J)_329353",
+            "name": "Junior II Latin ADC Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "242741",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1238",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "230156",
+                    "couple": "Nicholas Mill & Seda Babayan",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1110",
+                    "result": "2"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Youth_Latin_ADC_Challenge_(C+S+R+P+J)_329360",
+            "name": "Youth Latin ADC Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1457",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "254453",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1396",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Youth_Latin_Novice_(C+S+R)_329363",
+            "name": "Youth Latin Novice (C/S/R)",
+            "results": [
+                {
+                    "coupleid": "232376",
+                    "couple": "Codrin Parau & Sophia Jones",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1059",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "Latin",
+            "url": "Youth_Latin_Pre-Champ_(C+S+R+J)_329364",
+            "name": "Youth Latin Pre-Champ (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "232376",
+                    "couple": "Codrin Parau & Sophia Jones",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1059",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "14 Jun 2014",
+            "style": "10 Dance",
+            "url": "Amateur_10_Dance_329365",
+            "name": "Amateur 10 Dance",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "+13",
+                    "score": "1471",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "254453",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "country": "USA",
+                    "change": "+18",
+                    "score": "1373",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "38297",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "country": "USA",
+                    "change": "-30",
+                    "score": "1447",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "24300",
+    "url": "Atlantic_DanceSport_Challenge__24300",
+    "name": "Atlantic DanceSport Challenge",
+    "rating": "88"
+}

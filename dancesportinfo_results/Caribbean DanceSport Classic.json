@@ -1,0 +1,117 @@
+{
+    "events": [
+        {
+            "date": "06 Nov 2014",
+            "style": "Latin",
+            "url": "Rising_Star_Professional_Intl_Latin_(C+S+R+PD+J)_357322",
+            "name": "Rising Star Professional Int'l Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "242306",
+                    "couple": "Vlad Astafiev & Linda Gergye",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1540",
+                    "result": "1"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "06 Nov 2014",
+            "style": "Latin",
+            "url": "Senior_1_(35%2b)_Challenge_Intl_Latin_(C+S+R+PD+J)_357320",
+            "name": "Senior 1 (35+) Challenge Int'l Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "169541",
+                    "couple": "Ryan Jago & Michaela Puno",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1343",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "07 Nov 2014",
+            "style": "Latin",
+            "url": "Open_Professional_Intl_Latin_(C+S+R+PD+J)_357321",
+            "name": "Open Professional Int'l Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "101326",
+                    "couple": "Roman Kutskyy & Anna Kovalova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1877",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "250026",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1760",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "183019",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1698",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "242306",
+                    "couple": "Vlad Astafiev & Linda Gergye",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1540",
+                    "result": "4"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "08 Nov 2014",
+            "style": "Ballroom",
+            "url": "Over_50_PreChamp_Intl_Ballroom_(W+T+F+Q)_357319",
+            "name": "Over 50 PreChamp Int'l Ballroom (W/T/F/Q)",
+            "results": [
+                {
+                    "coupleid": "266757",
+                    "couple": "Tom Ritchey & Regina Tse",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1305",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "08 Nov 2014",
+            "style": "Ballroom",
+            "url": "Senior_PreChamp_Intl_Ballroom_(W+T+VW+F+Q)_357318",
+            "name": "Senior PreChamp Int'l Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "266757",
+                    "couple": "Tom Ritchey & Regina Tse",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1305",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        }
+    ],
+    "compid": "25866",
+    "url": "Caribbean_DanceSport_Classic_25866",
+    "name": "Caribbean DanceSport Classic",
+    "rating": "66"
+}

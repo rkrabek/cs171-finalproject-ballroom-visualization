@@ -1,0 +1,412 @@
+{
+    "name": "Cinderella Ball",
+    "url": "Cinderella_Ball_23575",
+    "events": [
+        {
+            "url": "Amateur_Open_Standard_316475",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Oskar Wojciechowski & Karolina Holody",
+                    "coupleid": "86114",
+                    "score": "1707"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "Italy",
+                    "couple": "Luca Balestra & Krizia Balestra",
+                    "coupleid": "13116",
+                    "score": "1566"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Marek Klepadlo & Liana Bakhtiarova",
+                    "coupleid": "252881",
+                    "score": "1445"
+                }
+            ],
+            "name": "Amateur Open Standard",
+            "age": "Amateur",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Junior_Open_Standard_316521",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1392"
+                }
+            ],
+            "name": "Junior Open Standard",
+            "age": "Junior",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Youth_Novice_Standard_316496",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1114"
+                }
+            ],
+            "name": "Youth Novice Standard",
+            "age": "Youth",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Youth_Open_Standard_316522",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1392"
+                }
+            ],
+            "name": "Youth Open Standard",
+            "age": "Youth",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Youth_Pre_Champ_Standard_316497",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1114"
+                }
+            ],
+            "name": "Youth Pre Champ Standard",
+            "age": "Youth",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Amateur_Open_Latin_316474",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+21",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Pavel Stepanchuk & Anastasiya Danilova",
+                    "coupleid": "171803",
+                    "score": "1667"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Artur Tarnavskiy & Gabriella Sabler",
+                    "coupleid": "233481",
+                    "score": "1698"
+                },
+                {
+                    "change": "-17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tal Livshitz & Ilana Keselman",
+                    "coupleid": "219303",
+                    "score": "1688"
+                },
+                {
+                    "change": "+7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Austin Joson & Alexandra Kondrashova",
+                    "coupleid": "252884",
+                    "score": "1568"
+                },
+                {
+                    "change": "-8",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Nikita Malakhov & Nadezda Vlasova",
+                    "coupleid": "158624",
+                    "score": "1566"
+                },
+                {
+                    "change": "+8",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Nazariy Blagyy & Nicole Agaronnik",
+                    "coupleid": "198833",
+                    "score": "1469"
+                },
+                {
+                    "change": "+5",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Gian Di Franco & Klaudia Petriti",
+                    "coupleid": "244990",
+                    "score": "1441"
+                },
+                {
+                    "change": "-13",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Roland Par\ufffd\ufffddi & Janet Cho",
+                    "coupleid": "254411",
+                    "score": "1442"
+                }
+            ],
+            "name": "Amateur Open Latin",
+            "age": "Amateur",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Junior_Novice_Latin_316484",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexander Popovics & Camila Schwartz",
+                    "coupleid": "220915",
+                    "score": "1193"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Giovannie Castellon & Carolina Carvajalino",
+                    "coupleid": "240057",
+                    "score": "1148"
+                }
+            ],
+            "name": "Junior Novice Latin",
+            "age": "Junior",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Junior_Pre_Champ_Latin_316486",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+34",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Giovannie Castellon & Carolina Carvajalino",
+                    "coupleid": "240057",
+                    "score": "1182"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alexander Popovics & Camila Schwartz",
+                    "coupleid": "220915",
+                    "score": "1195"
+                },
+                {
+                    "change": "-35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Rene Gonzales & Lizamanda Gonzales",
+                    "coupleid": "240059",
+                    "score": "1274"
+                }
+            ],
+            "name": "Junior Pre Champ Latin",
+            "age": "Junior",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Youth_Open_Latin_316473",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nazariy Blagyy & Nicole Agaronnik",
+                    "coupleid": "198833",
+                    "score": "1461"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1157"
+                }
+            ],
+            "name": "Youth Open Latin",
+            "age": "Youth",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Youth_Pre_Champ_Latin_316501",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Rene Gonzales & Lizamanda Gonzales",
+                    "coupleid": "240059",
+                    "score": "1274"
+                }
+            ],
+            "name": "Youth Pre Champ Latin",
+            "age": "Youth",
+            "date": "24 Apr 2014"
+        },
+        {
+            "url": "Pro_Open_Latin_316480",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roman Kutskyy & Anna Kovalova",
+                    "coupleid": "101326",
+                    "score": "1871"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ivan Mulyavka & Loreta Kriksukaityte",
+                    "coupleid": "131277",
+                    "score": "1804"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1758"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "Russia",
+                    "couple": "Pavel Troshychev & Olga Zalivalova",
+                    "coupleid": "110918",
+                    "score": "1734"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "coupleid": "13660",
+                    "score": "1706"
+                },
+                {
+                    "change": "-4",
+                    "result": "6",
+                    "country": "England",
+                    "couple": "Jake Davies & Olena Kalinina",
+                    "coupleid": "173437",
+                    "score": "1673"
+                }
+            ],
+            "name": "Pro Open Latin",
+            "age": "Professional",
+            "date": "25 Apr 2014"
+        },
+        {
+            "url": "Pro_Open_Standard_316478",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrey Klinchik & Yuliya Klinchik (aka Dzyuba)",
+                    "coupleid": "26807",
+                    "score": "1823"
+                },
+                {
+                    "change": "+46",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Paulina Malinowska & Federico Di Toro",
+                    "coupleid": "254255",
+                    "score": "1716"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Samuele Pacchini & Anna Oblakova",
+                    "coupleid": "246109",
+                    "score": "1745"
+                },
+                {
+                    "change": "+8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nazar Batih & Annina Nosei",
+                    "coupleid": "254254",
+                    "score": "1699"
+                },
+                {
+                    "change": "-5",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nazar Batih & Mariko Cantley",
+                    "coupleid": "208249",
+                    "score": "1708"
+                },
+                {
+                    "change": "-28",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "coupleid": "13660",
+                    "score": "1697"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Igor Gayenko & Sarika Hudson",
+                    "coupleid": "245614",
+                    "score": "1659"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Mikhail Ostrykov & Christin Neisler",
+                    "coupleid": "254258",
+                    "score": "1652"
+                }
+            ],
+            "name": "Pro Open Standard",
+            "age": "Professional",
+            "date": "26 Apr 2014"
+        }
+    ],
+    "compid": "23575",
+    "rating": "96"
+}

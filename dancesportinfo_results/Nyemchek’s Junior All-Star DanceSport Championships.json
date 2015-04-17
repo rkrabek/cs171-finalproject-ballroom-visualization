@@ -1,0 +1,3379 @@
+{
+    "name": "Nyemchek\u2019s Junior All-Star DanceSport Championships",
+    "url": "Nyemchek%e2%80%99s_Junior_All-Star_DanceSport_Championships_26211",
+    "events": [
+        {
+            "url": "Junior_I_Open_Foxtrot_363268",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1232"
+                },
+                {
+                    "change": "-7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1200"
+                }
+            ],
+            "name": "Junior I Open Foxtrot",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Quickstep_363269",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1236"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1196"
+                }
+            ],
+            "name": "Junior I Open Quickstep",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Tango_363270",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1239"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1193"
+                }
+            ],
+            "name": "Junior I Open Tango",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Viennese_Waltz_363271",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1241"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1191"
+                }
+            ],
+            "name": "Junior I Open Viennese Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Waltz_363272",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1243"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1189"
+                }
+            ],
+            "name": "Junior I Open Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Foxtrot_363274",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1254"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1256"
+                },
+                {
+                    "change": "+14",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1171"
+                },
+                {
+                    "change": "-11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1178"
+                },
+                {
+                    "change": "+13",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "949"
+                },
+                {
+                    "change": "-18",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1120"
+                }
+            ],
+            "name": "Junior I Pre-Championship Foxtrot",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Quickstep_363277",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1261"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1250"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1184"
+                },
+                {
+                    "change": "-5",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1166"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1118"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "949"
+                }
+            ],
+            "name": "Junior I Pre-Championship Quickstep",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Tango_363280",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1259"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1253"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1188"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1163"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1116"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "949"
+                }
+            ],
+            "name": "Junior I Pre-Championship Tango",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Viennese_Waltz_363281",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1262"
+                },
+                {
+                    "change": "-7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1252"
+                },
+                {
+                    "change": "+12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1175"
+                },
+                {
+                    "change": "-12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1176"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1114"
+                }
+            ],
+            "name": "Junior I Pre-Championship Viennese Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Waltz_363282",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+25",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Volodymyr Babiy & Natalie Zoladkiewicz",
+                    "coupleid": "249285",
+                    "score": "1201"
+                },
+                {
+                    "change": "-1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1261"
+                },
+                {
+                    "change": "-17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1235"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1169"
+                },
+                {
+                    "change": "+13",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "962"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1100"
+                }
+            ],
+            "name": "Junior I Pre-Championship Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Foxtrot_363289",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1199"
+                },
+                {
+                    "change": "+38",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1121"
+                },
+                {
+                    "change": "+23",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1115"
+                },
+                {
+                    "change": "-35",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1244"
+                },
+                {
+                    "change": "-4",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1096"
+                },
+                {
+                    "change": "-38",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1131"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1005"
+                }
+            ],
+            "name": "Junior II Pre-Championship Foxtrot",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Quickstep_363292",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+40",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1155"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1199"
+                },
+                {
+                    "change": "+15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1136"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1129"
+                },
+                {
+                    "change": "-44",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1200"
+                },
+                {
+                    "change": "+12",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1017"
+                },
+                {
+                    "change": "-20",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1076"
+                }
+            ],
+            "name": "Junior II Pre-Championship Quickstep",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Tango_363295",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1208"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1190"
+                },
+                {
+                    "change": "+19",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1155"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1147"
+                },
+                {
+                    "change": "-8",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1121"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1075"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1016"
+                }
+            ],
+            "name": "Junior II Pre-Championship Tango",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Viennese_Waltz_363296",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+30",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1185"
+                },
+                {
+                    "change": "-7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1201"
+                },
+                {
+                    "change": "+9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1156"
+                },
+                {
+                    "change": "-25",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1165"
+                },
+                {
+                    "change": "-5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1116"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1073"
+                }
+            ],
+            "name": "Junior II Pre-Championship Viennese Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Waltz_363297",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+15",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1200"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1196"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1166"
+                },
+                {
+                    "change": "+10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1126"
+                },
+                {
+                    "change": "+11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Shelli Gorokhovsky",
+                    "coupleid": "263076",
+                    "score": "1084"
+                },
+                {
+                    "change": "-30",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1015"
+                }
+            ],
+            "name": "Junior II Pre-Championship Waltz",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_Open_Standard_Scholarship_(W+T+VW+F+Q)_363257",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristers Smits & Sophie Shvartsman",
+                    "coupleid": "202960",
+                    "score": "1315"
+                },
+                {
+                    "change": "-14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yusif Amsatr & Naomi Spektor",
+                    "coupleid": "261166",
+                    "score": "1336"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1265"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1225"
+                }
+            ],
+            "name": "Junior Open Standard Scholarship (W/T/VW/F/Q)",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Under_21_Open_Standard_Scholarship_(W+T+VW+F+Q)_363303",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "coupleid": "254453",
+                    "score": "1439"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1390"
+                },
+                {
+                    "change": "-19",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Fernando Lareu Magdaleno & Nicole Palagashvili",
+                    "coupleid": "239102",
+                    "score": "1389"
+                }
+            ],
+            "name": "Under 21 Open Standard Scholarship (W/T/VW/F/Q)",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Open_Standard_Scholarship_(W+T+VW+F+Q)_363308",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "coupleid": "254453",
+                    "score": "1441"
+                },
+                {
+                    "change": "+21",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Murat Medzhidov & Valerie Dubinsky",
+                    "coupleid": "265126",
+                    "score": "1370"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1381"
+                },
+                {
+                    "change": "+4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Aleksandr Borisov & Masha Yakhkind",
+                    "coupleid": "231958",
+                    "score": "1339"
+                },
+                {
+                    "change": "-18",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Robert Guitelman & Klinta Smite",
+                    "coupleid": "231761",
+                    "score": "1338"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1196"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Open Standard Scholarship (W/T/VW/F/Q)",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Foxtrot_363310",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Pre-Championship Foxtrot",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Quickstep_363313",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Pre-Championship Quickstep",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Tango_363316",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Pre-Championship Tango",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Viennese_Waltz_363317",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Pre-Championship Viennese Waltz",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Waltz_363318",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                }
+            ],
+            "name": "Youth Pre-Championship Waltz",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Cha_Cha_363263",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1273"
+                },
+                {
+                    "change": "+24",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1243"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1243"
+                },
+                {
+                    "change": "-30",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1244"
+                },
+                {
+                    "change": "-3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1192"
+                },
+                {
+                    "change": "-4",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1158"
+                }
+            ],
+            "name": "Junior I Open Cha Cha",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Jive_363264",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+25",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1268"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1268"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1242"
+                },
+                {
+                    "change": "-14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1229"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1191"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1155"
+                }
+            ],
+            "name": "Junior I Open Jive",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Paso_Doble_363265",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1280"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1267"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1242"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1223"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1189"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1152"
+                }
+            ],
+            "name": "Junior I Open Paso Doble",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Rumba_363266",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+26",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1268"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1275"
+                },
+                {
+                    "change": "-13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1254"
+                },
+                {
+                    "change": "-4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1219"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1187"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1149"
+                }
+            ],
+            "name": "Junior I Open Rumba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Open_Samba_363267",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1285"
+                },
+                {
+                    "change": "+24",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1243"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1249"
+                },
+                {
+                    "change": "+11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1198"
+                },
+                {
+                    "change": "-37",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1231"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1147"
+                }
+            ],
+            "name": "Junior I Open Samba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Cha_Cha_363273",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1254"
+                },
+                {
+                    "change": "+37",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1180"
+                },
+                {
+                    "change": "+27",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1174"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1208"
+                },
+                {
+                    "change": "-10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1188"
+                },
+                {
+                    "change": "+11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Victor Makovsky & Shelly Umansky",
+                    "coupleid": "244969",
+                    "score": "1110"
+                },
+                {
+                    "change": "-51",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1234"
+                },
+                {
+                    "change": "+35",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1029"
+                },
+                {
+                    "change": "-5",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1128"
+                },
+                {
+                    "change": "-23",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Daniel Bochkov & Jacqueline Bochkova",
+                    "coupleid": "230158",
+                    "score": "1102"
+                },
+                {
+                    "change": "+3",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1007"
+                },
+                {
+                    "change": "-28",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1061"
+                },
+                {
+                    "change": "+4",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "James Raykis & Sarrah Livson",
+                    "coupleid": "234815",
+                    "score": "927"
+                }
+            ],
+            "name": "Junior I Pre-Championship Cha Cha",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Jive_363275",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1259"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1236"
+                },
+                {
+                    "change": "+38",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1166"
+                },
+                {
+                    "change": "+4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1192"
+                },
+                {
+                    "change": "+28",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Victor Makovsky & Shelly Umansky",
+                    "coupleid": "244969",
+                    "score": "1138"
+                },
+                {
+                    "change": "-11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1169"
+                },
+                {
+                    "change": "-32",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1176"
+                },
+                {
+                    "change": "-26",
+                    "result": "8",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1148"
+                },
+                {
+                    "change": "+20",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1027"
+                },
+                {
+                    "change": "+14",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1043"
+                },
+                {
+                    "change": "-14",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1047"
+                },
+                {
+                    "change": "-27",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Daniel Bochkov & Jacqueline Bochkova",
+                    "coupleid": "230158",
+                    "score": "1075"
+                }
+            ],
+            "name": "Junior I Pre-Championship Jive",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Paso_Doble_363276",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1247"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1251"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1196"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1160"
+                },
+                {
+                    "change": "-13",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1163"
+                },
+                {
+                    "change": "-7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Victor Makovsky & Shelly Umansky",
+                    "coupleid": "244969",
+                    "score": "1131"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1047"
+                }
+            ],
+            "name": "Junior I Pre-Championship Paso Doble",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Rumba_363278",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1256"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1245"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1202"
+                },
+                {
+                    "change": "+15",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1175"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1169"
+                },
+                {
+                    "change": "-7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1162"
+                },
+                {
+                    "change": "+3",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Victor Makovsky & Shelly Umansky",
+                    "coupleid": "244969",
+                    "score": "1134"
+                },
+                {
+                    "change": "-26",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1137"
+                },
+                {
+                    "change": "+24",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1051"
+                },
+                {
+                    "change": "-4",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1043"
+                },
+                {
+                    "change": "-14",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Daniel Bochkov & Jacqueline Bochkova",
+                    "coupleid": "230158",
+                    "score": "1061"
+                },
+                {
+                    "change": "-3",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1040"
+                },
+                {
+                    "change": "=",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "James Raykis & Sarrah Livson",
+                    "coupleid": "234815",
+                    "score": "927"
+                }
+            ],
+            "name": "Junior I Pre-Championship Rumba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Championship_Samba_363279",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1260"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1244"
+                },
+                {
+                    "change": "+35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Victor Makovsky & Shelly Umansky",
+                    "coupleid": "244969",
+                    "score": "1169"
+                },
+                {
+                    "change": "+7",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1182"
+                },
+                {
+                    "change": "+5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1167"
+                },
+                {
+                    "change": "-8",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1161"
+                },
+                {
+                    "change": "+32",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1075"
+                },
+                {
+                    "change": "-14",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1123"
+                },
+                {
+                    "change": "+21",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1061"
+                },
+                {
+                    "change": "-56",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1146"
+                },
+                {
+                    "change": "-1",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1050"
+                },
+                {
+                    "change": "-23",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Daniel Bochkov & Jacqueline Bochkova",
+                    "coupleid": "230158",
+                    "score": "1038"
+                },
+                {
+                    "change": "+4",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "James Raykis & Sarrah Livson",
+                    "coupleid": "234815",
+                    "score": "931"
+                }
+            ],
+            "name": "Junior I Pre-Championship Samba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Open_Cha_Cha_363283",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+28",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1259"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1259"
+                },
+                {
+                    "change": "-28",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1316"
+                },
+                {
+                    "change": "-5",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1206"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1128"
+                }
+            ],
+            "name": "Junior II Open Cha Cha",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Open_Jive_363284",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "-5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1311"
+                },
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1273"
+                },
+                {
+                    "change": "-7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1252"
+                },
+                {
+                    "change": "+14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1142"
+                },
+                {
+                    "change": "-16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1190"
+                }
+            ],
+            "name": "Junior II Open Jive",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Open_Paso_Doble_363285",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1314"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1275"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1248"
+                },
+                {
+                    "change": "+13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1155"
+                },
+                {
+                    "change": "-14",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1176"
+                }
+            ],
+            "name": "Junior II Open Paso Doble",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Open_Rumba_363286",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+15",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1290"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1302"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1245"
+                },
+                {
+                    "change": "+10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1165"
+                },
+                {
+                    "change": "-11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1165"
+                }
+            ],
+            "name": "Junior II Open Rumba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Open_Samba_363287",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1301"
+                },
+                {
+                    "change": "+12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1257"
+                },
+                {
+                    "change": "-22",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1280"
+                },
+                {
+                    "change": "+7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1172"
+                },
+                {
+                    "change": "-7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1158"
+                }
+            ],
+            "name": "Junior II Open Samba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Cha_Cha_363288",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1258"
+                },
+                {
+                    "change": "+29",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1187"
+                },
+                {
+                    "change": "+51",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1147"
+                },
+                {
+                    "change": "+9",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1176"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1170"
+                },
+                {
+                    "change": "+43",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1118"
+                },
+                {
+                    "change": "+51",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1096"
+                },
+                {
+                    "change": "-41",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1152"
+                },
+                {
+                    "change": "-5",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1118"
+                },
+                {
+                    "change": "-41",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1151"
+                },
+                {
+                    "change": "+22",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1072"
+                },
+                {
+                    "change": "-4",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1064"
+                },
+                {
+                    "change": "+12",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1052"
+                },
+                {
+                    "change": "-52",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1109"
+                },
+                {
+                    "change": "-26",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "coupleid": "268928",
+                    "score": "1048"
+                },
+                {
+                    "change": "+9",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Gregory Slonim & Jessica Reznik",
+                    "coupleid": "244974",
+                    "score": "1005"
+                },
+                {
+                    "change": "-54",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1057"
+                }
+            ],
+            "name": "Junior II Pre-Championship Cha Cha",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Jive_363290",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1205"
+                },
+                {
+                    "change": "+33",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1180"
+                },
+                {
+                    "change": "-15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1243"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1175"
+                },
+                {
+                    "change": "+35",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1144"
+                },
+                {
+                    "change": "-13",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1157"
+                },
+                {
+                    "change": "-2",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1116"
+                },
+                {
+                    "change": "-2",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1116"
+                },
+                {
+                    "change": "+13",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1109"
+                },
+                {
+                    "change": "-24",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1127"
+                },
+                {
+                    "change": "+28",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1100"
+                },
+                {
+                    "change": "+16",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1068"
+                },
+                {
+                    "change": "-52",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1100"
+                },
+                {
+                    "change": "-6",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1058"
+                },
+                {
+                    "change": "-5",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "coupleid": "268928",
+                    "score": "1043"
+                },
+                {
+                    "change": "-18",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1039"
+                }
+            ],
+            "name": "Junior II Pre-Championship Jive",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Paso_Doble_363291",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1245"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1205"
+                },
+                {
+                    "change": "+19",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1135"
+                },
+                {
+                    "change": "+6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1122"
+                },
+                {
+                    "change": "-24",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1133"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1065"
+                }
+            ],
+            "name": "Junior II Pre-Championship Paso Doble",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Rumba_363293",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1217"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1239"
+                },
+                {
+                    "change": "+32",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1167"
+                },
+                {
+                    "change": "+41",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1150"
+                },
+                {
+                    "change": "-7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1168"
+                },
+                {
+                    "change": "+11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1144"
+                },
+                {
+                    "change": "+7",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1134"
+                },
+                {
+                    "change": "-12",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1132"
+                },
+                {
+                    "change": "+32",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1097"
+                },
+                {
+                    "change": "-20",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1102"
+                },
+                {
+                    "change": "-4",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1096"
+                },
+                {
+                    "change": "+21",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1079"
+                },
+                {
+                    "change": "-19",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1081"
+                },
+                {
+                    "change": "+16",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Gregory Slonim & Jessica Reznik",
+                    "coupleid": "244974",
+                    "score": "1021"
+                },
+                {
+                    "change": "-68",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1112"
+                },
+                {
+                    "change": "-14",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "coupleid": "268928",
+                    "score": "1029"
+                },
+                {
+                    "change": "-12",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1027"
+                }
+            ],
+            "name": "Junior II Pre-Championship Rumba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Championship_Samba_363294",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1242"
+                },
+                {
+                    "change": "+19",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yuriy Markovetskiy & Sara Filip",
+                    "coupleid": "213607",
+                    "score": "1186"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Leor Ratner & Jessica Ratner",
+                    "coupleid": "114279",
+                    "score": "1179"
+                },
+                {
+                    "change": "-15",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1202"
+                },
+                {
+                    "change": "+7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1157"
+                },
+                {
+                    "change": "+3",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1147"
+                },
+                {
+                    "change": "+22",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "William Antropov & Emily Kryvorutsky",
+                    "coupleid": "242742",
+                    "score": "1124"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Haley Yegorov & Ilana Dorfman",
+                    "coupleid": "258546",
+                    "score": "1132"
+                },
+                {
+                    "change": "+14",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1111"
+                },
+                {
+                    "change": "-4",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1108"
+                },
+                {
+                    "change": "-8",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1088"
+                },
+                {
+                    "change": "-35",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1099"
+                },
+                {
+                    "change": "+2",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Mark Stein & Bridget Frenkel",
+                    "coupleid": "242743",
+                    "score": "1083"
+                },
+                {
+                    "change": "-16",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1063"
+                },
+                {
+                    "change": "+11",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Gregory Slonim & Jessica Reznik",
+                    "coupleid": "244974",
+                    "score": "1032"
+                },
+                {
+                    "change": "-3",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1024"
+                },
+                {
+                    "change": "-11",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "coupleid": "268928",
+                    "score": "1018"
+                }
+            ],
+            "name": "Junior II Pre-Championship Samba",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Junior_Open_Latin_Scholarship_(C+S+R+P+J)_363256",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Max Firestein & Nicole Mtchedlidze",
+                    "coupleid": "176993",
+                    "score": "1389"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yusif Amsatr & Naomi Spektor",
+                    "coupleid": "261166",
+                    "score": "1379"
+                },
+                {
+                    "change": "-13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kristers Smits & Sophie Shvartsman",
+                    "coupleid": "202960",
+                    "score": "1377"
+                },
+                {
+                    "change": "+13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kevin Filipczak & Liza Gotovsky",
+                    "coupleid": "242740",
+                    "score": "1274"
+                },
+                {
+                    "change": "+23",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Yan Leyzerovich & Gabriella Rozovsky",
+                    "coupleid": "235518",
+                    "score": "1247"
+                },
+                {
+                    "change": "-9",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1256"
+                },
+                {
+                    "change": "+13",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Daniel Koskas & Shelly Meshkausk",
+                    "coupleid": "263073",
+                    "score": "1218"
+                },
+                {
+                    "change": "-10",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "coupleid": "264811",
+                    "score": "1219"
+                },
+                {
+                    "change": "-27",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Daniel Melnik & Maria Volski",
+                    "coupleid": "263074",
+                    "score": "1216"
+                },
+                {
+                    "change": "-3",
+                    "result": "10",
+                    "country": "Canada",
+                    "couple": "Mark Starovoytov & Molly Strout",
+                    "coupleid": "245744",
+                    "score": "1162"
+                }
+            ],
+            "name": "Junior Open Latin Scholarship (C/S/R/P/J)",
+            "age": "Junior",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Juvenile_III_Pre-Championship_Cha_Cha_363258",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1221"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxwell Chin & Samantha Avnet",
+                    "coupleid": "254448",
+                    "score": "1185"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andrew Malyava & Anna Martirossian",
+                    "coupleid": "249289",
+                    "score": "854"
+                }
+            ],
+            "name": "Juvenile III Pre-Championship Cha Cha",
+            "age": "Juvenile",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Juvenile_III_Pre-Championship_Jive_363259",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1224"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxwell Chin & Samantha Avnet",
+                    "coupleid": "254448",
+                    "score": "1182"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andrew Malyava & Anna Martirossian",
+                    "coupleid": "249289",
+                    "score": "854"
+                }
+            ],
+            "name": "Juvenile III Pre-Championship Jive",
+            "age": "Juvenile",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Juvenile_III_Pre-Championship_Paso_Doble_363260",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1227"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxwell Chin & Samantha Avnet",
+                    "coupleid": "254448",
+                    "score": "1179"
+                }
+            ],
+            "name": "Juvenile III Pre-Championship Paso Doble",
+            "age": "Juvenile",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Juvenile_III_Pre-Championship_Rumba_363261",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1229"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxwell Chin & Samantha Avnet",
+                    "coupleid": "254448",
+                    "score": "1177"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andrew Malyava & Anna Martirossian",
+                    "coupleid": "249289",
+                    "score": "854"
+                }
+            ],
+            "name": "Juvenile III Pre-Championship Rumba",
+            "age": "Juvenile",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Juvenile_III_Pre-Championship_Samba_363262",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1231"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxwell Chin & Samantha Avnet",
+                    "coupleid": "254448",
+                    "score": "1175"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andrew Malyava & Anna Martirossian",
+                    "coupleid": "249289",
+                    "score": "854"
+                }
+            ],
+            "name": "Juvenile III Pre-Championship Samba",
+            "age": "Juvenile",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Under_21_Open_Latin_Scholarship_(C+S+R+P+J)_363302",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nazariy Blagyy & Michelle Kurpas",
+                    "coupleid": "265127",
+                    "score": "1482"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1460"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "coupleid": "254453",
+                    "score": "1424"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1374"
+                }
+            ],
+            "name": "Under 21 Open Latin Scholarship (C/S/R/P/J)",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Open_Latin_Scholarship_(C+S+R+P+J)_363307",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1462"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Gregory Rybakov & Ellen Anshelevich",
+                    "coupleid": "254453",
+                    "score": "1426"
+                },
+                {
+                    "change": "+13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mathew Kheyfets & Vanesa Falisova",
+                    "coupleid": "234817",
+                    "score": "1393"
+                },
+                {
+                    "change": "+22",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Aleksandr Borisov & Masha Yakhkind",
+                    "coupleid": "231958",
+                    "score": "1376"
+                },
+                {
+                    "change": "+45",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Levy Agaronnik & Simona Vigodner",
+                    "coupleid": "235519",
+                    "score": "1325"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Murat Medzhidov & Valerie Dubinsky",
+                    "coupleid": "265126",
+                    "score": "1362"
+                },
+                {
+                    "change": "-12",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1355"
+                },
+                {
+                    "change": "+15",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1316"
+                },
+                {
+                    "change": "-27",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1337"
+                },
+                {
+                    "change": "+15",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Kevin Zaverniaiv & Sasha Pevtsov",
+                    "coupleid": "268351",
+                    "score": "1257"
+                },
+                {
+                    "change": "-20",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Daniel Pokras & Alexandra Dachenko",
+                    "coupleid": "186841",
+                    "score": "1303"
+                },
+                {
+                    "change": "-52",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Robert Guitelman & Klinta Smite",
+                    "coupleid": "231761",
+                    "score": "1318"
+                },
+                {
+                    "change": "+1",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Mark Irgang & Sabrina Isakow",
+                    "coupleid": "262168",
+                    "score": "1148"
+                },
+                {
+                    "change": "-1",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "coupleid": "263080",
+                    "score": "1110"
+                }
+            ],
+            "name": "Youth Open Latin Scholarship (C/S/R/P/J)",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Open_Paso_Doble_363304",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Artem Zhychuk & Gabriella Pustilnik",
+                    "coupleid": "252630",
+                    "score": "1373"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1364"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Pokras & Alexandra Dachenko",
+                    "coupleid": "186841",
+                    "score": "1328"
+                }
+            ],
+            "name": "Youth Open Paso Doble",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Open_Rumba_363305",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1376"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Artem Zhychuk & Gabriella Pustilnik",
+                    "coupleid": "252630",
+                    "score": "1365"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Pokras & Alexandra Dachenko",
+                    "coupleid": "186841",
+                    "score": "1325"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Matthew Nacpil & Daniela Solovey",
+                    "coupleid": "263071",
+                    "score": "1269"
+                }
+            ],
+            "name": "Youth Open Rumba",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Open_Samba_363306",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Artem Zhychuk & Gabriella Pustilnik",
+                    "coupleid": "252630",
+                    "score": "1377"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1367"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Pokras & Alexandra Dachenko",
+                    "coupleid": "186841",
+                    "score": "1323"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Matthew Nacpil & Daniela Solovey",
+                    "coupleid": "263071",
+                    "score": "1268"
+                }
+            ],
+            "name": "Youth Open Samba",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Cha_Cha_363309",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+35",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1134"
+                },
+                {
+                    "change": "+19",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1127"
+                },
+                {
+                    "change": "-26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1176"
+                },
+                {
+                    "change": "-27",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1130"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1023"
+                }
+            ],
+            "name": "Youth Pre-Championship Cha Cha",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Jive_363311",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1193"
+                },
+                {
+                    "change": "-13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Matthew Nacpil & Daniela Solovey",
+                    "coupleid": "263071",
+                    "score": "1255"
+                },
+                {
+                    "change": "+13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1140"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1131"
+                },
+                {
+                    "change": "-14",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1116"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1023"
+                }
+            ],
+            "name": "Youth Pre-Championship Jive",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Paso_Doble_363312",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1193"
+                }
+            ],
+            "name": "Youth Pre-Championship Paso Doble",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Rumba_363314",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matthew Nacpil & Daniela Solovey",
+                    "coupleid": "263071",
+                    "score": "1256"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1194"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1142"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1134"
+                },
+                {
+                    "change": "-8",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1108"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1023"
+                }
+            ],
+            "name": "Youth Pre-Championship Rumba",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        },
+        {
+            "url": "Youth_Pre-Championship_Samba_363315",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+31",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Pechalov & Kristina Pidvirny",
+                    "coupleid": "231762",
+                    "score": "1173"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Matthew Nacpil & Daniela Solovey",
+                    "coupleid": "263071",
+                    "score": "1244"
+                },
+                {
+                    "change": "-12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Julian Sklyut & Eva Dolub",
+                    "coupleid": "254256",
+                    "score": "1182"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1131"
+                },
+                {
+                    "change": "-5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Allan Nosov & Eva Tulchinsky",
+                    "coupleid": "254443",
+                    "score": "1103"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Timafey Rybolovlov & Daniella Pevzner",
+                    "coupleid": "175052",
+                    "score": "1023"
+                }
+            ],
+            "name": "Youth Pre-Championship Samba",
+            "age": "Youth",
+            "date": "15 Nov 2014"
+        }
+    ],
+    "compid": "26211",
+    "rating": "210"
+}

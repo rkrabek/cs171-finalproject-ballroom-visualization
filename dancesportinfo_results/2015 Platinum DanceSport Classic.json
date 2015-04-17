@@ -1,0 +1,290 @@
+{
+    "events": [
+        {
+            "date": "13 Feb 2015",
+            "style": "Ballroom",
+            "url": "Amateur_PDC_Standard_Challenge_(W+T+V+F+Q)_379118",
+            "name": "Amateur PDC Standard Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "268675",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1352",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "186520",
+                    "couple": "Giovanni Rannella & Helena Zaludova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1257",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "13 Feb 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Pre-Champ_Standard_(W+T+F+Q)_379121",
+            "name": "Amateur Pre-Champ Standard (W/T/F/Q)",
+            "results": [
+                {
+                    "coupleid": "263080",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "country": "USA",
+                    "change": "+35",
+                    "score": "1224",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "268675",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "country": "USA",
+                    "change": "-18",
+                    "score": "1334",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "186520",
+                    "couple": "Giovanni Rannella & Helena Zaludova",
+                    "country": "USA",
+                    "change": "-18",
+                    "score": "1239",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "13 Feb 2015",
+            "style": "Ballroom",
+            "url": "Professional_Rising_Star_Standard_(W+T+V+F+Q)_379134",
+            "name": "Professional Rising Star Standard (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "255621",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1765",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1720",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "273897",
+                    "couple": "Sergey Izyumov & Ellen Porter",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1470",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "13 Feb 2015",
+            "style": "Ballroom",
+            "url": "Youth_PDC_Standard_Challenge_(W+T+V+F+Q)_379124",
+            "name": "Youth PDC Standard Challenge (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "231958",
+                    "couple": "Aleksandr Borisov & Masha Yakhkind",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1343",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263080",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1224",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "13 Feb 2015",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_(C+S+R+P+J)_379132",
+            "name": "Professional Rising Star Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "253894",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1639",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1614",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "260233",
+                    "couple": "Dmitriy Zavyalov & Ashley Sanchez",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1571",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "14 Feb 2015",
+            "style": "Ballroom",
+            "url": "Professional_Open_Standard_(W+T+V+F+Q)_379130",
+            "name": "Professional Open Standard (W/T/V/F/Q)",
+            "results": [
+                {
+                    "coupleid": "147130",
+                    "couple": "Alexandr Voskalchuk & Veronika Egorova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1887",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "255621",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1765",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "273897",
+                    "couple": "Sergey Izyumov & Ellen Porter",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1470",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "14 Feb 2015",
+            "style": "Latin",
+            "url": "Amateur_PDC_Latin_Challenge_(C+S+R+P+J)_379117",
+            "name": "Amateur PDC Latin Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "268675",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1264",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Feb 2015",
+            "style": "Latin",
+            "url": "Amateur_Pre-Champ_Latin_(C+S+R+J)_379120",
+            "name": "Amateur Pre-Champ Latin (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "268675",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1264",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263080",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1115",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Feb 2015",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_(C+S+R+P+J)_379128",
+            "name": "Professional Open Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "253894",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1644",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1612",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "260233",
+                    "couple": "Dmitriy Zavyalov & Ashley Sanchez",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1568",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "14 Feb 2015",
+            "style": "Latin",
+            "url": "Youth_PDC_Latin_Challenge_(C+S+R+P+J)_379122",
+            "name": "Youth PDC Latin Challenge (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "231958",
+                    "couple": "Aleksandr Borisov & Masha Yakhkind",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1372",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263080",
+                    "couple": "Alonzo Magsino & Rebecca Shapiro",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1115",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "27173",
+    "url": "2015_Platinum_DanceSport_Classic__27173",
+    "name": "2015 Platinum DanceSport Classic",
+    "rating": "84"
+}

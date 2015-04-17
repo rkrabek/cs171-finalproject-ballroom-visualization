@@ -1,0 +1,565 @@
+{
+    "events": [
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Adult_A2_Championship_Standard_(WTVFQ)_382398",
+            "name": "Adult A2 Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "267502",
+                    "couple": "Yuliy Sannikov & Hannah Huang",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1425",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Adult_Championship_Standard_(WTVFQ)_382400",
+            "name": "Adult Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1504",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "267502",
+                    "couple": "Yuliy Sannikov & Hannah Huang",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1424",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Junior_I_Pre-Champ_Standard_(WTFQ)_382402",
+            "name": "Junior I Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "271144",
+                    "couple": "David Kobus & Maya Kulaqowski",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "925",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_382413",
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "110006",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1415",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "212028",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1361",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "140647",
+                    "couple": "Thomas Malinowski & Renee O. Malinowski",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1326",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "37358",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1302",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "43883",
+                    "couple": "Bill Pedrick & Carolyn Pedrick",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1279",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "86020",
+                    "couple": "Martin Goldberger & Rebecca Painter",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1214",
+                    "result": "6"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_382407",
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "106804",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1339",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_382408",
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "202091",
+                    "couple": "Barry Proctor & Linda Dai",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1270",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_382410",
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "110006",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1414",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "106804",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "country": "USA",
+                    "change": "+14",
+                    "score": "1353",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "212028",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1353",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "140647",
+                    "couple": "Thomas Malinowski & Renee O. Malinowski",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1319",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "37358",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1308",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "43883",
+                    "couple": "Bill Pedrick & Carolyn Pedrick",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1285",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "202091",
+                    "couple": "Barry Proctor & Linda Dai",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1264",
+                    "result": "7"
+                },
+                {
+                    "coupleid": "86020",
+                    "couple": "Martin Goldberger & Rebecca Painter",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1215",
+                    "result": "8"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_382411",
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "212028",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1358",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "140647",
+                    "couple": "Thomas Malinowski & Renee O. Malinowski",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1323",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "37358",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1302",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "202091",
+                    "couple": "Barry Proctor & Linda Dai",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1261",
+                    "result": "4"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Youth_Championship_Standard_(WTVFQ)_382415",
+            "name": "Youth Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1504",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Ballroom",
+            "url": "Youth_Novice_Standard_(WFQ)_382417",
+            "name": "Youth Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "268928",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "931",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Adult_Championship_Latin_(SCRPJ)_382399",
+            "name": "Adult Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1445",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272039",
+                    "couple": "Daniel Romaikin & Dakota Pizzi",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1402",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "210969",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1362",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Junior_I_Novice_Latin_(SCR)_382401",
+            "name": "Junior I Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "271144",
+                    "couple": "David Kobus & Maya Kulaqowski",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "975",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Junior_II_Championship_Latin_(SCRPJ)_382403",
+            "name": "Junior II Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "244971",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1124",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Junior_II_Novice_Latin_(SCR)_382404",
+            "name": "Junior II Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "244972",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1110",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272018",
+                    "couple": "Lior Golden & Heather Lohrey",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "954",
+                    "result": "2"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Junior_II_Pre-Champ_Latin_(SCRJ)_382405",
+            "name": "Junior II Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "244971",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1132",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "244972",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1102",
+                    "result": "2"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Senior_III_Championship_Latin_(SCRPJ)_382412",
+            "name": "Senior III Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "37358",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1206",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Senior_I_Championship_Latin_(SCRPJ)_382406",
+            "name": "Senior I Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "242520",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1416",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "106804",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1267",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Senior_II_Championship_Latin_(SCRPJ)_382409",
+            "name": "Senior II Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "242520",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1416",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "106804",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1268",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "37358",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1206",
+                    "result": "3"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Youth_Championship_Latin_(SCRPJ)_382414",
+            "name": "Youth Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "239101",
+                    "couple": "Samuel Hacke & Katarina Hermanova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1445",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "187357",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1253",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Youth_Novice_Latin_(SCR)_382416",
+            "name": "Youth Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "272018",
+                    "couple": "Lior Golden & Heather Lohrey",
+                    "country": "USA",
+                    "change": "+19",
+                    "score": "973",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "268928",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "country": "USA",
+                    "change": "-19",
+                    "score": "972",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "08 Mar 2015",
+            "style": "Latin",
+            "url": "Youth_Pre-Champ_Latin_(SCRJ)_382419",
+            "name": "Youth Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "268928",
+                    "couple": "Peter Koczarski & Karolina Lokaj",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "972",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "27374",
+    "url": "NJ_DanceSport_Classic_Spring_Fling_2015_27374",
+    "name": "NJ DanceSport Classic Spring Fling 2015",
+    "rating": "92"
+}

@@ -1,0 +1,271 @@
+{
+    "events": [
+        {
+            "date": "26 Apr 2014",
+            "style": "Ballroom",
+            "url": "Adult_Championship_Standard_(WTVFQ)_310236",
+            "name": "Adult Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "204230",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1353",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Ballroom",
+            "url": "Adult_Novice_Standard_(WFQ)_310237",
+            "name": "Adult Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "234826",
+                    "couple": "Ken Leung & Mia Dreyer",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1331",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "234827",
+                    "couple": "Yuji Ukai & Haruna Ukai",
+                    "country": "USA",
+                    "change": "+47",
+                    "score": "1175",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "219494",
+                    "couple": "John Punin & Fernanda Huerta",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1268",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "246092",
+                    "couple": "Kai Kang & Christine Yim",
+                    "country": "USA",
+                    "change": "+21",
+                    "score": "1193",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "234828",
+                    "couple": "Brian Hsueh & Stephanie Au",
+                    "country": "USA",
+                    "change": "-29",
+                    "score": "1279",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "144100",
+                    "couple": "Christopher Li & Lillian Luu",
+                    "country": "USA",
+                    "change": "-25",
+                    "score": "1244",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "252505",
+                    "couple": "Kelvin Fok & Rebecca Fernandez",
+                    "country": "USA",
+                    "change": "+23",
+                    "score": "1073",
+                    "result": "7"
+                },
+                {
+                    "coupleid": "252506",
+                    "couple": "Ryan Mcdaniel & Marissa Guillen",
+                    "country": "USA",
+                    "change": "-35",
+                    "score": "1209",
+                    "result": "8"
+                },
+                {
+                    "coupleid": "252507",
+                    "couple": "Kendrick Kleiner & Elena Morozova",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1053",
+                    "result": "9"
+                },
+                {
+                    "coupleid": "176352",
+                    "couple": "John Huang & Angela He",
+                    "country": "USA",
+                    "change": "-17",
+                    "score": "1062",
+                    "result": "10"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Ballroom",
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_310239",
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "234826",
+                    "couple": "Ken Leung & Mia Dreyer",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1333",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "219494",
+                    "couple": "John Punin & Fernanda Huerta",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1276",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "234827",
+                    "couple": "Yuji Ukai & Haruna Ukai",
+                    "country": "USA",
+                    "change": "+22",
+                    "score": "1197",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "234828",
+                    "couple": "Brian Hsueh & Stephanie Au",
+                    "country": "USA",
+                    "change": "-22",
+                    "score": "1257",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "246092",
+                    "couple": "Kai Kang & Christine Yim",
+                    "country": "USA",
+                    "change": "-10",
+                    "score": "1183",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "176352",
+                    "couple": "John Huang & Angela He",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1062",
+                    "result": "6"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Latin",
+            "url": "Adult_Championship_Latin_(CSRPJ)_310235",
+            "name": "Adult Championship Latin (CSRPJ)",
+            "results": [
+                {
+                    "coupleid": "238259",
+                    "couple": "Paul Daniels & Amy Leung",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1369",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Latin",
+            "url": "Adult_Pre-Champ_Latin_(CSRJ)_310238",
+            "name": "Adult Pre-Champ Latin (CSRJ)",
+            "results": [
+                {
+                    "coupleid": "238259",
+                    "couple": "Paul Daniels & Amy Leung",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1380",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "246089",
+                    "couple": "Khoa Nguyen & Lisa Chi",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1368",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "252508",
+                    "couple": "Sean Ericson & Michelle Abbott",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1316",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "246091",
+                    "couple": "Allen Gehret & Francine Foo",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1087",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Latin",
+            "url": "Junior_Open_Latin_(CSRJ)_310240",
+            "name": "Junior Open Latin (CSRJ)",
+            "results": [
+                {
+                    "coupleid": "249202",
+                    "couple": "Robert Sargsyan & Anna Chibukhchyan",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1124",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "26 Apr 2014",
+            "style": "Latin",
+            "url": "Juvenile_Open_Latin_(CSRJ)_310241",
+            "name": "Juvenile Open Latin (CSRJ)",
+            "results": [
+                {
+                    "coupleid": "249202",
+                    "couple": "Robert Sargsyan & Anna Chibukhchyan",
+                    "country": "USA",
+                    "change": "+19",
+                    "score": "1143",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "237564",
+                    "couple": "Denis Vikhliantsev & Gabrielle Kashper",
+                    "country": "USA",
+                    "change": "-19",
+                    "score": "1143",
+                    "result": "2"
+                }
+            ],
+            "age": "Juvenile"
+        }
+    ],
+    "compid": "23223",
+    "url": "Cardinal_Classic_2014_23223",
+    "name": "Cardinal Classic 2014",
+    "rating": "78"
+}

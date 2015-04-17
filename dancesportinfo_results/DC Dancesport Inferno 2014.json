@@ -1,0 +1,1127 @@
+{
+    "name": "DC Dancesport Inferno 2014",
+    "url": "DC_Dancesport_Inferno_2014_26155",
+    "events": [
+        {
+            "url": "Amateur_Open_Ballroom_362407",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+32",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jonathan Medlin & Malin Allert",
+                    "coupleid": "31263",
+                    "score": "1427"
+                },
+                {
+                    "change": "+31",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Paul Freitas & Kelly Glasheen",
+                    "coupleid": "133617",
+                    "score": "1411"
+                },
+                {
+                    "change": "+21",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Libatique & Nicole Barron",
+                    "coupleid": "198163",
+                    "score": "1405"
+                },
+                {
+                    "change": "+46",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Eric Batchelor & Julia Liu",
+                    "coupleid": "268680",
+                    "score": "1343"
+                },
+                {
+                    "change": "-25",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Steve Torres & Martina Lee",
+                    "coupleid": "239551",
+                    "score": "1446"
+                },
+                {
+                    "change": "+37",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Nielsen & Haley Smith-Fries",
+                    "coupleid": "268678",
+                    "score": "1323"
+                },
+                {
+                    "change": "+23",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Blessing Bennett & Chen Ling",
+                    "coupleid": "239550",
+                    "score": "1321"
+                },
+                {
+                    "change": "+39",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Yimeng Xu & Danica Chan",
+                    "coupleid": "239562",
+                    "score": "1284"
+                },
+                {
+                    "change": "+13",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Brandon Rothenberg & Leigha Mcreynolds",
+                    "coupleid": "268681",
+                    "score": "1290"
+                },
+                {
+                    "change": "+32",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Derek Winkler & Aniko Toth",
+                    "coupleid": "186598",
+                    "score": "1262"
+                },
+                {
+                    "change": "-12",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Lance Morton & Melissa Huang",
+                    "coupleid": "252886",
+                    "score": "1288"
+                },
+                {
+                    "change": "-73",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Forrest Csuy & Amanda Ward",
+                    "coupleid": "268679",
+                    "score": "1427"
+                },
+                {
+                    "change": "-56",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Ike Elele & Stephanie Tompkins",
+                    "coupleid": "268660",
+                    "score": "1327"
+                },
+                {
+                    "change": "-72",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Doug Ellena & Elena Hess",
+                    "coupleid": "239549",
+                    "score": "1352"
+                }
+            ],
+            "name": "Amateur Open Ballroom",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Pre_Champ_Standard_362418",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1391"
+                },
+                {
+                    "change": "+25",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1368"
+                },
+                {
+                    "change": "-10",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Paul Freitas & Kelly Glasheen",
+                    "coupleid": "133617",
+                    "score": "1401"
+                },
+                {
+                    "change": "+36",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Carl Greenly & Christina Jarymowycz",
+                    "coupleid": "267504",
+                    "score": "1350"
+                },
+                {
+                    "change": "+6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Eric Batchelor & Julia Liu",
+                    "coupleid": "268680",
+                    "score": "1349"
+                },
+                {
+                    "change": "+20",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Marcus Thomas & Monica Ly",
+                    "coupleid": "239564",
+                    "score": "1339"
+                },
+                {
+                    "change": "+40",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1330"
+                },
+                {
+                    "change": "+62",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Bill Duncan & Anny Sadler",
+                    "coupleid": "207598",
+                    "score": "1313"
+                },
+                {
+                    "change": "+61",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "coupleid": "138400",
+                    "score": "1306"
+                },
+                {
+                    "change": "+61",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Cobey England & Anastasia Filippova",
+                    "coupleid": "239556",
+                    "score": "1291"
+                },
+                {
+                    "change": "-32",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1315"
+                },
+                {
+                    "change": "-21",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Blessing Bennett & Chen Ling",
+                    "coupleid": "239550",
+                    "score": "1300"
+                },
+                {
+                    "change": "-16",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Alphonse Squillante & Lauren Roth",
+                    "coupleid": "243199",
+                    "score": "1293"
+                },
+                {
+                    "change": "-24",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Joseph Wang & Zhuoshi Xie",
+                    "coupleid": "268686",
+                    "score": "1287"
+                },
+                {
+                    "change": "-26",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Luca Guidoni & Jessie Lin",
+                    "coupleid": "186518",
+                    "score": "1277"
+                },
+                {
+                    "change": "-54",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Jason Nixon & Elizabeth Sharer",
+                    "coupleid": "239263",
+                    "score": "1287"
+                },
+                {
+                    "change": "-20",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1267"
+                },
+                {
+                    "change": "-1",
+                    "result": "18",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1259"
+                },
+                {
+                    "change": "+14",
+                    "result": "19",
+                    "country": "USA",
+                    "couple": "Yuen-jong Liu & Rachel Moser",
+                    "coupleid": "268676",
+                    "score": "1241"
+                },
+                {
+                    "change": "-12",
+                    "result": "19",
+                    "country": "USA",
+                    "couple": "Derek Winkler & Aniko Toth",
+                    "coupleid": "186598",
+                    "score": "1250"
+                },
+                {
+                    "change": "-17",
+                    "result": "21",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1236"
+                },
+                {
+                    "change": "-8",
+                    "result": "21",
+                    "country": "USA",
+                    "couple": "Jonathan Towne & Leigha Mcreynolds",
+                    "coupleid": "177393",
+                    "score": "1233"
+                },
+                {
+                    "change": "-51",
+                    "result": "23",
+                    "country": "USA",
+                    "couple": "Yimeng Xu & Danica Chan",
+                    "coupleid": "239562",
+                    "score": "1233"
+                },
+                {
+                    "change": "-58",
+                    "result": "24",
+                    "country": "USA",
+                    "couple": "Lance Morton & Melissa Huang",
+                    "coupleid": "252886",
+                    "score": "1230"
+                }
+            ],
+            "name": "Amateur Pre Champ Standard",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Pre_Champ_Viennese_Waltz_362430",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1382"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1389"
+                },
+                {
+                    "change": "+23",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1353"
+                },
+                {
+                    "change": "+3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Eric Batchelor & Julia Liu",
+                    "coupleid": "268680",
+                    "score": "1352"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Marcus Thomas & Monica Ly",
+                    "coupleid": "239564",
+                    "score": "1342"
+                },
+                {
+                    "change": "-11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Carl Greenly & Christina Jarymowycz",
+                    "coupleid": "267504",
+                    "score": "1339"
+                },
+                {
+                    "change": "+7",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1322"
+                },
+                {
+                    "change": "+23",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Jason Nixon & Elizabeth Sharer",
+                    "coupleid": "239263",
+                    "score": "1310"
+                },
+                {
+                    "change": "-12",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Bill Duncan & Anny Sadler",
+                    "coupleid": "207598",
+                    "score": "1301"
+                },
+                {
+                    "change": "-7",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "coupleid": "138400",
+                    "score": "1299"
+                },
+                {
+                    "change": "+61",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Ahsen Uppal & Daniela Karlin",
+                    "coupleid": "138403",
+                    "score": "1245"
+                },
+                {
+                    "change": "+18",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1277"
+                },
+                {
+                    "change": "+16",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1252"
+                },
+                {
+                    "change": "-14",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Luca Guidoni & Jessie Lin",
+                    "coupleid": "186518",
+                    "score": "1263"
+                },
+                {
+                    "change": "-6",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1261"
+                },
+                {
+                    "change": "-27",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Alphonse Squillante & Lauren Roth",
+                    "coupleid": "243199",
+                    "score": "1266"
+                },
+                {
+                    "change": "-41",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Joseph Wang & Zhuoshi Xie",
+                    "coupleid": "268686",
+                    "score": "1246"
+                },
+                {
+                    "change": "-3",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Yimeng Xu & Danica Chan",
+                    "coupleid": "239562",
+                    "score": "1230"
+                },
+                {
+                    "change": "-18",
+                    "result": "19",
+                    "country": "USA",
+                    "couple": "Yuen-jong Liu & Rachel Moser",
+                    "coupleid": "268676",
+                    "score": "1223"
+                },
+                {
+                    "change": "-2",
+                    "result": "20",
+                    "country": "USA",
+                    "couple": "Eugene Brodach & Ellen Porter",
+                    "coupleid": "264808",
+                    "score": "1181"
+                },
+                {
+                    "change": "-31",
+                    "result": "20",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1216"
+                }
+            ],
+            "name": "Amateur Pre Champ Viennese Waltz",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Standard_Champ_362405",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Sam Brandt & Sabrina Yakubovick",
+                    "coupleid": "175055",
+                    "score": "1450"
+                },
+                {
+                    "change": "+27",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Cloud Cray & Noelle Sun",
+                    "coupleid": "233300",
+                    "score": "1430"
+                },
+                {
+                    "change": "+12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Steve Penny & Emily Barnes",
+                    "coupleid": "230148",
+                    "score": "1428"
+                },
+                {
+                    "change": "-23",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Tulga Ersal & Ilkin Ersal",
+                    "coupleid": "45640",
+                    "score": "1475"
+                },
+                {
+                    "change": "+20",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Matthew Harkins & Yo Matsubara",
+                    "coupleid": "206095",
+                    "score": "1390"
+                },
+                {
+                    "change": "+18",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "coupleid": "268675",
+                    "score": "1373"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Joseph Huesmann & Becky Yeamans",
+                    "coupleid": "198959",
+                    "score": "1393"
+                },
+                {
+                    "change": "+27",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Marcus Thomas & Monica Ly",
+                    "coupleid": "239564",
+                    "score": "1319"
+                },
+                {
+                    "change": "-46",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Jonathan Medlin & Malin Allert",
+                    "coupleid": "31263",
+                    "score": "1395"
+                },
+                {
+                    "change": "-20",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1347"
+                },
+                {
+                    "change": "+7",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1290"
+                },
+                {
+                    "change": "+19",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Yimeng Xu & Danica Chan",
+                    "coupleid": "239562",
+                    "score": "1245"
+                },
+                {
+                    "change": "-21",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Jonathan Lyles & Wei Dong",
+                    "coupleid": "263580",
+                    "score": "1290"
+                },
+                {
+                    "change": "-14",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1260"
+                },
+                {
+                    "change": "-8",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Yuen-jong Liu & Rachel Moser",
+                    "coupleid": "268676",
+                    "score": "1227"
+                }
+            ],
+            "name": "Amateur Standard Champ",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Latin_Champ_362399",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "coupleid": "38297",
+                    "score": "1475"
+                },
+                {
+                    "change": "+13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ben Lavon & Aliona Cheborak",
+                    "coupleid": "243176",
+                    "score": "1430"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Filipp Akopyan & Uliana Shunevich",
+                    "coupleid": "239544",
+                    "score": "1423"
+                },
+                {
+                    "change": "+15",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Junis Alico & Denitsa Rakitska",
+                    "coupleid": "207582",
+                    "score": "1399"
+                },
+                {
+                    "change": "+6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Dwayne Beach & Emily Lin",
+                    "coupleid": "239545",
+                    "score": "1391"
+                },
+                {
+                    "change": "-22",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Dennis Porch & Mary Lou Porch",
+                    "coupleid": "268673",
+                    "score": "1400"
+                },
+                {
+                    "change": "+6",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Ilya Korsunskiy & Kathleen Mcgovern",
+                    "coupleid": "180029",
+                    "score": "1365"
+                },
+                {
+                    "change": "-12",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1362"
+                },
+                {
+                    "change": "+19",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Eli Rosenstein & Nicole Heisler",
+                    "coupleid": "231956",
+                    "score": "1327"
+                },
+                {
+                    "change": "-4",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Travis Hendershot & Kyrsten Hendershot",
+                    "coupleid": "190078",
+                    "score": "1330"
+                },
+                {
+                    "change": "=",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Evan Sadler & Charlene Wang",
+                    "coupleid": "239552",
+                    "score": "1313"
+                },
+                {
+                    "change": "-3",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "James Repetti & Wenhui Xiao",
+                    "coupleid": "180015",
+                    "score": "1301"
+                },
+                {
+                    "change": "-20",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Joanna Mleczko",
+                    "coupleid": "263579",
+                    "score": "1299"
+                },
+                {
+                    "change": "-1",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1261"
+                },
+                {
+                    "change": "-4",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "coupleid": "85076",
+                    "score": "1240"
+                }
+            ],
+            "name": "Amateur Latin Champ",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Pre_Champ_Latin_362414",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Junis Alico & Denitsa Rakitska",
+                    "coupleid": "207582",
+                    "score": "1408"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dwayne Beach & Emily Lin",
+                    "coupleid": "239545",
+                    "score": "1397"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Dennis Porch & Mary Lou Porch",
+                    "coupleid": "268673",
+                    "score": "1396"
+                },
+                {
+                    "change": "+21",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Eli Rosenstein & Nicole Heisler",
+                    "coupleid": "231956",
+                    "score": "1348"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1360"
+                },
+                {
+                    "change": "+7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Travis Hendershot & Kyrsten Hendershot",
+                    "coupleid": "190078",
+                    "score": "1337"
+                },
+                {
+                    "change": "+18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "James Repetti & Wenhui Xiao",
+                    "coupleid": "180015",
+                    "score": "1319"
+                },
+                {
+                    "change": "+47",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "coupleid": "138400",
+                    "score": "1295"
+                },
+                {
+                    "change": "+67",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Stephen Nadeau & Jessica Smith",
+                    "coupleid": "268675",
+                    "score": "1248"
+                },
+                {
+                    "change": "-40",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Kevin Tang & Teresa Lii",
+                    "coupleid": "264809",
+                    "score": "1332"
+                },
+                {
+                    "change": "+59",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1248"
+                },
+                {
+                    "change": "+10",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Cobey England & Anastasia Filippova",
+                    "coupleid": "239556",
+                    "score": "1277"
+                },
+                {
+                    "change": "+40",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Thomas Wiggins & Chelsea Lang",
+                    "coupleid": "263560",
+                    "score": "1251"
+                },
+                {
+                    "change": "-26",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Joanna Mleczko",
+                    "coupleid": "263579",
+                    "score": "1273"
+                },
+                {
+                    "change": "+3",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1254"
+                },
+                {
+                    "change": "-23",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Oleg Kordunskiy & Cleo Koh",
+                    "coupleid": "243203",
+                    "score": "1254"
+                },
+                {
+                    "change": "-50",
+                    "result": "17",
+                    "country": "USA",
+                    "couple": "Evan Sadler & Charlene Wang",
+                    "coupleid": "239552",
+                    "score": "1263"
+                },
+                {
+                    "change": "-6",
+                    "result": "18",
+                    "country": "USA",
+                    "couple": "Nguyen Le & Suzanne Smith",
+                    "coupleid": "268684",
+                    "score": "1231"
+                },
+                {
+                    "change": "-29",
+                    "result": "19",
+                    "country": "USA",
+                    "couple": "Prashanth Rajarajan & Cindy-Yan Lin",
+                    "coupleid": "250509",
+                    "score": "1231"
+                },
+                {
+                    "change": "+18",
+                    "result": "20",
+                    "country": "USA",
+                    "couple": "Ralph Nerette & Natalye Mill",
+                    "coupleid": "233392",
+                    "score": "1163"
+                },
+                {
+                    "change": "-45",
+                    "result": "20",
+                    "country": "USA",
+                    "couple": "Giovanni Rivera & Nicolette Brycki",
+                    "coupleid": "264810",
+                    "score": "1227"
+                },
+                {
+                    "change": "-33",
+                    "result": "22",
+                    "country": "USA",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "coupleid": "85076",
+                    "score": "1207"
+                },
+                {
+                    "change": "-51",
+                    "result": "23",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1210"
+                },
+                {
+                    "change": "-8",
+                    "result": "24",
+                    "country": "USA",
+                    "couple": "Stephen Chen & Rachel Moser",
+                    "coupleid": "235759",
+                    "score": "1147"
+                }
+            ],
+            "name": "Amateur Pre Champ Latin",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        },
+        {
+            "url": "Amateur_Pre_Champ_Paso_Doble_362423",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Junis Alico & Denitsa Rakitska",
+                    "coupleid": "207582",
+                    "score": "1417"
+                },
+                {
+                    "change": "+28",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1388"
+                },
+                {
+                    "change": "+29",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eli Rosenstein & Nicole Heisler",
+                    "coupleid": "231956",
+                    "score": "1377"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dwayne Beach & Emily Lin",
+                    "coupleid": "239545",
+                    "score": "1389"
+                },
+                {
+                    "change": "+56",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Evan Sadler & Charlene Wang",
+                    "coupleid": "239552",
+                    "score": "1319"
+                },
+                {
+                    "change": "+25",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "James Repetti & Wenhui Xiao",
+                    "coupleid": "180015",
+                    "score": "1344"
+                },
+                {
+                    "change": "+30",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Dennis So Ting Fong & Louise Sumner",
+                    "coupleid": "138400",
+                    "score": "1325"
+                },
+                {
+                    "change": "+55",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1265"
+                },
+                {
+                    "change": "+31",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Joanna Mleczko",
+                    "coupleid": "263579",
+                    "score": "1304"
+                },
+                {
+                    "change": "+30",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1284"
+                },
+                {
+                    "change": "+13",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Drago Guggiana-Nilo & Christina Jarymowycz",
+                    "coupleid": "239568",
+                    "score": "1280"
+                },
+                {
+                    "change": "+30",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Nguyen Le & Suzanne Smith",
+                    "coupleid": "268684",
+                    "score": "1261"
+                },
+                {
+                    "change": "+38",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Bill Duncan & Anny Sadler",
+                    "coupleid": "207598",
+                    "score": "1087"
+                },
+                {
+                    "change": "+25",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "coupleid": "85076",
+                    "score": "1232"
+                },
+                {
+                    "change": "-54",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Cosmo Zheng & Maria Peifer",
+                    "coupleid": "268687",
+                    "score": "1296"
+                },
+                {
+                    "change": "-71",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Ilya Korsunskiy & Kathleen Mcgovern",
+                    "coupleid": "180029",
+                    "score": "1294"
+                },
+                {
+                    "change": "-65",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Michael Li & Megan Dare",
+                    "coupleid": "268688",
+                    "score": "1285"
+                },
+                {
+                    "change": "-65",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Ya Sheng Lin & Mihaela Curmei",
+                    "coupleid": "268690",
+                    "score": "1285"
+                },
+                {
+                    "change": "-79",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Dennis Porch & Mary Lou Porch",
+                    "coupleid": "268673",
+                    "score": "1317"
+                }
+            ],
+            "name": "Amateur Pre Champ Paso Doble",
+            "age": "Amateur",
+            "date": "01 Nov 2014"
+        }
+    ],
+    "compid": "26155",
+    "rating": "122"
+}

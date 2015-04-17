@@ -1,0 +1,330 @@
+{
+    "events": [
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_Standard_Championship_(W+T+VW+FT+QS)_379651",
+            "name": "Senior III Standard Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "44550",
+                    "couple": "Claude Guay & Ginette Beaulieu",
+                    "country": "Canada",
+                    "change": "+10",
+                    "score": "1351",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "20280",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "country": "USA",
+                    "change": "-10",
+                    "score": "1337",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "30454",
+                    "couple": "David Hayes & Felicia Hayes",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1178",
+                    "result": "3"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_Standard_Novice_(W+F+QS)_379652",
+            "name": "Senior III Standard Novice (W/F/QS)",
+            "results": [
+                {
+                    "coupleid": "257872",
+                    "couple": "Brenda Pellin & Rick Pellin",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1253",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "235756",
+                    "couple": "David Koontz & Connie Koontz",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1276",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "257873",
+                    "couple": "Jean-Guy Tremblay & Patti Macdonald",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1231",
+                    "result": "3"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_Standard_PreChampionship_(W+T+F+QS)_379653",
+            "name": "Senior III Standard PreChampionship (W/T/F/QS)",
+            "results": [
+                {
+                    "coupleid": "235756",
+                    "couple": "David Koontz & Connie Koontz",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1284",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "257872",
+                    "couple": "Brenda Pellin & Rick Pellin",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1257",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "40374",
+                    "couple": "Ken Mccleary & Pamela Weaver",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1241",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "30454",
+                    "couple": "David Hayes & Felicia Hayes",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1177",
+                    "result": "4"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_IV_Standard_Championship_(W+T+VW+FT+QS)_379655",
+            "name": "Senior IV Standard Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "44550",
+                    "couple": "Claude Guay & Ginette Beaulieu",
+                    "country": "Canada",
+                    "change": "+6",
+                    "score": "1357",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "20280",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1331",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "40374",
+                    "couple": "Ken Mccleary & Pamela Weaver",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1241",
+                    "result": "3"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_IV_Standard_Novice_(W+F+QS)_379656",
+            "name": "Senior IV Standard Novice (W/F/QS)",
+            "results": [
+                {
+                    "coupleid": "235756",
+                    "couple": "David Koontz & Connie Koontz",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1285",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "257873",
+                    "couple": "Jean-Guy Tremblay & Patti Macdonald",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1230",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "235765",
+                    "couple": "Joseph Kempf & Patricia Rollins",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1017",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "257874",
+                    "couple": "Vincent Dimaulo & Maria Dimaulo",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "984",
+                    "result": "4"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_IV_Standard_PreChampionship_(W+T+F+QS)_379658",
+            "name": "Senior IV Standard PreChampionship (W/T/F/QS)",
+            "results": [
+                {
+                    "coupleid": "235756",
+                    "couple": "David Koontz & Connie Koontz",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1287",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "40374",
+                    "couple": "Ken Mccleary & Pamela Weaver",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1239",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "235765",
+                    "couple": "Joseph Kempf & Patricia Rollins",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1017",
+                    "result": "3"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_II_Standard_Championship_(W+T+VW+FT+QS)_379649",
+            "name": "Senior II Standard Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "141226",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1313",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "30454",
+                    "couple": "David Hayes & Felicia Hayes",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1181",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_II_Standard_PreChampionship_(W+T+F+QS)_379650",
+            "name": "Senior II Standard PreChampionship (W/T/F/QS)",
+            "results": [
+                {
+                    "coupleid": "141226",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1313",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "257872",
+                    "couple": "Brenda Pellin & Rick Pellin",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1222",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "30454",
+                    "couple": "David Hayes & Felicia Hayes",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1178",
+                    "result": "3"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Latin",
+            "url": "Royal_Palm_Latin_Challenge_(C+R+J)_379646",
+            "name": "Royal Palm Latin Challenge (C/R/J)",
+            "results": [
+                {
+                    "coupleid": "231840",
+                    "couple": "Robin Eliot & Sally Eliot",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1511",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "275310",
+                    "couple": "Shane Gadberry & Vicki Wells",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1489",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "31 Jan 2015",
+            "style": "Latin",
+            "url": "Senior_IV_Latin_Championship_(C+S+R+PD+J)_379654",
+            "name": "Senior IV Latin Championship (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "20280",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1334",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "40374",
+                    "couple": "Ken Mccleary & Pamela Weaver",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1193",
+                    "result": "2"
+                }
+            ],
+            "age": "Over50"
+        }
+    ],
+    "compid": "27214",
+    "url": "Royal_Palm_DanceSport_Competition_2015_27214",
+    "name": "Royal Palm DanceSport Competition 2015",
+    "rating": "82"
+}

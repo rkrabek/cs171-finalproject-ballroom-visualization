@@ -1,0 +1,538 @@
+{
+    "name": "Maryland DanceSport Championships",
+    "url": "Maryland_DanceSport_Championships_27033",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_376759",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "SeHyoung Jang Don & Adele Jang Don",
+                    "coupleid": "71891",
+                    "score": "1708"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "coupleid": "176985",
+                    "score": "1624"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "coupleid": "195590",
+                    "score": "1595"
+                },
+                {
+                    "change": "=",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sergey Izyumov & Ellen Porter",
+                    "coupleid": "273897",
+                    "score": "1470"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Corey Girard & Kayla Girard",
+                    "coupleid": "231760",
+                    "score": "1295"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom",
+            "age": "Professional",
+            "date": "06 Feb 2015"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_376760",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmytro Kovalenko & Nina Kovalenko",
+                    "coupleid": "155840",
+                    "score": "1663"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "coupleid": "195590",
+                    "score": "1604"
+                },
+                {
+                    "change": "-17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "SeHyoung Jang Don & Adele Jang Don",
+                    "coupleid": "71891",
+                    "score": "1631"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "coupleid": "272805",
+                    "score": "1563"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1526"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Denis Satonin & Amanda Satonin (aka Enright)",
+                    "coupleid": "139754",
+                    "score": "1477"
+                }
+            ],
+            "name": "Professional Rising Star Latin",
+            "age": "Professional",
+            "date": "06 Feb 2015"
+        },
+        {
+            "url": "Open_Amateur_Ballroom_Scholarship_376743",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alec Zhiwei Zhang & Ersi Nie",
+                    "coupleid": "272371",
+                    "score": "1428"
+                }
+            ],
+            "name": "Open Amateur Ballroom Scholarship",
+            "age": "Amateur",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Pre_Champ_Ballroom_4_Dance_376746",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Pavlov & Isabel Tsimberg",
+                    "coupleid": "273893",
+                    "score": "1215"
+                }
+            ],
+            "name": "Junior I Pre Champ Ballroom 4 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Open_Ballroom_3_Dance_376749",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Emmanuel Malyarovich & Jenna Rubenchik",
+                    "coupleid": "273895",
+                    "score": "962"
+                }
+            ],
+            "name": "Junior II Novice Open Ballroom 3 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Pre_Champ_Ballroom_4_Dance_376750",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Emmanuel Malyarovich & Jenna Rubenchik",
+                    "coupleid": "273895",
+                    "score": "962"
+                }
+            ],
+            "name": "Junior II Pre Champ Ballroom 4 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Professional_Open_Ballroom_Championship_376757",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrey Begunov & Anna Demidova",
+                    "coupleid": "31269",
+                    "score": "1840"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Oscar Pedrinelli & Lenka Kovalcikova",
+                    "coupleid": "230401",
+                    "score": "1824"
+                },
+                {
+                    "change": "-7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gianni Caliandro & Arianna Esposito",
+                    "coupleid": "106100",
+                    "score": "1807"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Oleksiy Buravenko & Victoria Karzukhina",
+                    "coupleid": "232377",
+                    "score": "1758"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "SeHyoung Jang Don & Adele Jang Don",
+                    "coupleid": "71891",
+                    "score": "1707"
+                },
+                {
+                    "change": "+2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "coupleid": "176985",
+                    "score": "1626"
+                },
+                {
+                    "change": "-2",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "coupleid": "195590",
+                    "score": "1593"
+                },
+                {
+                    "change": "=",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Sergey Izyumov & Ellen Porter",
+                    "coupleid": "273897",
+                    "score": "1470"
+                }
+            ],
+            "name": "Professional Open Ballroom Championship",
+            "age": "Professional",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Senior_I_Open_Ballroom_Championship_376753",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Yu & Yuko Naululani Yu",
+                    "coupleid": "125574",
+                    "score": "1408"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Lynch & Rose-Ann Lynch",
+                    "coupleid": "92549",
+                    "score": "1376"
+                }
+            ],
+            "name": "Senior I Open Ballroom Championship",
+            "age": "Senior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Youth_Ballroom_Scholarship_376754",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Murat Medzhidov & Valerie Dubinsky",
+                    "coupleid": "265126",
+                    "score": "1389"
+                }
+            ],
+            "name": "Youth Ballroom Scholarship",
+            "age": "Youth",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Open_Amateur_Latin_Scholarship_376744",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stanislav Engelgardt & Tatiana Vasilieva",
+                    "coupleid": "231418",
+                    "score": "1524"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "coupleid": "38297",
+                    "score": "1462"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eric Groysman & Shelby Joy Cole",
+                    "coupleid": "263068",
+                    "score": "1419"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Raphael Matlis & Jamie Dorotov",
+                    "coupleid": "210969",
+                    "score": "1365"
+                }
+            ],
+            "name": "Open Amateur Latin Scholarship",
+            "age": "Amateur",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Open_Latin_3_Dance_376745",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Pavlov & Isabel Tsimberg",
+                    "coupleid": "273893",
+                    "score": "955"
+                },
+                {
+                    "change": "-11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Joshua Slutsky & Katrina Hall",
+                    "coupleid": "273894",
+                    "score": "933"
+                }
+            ],
+            "name": "Junior I Novice Open Latin 3 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Pre_Champ_Latin_4_Dance_376747",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Pavlov & Isabel Tsimberg",
+                    "coupleid": "273893",
+                    "score": "955"
+                }
+            ],
+            "name": "Junior I Pre Champ Latin 4 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Championship_Latin_376748",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1309"
+                }
+            ],
+            "name": "Junior II Championship Latin",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Pre_Champ_Latin_4_Dance_376751",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Tsaryk & Victoria Gribman",
+                    "coupleid": "242741",
+                    "score": "1309"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Emmanuel Malyarovich & Jenna Rubenchik",
+                    "coupleid": "273895",
+                    "score": "1116"
+                }
+            ],
+            "name": "Junior II Pre Champ Latin 4 Dance",
+            "age": "Junior",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Pre-Teen_II_Latin_Championship_376752",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vladik Sergiev & Katie West",
+                    "coupleid": "273896",
+                    "score": "1098"
+                }
+            ],
+            "name": "Pre-Teen II Latin Championship",
+            "age": "Juvenile",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Professional_Open_Latin_Championship_376758",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1770"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1748"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Dmytro Kovalenko & Nina Kovalenko",
+                    "coupleid": "155840",
+                    "score": "1664"
+                },
+                {
+                    "change": "+1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "coupleid": "195590",
+                    "score": "1605"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "coupleid": "272805",
+                    "score": "1563"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1525"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Denis Satonin & Amanda Satonin (aka Enright)",
+                    "coupleid": "139754",
+                    "score": "1476"
+                }
+            ],
+            "name": "Professional Open Latin Championship",
+            "age": "Professional",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Youth_Latin_Scholarship_376755",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Murat Medzhidov & Valerie Dubinsky",
+                    "coupleid": "265126",
+                    "score": "1376"
+                }
+            ],
+            "name": "Youth Latin Scholarship",
+            "age": "Youth",
+            "date": "07 Feb 2015"
+        },
+        {
+            "url": "Youth_Pre_Champ_Latin_4_Dance_376756",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Emmanuel Malyarovich & Jenna Rubenchik",
+                    "coupleid": "273895",
+                    "score": "1116"
+                }
+            ],
+            "name": "Youth Pre Champ Latin 4 Dance",
+            "age": "Youth",
+            "date": "07 Feb 2015"
+        }
+    ],
+    "compid": "27033",
+    "rating": "140"
+}

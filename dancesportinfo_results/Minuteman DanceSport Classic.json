@@ -1,0 +1,25 @@
+{
+    "events": [
+        {
+            "date": "02 Nov 2014",
+            "style": "Latin",
+            "url": "Adult_Open_Latin_(CRSJ)_358503",
+            "name": "Adult Open Latin (CRSJ)",
+            "results": [
+                {
+                    "coupleid": "267116",
+                    "couple": "Dulshan Kasturiratne & Katherine Stolerman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1500",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25919",
+    "url": "Minuteman_DanceSport_Classic_25919",
+    "name": "Minuteman DanceSport Classic",
+    "rating": "0"
+}

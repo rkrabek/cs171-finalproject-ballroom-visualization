@@ -1,0 +1,262 @@
+{
+    "events": [
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Adult_Novice_Standard_(WFQ)_343969",
+            "name": "Adult Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_343971",
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_343979",
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "166315",
+                    "couple": "Robert Tempas & Laurel Tempas",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1228",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1170",
+                    "result": "2"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_III_Pre-Champ_Standard_(WTFQ)_343981",
+            "name": "Senior III Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1170",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_I_Novice_Standard_(WFQ)_343973",
+            "name": "Senior I Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_343975",
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_343976",
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "166315",
+                    "couple": "Robert Tempas & Laurel Tempas",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1226",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1172",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_343977",
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1172",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Adult_Novice_Latin_(SCR)_343968",
+            "name": "Adult Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1062",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_343970",
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1062",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Senior_III_Championship_Latin_(SCRPJ)_343978",
+            "name": "Senior III Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1214",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Senior_III_Pre-Champ_Latin_(SCRJ)_343980",
+            "name": "Senior III Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1214",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Senior_I_Novice_Latin_(SCR)_343972",
+            "name": "Senior I Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1062",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "06 Sep 2014",
+            "style": "Latin",
+            "url": "Senior_I_Pre-Champ_Latin_(SCRJ)_343974",
+            "name": "Senior I Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "258169",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1062",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        }
+    ],
+    "compid": "24964",
+    "url": "Kansas_City_Dance_Classic_24964",
+    "name": "Kansas City Dance Classic",
+    "rating": "67"
+}

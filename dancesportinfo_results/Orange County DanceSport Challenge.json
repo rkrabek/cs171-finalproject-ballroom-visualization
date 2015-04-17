@@ -1,0 +1,1511 @@
+{
+    "name": "Orange County DanceSport Challenge",
+    "url": "Orange_County_DanceSport_Challenge_25395",
+    "events": [
+        {
+            "url": "Amateur_Open_Intl_Ballroom_(W+T+VW+F+Q)_350299",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Marek Klepadlo & Liana Bakhtiarova",
+                    "coupleid": "252881",
+                    "score": "1585"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Angus Sinclair & Dara Campbell",
+                    "coupleid": "38396",
+                    "score": "1523"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Spring Liang",
+                    "coupleid": "264043",
+                    "score": "1494"
+                }
+            ],
+            "name": "Amateur Open Intl Ballroom (W/T/VW/F/Q)",
+            "age": "Amateur",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Novice_Intl_Ballroom_(W+Q)_350301",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Cho & Sasha Nielsen",
+                    "coupleid": "257697",
+                    "score": "967"
+                }
+            ],
+            "name": "Junior I Novice Int'l Ballroom (W/Q)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Intl_Ballroom_(W+T+Q)_350304",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Cho & Sasha Nielsen",
+                    "coupleid": "257697",
+                    "score": "967"
+                }
+            ],
+            "name": "Junior I Pre-Champ Int'l Ballroom (W/T/Q)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Open_Intl_Ballroom_(W+T+VW+F+Q)_350308",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1166"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Quentin Frivaldi-Vargas & Kahlo Quinn",
+                    "coupleid": "264049",
+                    "score": "1328"
+                }
+            ],
+            "name": "Junior II Open Int'l Ballroom (W/T/VW/F/Q)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Intl_Ballroom_(W+T+Q)_350322",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1188"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Quentin Frivaldi-Vargas & Arly Adame",
+                    "coupleid": "264050",
+                    "score": "1249"
+                }
+            ],
+            "name": "Junior II Pre-Champ Int'l Ballroom (W/T/Q)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Juvenile_2-Dance_Closed_Intl_Ballroom_(W+Q)_350330",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Albert Gordeev & Milan Kats",
+                    "coupleid": "249231",
+                    "score": "1231"
+                },
+                {
+                    "change": "-11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Shai Shafir & Sophia Morrison",
+                    "coupleid": "264053",
+                    "score": "1209"
+                }
+            ],
+            "name": "Juvenile 2-Dance Closed Int'l Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Rising_Star_Pro_Intl_Ballroom_(W+T+VW+F+Q)_350453",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "coupleid": "261721",
+                    "score": "1692"
+                },
+                {
+                    "change": "+9",
+                    "result": "2",
+                    "country": "Italy",
+                    "couple": "Stefano Di Brino & Bianka Zubrowska",
+                    "coupleid": "196905",
+                    "score": "1602"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1590"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jonathan Atkinson & Lorena Bravo",
+                    "coupleid": "211875",
+                    "score": "1542"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "Philippines",
+                    "couple": "Jerswin Poloyapoy & Anne Poloyapoy",
+                    "coupleid": "1255",
+                    "score": "1498"
+                }
+            ],
+            "name": "Rising Star Pro Intl Ballroom (W/T/VW/F/Q)",
+            "age": "Professional",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Novice_International_Ballroom_(W+Q)_350396",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Bessie Chao",
+                    "coupleid": "264084",
+                    "score": "1256"
+                },
+                {
+                    "change": "+18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Francis Rotella & Linda Teng",
+                    "coupleid": "257252",
+                    "score": "1141"
+                },
+                {
+                    "change": "-18",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sunny Wong & Jackie Han-Rubinstein",
+                    "coupleid": "264085",
+                    "score": "1198"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Grossman & Barbara Grossman",
+                    "coupleid": "190252",
+                    "score": "1079"
+                }
+            ],
+            "name": "Senior I Novice International Ballroom (W/Q)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_International_Ballroom_(W+F+Q)_350403",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Bessie Chao",
+                    "coupleid": "264084",
+                    "score": "1257"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Francis Rotella & Linda Teng",
+                    "coupleid": "257252",
+                    "score": "1157"
+                },
+                {
+                    "change": "+15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Grossman & Barbara Grossman",
+                    "coupleid": "190252",
+                    "score": "1094"
+                },
+                {
+                    "change": "-31",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sunny Wong & Jackie Han-Rubinstein",
+                    "coupleid": "264085",
+                    "score": "1167"
+                }
+            ],
+            "name": "Senior I Pre-Champ International Ballroom (W/F/Q)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Novice_International_Ballroom_(W+Q)_350430",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Grossman & Barbara Grossman",
+                    "coupleid": "190252",
+                    "score": "1116"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Bessie Chao",
+                    "coupleid": "264084",
+                    "score": "1235"
+                }
+            ],
+            "name": "Senior II Novice International Ballroom (W/Q)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_International_Ballroom_(W+F+Q)_350436",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Bessie Chao",
+                    "coupleid": "264084",
+                    "score": "1235"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Grossman & Barbara Grossman",
+                    "coupleid": "190252",
+                    "score": "1116"
+                }
+            ],
+            "name": "Senior II Pre-Champ International Ballroom (W/F/Q)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Youth_Open_Intl_Ballroom_(W+T+VW+F+Q)_350447",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1188"
+                }
+            ],
+            "name": "Youth Open Int'l Ballroom (W/T/VW/F/Q)",
+            "age": "Youth",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Youth_Pre-Champ_Intl_Ballroom_(W+T+Q)_350450",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1188"
+                }
+            ],
+            "name": "Youth Pre-Champ Int'l Ballroom (W/T/Q)",
+            "age": "Youth",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Amateur_Open_Intl_Latin_(C+S+R+P+J)_350300",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mitchell Itkin & Natasha Shevchenko",
+                    "coupleid": "232147",
+                    "score": "1433"
+                }
+            ],
+            "name": "Amateur Open Intl Latin (C/S/R/P/J)",
+            "age": "Amateur",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Novice_Latin_(C+R)_350302",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jason Labra & Leilani Hernandez",
+                    "coupleid": "264044",
+                    "score": "1046"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Cho & Sasha Nielsen",
+                    "coupleid": "257697",
+                    "score": "1027"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Hugo Menendez & Nareh Kayoumjan",
+                    "coupleid": "264045",
+                    "score": "943"
+                }
+            ],
+            "name": "Junior I Novice Latin (C/R)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Open_Latin_(C+S+R+P+J)_350303",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Geramy Lashchev & Isabella Katz",
+                    "coupleid": "148609",
+                    "score": "1264"
+                },
+                {
+                    "change": "+15",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Voronel & Masha Rapp",
+                    "coupleid": "125592",
+                    "score": "1221"
+                },
+                {
+                    "change": "-26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Loren Silverman & Monet Pinkett",
+                    "coupleid": "233297",
+                    "score": "1230"
+                }
+            ],
+            "name": "Junior I Open Latin (C/S/R/P/J)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Latin_(C+S+R)_350305",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Geramy Lashchev & Isabella Katz",
+                    "coupleid": "148609",
+                    "score": "1268"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Voronel & Masha Rapp",
+                    "coupleid": "125592",
+                    "score": "1227"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Loren Silverman & Monet Pinkett",
+                    "coupleid": "233297",
+                    "score": "1221"
+                },
+                {
+                    "change": "+15",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jason Labra & Leilani Hernandez",
+                    "coupleid": "264044",
+                    "score": "1061"
+                },
+                {
+                    "change": "+9",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michael Cho & Sasha Nielsen",
+                    "coupleid": "257697",
+                    "score": "1036"
+                },
+                {
+                    "change": "-24",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Charlie Johnson & Grace Prabhu",
+                    "coupleid": "200086",
+                    "score": "1122"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Hugo Menendez & Nareh Kayoumjan",
+                    "coupleid": "264045",
+                    "score": "943"
+                }
+            ],
+            "name": "Junior I Pre-Champ Latin (C/S/R)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Novice_Latin_(C+R)_350306",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristofer Poladian & Sarah Abitria",
+                    "coupleid": "264046",
+                    "score": "1198"
+                }
+            ],
+            "name": "Junior II Novice Latin (C/R)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Open_Latin_(C+S+R+P+J)_350321",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aaron Altman & Rashell Khalfin",
+                    "coupleid": "42871",
+                    "score": "1301"
+                },
+                {
+                    "change": "+17",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1244"
+                },
+                {
+                    "change": "-35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Quentin Frivaldi-Vargas & Arly Adame",
+                    "coupleid": "264050",
+                    "score": "1315"
+                }
+            ],
+            "name": "Junior II Open Latin (C/S/R/P/J)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Latin_(C+S+R)_350327",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+33",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristofer Poladian & Sarah Abitria",
+                    "coupleid": "264046",
+                    "score": "1231"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1241"
+                },
+                {
+                    "change": "-30",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Quentin Frivaldi-Vargas & Kahlo Quinn",
+                    "coupleid": "264049",
+                    "score": "1235"
+                }
+            ],
+            "name": "Junior II Pre-Champ Latin (C/S/R)",
+            "age": "Junior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Juvenile_2-Dance_Closed_Latin_(C+R)_350331",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Mishella Vishnevskiy",
+                    "coupleid": "260845",
+                    "score": "1250"
+                },
+                {
+                    "change": "+19",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robby Milstead & Sofia Sachenko",
+                    "coupleid": "253833",
+                    "score": "1221"
+                },
+                {
+                    "change": "+13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Albert Gordeev & Milan Kats",
+                    "coupleid": "249231",
+                    "score": "1206"
+                },
+                {
+                    "change": "+19",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mark Tedesco & Kateryna Luzyanina",
+                    "coupleid": "253835",
+                    "score": "1178"
+                },
+                {
+                    "change": "-31",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Shai Shafir & Sophia Morrison",
+                    "coupleid": "264053",
+                    "score": "1189"
+                },
+                {
+                    "change": "-28",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Jaxon Smith & Emmerson Smith",
+                    "coupleid": "249232",
+                    "score": "1168"
+                }
+            ],
+            "name": "Juvenile 2-Dance Closed Latin (C/R)",
+            "age": "Juvenile",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Juvenile_5-Dance_Closed_Latin_(C+S+R+P+J)_350354",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Mishella Vishnevskiy",
+                    "coupleid": "260845",
+                    "score": "1256"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robby Milstead & Sofia Sachenko",
+                    "coupleid": "253833",
+                    "score": "1223"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Albert Gordeev & Milan Kats",
+                    "coupleid": "249231",
+                    "score": "1198"
+                }
+            ],
+            "name": "Juvenile 5-Dance Closed Latin (C/S/R/P/J)",
+            "age": "Juvenile",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Novice_International_Latin_(C+R)_350431",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Murphy & Christine Lys",
+                    "coupleid": "264094",
+                    "score": "1014"
+                }
+            ],
+            "name": "Senior II Novice International Latin (C/R)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_International_Latin_(C+S+R)_350437",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Murphy & Christine Lys",
+                    "coupleid": "264094",
+                    "score": "1014"
+                }
+            ],
+            "name": "Senior II Pre-Champ International Latin (C/S/R)",
+            "age": "Senior",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Youth_Open_Latin_(C+S+R+P+J)_350448",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mitchell Itkin & Natasha Shevchenko",
+                    "coupleid": "232147",
+                    "score": "1433"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Aaron Altman & Rashell Khalfin",
+                    "coupleid": "42871",
+                    "score": "1302"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1240"
+                }
+            ],
+            "name": "Youth Open Latin (C/S/R/P/J)",
+            "age": "Youth",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Youth_Pre-Champ_Latin_(C+S+R)_350451",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Swiger & Arina Shtykova",
+                    "coupleid": "170243",
+                    "score": "1240"
+                }
+            ],
+            "name": "Youth Pre-Champ Latin (C/S/R)",
+            "age": "Youth",
+            "date": "10 Oct 2014"
+        },
+        {
+            "url": "Professional_Open_Intl_Ballroom_(W+T+VW+F+Q)_350459",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1762"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "coupleid": "261721",
+                    "score": "1692"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "Italy",
+                    "couple": "Stefano Di Brino & Bianka Zubrowska",
+                    "coupleid": "196905",
+                    "score": "1608"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1584"
+                }
+            ],
+            "name": "Professional Open Intl Ballroom (W/T/VW/F/Q)",
+            "age": "Professional",
+            "date": "11 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Open_International_Latin_(C+S+R+P)_350442",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "George Dao & Vickie Dao",
+                    "coupleid": "232843",
+                    "score": "1121"
+                }
+            ],
+            "name": "Senior III Open International Latin (C/S/R/P)",
+            "age": "Over50",
+            "date": "11 Oct 2014"
+        },
+        {
+            "url": "Rising_Star_Pro_Intl_Latin_(C+S+R+P+J)_350457",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Maksim Kapitannikov & Natalia Fridmanovich",
+                    "coupleid": "217919",
+                    "score": "1672"
+                },
+                {
+                    "change": "-7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "coupleid": "232132",
+                    "score": "1656"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1578"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Artemi Okunev & Yulia Dragina",
+                    "coupleid": "205045",
+                    "score": "1545"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Israel Pena & Lisa Holt",
+                    "coupleid": "217793",
+                    "score": "1489"
+                }
+            ],
+            "name": "Rising Star Pro Intl Latin (C/S/R/P/J)",
+            "age": "Professional",
+            "date": "11 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Open_International_Latin_(C+S+R+P)_350427",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roger Korsiak & Holli Hornlien",
+                    "coupleid": "243205",
+                    "score": "1373"
+                }
+            ],
+            "name": "Senior I Open International Latin (C/S/R/P)",
+            "age": "Senior",
+            "date": "11 Oct 2014"
+        },
+        {
+            "url": "PreTeen_I_2-Dance_Closed_Intl_Ballroom_(W+Q)_350360",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+15",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1214"
+                },
+                {
+                    "change": "-13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Gabriel Cho & Alena Nielsen",
+                    "coupleid": "258827",
+                    "score": "1207"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Linnik & Gianna Moskalenko",
+                    "coupleid": "236078",
+                    "score": "1142"
+                }
+            ],
+            "name": "PreTeen I 2-Dance Closed Int'l Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_I_3-Dance_Closed_Intl_Ballroom_(W+T+Q)_350374",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Linnik & Gianna Moskalenko",
+                    "coupleid": "236078",
+                    "score": "1142"
+                }
+            ],
+            "name": "PreTeen I 3-Dance Closed Int'l Ballroom (W/T/Q)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_II_2-Dance_Closed_Intl_Ballroom_(W+Q)_350383",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Sam Payton & Gem Hersh",
+                    "coupleid": "256326",
+                    "score": "1097"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Cho & Anika Nielsen",
+                    "coupleid": "202951",
+                    "score": "854"
+                }
+            ],
+            "name": "PreTeen II 2-Dance Closed Int'l Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_II_3-Dance_Closed_Intl_Ballroom_(W+T+Q)_350385",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Sam Payton & Gem Hersh",
+                    "coupleid": "256326",
+                    "score": "1097"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Cho & Anika Nielsen",
+                    "coupleid": "202951",
+                    "score": "854"
+                }
+            ],
+            "name": "PreTeen II 3-Dance Closed Int'l Ballroom (W/T/Q)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Open_International_Ballroom_(W+T+F+Q)_350440",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Charn Wong & Wan Guan",
+                    "coupleid": "264096",
+                    "score": "1324"
+                }
+            ],
+            "name": "Senior III Open International Ballroom (W/T/F/Q)",
+            "age": "Over50",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Senior_IV_Open_International_Ballroom_(W+T+F+Q)_350443",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "George Jin & Hetty Chang",
+                    "coupleid": "20448",
+                    "score": "1265"
+                }
+            ],
+            "name": "Senior IV Open International Ballroom (W/T/F/Q)",
+            "age": "Over50",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Open_International_Ballroom_(W+T+F+Q)_350405",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Angus Sinclair & Dara Campbell",
+                    "coupleid": "38396",
+                    "score": "1523"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Spring Liang",
+                    "coupleid": "264043",
+                    "score": "1370"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eric Tung & Lisa Dryer",
+                    "coupleid": "221449",
+                    "score": "1344"
+                }
+            ],
+            "name": "Senior I Open International Ballroom (W/T/F/Q)",
+            "age": "Senior",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Open_International_Ballroom_(W+T+F+Q)_350438",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+13",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Donovan Hsiao & Teresa Lee",
+                    "coupleid": "169851",
+                    "score": "1374"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Eric Tung & Lisa Dryer",
+                    "coupleid": "221449",
+                    "score": "1351"
+                },
+                {
+                    "change": "+12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jacky Lei & Bessie Chao",
+                    "coupleid": "264084",
+                    "score": "1314"
+                },
+                {
+                    "change": "-30",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Charn Wong & Wan Guan",
+                    "coupleid": "264096",
+                    "score": "1324"
+                }
+            ],
+            "name": "Senior II Open International Ballroom (W/T/F/Q)",
+            "age": "Senior",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_I_2-Dance_Closed_Latin_(C+R)_350373",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1237"
+                },
+                {
+                    "change": "+18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alex Arutyunyan & Victoria Altuhyan",
+                    "coupleid": "253829",
+                    "score": "1166"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Aiden Lewandowski & Anaisa Gorbea",
+                    "coupleid": "233293",
+                    "score": "1167"
+                },
+                {
+                    "change": "-10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Andrew Perkins & Anna Yekhilevsky",
+                    "coupleid": "202948",
+                    "score": "1146"
+                },
+                {
+                    "change": "+2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michael Linnik & Gianna Moskalenko",
+                    "coupleid": "236078",
+                    "score": "1100"
+                },
+                {
+                    "change": "-4",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Brandon Cheng & Maria Tikhonova",
+                    "coupleid": "253830",
+                    "score": "1079"
+                },
+                {
+                    "change": "-2",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Gabriel Cho & Alena Nielsen",
+                    "coupleid": "258827",
+                    "score": "1035"
+                }
+            ],
+            "name": "PreTeen I 2-Dance Closed Latin (C/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_I_3-Dance_Closed_Latin_(C+S+R)_350376",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+52",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Levon Poghosyan & Natalie Semerdjian",
+                    "coupleid": "258815",
+                    "score": "1169"
+                },
+                {
+                    "change": "+55",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Cheng & Maria Tikhonova",
+                    "coupleid": "253830",
+                    "score": "1134"
+                },
+                {
+                    "change": "+40",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Linnik & Gianna Moskalenko",
+                    "coupleid": "236078",
+                    "score": "1140"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Alex Arutyunyan & Victoria Altuhyan",
+                    "coupleid": "253829",
+                    "score": "1164"
+                },
+                {
+                    "change": "-33",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Robby Milstead & Sofia Sachenko",
+                    "coupleid": "253833",
+                    "score": "1190"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Andrew Perkins & Anna Yekhilevsky",
+                    "coupleid": "202948",
+                    "score": "1132"
+                },
+                {
+                    "change": "-35",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Aiden Lewandowski & Anaisa Gorbea",
+                    "coupleid": "233293",
+                    "score": "1132"
+                },
+                {
+                    "change": "-64",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Mishella Vishnevskiy",
+                    "coupleid": "260845",
+                    "score": "1182"
+                }
+            ],
+            "name": "PreTeen I 3-Dance Closed Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_I_5_Dance_Closed_Latin_(C+S+R+P+J)_350381",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+29",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Levon Poghosyan & Natalie Semerdjian",
+                    "coupleid": "258815",
+                    "score": "1198"
+                },
+                {
+                    "change": "+28",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Andrew Perkins & Anna Yekhilevsky",
+                    "coupleid": "202948",
+                    "score": "1160"
+                },
+                {
+                    "change": "-22",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Elijah Geolina & Simone Itkin",
+                    "coupleid": "232156",
+                    "score": "1190"
+                },
+                {
+                    "change": "-35",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1174"
+                }
+            ],
+            "name": "PreTeen I 5 Dance Closed Latin (C/S/R/P/J)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_II_2-Dance_Closed_Latin_(C+R)_350384",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Julian Menendez & Taylor Talbot-Clark",
+                    "coupleid": "264078",
+                    "score": "1220"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniil Shaplov & Nikolette Tombu",
+                    "coupleid": "258820",
+                    "score": "1062"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Daniel Cho & Anika Nielsen",
+                    "coupleid": "202951",
+                    "score": "839"
+                }
+            ],
+            "name": "PreTeen II 2-Dance Closed Latin (C/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_II_3-Dance_Closed_Latin_(C+S+R)_350388",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Bannykh & Laurin Tiangco",
+                    "coupleid": "164204",
+                    "score": "1250"
+                },
+                {
+                    "change": "+9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Khizhnyak & Maria Khizhnyak",
+                    "coupleid": "264079",
+                    "score": "1229"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Steven Knyazhen & Emma Weisbach",
+                    "coupleid": "264080",
+                    "score": "1216"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Julian Menendez & Taylor Talbot-Clark",
+                    "coupleid": "264078",
+                    "score": "1203"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Daniil Shaplov & Nikolette Tombu",
+                    "coupleid": "258820",
+                    "score": "1062"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Daniel Cho & Anika Nielsen",
+                    "coupleid": "202951",
+                    "score": "839"
+                }
+            ],
+            "name": "PreTeen II 3-Dance Closed Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "PreTeen_II_5_Dance_Closed_Latin_(C+S+R+P+J)_350390",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Bannykh & Laurin Tiangco",
+                    "coupleid": "164204",
+                    "score": "1256"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Elijah Geolina & Simone Itkin",
+                    "coupleid": "232156",
+                    "score": "1206"
+                },
+                {
+                    "change": "+12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eric Mkhitaryan & Taguhi Hovhannisyan",
+                    "coupleid": "146878",
+                    "score": "1172"
+                },
+                {
+                    "change": "-32",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Khizhnyak & Maria Khizhnyak",
+                    "coupleid": "264079",
+                    "score": "1197"
+                }
+            ],
+            "name": "PreTeen II 5 Dance Closed Latin (C/S/R/P/J)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Teddy_Bear_2-Dance_Closed_Latin_(C+R)_350444",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nikolai Ivanov & Irishka Ivanov",
+                    "coupleid": "258825",
+                    "score": "1159"
+                }
+            ],
+            "name": "Teddy Bear 2-Dance Closed Latin (C/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Teddy_Bear_3-Dance_Closed_Latin_(C+S+R)_350445",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nikolai Ivanov & Irishka Ivanov",
+                    "coupleid": "258825",
+                    "score": "1159"
+                }
+            ],
+            "name": "Teddy Bear 3-Dance Closed Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "12 Oct 2014"
+        },
+        {
+            "url": "Professional_Open_Intl_Latin_(C+S+R+P+J)_350460",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1752"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Evgeni Likhachev & Maria Levina",
+                    "coupleid": "104712",
+                    "score": "1672"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Maksim Kapitannikov & Natalia Fridmanovich",
+                    "coupleid": "217919",
+                    "score": "1668"
+                },
+                {
+                    "change": "-9",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "coupleid": "232132",
+                    "score": "1647"
+                },
+                {
+                    "change": "+2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1580"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Artemi Okunev & Yulia Dragina",
+                    "coupleid": "205045",
+                    "score": "1544"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Israel Pena & Lisa Holt",
+                    "coupleid": "217793",
+                    "score": "1488"
+                }
+            ],
+            "name": "Professional Open Intl Latin (C/S/R/P/J)",
+            "age": "Professional",
+            "date": "12 Oct 2014"
+        }
+    ],
+    "compid": "25395",
+    "rating": "170"
+}

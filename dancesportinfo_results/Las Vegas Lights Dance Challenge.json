@@ -1,0 +1,375 @@
+{
+    "events": [
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Novice_Ballroom_(W+FT+QS)_324156",
+            "name": "Amateur Novice Ballroom (W/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "208239",
+                    "couple": "Benjamin Schultz & Christina Wintch",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1247",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "237843",
+                    "couple": "Samuel Young & Vicky Bouche",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1180",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "256362",
+                    "couple": "Justin Wang & Rose Martin",
+                    "country": "USA",
+                    "change": "+14",
+                    "score": "1064",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "256330",
+                    "couple": "Eric Campbell & Elizabeth Lee",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "256324",
+                    "couple": "Alejandro Quan & Karen Haddleston",
+                    "country": "USA",
+                    "change": "-14",
+                    "score": "1036",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Open_Amateur_Ballroom_(W+T+FT+VW+QS)_324202",
+            "name": "Open Amateur Ballroom (W/T/FT/VW/QS)",
+            "results": [
+                {
+                    "coupleid": "208235",
+                    "couple": "Alex Wang & Grace Wang",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1547",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Under_35_Pre-Novice_Ballroom_(FT+QS)_324159",
+            "name": "Under 35 Pre-Novice Ballroom (FT/QS)",
+            "results": [
+                {
+                    "coupleid": "256362",
+                    "couple": "Justin Wang & Rose Martin",
+                    "country": "USA",
+                    "change": "+15",
+                    "score": "1079",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "256330",
+                    "couple": "Eric Campbell & Elizabeth Lee",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1063",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "256324",
+                    "couple": "Alejandro Quan & Karen Haddleston",
+                    "country": "USA",
+                    "change": "-3",
+                    "score": "1039",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "256321",
+                    "couple": "Kevin Wynn & Rossana Cheng",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1018",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Under_35_Pre-Novice_Ballroom_(W+T)_324158",
+            "name": "Under 35 Pre-Novice Ballroom (W/T)",
+            "results": [
+                {
+                    "coupleid": "256330",
+                    "couple": "Eric Campbell & Elizabeth Lee",
+                    "country": "USA",
+                    "change": "+15",
+                    "score": "1065",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "256324",
+                    "couple": "Alejandro Quan & Karen Haddleston",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1042",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "256321",
+                    "couple": "Kevin Wynn & Rossana Cheng",
+                    "country": "USA",
+                    "change": "-21",
+                    "score": "1029",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Under_50_Ballroom_Pre-Champ_(W+T+FT+QS)_324157",
+            "name": "Under 50 Ballroom Pre-Champ (W/T/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "181176",
+                    "couple": "Edward Lam & Tina Lam",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1374",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "208239",
+                    "couple": "Benjamin Schultz & Christina Wintch",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1248",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "237843",
+                    "couple": "Samuel Young & Vicky Bouche",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1179",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Junior_Pre-Champ_Ballroom_(W+T+Q)_324152",
+            "name": "Junior Pre-Champ Ballroom (W/T/Q)",
+            "results": [
+                {
+                    "coupleid": "239220",
+                    "couple": "Seth Payton & Angel Adams",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1344",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Under_11_Pre_Champ_Ballroom_(W+T+Q)_324162",
+            "name": "Under 11 Pre Champ Ballroom (W/T/Q)",
+            "results": [
+                {
+                    "coupleid": "256326",
+                    "couple": "Sam Payton & Gem Hersh",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1128",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Over_50_Ballroom_(W+T+FT+QS)_324167",
+            "name": "Over 50 Ballroom (W/T/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "103862",
+                    "couple": "Anthony Sanchez-Torres & Marina Sanchez-Torres",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1380",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "199082",
+                    "couple": "Ken Liu & Wendy Liu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1281",
+                    "result": "2"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Over_35_Ballroom_(W+T+FT+VW+QS)_324164",
+            "name": "Over 35 Ballroom (W/T/FT/VW/QS)",
+            "results": [
+                {
+                    "coupleid": "181176",
+                    "couple": "Edward Lam & Tina Lam",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1374",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "199082",
+                    "couple": "Ken Liu & Wendy Liu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1281",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Amateur_Novice_Latin_(CC+R+J)_324154",
+            "name": "Amateur Novice Latin (CC/R/J)",
+            "results": [
+                {
+                    "coupleid": "237843",
+                    "couple": "Samuel Young & Vicky Bouche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1117",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Under_50_Latin_Pre-Champ_(CC+S+R+J)_324153",
+            "name": "Under 50 Latin Pre-Champ (CC/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "237843",
+                    "couple": "Samuel Young & Vicky Bouche",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1117",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Junior_Latin_(C+S+R+P+J)_324173",
+            "name": "Junior Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "171773",
+                    "couple": "Morgan Baumann & Lilian Meier",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1205",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Junior_Pre_Champ_Latin_(C+S+J)_324172",
+            "name": "Junior Pre Champ Latin (C/S/J)",
+            "results": [
+                {
+                    "coupleid": "171773",
+                    "couple": "Morgan Baumann & Lilian Meier",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1205",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Under_11_Latin_(C+S+R+J)_324170",
+            "name": "Under 11 Latin (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "215463",
+                    "couple": "Franco Alvarez & Isabella Lohr",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1194",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Latin",
+            "url": "Under_11_Pre_Champ_Latin_(C+S+J)_324169",
+            "name": "Under 11 Pre Champ Latin (C/S/J)",
+            "results": [
+                {
+                    "coupleid": "215463",
+                    "couple": "Franco Alvarez & Isabella Lohr",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1194",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "256340",
+                    "couple": "Anton Hakopian & Jocelyn Morales",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1098",
+                    "result": "2"
+                }
+            ],
+            "age": "Juvenile"
+        }
+    ],
+    "compid": "24008",
+    "url": "Las_Vegas_Lights_Dance_Challenge_24008",
+    "name": "Las Vegas Lights Dance Challenge",
+    "rating": "79"
+}

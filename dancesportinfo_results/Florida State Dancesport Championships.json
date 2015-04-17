@@ -1,0 +1,99 @@
+{
+    "events": [
+        {
+            "date": "31 Jul 2014",
+            "style": "Ballroom",
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+FT+QS)_339577",
+            "name": "Professional Rising Star Ballroom (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "255621",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1745",
+                    "result": "1"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "31 Jul 2014",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_(C+S+R+PD+J)_339578",
+            "name": "Professional Rising Star Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "253894",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1570",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "-6",
+                    "score": "1535",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "01 Aug 2014",
+            "style": "Ballroom",
+            "url": "Roy_Mavor_Professional_Open_Ballroom(W+T+VW+FT+QS)_339579",
+            "name": "Roy Mavor Professional Open Ballroom(W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "147130",
+                    "couple": "Alexandr Voskalchuk & Veronika Egorova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1878",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "13660",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "country": "USA",
+                    "change": "+9",
+                    "score": "1744",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "255621",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1737",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "209306",
+                    "couple": "Anton Belov & Irina Belova",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1634",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "255322",
+                    "couple": "William Proper & Jennifer Elliott",
+                    "country": "USA",
+                    "change": "-13",
+                    "score": "1650",
+                    "result": "5"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "24718",
+    "url": "Florida_State_Dancesport_Championships_24718",
+    "name": "Florida State Dancesport Championships",
+    "rating": "69"
+}

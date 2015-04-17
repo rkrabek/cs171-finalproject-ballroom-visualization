@@ -1,0 +1,58 @@
+{
+    "events": [
+        {
+            "date": "23 Sep 2014",
+            "style": "Ballroom",
+            "url": "Pro_Rising_Star_Intl_Ballroom_(W+T+VW+F+Q)_347011",
+            "name": "Pro Rising Star Int'l Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "196905",
+                    "couple": "Stefano Di Brino & Bianka Zubrowska",
+                    "country": "Italy",
+                    "change": "=",
+                    "score": "1593",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "18026",
+                    "couple": "Shoji Fujimi & Yoshiko Fujimi",
+                    "country": "Japan",
+                    "change": "=",
+                    "score": "1418",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 Sep 2014",
+            "style": "Latin",
+            "url": "Pro_Rising_Star_Intl_Latin_(C+S+R+PD+J)_347007",
+            "name": "Pro Rising Star Int'l Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "128779",
+                    "couple": "Vasily Golovine & Anastasia Banderovskaya",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1459",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "18026",
+                    "couple": "Shoji Fujimi & Yoshiko Fujimi",
+                    "country": "Japan",
+                    "change": "-1",
+                    "score": "1382",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "25162",
+    "url": "Hawaii_Star_Ball_25162",
+    "name": "Hawaii Star Ball",
+    "rating": "76"
+}

@@ -1,0 +1,408 @@
+{
+    "events": [
+        {
+            "date": "13 Mar 2015",
+            "style": "Ballroom",
+            "url": "Professional_RS_Standard_Champ_(W+T+VW+FT+QS)_384796",
+            "name": "Professional RS Standard Champ (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "261721",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1730",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1700",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "195590",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1630",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "13 Mar 2015",
+            "style": "Latin",
+            "url": "Professional_RS_Latin_Championship_(C+S+R+PD+J)_384797",
+            "name": "Professional RS Latin Championship (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1632",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195590",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1608",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "272805",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "country": "USA",
+                    "change": "-10",
+                    "score": "1583",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "13 Mar 2015",
+            "style": "10 Dance",
+            "url": "Amateur_Closed_6_Dance_Championships_384793",
+            "name": "Amateur Closed 6 Dance Championships",
+            "results": [
+                {
+                    "coupleid": "277286",
+                    "couple": "Saul Kalvaitis & Diana Roberts",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1500",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "13 Mar 2015",
+            "style": "10 Dance",
+            "url": "Senior_Closed_6_Dance_Championships_384794",
+            "name": "Senior Closed 6 Dance Championships",
+            "results": [
+                {
+                    "coupleid": "277287",
+                    "couple": "John Howe & Diana Roberts",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1475",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Pre-Championship_Tango_384773",
+            "name": "Amateur Pre-Championship Tango",
+            "results": [
+                {
+                    "coupleid": "277276",
+                    "couple": "Huashi Ding & Zeng Yan",
+                    "country": "USA",
+                    "change": "+16",
+                    "score": "1355",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "277275",
+                    "couple": "John Koester & Ana Arruda",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1345",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Standard_Pre-Champ_3-Dance_(W+FT+QS)_384772",
+            "name": "Amateur Standard Pre-Champ 3-Dance (W/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "277275",
+                    "couple": "John Koester & Ana Arruda",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1361",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "277276",
+                    "couple": "Huashi Ding & Zeng Yan",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1339",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Standard_Pre-Champ_Viennese_Waltz_384774",
+            "name": "Amateur Standard Pre-Champ Viennese Waltz",
+            "results": [
+                {
+                    "coupleid": "277276",
+                    "couple": "Huashi Ding & Zeng Yan",
+                    "country": "USA",
+                    "change": "+9",
+                    "score": "1364",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "277275",
+                    "couple": "John Koester & Ana Arruda",
+                    "country": "USA",
+                    "change": "-9",
+                    "score": "1336",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Professional_Open_Standard_Champ_(W+T+VW+FT+QS)_384798",
+            "name": "Professional Open Standard Champ (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "6330",
+                    "couple": "Emanuele Pappacena & Francesca Pappacena (aka Lazzari)",
+                    "country": "USA",
+                    "change": "+14",
+                    "score": "1736",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "261721",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1724",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "-7",
+                    "score": "1693",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "195590",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1629",
+                    "result": "4"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_Standard_Open_Championship_(W+T+VW+FT+QS)_384785",
+            "name": "Senior Standard Open Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "12112",
+                    "couple": "Ian Redmount & Hisako Matsuo",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1209",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1148",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Senior_Standard_Pre-Champ_3-Dance_(W+FT+QS)_384788",
+            "name": "Senior Standard Pre-Champ 3-Dance (W/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "12112",
+                    "couple": "Ian Redmount & Hisako Matsuo",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1210",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1147",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Latin",
+            "url": "Amateur_Latin_Pre-Championship_3-Dance_(C+S+R)_384771",
+            "name": "Amateur Latin Pre-Championship 3-Dance (C/S/R)",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_Championship_(C+S+R+PD+J)_384799",
+            "name": "Professional Open Latin Championship (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "272168",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1638",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195590",
+                    "couple": "Hariton Homenko & Anastasiya Homenko (aka Malyshkina)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1608",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "272805",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1577",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Latin",
+            "url": "Senior_Latin_Open_Championship_(C+S+R+PD+J)_384782",
+            "name": "Senior Latin Open Championship (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "12112",
+                    "couple": "Ian Redmount & Hisako Matsuo",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1267",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1176",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Latin",
+            "url": "Senior_Latin_Pre-Championship_3-Dance_(C+S+R)_384783",
+            "name": "Senior Latin Pre-Championship 3-Dance (C/S/R)",
+            "results": [
+                {
+                    "coupleid": "12112",
+                    "couple": "Ian Redmount & Hisako Matsuo",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1267",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "195584",
+                    "couple": "Ralph Smith & Sarah Fu",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1176",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "15 Mar 2015",
+            "style": "Latin",
+            "url": "Amateur_I_Latin_Open_Championship_(C+S+R+PD+J)_384780",
+            "name": "Amateur I Latin Open Championship (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "15 Mar 2015",
+            "style": "Latin",
+            "url": "Amateur_Latin_Open_Champ_(C+S+R+PD+J)_384757",
+            "name": "Amateur Latin Open Champ (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "27492",
+    "url": "St._Louis_Star_Ball_27492",
+    "name": "St. Louis Star Ball",
+    "rating": "90"
+}

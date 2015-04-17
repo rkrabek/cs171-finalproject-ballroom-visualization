@@ -1,0 +1,291 @@
+{
+    "events": [
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Open_Ballroom_(W+T+VW+F+Q)_354483",
+            "name": "Amateur Open Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "19079",
+                    "couple": "Glenn Okazaki & Anne Chang-Ho",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1461",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "175229",
+                    "couple": "Miguel Heraclio & Rieko Ota",
+                    "country": "USA",
+                    "change": "+10",
+                    "score": "1280",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "84065",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "country": "USA",
+                    "change": "-10",
+                    "score": "1265",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Amateur_PreChampionship_Ballroom_(W+T+Q)_354485",
+            "name": "Amateur PreChampionship Ballroom (W/T/Q)",
+            "results": [
+                {
+                    "coupleid": "232843",
+                    "couple": "George Dao & Vickie Dao",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1171",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Amateur_PreNovice_Ballroom_(F+Q)_354487",
+            "name": "Amateur PreNovice Ballroom (F/Q)",
+            "results": [
+                {
+                    "coupleid": "265584",
+                    "couple": "Mike Chun & Lorrie Chun",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Amateur_PreNovice_Ballroom_(W+T)_354488",
+            "name": "Amateur PreNovice Ballroom (W/T)",
+            "results": [
+                {
+                    "coupleid": "265584",
+                    "couple": "Mike Chun & Lorrie Chun",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Over_50_Ballroom_(W+T+F+Q)_354482",
+            "name": "Over 50 Ballroom (W/T/F/Q)",
+            "results": [
+                {
+                    "coupleid": "232843",
+                    "couple": "George Dao & Vickie Dao",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1171",
+                    "result": "1"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Ballroom",
+            "url": "Senior_Ballroom_(W+T+VW+F+Q)_354489",
+            "name": "Senior Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "19079",
+                    "couple": "Glenn Okazaki & Anne Chang-Ho",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1461",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "175229",
+                    "couple": "Miguel Heraclio & Rieko Ota",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1286",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "84065",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "country": "USA",
+                    "change": "-6",
+                    "score": "1259",
+                    "result": "3"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Latin",
+            "url": "Amateur_Open_Latin_(C+S+R+PD+J)_354484",
+            "name": "Amateur Open Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "171556",
+                    "couple": "Edwin Bugarin & Charlotte Bugarin",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1367",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "84065",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1251",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Latin",
+            "url": "Amateur_PreChampionship_Latin_(C+S+R)_354486",
+            "name": "Amateur PreChampionship Latin (C/S/R)",
+            "results": [
+                {
+                    "coupleid": "265581",
+                    "couple": "Keenan Goldsberry & Mariah Black",
+                    "country": "USA",
+                    "change": "+32",
+                    "score": "1218",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265582",
+                    "couple": "Braden Jorgensen & Kristi Decoursey",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1342",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265583",
+                    "couple": "Bubba Marshall & Jenette Kozlowski",
+                    "country": "USA",
+                    "change": "-24",
+                    "score": "1326",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "232843",
+                    "couple": "George Dao & Vickie Dao",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1120",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Latin",
+            "url": "Senior_Latin_(C+S+R+PD+J)_354490",
+            "name": "Senior Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "171556",
+                    "couple": "Edwin Bugarin & Charlotte Bugarin",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1367",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "84065",
+                    "couple": "Calvin Ota & Debra Ota",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1251",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "232843",
+                    "couple": "George Dao & Vickie Dao",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1120",
+                    "result": "3"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Latin",
+            "url": "Under_21_Latin_(C+S+R+PD+J)_354491",
+            "name": "Under 21 Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "265581",
+                    "couple": "Keenan Goldsberry & Mariah Black",
+                    "country": "USA",
+                    "change": "+22",
+                    "score": "1240",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265582",
+                    "couple": "Braden Jorgensen & Kristi Decoursey",
+                    "country": "USA",
+                    "change": "-22",
+                    "score": "1320",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "18 Oct 2014",
+            "style": "Latin",
+            "url": "Youth_Open_Latin_(C+S+R+PD+J)_354492",
+            "name": "Youth Open Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "265581",
+                    "couple": "Keenan Goldsberry & Mariah Black",
+                    "country": "USA",
+                    "change": "+22",
+                    "score": "1262",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265582",
+                    "couple": "Braden Jorgensen & Kristi Decoursey",
+                    "country": "USA",
+                    "change": "-22",
+                    "score": "1298",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "25675",
+    "url": "Aloha_Ball_25675",
+    "name": "Aloha Ball",
+    "rating": "77"
+}

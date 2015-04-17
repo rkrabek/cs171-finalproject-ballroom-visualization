@@ -1,0 +1,264 @@
+{
+    "name": "Phoenix Dancesport Challenge",
+    "url": "Phoenix_Dancesport_Challenge_27603",
+    "events": [
+        {
+            "url": "Adult_Novice_Standard_(WFQ)_386226",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+24",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Gabi Wasserman & Tiffany Weiss",
+                    "coupleid": "265372",
+                    "score": "1071"
+                },
+                {
+                    "change": "+11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Greenley & Lauren Mehok",
+                    "coupleid": "265374",
+                    "score": "1048"
+                },
+                {
+                    "change": "-34",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nicholas Radtke & Rebekah Crandall",
+                    "coupleid": "200880",
+                    "score": "1078"
+                }
+            ],
+            "name": "Adult Novice Standard (WFQ)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_386228",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Ryan Hung & Heather Nelson",
+                    "coupleid": "238266",
+                    "score": "1297"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Nicholas Radtke & Rebekah Crandall",
+                    "coupleid": "200880",
+                    "score": "1078"
+                }
+            ],
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Amateur_Open_Scholarship_Standard_(WTVFQ)_386581",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Brandon Perry & Michelle Wickham",
+                    "coupleid": "269695",
+                    "score": "1496"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Hans Stork & Ans Stork",
+                    "coupleid": "1430",
+                    "score": "1452"
+                },
+                {
+                    "change": "+5",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Ryan Hung & Heather Nelson",
+                    "coupleid": "238266",
+                    "score": "1302"
+                },
+                {
+                    "change": "+5",
+                    "result": "4",
+                    "country": "England",
+                    "couple": "Richard Miles & Annette Miles",
+                    "coupleid": "173185",
+                    "score": "1266"
+                },
+                {
+                    "change": "+20",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Gabi Wasserman & Tiffany Weiss",
+                    "coupleid": "265372",
+                    "score": "1091"
+                },
+                {
+                    "change": "+17",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Michael Greenley & Lauren Mehok",
+                    "coupleid": "265374",
+                    "score": "1065"
+                },
+                {
+                    "change": "-32",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Patrick Wilcox & Karen Wagley",
+                    "coupleid": "103863",
+                    "score": "1241"
+                },
+                {
+                    "change": "-15",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Nicholas Radtke & Rebekah Crandall",
+                    "coupleid": "200880",
+                    "score": "1063"
+                }
+            ],
+            "name": "Amateur Open Scholarship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_386230",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Hans Stork & Ans Stork",
+                    "coupleid": "1430",
+                    "score": "1453"
+                }
+            ],
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_386231",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "England",
+                    "couple": "Richard Miles & Annette Miles",
+                    "coupleid": "173185",
+                    "score": "1261"
+                }
+            ],
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Adult_Novice_Latin_(SCR)_386225",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+36",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Byron Harrison & Paige Knuth",
+                    "coupleid": "277746",
+                    "score": "1193"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ibrahim Fatkullin & Wenwen Dong",
+                    "coupleid": "277747",
+                    "score": "1200"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "coupleid": "261715",
+                    "score": "1161"
+                },
+                {
+                    "change": "-44",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Ryan Hung & Heather Nelson",
+                    "coupleid": "238266",
+                    "score": "1228"
+                }
+            ],
+            "name": "Adult Novice Latin (SCR)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_386227",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Byron Harrison & Paige Knuth",
+                    "coupleid": "277746",
+                    "score": "1212"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "coupleid": "261715",
+                    "score": "1175"
+                },
+                {
+                    "change": "-32",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Ryan Hung & Heather Nelson",
+                    "coupleid": "238266",
+                    "score": "1196"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        },
+        {
+            "url": "Amateur_Open_Scholarship_Latin_(SCRPJ)_386580",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "coupleid": "261715",
+                    "score": "1175"
+                }
+            ],
+            "name": "Amateur Open Scholarship Latin (SCRPJ)",
+            "age": "Amateur",
+            "date": "21 Mar 2015"
+        }
+    ],
+    "compid": "27603",
+    "rating": "107"
+}

@@ -1,0 +1,342 @@
+{
+    "name": "Peoples Choice Dancesport Competition",
+    "url": "Peoples_Choice_Dancesport_Competition_23827",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+F+Q)_320662",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1607"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jonathan Atkinson & Lorena Bravo",
+                    "coupleid": "211875",
+                    "score": "1531"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (W/T/VW/F/Q)",
+            "age": "Professional",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Junior_I_Open_Latin_(C+S+R+P+J)_320654",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Altahir Kozelchik & Max Kozelchik",
+                    "coupleid": "125593",
+                    "score": "1286"
+                }
+            ],
+            "name": "Junior I Open Latin (C/S/R/P/J)",
+            "age": "Junior",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Latin_(C+R+J)_320656",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Altahir Kozelchik & Max Kozelchik",
+                    "coupleid": "125593",
+                    "score": "1286"
+                }
+            ],
+            "name": "Junior I Pre-Champ Latin (C/R/J)",
+            "age": "Junior",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Junior_II_Open_Latin_(C+S+R+P+J)_320657",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ethan Taylor & Victoria Podakova",
+                    "coupleid": "221454",
+                    "score": "1177"
+                }
+            ],
+            "name": "Junior II Open Latin (C/S/R/P/J)",
+            "age": "Junior",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Latin_(C+R+J)_320658",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ethan Taylor & Victoria Podakova",
+                    "coupleid": "221454",
+                    "score": "1177"
+                }
+            ],
+            "name": "Junior II Pre-Champ Latin (C/R/J)",
+            "age": "Junior",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Teddy_Bear_Pre-Champ_Latin_(C+R+J)_320660",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Marcus Taylor & Isabella Lomoro",
+                    "coupleid": "237856",
+                    "score": "896"
+                }
+            ],
+            "name": "Teddy Bear Pre-Champ Latin (C/R/J)",
+            "age": "Juvenile",
+            "date": "22 May 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(C+S+R+P+J)_320664",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Riccardo Papi & Sabrina Moretti",
+                    "coupleid": "181184",
+                    "score": "1642"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "coupleid": "232132",
+                    "score": "1589"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "Russia",
+                    "couple": "Vasiliy Platonov & Irina Panfilova",
+                    "coupleid": "146451",
+                    "score": "1489"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vasily Golovine & Anastasia Banderovskaya",
+                    "coupleid": "128779",
+                    "score": "1417"
+                }
+            ],
+            "name": "Professional Rising Star Latin (C/S/R/P/J)",
+            "age": "Professional",
+            "date": "23 May 2014"
+        },
+        {
+            "url": "Over_50_Novice_Standard_(F+Q)_320651",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ben Porter & Gail Murphy",
+                    "coupleid": "237568",
+                    "score": "1357"
+                }
+            ],
+            "name": "Over 50 Novice Standard (F/Q)",
+            "age": "Over50",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Over_50_Open_Standard_(W+T+VW+F+Q)_320652",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Zoar Leggett & Cheryl Leggett",
+                    "coupleid": "2064",
+                    "score": "1220"
+                }
+            ],
+            "name": "Over 50 Open Standard (W/T/VW/F/Q)",
+            "age": "Over50",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Over_50_Pre-Champ_Standard_(F+T+Q)_320653",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "coupleid": "212210",
+                    "score": "1260"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ben Porter & Gail Murphy",
+                    "coupleid": "237568",
+                    "score": "1335"
+                }
+            ],
+            "name": "Over 50 Pre-Champ Standard (F/T/Q)",
+            "age": "Over50",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Professional_Open_Ballroom_(W+T+VW+F+Q)_320666",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "coupleid": "255621",
+                    "score": "1742"
+                },
+                {
+                    "change": "+11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1618"
+                },
+                {
+                    "change": "-11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Paul Daniells & Julianne Dibacco",
+                    "coupleid": "248526",
+                    "score": "1606"
+                }
+            ],
+            "name": "Professional Open Ballroom (W/T/VW/F/Q)",
+            "age": "Professional",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Senior_Open_Standard_(W+T+VW+F+Q)_320649",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Hans Stork & Ans Stork",
+                    "coupleid": "1430",
+                    "score": "1458"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Zoar Leggett & Cheryl Leggett",
+                    "coupleid": "2064",
+                    "score": "1220"
+                }
+            ],
+            "name": "Senior Open Standard (W/T/VW/F/Q)",
+            "age": "Senior",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Senior_Pre-Champ_Standard_(F+T+Q)_320650",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "coupleid": "212210",
+                    "score": "1238"
+                }
+            ],
+            "name": "Senior Pre-Champ Standard (F/T/Q)",
+            "age": "Senior",
+            "date": "24 May 2014"
+        },
+        {
+            "url": "Professional_Open_Latin_(C+S+R+PD+J)_320667",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Sergiy Kvashyn & Olga Ginzburg",
+                    "coupleid": "255622",
+                    "score": "1677"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Riccardo Papi & Sabrina Moretti",
+                    "coupleid": "181184",
+                    "score": "1643"
+                },
+                {
+                    "change": "+9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "coupleid": "232132",
+                    "score": "1598"
+                },
+                {
+                    "change": "+14",
+                    "result": "4",
+                    "country": "Russia",
+                    "couple": "Vasiliy Platonov & Irina Panfilova",
+                    "coupleid": "146451",
+                    "score": "1503"
+                },
+                {
+                    "change": "-27",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Kirill Nikitin & Jennifer Kanchukova",
+                    "coupleid": "247447",
+                    "score": "1582"
+                }
+            ],
+            "name": "Professional Open Latin (C/S/R/PD/J)",
+            "age": "Professional",
+            "date": "24 May 2014"
+        }
+    ],
+    "compid": "23827",
+    "rating": "120"
+}

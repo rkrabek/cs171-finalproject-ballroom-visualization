@@ -1,0 +1,1044 @@
+{
+    "name": "UPenn Classic 2015",
+    "url": "UPenn_Classic_2015_27333",
+    "events": [
+        {
+            "url": "Amateur_Ballroom_Championship_(W+T+VW+F+Q)_381683",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mitchell Margolin & Michelle Gnidash",
+                    "coupleid": "202963",
+                    "score": "1449"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1448"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1408"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1409"
+                },
+                {
+                    "change": "+9",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1322"
+                },
+                {
+                    "change": "+11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1259"
+                },
+                {
+                    "change": "-21",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1310"
+                }
+            ],
+            "name": "Amateur Ballroom Championship (W/T/VW/F/Q)",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Foxtrot_381685",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+47",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1369"
+                },
+                {
+                    "change": "+10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1418"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1440"
+                },
+                {
+                    "change": "+1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1386"
+                },
+                {
+                    "change": "+47",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1306"
+                },
+                {
+                    "change": "+48",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Kevin Lu & Annette Universal",
+                    "coupleid": "250512",
+                    "score": "1291"
+                },
+                {
+                    "change": "+3",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Carl Greenleg & Sarah Chen",
+                    "coupleid": "276118",
+                    "score": "1326"
+                },
+                {
+                    "change": "-6",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Michael Simonson & Ryan Smith",
+                    "coupleid": "236693",
+                    "score": "1320"
+                },
+                {
+                    "change": "-34",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Mark Asmuth & Lea Spiewak",
+                    "coupleid": "269699",
+                    "score": "1332"
+                },
+                {
+                    "change": "-11",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1299"
+                },
+                {
+                    "change": "=",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "James Hansen & Monika Wysocki",
+                    "coupleid": "264807",
+                    "score": "1258"
+                },
+                {
+                    "change": "+30",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Frank Luo & Chelsea Scalzo",
+                    "coupleid": "250518",
+                    "score": "1220"
+                },
+                {
+                    "change": "-21",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Zack Al Balushi & Emma Stevenson",
+                    "coupleid": "269701",
+                    "score": "1240"
+                },
+                {
+                    "change": "+7",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1209"
+                },
+                {
+                    "change": "-7",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1227"
+                },
+                {
+                    "change": "-83",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Andrew Simonson & Natalie Nash",
+                    "coupleid": "273707",
+                    "score": "1391"
+                }
+            ],
+            "name": "Amateur Pre Championship Foxtrot",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Quickstep_381688",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+29",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1398"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1420"
+                },
+                {
+                    "change": "+7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1393"
+                },
+                {
+                    "change": "-20",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1420"
+                },
+                {
+                    "change": "+31",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1337"
+                },
+                {
+                    "change": "+32",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Kevin Lu & Annette Universal",
+                    "coupleid": "250512",
+                    "score": "1323"
+                },
+                {
+                    "change": "+7",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Michael Simonson & Ryan Smith",
+                    "coupleid": "236693",
+                    "score": "1327"
+                },
+                {
+                    "change": "+32",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "James Hansen & Monika Wysocki",
+                    "coupleid": "264807",
+                    "score": "1290"
+                },
+                {
+                    "change": "-23",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Mark Asmuth & Lea Spiewak",
+                    "coupleid": "269699",
+                    "score": "1309"
+                },
+                {
+                    "change": "+38",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1247"
+                },
+                {
+                    "change": "-20",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Carl Greenleg & Sarah Chen",
+                    "coupleid": "276118",
+                    "score": "1306"
+                },
+                {
+                    "change": "+19",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Frank Luo & Chelsea Scalzo",
+                    "coupleid": "250518",
+                    "score": "1239"
+                },
+                {
+                    "change": "+2",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Zack Al Balushi & Emma Stevenson",
+                    "coupleid": "269701",
+                    "score": "1242"
+                },
+                {
+                    "change": "-70",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Andrew Simonson & Natalie Nash",
+                    "coupleid": "273707",
+                    "score": "1321"
+                },
+                {
+                    "change": "-38",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1261"
+                },
+                {
+                    "change": "-16",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1211"
+                }
+            ],
+            "name": "Amateur Pre Championship Quickstep",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Tango_381691",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1428"
+                },
+                {
+                    "change": "+9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1407"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1412"
+                },
+                {
+                    "change": "-5",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1388"
+                },
+                {
+                    "change": "+12",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1349"
+                },
+                {
+                    "change": "+12",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Kevin Lu & Annette Universal",
+                    "coupleid": "250512",
+                    "score": "1335"
+                },
+                {
+                    "change": "+14",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Mark Asmuth & Lea Spiewak",
+                    "coupleid": "269699",
+                    "score": "1323"
+                },
+                {
+                    "change": "+8",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Carl Greenleg & Sarah Chen",
+                    "coupleid": "276118",
+                    "score": "1314"
+                },
+                {
+                    "change": "+25",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Zack Al Balushi & Emma Stevenson",
+                    "coupleid": "269701",
+                    "score": "1267"
+                },
+                {
+                    "change": "+22",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1269"
+                },
+                {
+                    "change": "-2",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "James Hansen & Monika Wysocki",
+                    "coupleid": "264807",
+                    "score": "1288"
+                },
+                {
+                    "change": "-26",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Michael Simonson & Ryan Smith",
+                    "coupleid": "236693",
+                    "score": "1301"
+                },
+                {
+                    "change": "+10",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1221"
+                },
+                {
+                    "change": "-46",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Andrew Simonson & Natalie Nash",
+                    "coupleid": "273707",
+                    "score": "1275"
+                },
+                {
+                    "change": "-13",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1248"
+                },
+                {
+                    "change": "-17",
+                    "result": "16",
+                    "country": "USA",
+                    "couple": "Frank Luo & Chelsea Scalzo",
+                    "coupleid": "250518",
+                    "score": "1222"
+                }
+            ],
+            "name": "Amateur Pre Championship Tango",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Viennese_Waltz_381692",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1435"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1413"
+                },
+                {
+                    "change": "+5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1393"
+                },
+                {
+                    "change": "-13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1399"
+                },
+                {
+                    "change": "+6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1355"
+                },
+                {
+                    "change": "+11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mark Asmuth & Lea Spiewak",
+                    "coupleid": "269699",
+                    "score": "1334"
+                },
+                {
+                    "change": "+28",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Zack Al Balushi & Emma Stevenson",
+                    "coupleid": "269701",
+                    "score": "1295"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Carl Greenleg & Sarah Chen",
+                    "coupleid": "276118",
+                    "score": "1314"
+                },
+                {
+                    "change": "-12",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Kevin Lu & Annette Universal",
+                    "coupleid": "250512",
+                    "score": "1323"
+                },
+                {
+                    "change": "+20",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1268"
+                },
+                {
+                    "change": "+13",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1234"
+                },
+                {
+                    "change": "-10",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Andrew Simonson & Natalie Nash",
+                    "coupleid": "273707",
+                    "score": "1265"
+                },
+                {
+                    "change": "-25",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Michael Simonson & Ryan Smith",
+                    "coupleid": "236693",
+                    "score": "1276"
+                },
+                {
+                    "change": "-34",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "James Hansen & Monika Wysocki",
+                    "coupleid": "264807",
+                    "score": "1254"
+                }
+            ],
+            "name": "Amateur Pre Championship Viennese Waltz",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Waltz_381693",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1440"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Qiwen Chen & Sarah Witman",
+                    "coupleid": "235336",
+                    "score": "1417"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "coupleid": "139192",
+                    "score": "1397"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Salvador & Michelle Aaliyah Chen",
+                    "coupleid": "235334",
+                    "score": "1392"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Joshua Dias & Allison Geller",
+                    "coupleid": "264806",
+                    "score": "1358"
+                },
+                {
+                    "change": "-11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Mark Asmuth & Lea Spiewak",
+                    "coupleid": "269699",
+                    "score": "1323"
+                },
+                {
+                    "change": "+12",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Zack Al Balushi & Emma Stevenson",
+                    "coupleid": "269701",
+                    "score": "1307"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Carl Greenleg & Sarah Chen",
+                    "coupleid": "276118",
+                    "score": "1314"
+                },
+                {
+                    "change": "-5",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Kevin Lu & Annette Universal",
+                    "coupleid": "250512",
+                    "score": "1318"
+                },
+                {
+                    "change": "+24",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Michael Simonson & Ryan Smith",
+                    "coupleid": "236693",
+                    "score": "1300"
+                },
+                {
+                    "change": "+1",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "coupleid": "219120",
+                    "score": "1270"
+                },
+                {
+                    "change": "+11",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "James Hansen & Monika Wysocki",
+                    "coupleid": "264807",
+                    "score": "1265"
+                },
+                {
+                    "change": "+12",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Frank Luo & Chelsea Scalzo",
+                    "coupleid": "250518",
+                    "score": "1234"
+                },
+                {
+                    "change": "-14",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "coupleid": "207608",
+                    "score": "1254"
+                },
+                {
+                    "change": "-9",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "coupleid": "219119",
+                    "score": "1225"
+                },
+                {
+                    "change": "-27",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Andrew Simonson & Natalie Nash",
+                    "coupleid": "273707",
+                    "score": "1238"
+                }
+            ],
+            "name": "Amateur Pre Championship Waltz",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Latin_Championship_(S+C+R+PD+J)_381682",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1365"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1278"
+                }
+            ],
+            "name": "Amateur Latin Championship (S/C/R/PD/J)",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Cha_Cha_381684",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+26",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1314"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Bodhi Hwang & Lauren Chadwick",
+                    "coupleid": "269705",
+                    "score": "1328"
+                },
+                {
+                    "change": "+8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1286"
+                },
+                {
+                    "change": "-9",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vichet Ou & Talia Wong",
+                    "coupleid": "276117",
+                    "score": "1277"
+                },
+                {
+                    "change": "+23",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Victor Wang & Lauren Brady",
+                    "coupleid": "269704",
+                    "score": "1181"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Chris Chirdon & Carissa Chambers",
+                    "coupleid": "148131",
+                    "score": "1243"
+                },
+                {
+                    "change": "-26",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Kenneth Loh & Annie Liu",
+                    "coupleid": "269708",
+                    "score": "1232"
+                }
+            ],
+            "name": "Amateur Pre Championship Cha Cha",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Jive_381686",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+13",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1327"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Bodhi Hwang & Lauren Chadwick",
+                    "coupleid": "269705",
+                    "score": "1323"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1289"
+                },
+                {
+                    "change": "-4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vichet Ou & Talia Wong",
+                    "coupleid": "276117",
+                    "score": "1273"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Chris Chirdon & Carissa Chambers",
+                    "coupleid": "148131",
+                    "score": "1244"
+                },
+                {
+                    "change": "+10",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Victor Wang & Lauren Brady",
+                    "coupleid": "269704",
+                    "score": "1191"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Kenneth Loh & Annie Liu",
+                    "coupleid": "269708",
+                    "score": "1214"
+                }
+            ],
+            "name": "Amateur Pre Championship Jive",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Paso_Doble_381687",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1289"
+                }
+            ],
+            "name": "Amateur Pre Championship Paso Doble",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Rumba_381689",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1335"
+                },
+                {
+                    "change": "+34",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Chris Chirdon & Carissa Chambers",
+                    "coupleid": "148131",
+                    "score": "1278"
+                },
+                {
+                    "change": "+41",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Victor Wang & Lauren Brady",
+                    "coupleid": "269704",
+                    "score": "1232"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vichet Ou & Talia Wong",
+                    "coupleid": "276117",
+                    "score": "1271"
+                },
+                {
+                    "change": "-36",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Bodhi Hwang & Lauren Chadwick",
+                    "coupleid": "269705",
+                    "score": "1287"
+                },
+                {
+                    "change": "-33",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1256"
+                },
+                {
+                    "change": "-12",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Kenneth Loh & Annie Liu",
+                    "coupleid": "269708",
+                    "score": "1202"
+                }
+            ],
+            "name": "Amateur Pre Championship Rumba",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        },
+        {
+            "url": "Amateur_Pre_Championship_Samba_381690",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1338"
+                },
+                {
+                    "change": "+29",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Adam Averbuch & Tirsa Rivas",
+                    "coupleid": "268672",
+                    "score": "1285"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Bodhi Hwang & Lauren Chadwick",
+                    "coupleid": "269705",
+                    "score": "1286"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Chris Chirdon & Carissa Chambers",
+                    "coupleid": "148131",
+                    "score": "1270"
+                },
+                {
+                    "change": "-15",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vichet Ou & Talia Wong",
+                    "coupleid": "276117",
+                    "score": "1256"
+                },
+                {
+                    "change": "+8",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Kenneth Loh & Annie Liu",
+                    "coupleid": "269708",
+                    "score": "1210"
+                },
+                {
+                    "change": "-16",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Victor Wang & Lauren Brady",
+                    "coupleid": "269704",
+                    "score": "1216"
+                }
+            ],
+            "name": "Amateur Pre Championship Samba",
+            "age": "Amateur",
+            "date": "21 Feb 2015"
+        }
+    ],
+    "compid": "27333",
+    "rating": "118"
+}

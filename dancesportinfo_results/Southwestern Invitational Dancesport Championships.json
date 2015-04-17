@@ -1,0 +1,201 @@
+{
+    "events": [
+        {
+            "date": "26 Sep 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Open_Intl_Ballroom_Champ_(W+T+VW+F+QS)_348622",
+            "name": "Amateur Open Intl Ballroom Champ (W/T/VW/F/QS)",
+            "results": [
+                {
+                    "coupleid": "206726",
+                    "couple": "Alexander Yates & Olga Yates",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1410",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Ballroom",
+            "url": "Professional_Intl_Ballroom_(W+T+VW+F+Q)_348630",
+            "name": "Professional Intl Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "255953",
+                    "couple": "Richard Blachford & Karina Mathiasen",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1589",
+                    "result": "1"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Ballroom",
+            "url": "Senior_I_Open_Intl_Ballroom_Champ_(W+T+VW+F+QS)_348627",
+            "name": "Senior I Open Intl Ballroom Champ (W/T/VW/F/QS)",
+            "results": [
+                {
+                    "coupleid": "97272",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "country": "USA",
+                    "change": "+13",
+                    "score": "1311",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "251978",
+                    "couple": "John Murdoch & Lisa Murdoch",
+                    "country": "USA",
+                    "change": "-13",
+                    "score": "1292",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Open_Amateur_Novice_Latin_(C+S+R+J)_348623",
+            "name": "Open Amateur Novice Latin (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "263325",
+                    "couple": "Moses Williams & Irene Martens",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1264",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263326",
+                    "couple": "Mike Marazowski & Amanda Nguyen",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Junior_I_Open_Int_Latin_(C+S+R+PD+J)_348624",
+            "name": "Junior I Open Int Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "217789",
+                    "couple": "Jackson Bayhi & Ashley Mattingly",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1250",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Junior_II_Open_Int_Latin_(C+S+R+PD+J)_348625",
+            "name": "Junior II Open Int Latin (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "217789",
+                    "couple": "Jackson Bayhi & Ashley Mattingly",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1250",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Junior_II_Open_Novice_Latin_(C+S+R+J)_348626",
+            "name": "Junior II Open Novice Latin (C/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "263327",
+                    "couple": "Joey Wolters & Adrienne Healy",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "944",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Professional_Intl_Latin_(C+S+R+P+J)_348629",
+            "name": "Professional Intl Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "250026",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1762",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263328",
+                    "couple": "Daniel Buhala & Olesya Minaeva",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1546",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "217793",
+                    "couple": "Israel Pena & Lisa Holt",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1490",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "26 Sep 2014",
+            "style": "Latin",
+            "url": "Senior_I_Open_Latin_Champ_(C+S+R+PD+J)_348628",
+            "name": "Senior I Open Latin Champ (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "43971",
+                    "couple": "Irsan Tisnabudi & Cami Tisnabudi (aka Fleharty)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1387",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "97272",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1182",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        }
+    ],
+    "compid": "25288",
+    "url": "Southwestern_Invitational_Dancesport_Championships_25288",
+    "name": "Southwestern Invitational Dancesport Championships",
+    "rating": "70"
+}

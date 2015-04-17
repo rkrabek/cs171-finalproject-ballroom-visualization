@@ -1,0 +1,2049 @@
+{
+    "name": "Carolina Fall Classic",
+    "url": "Carolina_Fall_Classic_25309",
+    "events": [
+        {
+            "url": "Adult_Novice_Standard_(WFQ)_348982",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+36",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Eugene Lobko & Alla Zemlyak",
+                    "coupleid": "244968",
+                    "score": "1153"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Luca Guidoni & Jessie Lin",
+                    "coupleid": "186518",
+                    "score": "1312"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andrzej Lelewer & Claudia Lelewer",
+                    "coupleid": "263559",
+                    "score": "1149"
+                },
+                {
+                    "change": "-27",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Charles Ferzli & Miriam Ferzli",
+                    "coupleid": "90760",
+                    "score": "1245"
+                },
+                {
+                    "change": "+4",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Oleg Kovalenko & Karissa Leatherbarrow",
+                    "coupleid": "235760",
+                    "score": "1063"
+                },
+                {
+                    "change": "-5",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "coupleid": "258169",
+                    "score": "1041"
+                }
+            ],
+            "name": "Adult Novice Standard (WFQ)",
+            "age": "Amateur",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_348967",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Yu & Yuko Naululani Yu",
+                    "coupleid": "125574",
+                    "score": "1439"
+                },
+                {
+                    "change": "+10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Lynch & Rose-Ann Lynch",
+                    "coupleid": "92549",
+                    "score": "1390"
+                },
+                {
+                    "change": "+8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Joseph Brogan & Shelly Brogan",
+                    "coupleid": "103439",
+                    "score": "1376"
+                },
+                {
+                    "change": "+21",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1354"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "John Linn & Kathy Linn",
+                    "coupleid": "46492",
+                    "score": "1351"
+                },
+                {
+                    "change": "+16",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Ted Damianos & Eunmee Damianos",
+                    "coupleid": "78580",
+                    "score": "1329"
+                },
+                {
+                    "change": "-27",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1340"
+                },
+                {
+                    "change": "+6",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1306"
+                },
+                {
+                    "change": "-23",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "coupleid": "212028",
+                    "score": "1310"
+                },
+                {
+                    "change": "-11",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Giovanni Rannella & Helena Zaludova",
+                    "coupleid": "186520",
+                    "score": "1287"
+                },
+                {
+                    "change": "-2",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "James Kim & Sophia Hsieh",
+                    "coupleid": "230154",
+                    "score": "1235"
+                },
+                {
+                    "change": "+13",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Robert Pratico & Deborah Pratico",
+                    "coupleid": "178575",
+                    "score": "1155"
+                },
+                {
+                    "change": "-13",
+                    "result": "13",
+                    "country": "Canada",
+                    "couple": "Thomas Schultz & Shelley Reeves",
+                    "coupleid": "122208",
+                    "score": "1217"
+                }
+            ],
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "WDSF_Senior_II_Open_Standard_(WTVFQ)_348948",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+29",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Yves Verret & Agathe Geoffrion",
+                    "coupleid": "7108",
+                    "score": "1417"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1459"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Thomas Yu & Yuko Naululani Yu",
+                    "coupleid": "125574",
+                    "score": "1438"
+                },
+                {
+                    "change": "+57",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Mark Tyo & Karen Tyo",
+                    "coupleid": "122201",
+                    "score": "1331"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michael Lynch & Rose-Ann Lynch",
+                    "coupleid": "92549",
+                    "score": "1380"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Joseph Brogan & Shelly Brogan",
+                    "coupleid": "103439",
+                    "score": "1368"
+                },
+                {
+                    "change": "-20",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1367"
+                },
+                {
+                    "change": "+10",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1333"
+                },
+                {
+                    "change": "-20",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "coupleid": "20280",
+                    "score": "1340"
+                },
+                {
+                    "change": "+6",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1300"
+                },
+                {
+                    "change": "-23",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Ted Damianos & Eunmee Damianos",
+                    "coupleid": "78580",
+                    "score": "1313"
+                },
+                {
+                    "change": "+8",
+                    "result": "13",
+                    "country": "Canada",
+                    "couple": "Thomas Schultz & Shelley Reeves",
+                    "coupleid": "122208",
+                    "score": "1230"
+                },
+                {
+                    "change": "-38",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Giovanni Rannella & Helena Zaludova",
+                    "coupleid": "186520",
+                    "score": "1298"
+                },
+                {
+                    "change": "=",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Robert Pratico & Deborah Pratico",
+                    "coupleid": "178575",
+                    "score": "1142"
+                }
+            ],
+            "name": "WDSF Senior II Open Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Youth_Championship_Standard_(WTVFQ)_348953",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1313"
+                }
+            ],
+            "name": "Youth Championship Standard (WTVFQ)",
+            "age": "Youth",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Youth_Pre-Champ_Standard_(WTFQ)_348952",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1313"
+                }
+            ],
+            "name": "Youth Pre-Champ Standard (WTFQ)",
+            "age": "Youth",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Adult_Novice_Latin_(SCR)_348983",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nathan Ahlgrim & Mackenzie Lecroy",
+                    "coupleid": "235747",
+                    "score": "1293"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Thomas Wiggins & Chelsea Lang",
+                    "coupleid": "263560",
+                    "score": "1196"
+                },
+                {
+                    "change": "+15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Oleg Kovalenko & Karissa Leatherbarrow",
+                    "coupleid": "235760",
+                    "score": "1058"
+                },
+                {
+                    "change": "-15",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "coupleid": "258169",
+                    "score": "1081"
+                }
+            ],
+            "name": "Adult Novice Latin (SCR)",
+            "age": "Amateur",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Championship_Latin_(SCRPJ)_348979",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1217"
+                }
+            ],
+            "name": "Junior I Championship Latin (SCRPJ)",
+            "age": "Junior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Latin_(SCRJ)_348978",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1217"
+                }
+            ],
+            "name": "Junior I Pre-Champ Latin (SCRJ)",
+            "age": "Junior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Latin_(SCR)_348960",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Corsaro & Judy Corsaro",
+                    "coupleid": "237795",
+                    "score": "1138"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1050"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Clint Little & Sally Spingler",
+                    "coupleid": "263558",
+                    "score": "978"
+                }
+            ],
+            "name": "Senior III Novice Latin (SCR)",
+            "age": "Over50",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Latin_(SCR)_348972",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "coupleid": "258169",
+                    "score": "1096"
+                }
+            ],
+            "name": "Senior I Novice Latin (SCR)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Championship_Latin_(SCRPJ)_348968",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roger Korsiak & Holli Hornlien",
+                    "coupleid": "243205",
+                    "score": "1389"
+                },
+                {
+                    "change": "+10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1298"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "John Linn & Kathy Linn",
+                    "coupleid": "46492",
+                    "score": "1282"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Henry Hudson & Olivia Hudson",
+                    "coupleid": "105593",
+                    "score": "1252"
+                },
+                {
+                    "change": "-5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1221"
+                }
+            ],
+            "name": "Senior II Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Latin_(SCR)_348966",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Corsaro & Judy Corsaro",
+                    "coupleid": "237795",
+                    "score": "1138"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1050"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Clint Little & Sally Spingler",
+                    "coupleid": "263558",
+                    "score": "977"
+                }
+            ],
+            "name": "Senior II Novice Latin (SCR)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Latin_(SCRJ)_348964",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Henry Hudson & Olivia Hudson",
+                    "coupleid": "105593",
+                    "score": "1254"
+                }
+            ],
+            "name": "Senior II Pre-Champ Latin (SCRJ)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "WDSF_Senior_II_Open_Latin_(SCRPJ)_348949",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roger Korsiak & Holli Hornlien",
+                    "coupleid": "243205",
+                    "score": "1389"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1288"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1226"
+                }
+            ],
+            "name": "WDSF Senior II Open Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Amateur_Open_Intl._Multi-Dance_(WFQSCR)_348986",
+            "style": "10 Dance",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Reginald Larkins & Dasia May",
+                    "coupleid": "258162",
+                    "score": "1514"
+                },
+                {
+                    "change": "+8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "coupleid": "258169",
+                    "score": "1486"
+                },
+                {
+                    "change": "-22",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Ian Mcareavy & Holly Denner",
+                    "coupleid": "235736",
+                    "score": "1477"
+                }
+            ],
+            "name": "Amateur Open Intl. Multi-Dance (WFQSCR)",
+            "age": "Amateur",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Amateur_Open_Multi-Dance_(WTFCRS)_348987",
+            "style": "10 Dance",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Joe Jackson & Barbara Mauldin",
+                    "coupleid": "243388",
+                    "score": "1506"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ian Mcareavy & Holly Denner",
+                    "coupleid": "235736",
+                    "score": "1471"
+                }
+            ],
+            "name": "Amateur Open Multi-Dance (WTFCRS)",
+            "age": "Amateur",
+            "date": "03 Oct 2014"
+        },
+        {
+            "url": "Adult_Championship_Standard_(WTVFQ)_348984",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Angelo Cristobal & Kayla Cristobal (aka Ewing)",
+                    "coupleid": "38798",
+                    "score": "1508"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tulga Ersal & Ilkin Ersal",
+                    "coupleid": "45640",
+                    "score": "1464"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jonathan Medlin & Malin Allert",
+                    "coupleid": "31263",
+                    "score": "1441"
+                }
+            ],
+            "name": "Adult Championship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_348980",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+39",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrzej Lelewer & Claudia Lelewer",
+                    "coupleid": "263559",
+                    "score": "1262"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Luca Guidoni & Jessie Lin",
+                    "coupleid": "186518",
+                    "score": "1303"
+                },
+                {
+                    "change": "-21",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Dominick Montie & Barbara Haskins",
+                    "coupleid": "133871",
+                    "score": "1284"
+                },
+                {
+                    "change": "-11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Charles Ferzli & Miriam Ferzli",
+                    "coupleid": "90760",
+                    "score": "1222"
+                }
+            ],
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "age": "Amateur",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Championship_Standard_(WTVFQ)_348976",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1313"
+                }
+            ],
+            "name": "Junior II Championship Standard (WTVFQ)",
+            "age": "Junior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Standard_(WTFQ)_348975",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1313"
+                }
+            ],
+            "name": "Junior II Pre-Champ Standard (WTFQ)",
+            "age": "Junior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_348961",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1450"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Yves Verret & Agathe Geoffrion",
+                    "coupleid": "7108",
+                    "score": "1430"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "John Linn & Kathy Linn",
+                    "coupleid": "46492",
+                    "score": "1362"
+                },
+                {
+                    "change": "=",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Mark Tyo & Karen Tyo",
+                    "coupleid": "122201",
+                    "score": "1353"
+                },
+                {
+                    "change": "-5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "coupleid": "20280",
+                    "score": "1335"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "coupleid": "212028",
+                    "score": "1308"
+                },
+                {
+                    "change": "-4",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Giovanni Rannella & Helena Zaludova",
+                    "coupleid": "186520",
+                    "score": "1283"
+                },
+                {
+                    "change": "=",
+                    "result": "8",
+                    "country": "Canada",
+                    "couple": "Thomas Schultz & Shelley Reeves",
+                    "coupleid": "122208",
+                    "score": "1217"
+                },
+                {
+                    "change": "-1",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Robert Pratico & Deborah Pratico",
+                    "coupleid": "178575",
+                    "score": "1154"
+                }
+            ],
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "age": "Over50",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_IV_Championship_Standard_(WTVFQ)_348956",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "coupleid": "20280",
+                    "score": "1340"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alfred Fritz & Mary Ann Fritz",
+                    "coupleid": "84108",
+                    "score": "1220"
+                }
+            ],
+            "name": "Senior IV Championship Standard (WTVFQ)",
+            "age": "Over50",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_IV_Pre-Champ_Standard_(WTFQ)_348954",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alfred Fritz & Mary Ann Fritz",
+                    "coupleid": "84108",
+                    "score": "1220"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Terry Stich & Sandra Stich",
+                    "coupleid": "46502",
+                    "score": "1143"
+                }
+            ],
+            "name": "Senior IV Pre-Champ Standard (WTFQ)",
+            "age": "Over50",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_348973",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tulga Ersal & Ilkin Ersal",
+                    "coupleid": "45640",
+                    "score": "1458"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jonathan Medlin & Malin Allert",
+                    "coupleid": "31263",
+                    "score": "1450"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Thomas Yu & Yuko Naululani Yu",
+                    "coupleid": "125574",
+                    "score": "1422"
+                },
+                {
+                    "change": "+3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Lynch & Rose-Ann Lynch",
+                    "coupleid": "92549",
+                    "score": "1373"
+                },
+                {
+                    "change": "+39",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Douglas Montanus & Olga Jacobs",
+                    "coupleid": "87595",
+                    "score": "1312"
+                },
+                {
+                    "change": "+33",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Christopher Temple & Jane Ren",
+                    "coupleid": "132663",
+                    "score": "1301"
+                },
+                {
+                    "change": "-3",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Ted Damianos & Eunmee Damianos",
+                    "coupleid": "78580",
+                    "score": "1306"
+                },
+                {
+                    "change": "-2",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Dominick Montie & Barbara Haskins",
+                    "coupleid": "133871",
+                    "score": "1305"
+                },
+                {
+                    "change": "-35",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1317"
+                },
+                {
+                    "change": "-8",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1271"
+                },
+                {
+                    "change": "-29",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1270"
+                },
+                {
+                    "change": "-2",
+                    "result": "13",
+                    "country": "USA",
+                    "couple": "James Kim & Sophia Hsieh",
+                    "coupleid": "230154",
+                    "score": "1207"
+                }
+            ],
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_348969",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+74",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrzej Lelewer & Claudia Lelewer",
+                    "coupleid": "263559",
+                    "score": "1223"
+                },
+                {
+                    "change": "+62",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Christopher Temple & Jane Ren",
+                    "coupleid": "132663",
+                    "score": "1268"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Richard Stewart & Melanie Tichenor",
+                    "coupleid": "232766",
+                    "score": "1347"
+                },
+                {
+                    "change": "+40",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Douglas Montanus & Olga Jacobs",
+                    "coupleid": "87595",
+                    "score": "1273"
+                },
+                {
+                    "change": "-37",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Carmine Rucco & Maria Bolyard",
+                    "coupleid": "231835",
+                    "score": "1485"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "Unknown",
+                    "couple": "Gregory Prasch & Sue Prasch",
+                    "coupleid": "210394",
+                    "score": "1295"
+                },
+                {
+                    "change": "-45",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "coupleid": "230077",
+                    "score": "1382"
+                },
+                {
+                    "change": "-39",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Dominick Montie & Barbara Haskins",
+                    "coupleid": "133871",
+                    "score": "1307"
+                },
+                {
+                    "change": "-12",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Charles Ferzli & Miriam Ferzli",
+                    "coupleid": "90760",
+                    "score": "1233"
+                },
+                {
+                    "change": "-48",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1279"
+                },
+                {
+                    "change": "-26",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "James Kim & Sophia Hsieh",
+                    "coupleid": "230154",
+                    "score": "1209"
+                }
+            ],
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "WDSF_Senior_I_Open_Standard_(WTVFQ)_348950",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tulga Ersal & Ilkin Ersal",
+                    "coupleid": "45640",
+                    "score": "1451"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Yves Verret & Agathe Geoffrion",
+                    "coupleid": "7108",
+                    "score": "1433"
+                },
+                {
+                    "change": "-13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1446"
+                },
+                {
+                    "change": "-14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Thomas Yu & Yuko Naululani Yu",
+                    "coupleid": "125574",
+                    "score": "1425"
+                },
+                {
+                    "change": "+41",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1352"
+                },
+                {
+                    "change": "+22",
+                    "result": "6",
+                    "country": "Canada",
+                    "couple": "Mark Tyo & Karen Tyo",
+                    "coupleid": "122201",
+                    "score": "1353"
+                },
+                {
+                    "change": "-20",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Michael Lynch & Rose-Ann Lynch",
+                    "coupleid": "92549",
+                    "score": "1370"
+                },
+                {
+                    "change": "-11",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1343"
+                },
+                {
+                    "change": "-13",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1327"
+                },
+                {
+                    "change": "-20",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Ted Damianos & Eunmee Damianos",
+                    "coupleid": "78580",
+                    "score": "1309"
+                },
+                {
+                    "change": "-7",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1299"
+                }
+            ],
+            "name": "WDSF Senior I Open Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Adult_Championship_Latin_(SCRPJ)_348985",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mircea Cernev & Ana-Marie Cernev",
+                    "coupleid": "38297",
+                    "score": "1473"
+                }
+            ],
+            "name": "Adult Championship Latin (SCRPJ)",
+            "age": "Amateur",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_348981",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+20",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nathan Ahlgrim & Mackenzie Lecroy",
+                    "coupleid": "235747",
+                    "score": "1313"
+                },
+                {
+                    "change": "-16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Irsan Tisnabudi & Cami Tisnabudi (aka Fleharty)",
+                    "coupleid": "43971",
+                    "score": "1384"
+                },
+                {
+                    "change": "+15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Thomas Wiggins & Chelsea Lang",
+                    "coupleid": "263560",
+                    "score": "1211"
+                },
+                {
+                    "change": "-19",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1251"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Junior_II_Championship_Latin_(SCRPJ)_348977",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Max Firestein & Nicole Mtchedlidze",
+                    "coupleid": "176993",
+                    "score": "1286"
+                }
+            ],
+            "name": "Junior II Championship Latin (SCRPJ)",
+            "age": "Junior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Championship_Latin_(SCRPJ)_348962",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+21",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "John Linn & Kathy Linn",
+                    "coupleid": "46492",
+                    "score": "1303"
+                },
+                {
+                    "change": "-21",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "coupleid": "20280",
+                    "score": "1331"
+                }
+            ],
+            "name": "Senior III Championship Latin (SCRPJ)",
+            "age": "Over50",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_IV_Championship_Latin_(SCRPJ)_348957",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Giuliano & Louise Giuliano",
+                    "coupleid": "20280",
+                    "score": "1352"
+                }
+            ],
+            "name": "Senior IV Championship Latin (SCRPJ)",
+            "age": "Over50",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Latin_(SCRPJ)_348974",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "Germany",
+                    "couple": "Marc Becker & Nicole Giersbeck",
+                    "coupleid": "51687",
+                    "score": "1409"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Irsan Tisnabudi & Cami Tisnabudi (aka Fleharty)",
+                    "coupleid": "43971",
+                    "score": "1400"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Roger Korsiak & Holli Hornlien",
+                    "coupleid": "243205",
+                    "score": "1373"
+                },
+                {
+                    "change": "+27",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1270"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Douglas Montanus & Olga Jacobs",
+                    "coupleid": "87595",
+                    "score": "1277"
+                },
+                {
+                    "change": "+8",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Christopher Temple & Jane Ren",
+                    "coupleid": "132663",
+                    "score": "1248"
+                },
+                {
+                    "change": "-27",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1271"
+                },
+                {
+                    "change": "-11",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Henry Hudson & Olivia Hudson",
+                    "coupleid": "105593",
+                    "score": "1215"
+                },
+                {
+                    "change": "-1",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1200"
+                }
+            ],
+            "name": "Senior I Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Latin_(SCRJ)_348970",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+42",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1243"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Douglas Montanus & Olga Jacobs",
+                    "coupleid": "87595",
+                    "score": "1274"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Christopher Temple & Jane Ren",
+                    "coupleid": "132663",
+                    "score": "1240"
+                },
+                {
+                    "change": "-26",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Henry Hudson & Olivia Hudson",
+                    "coupleid": "105593",
+                    "score": "1226"
+                }
+            ],
+            "name": "Senior I Pre-Champ Latin (SCRJ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "WDSF_Senior_I_Open_Latin_(SCRPJ)_348951",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Irsan Tisnabudi & Cami Tisnabudi (aka Fleharty)",
+                    "coupleid": "43971",
+                    "score": "1403"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "Germany",
+                    "couple": "Marc Becker & Nicole Giersbeck",
+                    "coupleid": "51687",
+                    "score": "1401"
+                },
+                {
+                    "change": "-11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Roger Korsiak & Holli Hornlien",
+                    "coupleid": "243205",
+                    "score": "1378"
+                },
+                {
+                    "change": "+20",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1202"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Valeriy Ort & Rita Lynn Ort",
+                    "coupleid": "201480",
+                    "score": "1201"
+                },
+                {
+                    "change": "-20",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1201"
+                }
+            ],
+            "name": "WDSF Senior I Open Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "04 Oct 2014"
+        },
+        {
+            "url": "Amateur_Open_V._Waltz_373287",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Angelo Cristobal & Kayla Cristobal (aka Ewing)",
+                    "coupleid": "38798",
+                    "score": "1518"
+                },
+                {
+                    "change": "+24",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1474"
+                },
+                {
+                    "change": "+60",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alexei Kiyan & Olga Kiyan",
+                    "coupleid": "233480",
+                    "score": "1373"
+                },
+                {
+                    "change": "+31",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Richard Stewart & Melanie Tichenor",
+                    "coupleid": "232766",
+                    "score": "1410"
+                },
+                {
+                    "change": "+31",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "John Linn & Kathy Linn",
+                    "coupleid": "46492",
+                    "score": "1393"
+                },
+                {
+                    "change": "+61",
+                    "result": "6",
+                    "country": "Unknown",
+                    "couple": "Gregory Prasch & Sue Prasch",
+                    "coupleid": "210394",
+                    "score": "1292"
+                },
+                {
+                    "change": "+38",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Andrzej Lelewer & Claudia Lelewer",
+                    "coupleid": "263559",
+                    "score": "1346"
+                },
+                {
+                    "change": "+42",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Stanley Thompson & Natasha Janey",
+                    "coupleid": "141226",
+                    "score": "1313"
+                },
+                {
+                    "change": "+16",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "coupleid": "212028",
+                    "score": "1324"
+                },
+                {
+                    "change": "-52",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Matthew Coco & Melanie Gilkey",
+                    "coupleid": "272605",
+                    "score": "1448"
+                },
+                {
+                    "change": "-52",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Mark Lichtenberger & Micci Volk",
+                    "coupleid": "272606",
+                    "score": "1448"
+                },
+                {
+                    "change": "-31",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Richard Mauldin & Barbara Mauldin",
+                    "coupleid": "258165",
+                    "score": "1340"
+                },
+                {
+                    "change": "-48",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Ian Mcareavy & Holly Denner",
+                    "coupleid": "235736",
+                    "score": "1379"
+                },
+                {
+                    "change": "-72",
+                    "result": "14",
+                    "country": "USA",
+                    "couple": "Ben Cook & Caitlin Cook",
+                    "coupleid": "272607",
+                    "score": "1428"
+                },
+                {
+                    "change": "-49",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Frank Burzik & Cathy Burzik",
+                    "coupleid": "244221",
+                    "score": "1316"
+                },
+                {
+                    "change": "+4",
+                    "result": "15",
+                    "country": "USA",
+                    "couple": "Oleg Kovalenko & Karissa Leatherbarrow",
+                    "coupleid": "235760",
+                    "score": "1067"
+                }
+            ],
+            "name": "Amateur Open V. Waltz",
+            "age": "Amateur",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Standard_(WFQ)_348959",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Carroll & Maureen Carroll",
+                    "coupleid": "100412",
+                    "score": "1307"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "John Defino & Penny Defino",
+                    "coupleid": "235741",
+                    "score": "1410"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1202"
+                },
+                {
+                    "change": "+17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1095"
+                },
+                {
+                    "change": "+7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Burt Jackson & Flo Jackson",
+                    "coupleid": "97338",
+                    "score": "1081"
+                },
+                {
+                    "change": "-6",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Daniel Corsaro & Judy Corsaro",
+                    "coupleid": "237795",
+                    "score": "1070"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "James Herbert & Sharon Jones",
+                    "coupleid": "234819",
+                    "score": "1057"
+                }
+            ],
+            "name": "Senior III Novice Standard (WFQ)",
+            "age": "Over50",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Standard_(WTFQ)_348958",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Leland Whitney & Leslie Whitney",
+                    "coupleid": "186522",
+                    "score": "1274"
+                },
+                {
+                    "change": "-14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "John Defino & Penny Defino",
+                    "coupleid": "235741",
+                    "score": "1422"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Thomas Schultz & Shelley Reeves",
+                    "coupleid": "122208",
+                    "score": "1221"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1202"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1078"
+                }
+            ],
+            "name": "Senior III Pre-Champ Standard (WTFQ)",
+            "age": "Over50",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_IV_Novice_Standard_(WFQ)_348955",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Burt Jackson & Flo Jackson",
+                    "coupleid": "97338",
+                    "score": "1074"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Terry Stich & Sandra Stich",
+                    "coupleid": "46502",
+                    "score": "1121"
+                }
+            ],
+            "name": "Senior IV Novice Standard (WFQ)",
+            "age": "Over50",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Standard_(WFQ)_348971",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+46",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrzej Lelewer & Claudia Lelewer",
+                    "coupleid": "263559",
+                    "score": "1308"
+                },
+                {
+                    "change": "+51",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Charles Ferzli & Miriam Ferzli",
+                    "coupleid": "90760",
+                    "score": "1273"
+                },
+                {
+                    "change": "-7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Richard Stewart & Melanie Tichenor",
+                    "coupleid": "232766",
+                    "score": "1379"
+                },
+                {
+                    "change": "+28",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1266"
+                },
+                {
+                    "change": "-10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Pat Salerno & Loren Salerno",
+                    "coupleid": "201485",
+                    "score": "1305"
+                },
+                {
+                    "change": "-34",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "coupleid": "230077",
+                    "score": "1337"
+                },
+                {
+                    "change": "-56",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Carmine Rucco & Maria Bolyard",
+                    "coupleid": "231835",
+                    "score": "1395"
+                },
+                {
+                    "change": "-19",
+                    "result": "8",
+                    "country": "Unknown",
+                    "couple": "Gregory Prasch & Sue Prasch",
+                    "coupleid": "210394",
+                    "score": "1231"
+                },
+                {
+                    "change": "=",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Joseph Jackson & Brandi Deroche",
+                    "coupleid": "258169",
+                    "score": "1041"
+                }
+            ],
+            "name": "Senior I Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Standard_(WFQ)_348965",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+21",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Richard Stewart & Melanie Tichenor",
+                    "coupleid": "232766",
+                    "score": "1386"
+                },
+                {
+                    "change": "+59",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1238"
+                },
+                {
+                    "change": "+30",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Pat Salerno & Loren Salerno",
+                    "coupleid": "201485",
+                    "score": "1315"
+                },
+                {
+                    "change": "-11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "coupleid": "230077",
+                    "score": "1371"
+                },
+                {
+                    "change": "-34",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Carmine Rucco & Maria Bolyard",
+                    "coupleid": "231835",
+                    "score": "1451"
+                },
+                {
+                    "change": "-26",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "John Defino & Penny Defino",
+                    "coupleid": "235741",
+                    "score": "1349"
+                },
+                {
+                    "change": "-4",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Leland Whitney & Leslie Whitney",
+                    "coupleid": "186522",
+                    "score": "1281"
+                },
+                {
+                    "change": "-21",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Thomas Carroll & Maureen Carroll",
+                    "coupleid": "100412",
+                    "score": "1286"
+                },
+                {
+                    "change": "+16",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1110"
+                },
+                {
+                    "change": "-20",
+                    "result": "9",
+                    "country": "Unknown",
+                    "couple": "Gregory Prasch & Sue Prasch",
+                    "coupleid": "210394",
+                    "score": "1250"
+                },
+                {
+                    "change": "-15",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1179"
+                },
+                {
+                    "change": "-3",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "Daniel Corsaro & Judy Corsaro",
+                    "coupleid": "237795",
+                    "score": "1067"
+                },
+                {
+                    "change": "=",
+                    "result": "12",
+                    "country": "USA",
+                    "couple": "James Herbert & Sharon Jones",
+                    "coupleid": "234819",
+                    "score": "1057"
+                }
+            ],
+            "name": "Senior II Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "05 Oct 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_348963",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Richard Stewart & Melanie Tichenor",
+                    "coupleid": "232766",
+                    "score": "1365"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "coupleid": "230077",
+                    "score": "1382"
+                },
+                {
+                    "change": "+26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Pat Salerno & Loren Salerno",
+                    "coupleid": "201485",
+                    "score": "1285"
+                },
+                {
+                    "change": "+11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Leland Whitney & Leslie Whitney",
+                    "coupleid": "186522",
+                    "score": "1285"
+                },
+                {
+                    "change": "-35",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "John Defino & Penny Defino",
+                    "coupleid": "235741",
+                    "score": "1375"
+                },
+                {
+                    "change": "+36",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1179"
+                },
+                {
+                    "change": "-25",
+                    "result": "7",
+                    "country": "Unknown",
+                    "couple": "Gregory Prasch & Sue Prasch",
+                    "coupleid": "210394",
+                    "score": "1270"
+                },
+                {
+                    "change": "-6",
+                    "result": "8",
+                    "country": "Canada",
+                    "couple": "Thomas Schultz & Shelley Reeves",
+                    "coupleid": "122208",
+                    "score": "1215"
+                },
+                {
+                    "change": "-8",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1194"
+                },
+                {
+                    "change": "-19",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "James Kim & Sophia Hsieh",
+                    "coupleid": "230154",
+                    "score": "1188"
+                },
+                {
+                    "change": "-1",
+                    "result": "11",
+                    "country": "USA",
+                    "couple": "Tim Cannell & Jan Tu",
+                    "coupleid": "243209",
+                    "score": "1094"
+                }
+            ],
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "05 Oct 2014"
+        }
+    ],
+    "compid": "25309",
+    "rating": "236"
+}

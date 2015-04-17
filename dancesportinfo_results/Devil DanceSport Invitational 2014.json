@@ -1,0 +1,326 @@
+{
+    "events": [
+        {
+            "date": "25 Oct 2014",
+            "style": "Ballroom",
+            "url": "Adult_Novice_Standard_(WFQ)_353769",
+            "name": "Adult Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "261715",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1185",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "200880",
+                    "couple": "Nicholas Radtke & Rebekah Crandall",
+                    "country": "USA",
+                    "change": "+18",
+                    "score": "1107",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265369",
+                    "couple": "Bradley Wilson & Kumiko Gahan",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1081",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "200890",
+                    "couple": "Carlos Ballesteros & Camile Hake",
+                    "country": "USA",
+                    "change": "-31",
+                    "score": "1286",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "265372",
+                    "couple": "Gabi Wasserman & Tiffany Weiss",
+                    "country": "USA",
+                    "change": "+18",
+                    "score": "1059",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "265371",
+                    "couple": "Andy Burch & Kristina Burch",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "265370",
+                    "couple": "David Collins & Kelsey Little",
+                    "country": "USA",
+                    "change": "-10",
+                    "score": "1040",
+                    "result": "7"
+                },
+                {
+                    "coupleid": "265373",
+                    "couple": "Luke Peil & Alison Belliveau",
+                    "country": "USA",
+                    "change": "-13",
+                    "score": "1027",
+                    "result": "8"
+                },
+                {
+                    "coupleid": "265374",
+                    "couple": "Michael Greenley & Lauren Mehok",
+                    "country": "USA",
+                    "change": "-24",
+                    "score": "1017",
+                    "result": "9"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "25 Oct 2014",
+            "style": "Ballroom",
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_353771",
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "261715",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1185",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "200880",
+                    "couple": "Nicholas Radtke & Rebekah Crandall",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1112",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265369",
+                    "couple": "Bradley Wilson & Kumiko Gahan",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1084",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "265374",
+                    "couple": "Michael Greenley & Lauren Mehok",
+                    "country": "USA",
+                    "change": "+20",
+                    "score": "1037",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "265372",
+                    "couple": "Gabi Wasserman & Tiffany Weiss",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1047",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "265370",
+                    "couple": "David Collins & Kelsey Little",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1024",
+                    "result": "6"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "25 Oct 2014",
+            "style": "Ballroom",
+            "url": "Adult_Pre-Novice_Standard_(WQ)_353773",
+            "name": "Adult Pre-Novice Standard (WQ)",
+            "results": [
+                {
+                    "coupleid": "265380",
+                    "couple": "Hoang Nguyen & Delia Toscano",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1081",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265381",
+                    "couple": "Andy Burch & Lori Darnold",
+                    "country": "USA",
+                    "change": "+16",
+                    "score": "1066",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265383",
+                    "couple": "Jai Daniel & Kristina Bransfield",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "265382",
+                    "couple": "Daniel Radford & Athena Simmons",
+                    "country": "USA",
+                    "change": "-45",
+                    "score": "1157",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "25 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Novice_Latin_(SCR)_353768",
+            "name": "Adult Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "261715",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "country": "USA",
+                    "change": "+14",
+                    "score": "1088",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265365",
+                    "couple": "Brandon Cruz & Melissa Silverthorn",
+                    "country": "USA",
+                    "change": "+17",
+                    "score": "1067",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265366",
+                    "couple": "Ashur Rael & Lauren Mehok",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1052",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "265367",
+                    "couple": "King Fai Lai & Kitty Lai",
+                    "country": "USA",
+                    "change": "-11",
+                    "score": "1039",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "265368",
+                    "couple": "Jie Yuan & Ting Yu",
+                    "country": "USA",
+                    "change": "-25",
+                    "score": "1025",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "25 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_353770",
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "265375",
+                    "couple": "John Zobian & Paige Knuth",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1234",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "261715",
+                    "couple": "Roland Kyle & Ashley Kunihiro",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1119",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265371",
+                    "couple": "Andy Burch & Kristina Burch",
+                    "country": "USA",
+                    "change": "-19",
+                    "score": "1331",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "265376",
+                    "couple": "Daniel Robb & Migle Varkalaite",
+                    "country": "USA",
+                    "change": "-42",
+                    "score": "1338",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "25 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Pre-Novice_Latin_(CR)_353772",
+            "name": "Adult Pre-Novice Latin (CR)",
+            "results": [
+                {
+                    "coupleid": "265377",
+                    "couple": "Samir Mohandes & Paloma Martinez",
+                    "country": "USA",
+                    "change": "+37",
+                    "score": "1087",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "265366",
+                    "couple": "Ashur Rael & Lauren Mehok",
+                    "country": "USA",
+                    "change": "+23",
+                    "score": "1075",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "265365",
+                    "couple": "Brandon Cruz & Melissa Silverthorn",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1066",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "265378",
+                    "couple": "Nicholas Kaldawi & Ali Muller",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1046",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "265379",
+                    "couple": "Daniel Radford & Alison Belliveau",
+                    "country": "USA",
+                    "change": "-51",
+                    "score": "1105",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25631",
+    "url": "Devil_DanceSport_Invitational_2014_25631",
+    "name": "Devil DanceSport Invitational 2014",
+    "rating": "79"
+}

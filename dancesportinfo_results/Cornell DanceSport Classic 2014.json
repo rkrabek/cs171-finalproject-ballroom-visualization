@@ -1,0 +1,106 @@
+{
+    "events": [
+        {
+            "date": "04 Oct 2014",
+            "style": "Ballroom",
+            "url": "Open_Standard_(WTFQ)_349092",
+            "name": "Open Standard (WTFQ)",
+            "results": [
+                {
+                    "coupleid": "231760",
+                    "couple": "Corey Girard & Kayla Girard",
+                    "country": "USA",
+                    "change": "+22",
+                    "score": "1319",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "243199",
+                    "couple": "Alphonse Squillante & Lauren Roth",
+                    "country": "USA",
+                    "change": "+41",
+                    "score": "1288",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "139192",
+                    "couple": "Francois Hebert & Susanna Kohler",
+                    "country": "USA",
+                    "change": "+13",
+                    "score": "1287",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "263580",
+                    "couple": "Jonathan Lyles & Wei Dong",
+                    "country": "USA",
+                    "change": "-32",
+                    "score": "1311",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "219120",
+                    "couple": "Ryan Bisbey & Sarah Luna",
+                    "country": "USA",
+                    "change": "-19",
+                    "score": "1267",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "219119",
+                    "couple": "Robbie Fraleigh & Dana Ray",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1247",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "176689",
+                    "couple": "Dmitry Slavnikov & Kristina Karabinos",
+                    "country": "USA",
+                    "change": "-15",
+                    "score": "1229",
+                    "result": "7"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "04 Oct 2014",
+            "style": "Latin",
+            "url": "Open_Latin_(CSRJ)_349091",
+            "name": "Open Latin (CSRJ)",
+            "results": [
+                {
+                    "coupleid": "263579",
+                    "couple": "Ryan Bisbey & Joanna Mleczko",
+                    "country": "USA",
+                    "change": "+15",
+                    "score": "1319",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "85076",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "country": "USA",
+                    "change": "-15",
+                    "score": "1323",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "176689",
+                    "couple": "Dmitry Slavnikov & Kristina Karabinos",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1203",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25316",
+    "url": "Cornell_DanceSport_Classic_2014_25316",
+    "name": "Cornell DanceSport Classic 2014",
+    "rating": "63"
+}

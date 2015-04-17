@@ -1,0 +1,602 @@
+{
+    "name": "Chicago Crystal Ball 2014",
+    "url": "Chicago_Crystal_Ball_2014_24235",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+F+QS)_328069",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1634"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "coupleid": "252489",
+                    "score": "1601"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brad Courtney & Mariya Sergeeva",
+                    "coupleid": "257244",
+                    "score": "1460"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "13 Jun 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(CC+S+R+PD+J)_328070",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+13",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vincenzo Minieri & Rosaria Vivone",
+                    "coupleid": "251478",
+                    "score": "1630"
+                },
+                {
+                    "change": "+37",
+                    "result": "2",
+                    "country": "Russia",
+                    "couple": "Vasiliy Platonov & Irina Panfilova",
+                    "coupleid": "146451",
+                    "score": "1540"
+                },
+                {
+                    "change": "-20",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gene Bersten & Elena Bersten",
+                    "coupleid": "181181",
+                    "score": "1614"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1579"
+                },
+                {
+                    "change": "+11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1472"
+                },
+                {
+                    "change": "-25",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Vlad Musteata & Patricia Becker",
+                    "coupleid": "190513",
+                    "score": "1519"
+                }
+            ],
+            "name": "Professional Rising Star Latin (CC/S/R/PD/J)",
+            "age": "Professional",
+            "date": "13 Jun 2014"
+        },
+        {
+            "url": "Junior_Ballroom_Scholarship_(W+T+F+QS)_328062",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+26",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Lougin & Sofia Lougin",
+                    "coupleid": "202942",
+                    "score": "1353"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1343"
+                },
+                {
+                    "change": "-25",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Krzysztof Piekosz & Julia Jasinska",
+                    "coupleid": "252469",
+                    "score": "1329"
+                }
+            ],
+            "name": "Junior Ballroom Scholarship (W/T/F/QS)",
+            "age": "Junior",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Pre-Teen_Ballroom_Scholarship_(W+T+QS)_328066",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Oskar Rybczynski & Julia Kochanska",
+                    "coupleid": "257242",
+                    "score": "1229"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Eli Dumanis & Ilana Tatch",
+                    "coupleid": "252486",
+                    "score": "1201"
+                }
+            ],
+            "name": "Pre-Teen Ballroom Scholarship (W/T/QS)",
+            "age": "Juvenile",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Professional_Open_Ballroom_(W+T+VW+F+QS)_328071",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "coupleid": "255621",
+                    "score": "1743"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Pavel Cherdantsau & Svetlana Rudkovskaya",
+                    "coupleid": "10",
+                    "score": "1682"
+                },
+                {
+                    "change": "+2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1636"
+                },
+                {
+                    "change": "+1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "coupleid": "252489",
+                    "score": "1602"
+                },
+                {
+                    "change": "-4",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vance Mabry & Samantha Simmons",
+                    "coupleid": "233316",
+                    "score": "1573"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Brad Courtney & Mariya Sergeeva",
+                    "coupleid": "257244",
+                    "score": "1460"
+                }
+            ],
+            "name": "Professional Open Ballroom (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Junior_Latin_Scholarship_(CC+S+R+J)_328063",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+50",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Lougin & Sofia Lougin",
+                    "coupleid": "202942",
+                    "score": "1323"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1356"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Krzysztof Piekosz & Julia Jasinska",
+                    "coupleid": "252469",
+                    "score": "1341"
+                },
+                {
+                    "change": "-22",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Alexander Nikolaev & Elina Nikerina",
+                    "coupleid": "257240",
+                    "score": "1328"
+                },
+                {
+                    "change": "-35",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Bartosz Liskowicz & Julia Hural",
+                    "coupleid": "257241",
+                    "score": "1315"
+                }
+            ],
+            "name": "Junior Latin Scholarship (CC/S/R/J)",
+            "age": "Junior",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Pre-Teen_Latin_Scholarship_(CC+S+J_328067",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael Zaslavskiy & Lida Tetyusheva",
+                    "coupleid": "175019",
+                    "score": "1145"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Oskar Rybczynski & Angelika Patyk",
+                    "coupleid": "175022",
+                    "score": "1095"
+                },
+                {
+                    "change": "-34",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tommy Yarrish & Ilana Vernovsky",
+                    "coupleid": "175020",
+                    "score": "1141"
+                }
+            ],
+            "name": "Pre-Teen Latin Scholarship (CC/S/J",
+            "age": "Juvenile",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Professional_Open_Latin_(CC+S+R+PD+J)_328072",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1690"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vincenzo Minieri & Rosaria Vivone",
+                    "coupleid": "251478",
+                    "score": "1635"
+                },
+                {
+                    "change": "+32",
+                    "result": "3",
+                    "country": "Russia",
+                    "couple": "Vasiliy Platonov & Irina Panfilova",
+                    "coupleid": "146451",
+                    "score": "1572"
+                },
+                {
+                    "change": "-12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Gene Bersten & Elena Bersten",
+                    "coupleid": "181181",
+                    "score": "1602"
+                },
+                {
+                    "change": "-8",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Matt Rivers & Maliwan Diemer",
+                    "coupleid": "170753",
+                    "score": "1571"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Pavel Cherdantsau & Svetlana Rudkovskaya",
+                    "coupleid": "10",
+                    "score": "1555"
+                },
+                {
+                    "change": "+10",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1482"
+                },
+                {
+                    "change": "-15",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Vlad Musteata & Patricia Becker",
+                    "coupleid": "190513",
+                    "score": "1504"
+                }
+            ],
+            "name": "Professional Open Latin (CC/S/R/PD/J)",
+            "age": "Professional",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Youth_Latin_Scholarship_(CC+S+R+J)_328068",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Suszczynski & Agnieszka Suminski",
+                    "coupleid": "257243",
+                    "score": "1500"
+                }
+            ],
+            "name": "Youth Latin Scholarship (CC/S/R/J)",
+            "age": "Youth",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Amateur_Novice_Ballroom_Championship_(W+QS)_328055",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Bryan Colter & Kayla Logsdon",
+                    "coupleid": "257233",
+                    "score": "1061"
+                },
+                {
+                    "change": "-11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Szymon Koszarek & Kaja Romanowski",
+                    "coupleid": "257232",
+                    "score": "1039"
+                }
+            ],
+            "name": "Amateur Novice Ballroom Championship (W/QS)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Open_Ballroom_Championship_(W+T+VW+FT+QS)_328057",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Pawel Urbanski & Alisa Alyabeva",
+                    "coupleid": "257234",
+                    "score": "1532"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alan Burns & Kelly Batchelor",
+                    "coupleid": "38825",
+                    "score": "1289"
+                }
+            ],
+            "name": "Amateur Open Ballroom Championship (W/T/VW/FT/QS)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Pre-Championship_Ballroom_(W+T+QS)_328058",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alan Burns & Kelly Batchelor",
+                    "coupleid": "38825",
+                    "score": "1306"
+                },
+                {
+                    "change": "-17",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Erik Binter & Nicole Weber",
+                    "coupleid": "257236",
+                    "score": "1333"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Szymon Koszarek & Barbara Koszarek",
+                    "coupleid": "257235",
+                    "score": "1194"
+                }
+            ],
+            "name": "Amateur Pre-Championship Ballroom (W/T/QS)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Pre-Novice_Ballroom_(W+QS)_328060",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Bryan Colter & Kayla Logsdon",
+                    "coupleid": "257233",
+                    "score": "1069"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Glen Dayton & Abby Grossman",
+                    "coupleid": "257238",
+                    "score": "1042"
+                }
+            ],
+            "name": "Amateur Pre-Novice Ballroom (W/QS)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Junior_I_Open_Ballroom_Championship_(W+T+F+QS)_328064",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Lougin & Sofia Lougin",
+                    "coupleid": "202942",
+                    "score": "1362"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1334"
+                }
+            ],
+            "name": "Junior I Open Ballroom Championship (W/T/F/QS)",
+            "age": "Junior",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Novice_Latin_(CC+R)_328056",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Szymon Koszarek & Kaja Romanowski",
+                    "coupleid": "257232",
+                    "score": "1050"
+                }
+            ],
+            "name": "Amateur Novice Latin (CC/R)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Pre-Championship_Latin_(CC+S+R)_328059",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matthew Mccaw & Lindsey Warner",
+                    "coupleid": "230952",
+                    "score": "1203"
+                },
+                {
+                    "change": "-14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Szymon Koszarek & Paulina Soltys",
+                    "coupleid": "257237",
+                    "score": "1186"
+                }
+            ],
+            "name": "Amateur Pre-Championship Latin (CC/S/R)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Amateur_Pre-Novice_Latin_(CC+R)_328061",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Szymon Koszarek & Samantha Oberszkalski",
+                    "coupleid": "257239",
+                    "score": "1118"
+                }
+            ],
+            "name": "Amateur Pre-Novice Latin (CC/R)",
+            "age": "Amateur",
+            "date": "15 Jun 2014"
+        },
+        {
+            "url": "Junior_I_Open_Latin_Championship_(CC+S+R+J)_328065",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Lougin & Sofia Lougin",
+                    "coupleid": "202942",
+                    "score": "1341"
+                },
+                {
+                    "change": "-18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Lozovnoy & Bella Haham",
+                    "coupleid": "232765",
+                    "score": "1338"
+                }
+            ],
+            "name": "Junior I Open Latin Championship (CC/S/R/J)",
+            "age": "Junior",
+            "date": "15 Jun 2014"
+        }
+    ],
+    "compid": "24235",
+    "rating": "101"
+}

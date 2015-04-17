@@ -1,0 +1,2165 @@
+{
+    "name": "City Lights Ball",
+    "url": "City_Lights_Ball_26943",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+F+QS)_375222",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "coupleid": "261721",
+                    "score": "1712"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Kristian Radvan & Kristina Kudelko",
+                    "coupleid": "270624",
+                    "score": "1703"
+                },
+                {
+                    "change": "+7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jonathan Atkinson & Lorena Bravo",
+                    "coupleid": "211875",
+                    "score": "1536"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "Hong Kong",
+                    "couple": "Kenny Xu & Jenny Tseung",
+                    "coupleid": "65402",
+                    "score": "1515"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "30 Jan 2015"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(C+S+R+PD+J)_375223",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Mykhaylo Bilopukhov & Anastasiya Shchipilina",
+                    "coupleid": "64000",
+                    "score": "1745"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Artjom Smigeljuk & Oxana Kashkina",
+                    "coupleid": "231423",
+                    "score": "1569"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1531"
+                }
+            ],
+            "name": "Professional Rising Star Latin (C/S/R/PD/J)",
+            "age": "Professional",
+            "date": "30 Jan 2015"
+        },
+        {
+            "url": "Professional_Open_Latin_(C+S+R+PD+J)_375224",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1752"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "Ukraine",
+                    "couple": "Mykhaylo Bilopukhov & Anastasiya Shchipilina",
+                    "coupleid": "64000",
+                    "score": "1740"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Pavel Balykin & Maegan Mendoza",
+                    "coupleid": "165314",
+                    "score": "1693"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1601"
+                },
+                {
+                    "change": "+8",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Artjom Smigeljuk & Oxana Kashkina",
+                    "coupleid": "231423",
+                    "score": "1577"
+                },
+                {
+                    "change": "-17",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Dennis Sy & Mae Lozada",
+                    "coupleid": "192522",
+                    "score": "1582"
+                },
+                {
+                    "change": "-3",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "coupleid": "38611",
+                    "score": "1528"
+                }
+            ],
+            "name": "Professional Open Latin (C/S/R/PD/J)",
+            "age": "Professional",
+            "date": "31 Jan 2015"
+        },
+        {
+            "url": "Novice_Ballroom_(W+FT+QS)_375172",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aleksey Goncharuk & Jennifer Innes",
+                    "coupleid": "263287",
+                    "score": "1374"
+                },
+                {
+                    "change": "+8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sidney Peng & Jamie Liu",
+                    "coupleid": "201573",
+                    "score": "1319"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brian Hsueh & Stephanie Au",
+                    "coupleid": "234828",
+                    "score": "1313"
+                },
+                {
+                    "change": "-4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "John Punin & Fernanda Huerta",
+                    "coupleid": "219494",
+                    "score": "1275"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Keith Young & Joan Giampaolo",
+                    "coupleid": "198157",
+                    "score": "1135"
+                },
+                {
+                    "change": "+4",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Norio Yamamoto & Marie Yamamoto",
+                    "coupleid": "128388",
+                    "score": "1083"
+                },
+                {
+                    "change": "+3",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Hugh Chapman & Heather Lenahan",
+                    "coupleid": "273327",
+                    "score": "1053"
+                },
+                {
+                    "change": "-8",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Bruce Spicer & Joan Spicer",
+                    "coupleid": "273328",
+                    "score": "1042"
+                }
+            ],
+            "name": "Novice Ballroom (W/FT/QS)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Amateur_Ballroom_Scholarship_(W+T+VW+FT+QS)_375174",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Marek Klepadlo & Liana Bakhtiarova",
+                    "coupleid": "252881",
+                    "score": "1600"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ruslan Kalyuzhnyy & Kseniya Sovenko",
+                    "coupleid": "230649",
+                    "score": "1536"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1486"
+                },
+                {
+                    "change": "+14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dmitriy Vorobiev & Sofie Elliott",
+                    "coupleid": "272804",
+                    "score": "1444"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Turtle Brennen & Regina Pareigis",
+                    "coupleid": "197797",
+                    "score": "1437"
+                },
+                {
+                    "change": "-17",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Christian Solares & Whitney Myers",
+                    "coupleid": "121538",
+                    "score": "1428"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Sebastian Lowe & Anastasia Zaytseva",
+                    "coupleid": "205341",
+                    "score": "1344"
+                }
+            ],
+            "name": "Open Amateur Ballroom Scholarship (W/T/VW/FT/QS)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Ballroom_Championship_(W+T+VW+FT+QS)_375176",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+34",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Vorobiev & Sofie Elliott",
+                    "coupleid": "272804",
+                    "score": "1478"
+                },
+                {
+                    "change": "+17",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Rubashevsky & Anastasiya Vysotska",
+                    "coupleid": "260825",
+                    "score": "1475"
+                },
+                {
+                    "change": "-12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Thomas Yim & Kelly Cheng",
+                    "coupleid": "49708",
+                    "score": "1493"
+                },
+                {
+                    "change": "+16",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Christian Solares & Whitney Myers",
+                    "coupleid": "121538",
+                    "score": "1444"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Turtle Brennen & Regina Pareigis",
+                    "coupleid": "197797",
+                    "score": "1438"
+                },
+                {
+                    "change": "+16",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Christopher Freeman & Karen Blelch",
+                    "coupleid": "199042",
+                    "score": "1412"
+                },
+                {
+                    "change": "+2",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Gene Tseng & Vivian Hui Zhang",
+                    "coupleid": "197800",
+                    "score": "1407"
+                },
+                {
+                    "change": "-4",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Jihai Chen & Jennifer Chang",
+                    "coupleid": "234830",
+                    "score": "1394"
+                },
+                {
+                    "change": "-2",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "coupleid": "204230",
+                    "score": "1336"
+                },
+                {
+                    "change": "+10",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "John Huang & Angela He",
+                    "coupleid": "176352",
+                    "score": "1068"
+                },
+                {
+                    "change": "-67",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Dan Manea & Mia Hu",
+                    "coupleid": "131644",
+                    "score": "1444"
+                }
+            ],
+            "name": "Open Ballroom Championship (W/T/VW/FT/QS)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Pre_Champ_Ballroom_(W+T+FT+QS)_375181",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aleksey Goncharuk & Jennifer Innes",
+                    "coupleid": "263287",
+                    "score": "1393"
+                },
+                {
+                    "change": "+33",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sidney Peng & Jamie Liu",
+                    "coupleid": "201573",
+                    "score": "1352"
+                },
+                {
+                    "change": "-15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gene Tseng & Vivian Hui Zhang",
+                    "coupleid": "197800",
+                    "score": "1392"
+                },
+                {
+                    "change": "-21",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jihai Chen & Jennifer Chang",
+                    "coupleid": "234830",
+                    "score": "1373"
+                },
+                {
+                    "change": "+5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Brian Hsueh & Stephanie Au",
+                    "coupleid": "234828",
+                    "score": "1318"
+                },
+                {
+                    "change": "-17",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "coupleid": "204230",
+                    "score": "1319"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "John Punin & Fernanda Huerta",
+                    "coupleid": "219494",
+                    "score": "1275"
+                },
+                {
+                    "change": "-5",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Steven Rosenau & Isabelle Jackson",
+                    "coupleid": "157999",
+                    "score": "1254"
+                },
+                {
+                    "change": "=",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "John Huang & Angela He",
+                    "coupleid": "176352",
+                    "score": "1068"
+                }
+            ],
+            "name": "Pre Champ Ballroom (W/T/FT/QS)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Open_Ballroom_4_Dance_(W+T+F+Q)_375191",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vladimir Zeltser & Polina Zaytseva",
+                    "coupleid": "211868",
+                    "score": "1054"
+                }
+            ],
+            "name": "Junior I Open Ballroom 4 Dance (W/T/F/Q)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Open_Ballroom_5_Dance_(W+T+VW+F+Q)_375192",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tyler Li & Anjelica Lowe",
+                    "coupleid": "136393",
+                    "score": "1266"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vladimir Zeltser & Polina Zaytseva",
+                    "coupleid": "211868",
+                    "score": "1054"
+                }
+            ],
+            "name": "Junior I Open Ballroom 5 Dance (W/T/VW/F/Q)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Ballroom_(W+T+Q)_375195",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jeremy Elvander & Lora Simakova",
+                    "coupleid": "144108",
+                    "score": "1171"
+                }
+            ],
+            "name": "Junior I Pre-Champ Ballroom (W/T/Q)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Open_Ballroom_4_Dance_(W+T+F+Q)_375198",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Levin & Emma Dewey",
+                    "coupleid": "263294",
+                    "score": "1160"
+                }
+            ],
+            "name": "Junior II Open Ballroom 4 Dance (W/T/F/Q)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_Open_Ballroom_Scholarship_(W+T+VW+F+Q)_375188",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tyler Li & Anjelica Lowe",
+                    "coupleid": "136393",
+                    "score": "1266"
+                }
+            ],
+            "name": "Junior Open Ballroom Scholarship (W/T/VW/F/Q)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Closed_Ballroom_4_Dance_(W+T+FT+QS)_375209",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Anthony Zeltser & Donna Rapoport",
+                    "coupleid": "237567",
+                    "score": "1117"
+                },
+                {
+                    "change": "-18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Elvander & Iryna Shegera",
+                    "coupleid": "237563",
+                    "score": "1110"
+                }
+            ],
+            "name": "Juvenile I Closed Ballroom 4 Dance (W/T/FT/QS)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Novice_Ballroom_(W+Q)_375205",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1225"
+                },
+                {
+                    "change": "+18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Gabriel Fridman & Sasha Markova",
+                    "coupleid": "273337",
+                    "score": "872"
+                },
+                {
+                    "change": "+2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Paul Rabinovich & Genna Pravdin",
+                    "coupleid": "273338",
+                    "score": "856"
+                },
+                {
+                    "change": "-20",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Liam Okeeffe & Lillian Okeeffe",
+                    "coupleid": "265131",
+                    "score": "845"
+                }
+            ],
+            "name": "Juvenile I Novice Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Pre-Champ_Ballroom_(W+T+Q)_375207",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1225"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Elvander & Iryna Shegera",
+                    "coupleid": "237563",
+                    "score": "1128"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Paul Rabinovich & Genna Pravdin",
+                    "coupleid": "273338",
+                    "score": "862"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Liam Okeeffe & Lillian Okeeffe",
+                    "coupleid": "265131",
+                    "score": "839"
+                }
+            ],
+            "name": "Juvenile I Pre-Champ Ballroom (W/T/Q)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Closed_Ballroom_4_Dance_(W+T+FT+QS)_375215",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Griffin Cooney & Josephine Taylor",
+                    "coupleid": "259123",
+                    "score": "1087"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Anthony Mattos & Sophia Boynton",
+                    "coupleid": "211863",
+                    "score": "1025"
+                }
+            ],
+            "name": "Juvenile II Closed Ballroom 4 Dance (W/T/FT/QS)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Closed_Ballroom_5_Dance_(W+T+FT+QS)_375216",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Griffin Cooney & Josephine Taylor",
+                    "coupleid": "259123",
+                    "score": "1109"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jeremy Elvander & Lora Simakova",
+                    "coupleid": "144108",
+                    "score": "1149"
+                }
+            ],
+            "name": "Juvenile II Closed Ballroom 5 Dance (W/T/FT/QS)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Novice_Ballroom_(W+Q)_375211",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ilya Ignatyev & Vickanat Govorun",
+                    "coupleid": "259124",
+                    "score": "872"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Elliot Evans & Tetyana Barz",
+                    "coupleid": "263310",
+                    "score": "853"
+                },
+                {
+                    "change": "-17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Kesselman & Sophia Deynega",
+                    "coupleid": "211864",
+                    "score": "834"
+                }
+            ],
+            "name": "Juvenile II Novice Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Pre-Champ_Ballroom_(W+T+Q)_375213",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Anthony Zeltser & Donna Rapoport",
+                    "coupleid": "237567",
+                    "score": "1117"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Kesselman & Sophia Deynega",
+                    "coupleid": "211864",
+                    "score": "834"
+                }
+            ],
+            "name": "Juvenile II Pre-Champ Ballroom (W/T/Q)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_Novice_Ballroom_(W+Q)_375202",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Sam Gulchin & Sophia Yarmolinsky",
+                    "coupleid": "273336",
+                    "score": "854"
+                }
+            ],
+            "name": "Juvenile Novice Ballroom (W/Q)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Professional_Open_Ballroom_(W+T+VW+F+QS)_375225",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mikhail Avdeev & Olga Blinova",
+                    "coupleid": "139095",
+                    "score": "1872"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1770"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikolai Cheremukhin & Viktorija Cheremukhin",
+                    "coupleid": "261721",
+                    "score": "1723"
+                },
+                {
+                    "change": "+4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kristian Radvan & Kristina Kudelko",
+                    "coupleid": "270624",
+                    "score": "1707"
+                },
+                {
+                    "change": "-6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michal Towliszew & Tiffany Fung",
+                    "coupleid": "94980",
+                    "score": "1691"
+                },
+                {
+                    "change": "-12",
+                    "result": "6",
+                    "country": "Byelorussia",
+                    "couple": "Evgeniy Maiorov & Olga Lisovskaya",
+                    "coupleid": "4956",
+                    "score": "1672"
+                }
+            ],
+            "name": "Professional Open Ballroom (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Senior_I_Ballroom_(W+T+VW+FT+QS)_375178",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Turtle Brennen & Regina Pareigis",
+                    "coupleid": "197797",
+                    "score": "1442"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "David Getchell & Allison Gonzalez",
+                    "coupleid": "131638",
+                    "score": "1404"
+                },
+                {
+                    "change": "=",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "John Huang & Angela He",
+                    "coupleid": "176352",
+                    "score": "1068"
+                }
+            ],
+            "name": "Open Senior I Ballroom (W/T/VW/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Senior_II_Ballroom_(W+T+FT+QS)_375179",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Getchell & Allison Gonzalez",
+                    "coupleid": "131638",
+                    "score": "1416"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Hiroshi Kawanami & Juliana Kawanami",
+                    "coupleid": "8876",
+                    "score": "1393"
+                },
+                {
+                    "change": "-16",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Winston Chow & Lilly Chow",
+                    "coupleid": "12326",
+                    "score": "1382"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Adel Ghoneimy & Karen Chow",
+                    "coupleid": "12325",
+                    "score": "1334"
+                }
+            ],
+            "name": "Open Senior II Ballroom (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Senior_lll_Ballroom_(W+T+FT+QS)_375180",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Simon Fung & Pu Fung",
+                    "coupleid": "146145",
+                    "score": "1048"
+                }
+            ],
+            "name": "Open Senior lll Ballroom (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Senior_II_Novice_Ballroom_(W+FT+QS)_375183",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+29",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Norio Yamamoto & Marie Yamamoto",
+                    "coupleid": "128388",
+                    "score": "1112"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Chien Yeh & Lynn Li",
+                    "coupleid": "146142",
+                    "score": "1123"
+                },
+                {
+                    "change": "-15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Zalman Sher & Torri Campbell",
+                    "coupleid": "184721",
+                    "score": "1116"
+                },
+                {
+                    "change": "+29",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Eric Reitz & Anne Reitz",
+                    "coupleid": "176355",
+                    "score": "1055"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Craig Eneboe & Sally Henderson",
+                    "coupleid": "234835",
+                    "score": "1055"
+                },
+                {
+                    "change": "+13",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Chung-You Liu & Yuan-Yuan Liu",
+                    "coupleid": "273332",
+                    "score": "1027"
+                },
+                {
+                    "change": "-33",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Michael Durrigan & Sally Koo",
+                    "coupleid": "251410",
+                    "score": "1042"
+                },
+                {
+                    "change": "-24",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Bruce Spicer & Joan Spicer",
+                    "coupleid": "273328",
+                    "score": "1018"
+                }
+            ],
+            "name": "Senior II Novice Ballroom (W/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Senior_II_Pre_Champ_Ballroom_(W+T+FT+QS)_375184",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chien Yeh & Lynn Li",
+                    "coupleid": "146142",
+                    "score": "1137"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Zalman Sher & Torri Campbell",
+                    "coupleid": "184721",
+                    "score": "1122"
+                },
+                {
+                    "change": "+26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Craig Eneboe & Sally Henderson",
+                    "coupleid": "234835",
+                    "score": "1081"
+                },
+                {
+                    "change": "-25",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Keith Young & Joan Giampaolo",
+                    "coupleid": "198157",
+                    "score": "1110"
+                },
+                {
+                    "change": "+13",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michael Durrigan & Sally Koo",
+                    "coupleid": "251410",
+                    "score": "1055"
+                },
+                {
+                    "change": "-7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Reitz & Anne Reitz",
+                    "coupleid": "176355",
+                    "score": "1048"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Chung-You Liu & Yuan-Yuan Liu",
+                    "coupleid": "273332",
+                    "score": "1026"
+                },
+                {
+                    "change": "-25",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Simon Fung & Pu Fung",
+                    "coupleid": "146145",
+                    "score": "1023"
+                }
+            ],
+            "name": "Senior II Pre Champ Ballroom (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Senior_lll_Novice_Ballroom_(W+FT+QS)_375185",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Eric Reitz & Anne Reitz",
+                    "coupleid": "176355",
+                    "score": "1054"
+                },
+                {
+                    "change": "+26",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ken Ichiki & Keiko Ichiki",
+                    "coupleid": "205342",
+                    "score": "1004"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Herman Suryoutomo & Monica Suryoutomo",
+                    "coupleid": "114667",
+                    "score": "1007"
+                },
+                {
+                    "change": "-23",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kwong-Yuen Yu & Mary Pul-Yin Lau Yu",
+                    "coupleid": "273333",
+                    "score": "991"
+                }
+            ],
+            "name": "Senior lll Novice Ballroom (W/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Senior_lll_Pre_Champ_Ballroom_(W+T+FT+QS)_375186",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ken Ichiki & Keiko Ichiki",
+                    "coupleid": "205342",
+                    "score": "1020"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Herman Suryoutomo & Monica Suryoutomo",
+                    "coupleid": "114667",
+                    "score": "1003"
+                },
+                {
+                    "change": "-12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kwong-Yuen Yu & Mary Pul-Yin Lau Yu",
+                    "coupleid": "273333",
+                    "score": "979"
+                }
+            ],
+            "name": "Senior lll Pre Champ Ballroom (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Youth_Open_Ballroom_Scholarship_(W+T+VW+F+Q)_375219",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+25",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kinsley Lin & Michelle Yiu",
+                    "coupleid": "155151",
+                    "score": "1414"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mike Monokandilos & Sophia Brodsky",
+                    "coupleid": "272803",
+                    "score": "1401"
+                },
+                {
+                    "change": "-28",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1415"
+                },
+                {
+                    "change": "-3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sebastian Lowe & Anastasia Zaytseva",
+                    "coupleid": "205341",
+                    "score": "1341"
+                }
+            ],
+            "name": "Youth Open Ballroom Scholarship (W/T/VW/F/Q)",
+            "age": "Youth",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Novice_Latin_(CC+S+R)_375173",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ilya Ronin & Natasha Shumeyko",
+                    "coupleid": "260834",
+                    "score": "1268"
+                },
+                {
+                    "change": "+18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alvin Kerber & Brittany Whitehill",
+                    "coupleid": "263291",
+                    "score": "1030"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Conroy & Christina Wu",
+                    "coupleid": "265129",
+                    "score": "1021"
+                },
+                {
+                    "change": "-13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Justin Fisher & Jaime Berkland",
+                    "coupleid": "263285",
+                    "score": "998"
+                }
+            ],
+            "name": "Novice Latin (CC/S/R)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Amateur_Latin_Scholarship_(CC+S+R+PD+J)_375175",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+26",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Bumchin Tegshjargal & Michelle Klets",
+                    "coupleid": "267501",
+                    "score": "1470"
+                },
+                {
+                    "change": "+26",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Rubashevsky & Anastasiya Vysotska",
+                    "coupleid": "260825",
+                    "score": "1450"
+                },
+                {
+                    "change": "-17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Umar Dyallo & Natasha Zrazhevskaya",
+                    "coupleid": "212202",
+                    "score": "1456"
+                },
+                {
+                    "change": "+4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1424"
+                },
+                {
+                    "change": "-29",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Rhett Grant & Yelena Vayn",
+                    "coupleid": "270582",
+                    "score": "1421"
+                },
+                {
+                    "change": "-9",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Christian Solares & Whitney Myers",
+                    "coupleid": "121538",
+                    "score": "1388"
+                }
+            ],
+            "name": "Open Amateur Latin Scholarship (CC/S/R/PD/J)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Open_Latin_Championship_(CC+S+R+PD+J)_375177",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+23",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Rubashevsky & Anastasiya Vysotska",
+                    "coupleid": "260825",
+                    "score": "1473"
+                },
+                {
+                    "change": "+9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Umar Dyallo & Natasha Zrazhevskaya",
+                    "coupleid": "212202",
+                    "score": "1465"
+                },
+                {
+                    "change": "+18",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Rhett Grant & Yelena Vayn",
+                    "coupleid": "270582",
+                    "score": "1439"
+                },
+                {
+                    "change": "-22",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Hai Tran & Stacey Chuang",
+                    "coupleid": "273329",
+                    "score": "1448"
+                },
+                {
+                    "change": "-22",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Maksim Kalmanovich & Danielle Rayzberg",
+                    "coupleid": "273330",
+                    "score": "1429"
+                },
+                {
+                    "change": "-7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Paul Daniels & Amy Leung",
+                    "coupleid": "238259",
+                    "score": "1395"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Andrew Notohamiprodjo & Kimberly Lester",
+                    "coupleid": "262147",
+                    "score": "1243"
+                },
+                {
+                    "change": "=",
+                    "result": "8",
+                    "country": "Czech Republic",
+                    "couple": "Stanislav Basovn\ufffd\ufffdk & Helena Kubatova",
+                    "coupleid": "59128",
+                    "score": "1097"
+                }
+            ],
+            "name": "Open Latin Championship (CC/S/R/PD/J)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Pre_Champ_Latin_(CC+S+R+J)_375182",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+29",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Adrian Grobelny & Tanya Smith",
+                    "coupleid": "273331",
+                    "score": "1363"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Khanh Duong & Carolina Gorea",
+                    "coupleid": "239753",
+                    "score": "1360"
+                },
+                {
+                    "change": "-20",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Maksim Kalmanovich & Danielle Rayzberg",
+                    "coupleid": "273330",
+                    "score": "1409"
+                },
+                {
+                    "change": "+30",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Adam Littlestone Luria & Mallory Andrews",
+                    "coupleid": "267500",
+                    "score": "1241"
+                },
+                {
+                    "change": "+3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Ilya Ronin & Natasha Shumeyko",
+                    "coupleid": "260834",
+                    "score": "1271"
+                },
+                {
+                    "change": "-43",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Paul Daniels & Amy Leung",
+                    "coupleid": "238259",
+                    "score": "1352"
+                },
+                {
+                    "change": "-12",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Andrew Notohamiprodjo & Kimberly Lester",
+                    "coupleid": "262147",
+                    "score": "1231"
+                },
+                {
+                    "change": "=",
+                    "result": "8",
+                    "country": "Czech Republic",
+                    "couple": "Stanislav Basovn\ufffd\ufffdk & Helena Kubatova",
+                    "coupleid": "59128",
+                    "score": "1097"
+                }
+            ],
+            "name": "Pre Champ Latin (CC/S/R/J)",
+            "age": "Amateur",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Latin_(C+R)_375190",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Maxim Marynets & Nika Ivannikov",
+                    "coupleid": "273334",
+                    "score": "905"
+                }
+            ],
+            "name": "Junior I Novice Latin (C/R)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Open_Latin_4_Dance_(C+S+R+J)_375193",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nathan Basman & Shayna Yurovitsky",
+                    "coupleid": "263295",
+                    "score": "1045"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robert Sargsyan & Anna Chibukhchyan",
+                    "coupleid": "249202",
+                    "score": "1087"
+                }
+            ],
+            "name": "Junior I Open Latin 4 Dance (C/S/R/J)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Open_Latin_5_Dance_(C+S+R+PD+J)_375194",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tyler Li & Anjelica Lowe",
+                    "coupleid": "136393",
+                    "score": "1250"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robert Sargsyan & Anna Chibukhchyan",
+                    "coupleid": "249202",
+                    "score": "1087"
+                }
+            ],
+            "name": "Junior I Open Latin 5 Dance (C/S/R/PD/J)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Latin_(C+S+R)_375196",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nathan Basman & Shayna Yurovitsky",
+                    "coupleid": "263295",
+                    "score": "1045"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Maxim Marynets & Nika Ivannikov",
+                    "coupleid": "273334",
+                    "score": "905"
+                }
+            ],
+            "name": "Junior I Pre-Champ Latin (C/S/R)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Latin_(C+R)_375197",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jake Chen & Charlotta Lebedenko",
+                    "coupleid": "273335",
+                    "score": "944"
+                }
+            ],
+            "name": "Junior II Novice Latin (C/R)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Open_Latin_4_Dance_(C+S+R+J)_375199",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nathan Basman & Shayna Yurovitsky",
+                    "coupleid": "263295",
+                    "score": "1067"
+                },
+                {
+                    "change": "-22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Levin & Emma Dewey",
+                    "coupleid": "263294",
+                    "score": "1099"
+                }
+            ],
+            "name": "Junior II Open Latin 4 Dance (C/S/R/J)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Open_Latin_5_Dance_(C+S+R+PD+J)_375200",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matteo Laudati & Kennedy Eaton",
+                    "coupleid": "258810",
+                    "score": "1269"
+                }
+            ],
+            "name": "Junior II Open Latin 5 Dance (C/S/R/PD/J)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Latin_(C+S+R)_375201",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Danil Diordiev & Daniella Lyustin",
+                    "coupleid": "205339",
+                    "score": "1195"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Nathan Basman & Shayna Yurovitsky",
+                    "coupleid": "263295",
+                    "score": "1067"
+                }
+            ],
+            "name": "Junior II Pre-Champ Latin (C/S/R)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Junior_Open_Latin_Scholarship_(C+S+R+PD+J)_375189",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1426"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Matteo Laudati & Kennedy Eaton",
+                    "coupleid": "258810",
+                    "score": "1269"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tyler Li & Anjelica Lowe",
+                    "coupleid": "136393",
+                    "score": "1250"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Danil Diordiev & Daniella Lyustin",
+                    "coupleid": "205339",
+                    "score": "1195"
+                },
+                {
+                    "change": "+1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Ilya Ignatyev & Vickanat Govorun",
+                    "coupleid": "259124",
+                    "score": "988"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Elliot Evans & Sofia Derevyanchuk",
+                    "coupleid": "273076",
+                    "score": "936"
+                }
+            ],
+            "name": "Junior Open Latin Scholarship (C/S/R/PD/J)",
+            "age": "Junior",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Closed_Latin_4_Dance_(C+S+R+J)_375210",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+35",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristian Raykhman & Vendela Lloyd",
+                    "coupleid": "273078",
+                    "score": "999"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Elvander & Iryna Shegera",
+                    "coupleid": "237563",
+                    "score": "1095"
+                },
+                {
+                    "change": "-32",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Anthony Zeltser & Donna Rapoport",
+                    "coupleid": "237567",
+                    "score": "1095"
+                }
+            ],
+            "name": "Juvenile I Closed Latin 4 Dance (C/S/R/J)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Novice_Latin_(C+R)_375206",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1230"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Otrotsyuk & Jamie Ho",
+                    "coupleid": "273079",
+                    "score": "1029"
+                },
+                {
+                    "change": "+24",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Marc Berbeci & Darya Maksimenko",
+                    "coupleid": "273339",
+                    "score": "878"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Gabriel Fridman & Sasha Markova",
+                    "coupleid": "273337",
+                    "score": "866"
+                },
+                {
+                    "change": "-22",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Liam Okeeffe & Lillian Okeeffe",
+                    "coupleid": "265131",
+                    "score": "878"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Paul Rabinovich & Genna Pravdin",
+                    "coupleid": "273338",
+                    "score": "840"
+                }
+            ],
+            "name": "Juvenile I Novice Latin (C/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_I_Pre-Champ_Latin_(C+S+R)_375208",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Daniel Novikov & Natalina Chen",
+                    "coupleid": "264073",
+                    "score": "1230"
+                },
+                {
+                    "change": "+22",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mark Otrotsyuk & Jamie Ho",
+                    "coupleid": "273079",
+                    "score": "1051"
+                },
+                {
+                    "change": "+23",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kristian Raykhman & Vendela Lloyd",
+                    "coupleid": "273078",
+                    "score": "964"
+                },
+                {
+                    "change": "+29",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Liam Okeeffe & Lillian Okeeffe",
+                    "coupleid": "265131",
+                    "score": "907"
+                },
+                {
+                    "change": "-31",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Brandon Elvander & Iryna Shegera",
+                    "coupleid": "237563",
+                    "score": "1099"
+                },
+                {
+                    "change": "+7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Marc Berbeci & Darya Maksimenko",
+                    "coupleid": "273339",
+                    "score": "885"
+                },
+                {
+                    "change": "-44",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Samuel Puhachevsky & Sarah Kats",
+                    "coupleid": "273340",
+                    "score": "1054"
+                },
+                {
+                    "change": "-3",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Paul Rabinovich & Genna Pravdin",
+                    "coupleid": "273338",
+                    "score": "837"
+                }
+            ],
+            "name": "Juvenile I Pre-Champ Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Closed_Latin_4_Dance_(C+S+R+J)_375217",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+14",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Griffin Cooney & Josephine Taylor",
+                    "coupleid": "259123",
+                    "score": "1192"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jeremy Elvander & Lora Simakova",
+                    "coupleid": "144108",
+                    "score": "1199"
+                },
+                {
+                    "change": "+25",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Ilya Ignatyev & Vickanat Govorun",
+                    "coupleid": "259124",
+                    "score": "1036"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Anthony Mattos & Sophia Boynton",
+                    "coupleid": "211863",
+                    "score": "1142"
+                },
+                {
+                    "change": "-13",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vladimir Zeltser & Polina Zaytseva",
+                    "coupleid": "211868",
+                    "score": "1074"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Maxim Marynets & Leanna Kandkhorov",
+                    "coupleid": "273342",
+                    "score": "876"
+                }
+            ],
+            "name": "Juvenile II Closed Latin 4 Dance (C/S/R/J)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Closed_Latin_5_Dance_(C+S+R+PD+J)_375218",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Griffin Cooney & Josephine Taylor",
+                    "coupleid": "259123",
+                    "score": "1201"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jeremy Elvander & Lora Simakova",
+                    "coupleid": "144108",
+                    "score": "1190"
+                },
+                {
+                    "change": "+14",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Ilya Ignatyev & Vickanat Govorun",
+                    "coupleid": "259124",
+                    "score": "1050"
+                },
+                {
+                    "change": "-14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vladimir Zeltser & Polina Zaytseva",
+                    "coupleid": "211868",
+                    "score": "1060"
+                }
+            ],
+            "name": "Juvenile II Closed Latin 5 Dance (C/S/R/PD/J)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Novice_Latin_(C+R)_375212",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Denis Vikhliantsev & Sophie Dale",
+                    "coupleid": "273082",
+                    "score": "1022"
+                },
+                {
+                    "change": "+40",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Elliot Evans & Tetyana Barz",
+                    "coupleid": "263310",
+                    "score": "941"
+                },
+                {
+                    "change": "-7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kristian Raykhman & Vendela Lloyd",
+                    "coupleid": "273078",
+                    "score": "992"
+                },
+                {
+                    "change": "-33",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Marlin Siegel & Zilei Tucker",
+                    "coupleid": "273081",
+                    "score": "1000"
+                },
+                {
+                    "change": "-4",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Michael Kesselman & Sophia Deynega",
+                    "coupleid": "211864",
+                    "score": "914"
+                },
+                {
+                    "change": "-13",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Benjamin Absey & Christina Nikiforov",
+                    "coupleid": "273077",
+                    "score": "897"
+                }
+            ],
+            "name": "Juvenile II Novice Latin (C/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_II_Pre-Champ_Latin_(C+S+R)_375214",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+23",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ilya Ignatyev & Vickanat Govorun",
+                    "coupleid": "259124",
+                    "score": "1011"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Marlin Siegel & Zilei Tucker",
+                    "coupleid": "273081",
+                    "score": "1006"
+                },
+                {
+                    "change": "+26",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Kesselman & Sophia Deynega",
+                    "coupleid": "211864",
+                    "score": "940"
+                },
+                {
+                    "change": "-37",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Anthony Zeltser & Donna Rapoport",
+                    "coupleid": "237567",
+                    "score": "1058"
+                },
+                {
+                    "change": "-10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Elliot Evans & Sofia Derevyanchuk",
+                    "coupleid": "273076",
+                    "score": "928"
+                },
+                {
+                    "change": "-6",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Benjamin Absey & Christina Nikiforov",
+                    "coupleid": "273077",
+                    "score": "891"
+                }
+            ],
+            "name": "Juvenile II Pre-Champ Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_Novice_Latin_(C+R)_375203",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+13",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Maximillian Weinkauf & Natalia Borodulin",
+                    "coupleid": "273080",
+                    "score": "861"
+                },
+                {
+                    "change": "-13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sam Gulchin & Sophia Yarmolinsky",
+                    "coupleid": "273336",
+                    "score": "841"
+                }
+            ],
+            "name": "Juvenile Novice Latin (C/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Juvenile_Pre-Champ_Latin_(C+S+R)_375204",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Maximillian Weinkauf & Natalia Borodulin",
+                    "coupleid": "273080",
+                    "score": "861"
+                }
+            ],
+            "name": "Juvenile Pre-Champ Latin (C/S/R)",
+            "age": "Juvenile",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Youth_Open_Latin_5_Dance_(C+S+R+PD+J)_375220",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kevin Sun & Julia Moseyko",
+                    "coupleid": "237561",
+                    "score": "1385"
+                }
+            ],
+            "name": "Youth Open Latin 5 Dance (C/S/R/PD/J)",
+            "age": "Youth",
+            "date": "01 Feb 2015"
+        },
+        {
+            "url": "Youth_Open_Latin_Scholarship_(C+S+R+PD+J)_375221",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Bumchin Tegshjargal & Michelle Klets",
+                    "coupleid": "267501",
+                    "score": "1476"
+                },
+                {
+                    "change": "+28",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mike Monokandilos & Sophia Brodsky",
+                    "coupleid": "272803",
+                    "score": "1425"
+                },
+                {
+                    "change": "+22",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kevin Sun & Julia Moseyko",
+                    "coupleid": "237561",
+                    "score": "1407"
+                },
+                {
+                    "change": "-25",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kinsley Lin & Michelle Yiu",
+                    "coupleid": "155151",
+                    "score": "1429"
+                },
+                {
+                    "change": "-25",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1401"
+                },
+                {
+                    "change": "-7",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Adrian Grobelny & Tanya Smith",
+                    "coupleid": "273331",
+                    "score": "1356"
+                }
+            ],
+            "name": "Youth Open Latin Scholarship (C/S/R/PD/J)",
+            "age": "Youth",
+            "date": "01 Feb 2015"
+        }
+    ],
+    "compid": "26943",
+    "rating": "132"
+}

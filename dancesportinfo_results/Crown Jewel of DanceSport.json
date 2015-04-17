@@ -1,0 +1,83 @@
+{
+    "events": [
+        {
+            "date": "15 May 2014",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_Championship_317185",
+            "name": "Professional Rising Star Latin Championship",
+            "results": [
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "+4",
+                    "score": "1559",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "38611",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1520",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "16 May 2014",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_Championship_317189",
+            "name": "Professional Open Latin Championship",
+            "results": [
+                {
+                    "coupleid": "253894",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1582",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "-4",
+                    "score": "1555",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "38611",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1516",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "17 May 2014",
+            "style": "Ballroom",
+            "url": "Professional_Open_Ballroom_(W+T+VW+FT+QS)__317458",
+            "name": "Professional Open Ballroom (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "19122",
+                    "couple": "Paolo Di Lorenzo & Liene Darbiniece",
+                    "country": "Latvia",
+                    "change": "=",
+                    "score": "1730",
+                    "result": "1"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "23633",
+    "url": "Crown_Jewel_of_DanceSport_23633",
+    "name": "Crown Jewel of DanceSport",
+    "rating": "62"
+}

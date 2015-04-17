@@ -1,0 +1,201 @@
+{
+    "events": [
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Championship_Latin_(SCRPJ)_352274",
+            "name": "Adult Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "263068",
+                    "couple": "Eric Groysman & Shelby Joy Cole",
+                    "country": "USA",
+                    "change": "+16",
+                    "score": "1365",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "252630",
+                    "couple": "Artem Zhychuk & Gabriella Pustilnik",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1354",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Novice_Latin_(SCR)_352275",
+            "name": "Adult Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "256526",
+                    "couple": "Carlos De Los Santos & Milakirstie Kulsa",
+                    "country": "Spain",
+                    "change": "=",
+                    "score": "1114",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_352276",
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "256526",
+                    "couple": "Carlos De Los Santos & Milakirstie Kulsa",
+                    "country": "Spain",
+                    "change": "=",
+                    "score": "1114",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Junior_II_Championship_Latin_(SCRPJ)_352277",
+            "name": "Junior II Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "264811",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1229",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Junior_II_Novice_Latin_(SCR)_352278",
+            "name": "Junior II Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "244972",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1107",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263077",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1073",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "249652",
+                    "couple": "Aleksey Yereshchenko & Jacklyn Mogilevsky",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "937",
+                    "result": "3"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Junior_II_Pre-Champ_Latin_(SCRJ)_352279",
+            "name": "Junior II Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "244972",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1111",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263077",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1069",
+                    "result": "2"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Youth_Championship_Latin_(SCRPJ)_352280",
+            "name": "Youth Championship Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "252630",
+                    "couple": "Artem Zhychuk & Gabriella Pustilnik",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1354",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "264811",
+                    "couple": "Jason Lehman & Danielle Malpa",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1229",
+                    "result": "2"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Youth_Novice_Latin_(SCR)_352281",
+            "name": "Youth Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "263077",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1069",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "19 Oct 2014",
+            "style": "Latin",
+            "url": "Youth_Pre-Champ_Latin_(SCRJ)_352282",
+            "name": "Youth Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "263077",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1069",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "25535",
+    "url": "NJ_DanceSport_Classic_Fall_Frolic_25535",
+    "name": "NJ DanceSport Classic Fall Frolic",
+    "rating": "65"
+}

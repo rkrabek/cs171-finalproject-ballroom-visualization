@@ -1,0 +1,1212 @@
+{
+    "name": "Islanders Dancesport Challenge 2015",
+    "url": "Islanders_Dancesport_Challenge_2015_26755",
+    "events": [
+        {
+            "url": "Adult_Championship_Standard_(WTVFQ)_371688",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Alexandre Theoret & Annie Levasseur",
+                    "coupleid": "272029",
+                    "score": "1448"
+                }
+            ],
+            "name": "Adult Championship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Championship_Standard_(WTVFQ)_371684",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Kobus & Maya Kulaqowski",
+                    "coupleid": "271144",
+                    "score": "944"
+                }
+            ],
+            "name": "Junior I Championship Standard (WTVFQ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Standard_(WFQ)_371645",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristian Evstigneev & Vika Sepiashvili",
+                    "coupleid": "245741",
+                    "score": "1179"
+                }
+            ],
+            "name": "Junior I Novice Standard (WFQ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Championship_Standard_(WTVFQ)_371685",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1337"
+                },
+                {
+                    "change": "-18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Kristers Smits & Sophie Shvartsman",
+                    "coupleid": "202960",
+                    "score": "1330"
+                }
+            ],
+            "name": "Junior II Championship Standard (WTVFQ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Standard_(WTFQ)_371657",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1319"
+                }
+            ],
+            "name": "Junior II Pre-Champ Standard (WTFQ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Viennese_Waltz_(V)_371666",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1319"
+                }
+            ],
+            "name": "Junior II Pre-Champ Viennese Waltz (V)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_371689",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "coupleid": "212028",
+                    "score": "1361"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robert Blank & Martha Estevez",
+                    "coupleid": "20264",
+                    "score": "1257"
+                }
+            ],
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "age": "Over50",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_371680",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+13",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Alexandre Theoret & Annie Levasseur",
+                    "coupleid": "272029",
+                    "score": "1448"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1464"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1346"
+                },
+                {
+                    "change": "+13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Alex Mirsakov & Inna Mirsakova",
+                    "coupleid": "196582",
+                    "score": "1269"
+                },
+                {
+                    "change": "-16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Thomas Malinowski & Renee O. Malinowski",
+                    "coupleid": "140647",
+                    "score": "1294"
+                }
+            ],
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_371696",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1468"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Niklas Manz & Yvonne Manz",
+                    "coupleid": "20457",
+                    "score": "1442"
+                },
+                {
+                    "change": "+10",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1356"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Phillip Michael Brown & Debra Cottone",
+                    "coupleid": "212028",
+                    "score": "1354"
+                },
+                {
+                    "change": "+4",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Thomas Malinowski & Renee O. Malinowski",
+                    "coupleid": "140647",
+                    "score": "1298"
+                },
+                {
+                    "change": "+2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1272"
+                },
+                {
+                    "change": "-9",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Alex Mirsakov & Inna Mirsakova",
+                    "coupleid": "196582",
+                    "score": "1260"
+                }
+            ],
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Novice_Standard_(WFQ)_371646",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Carroll & Maureen Carroll",
+                    "coupleid": "100412",
+                    "score": "1315"
+                }
+            ],
+            "name": "Senior II Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_III_Novice_Standard_(WFQ)_371640",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Carroll & Maureen Carroll",
+                    "coupleid": "100412",
+                    "score": "1315"
+                }
+            ],
+            "name": "Senior III Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Championship_Standard_(WTVFQ)_371692",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1410"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Robert Guitelman & Klinta Smite",
+                    "coupleid": "231761",
+                    "score": "1337"
+                },
+                {
+                    "change": "+16",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mathew Kheyfets & Vanesa Falisova",
+                    "coupleid": "234817",
+                    "score": "1184"
+                },
+                {
+                    "change": "-16",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Denis Smotrov & Karina Mirochnik",
+                    "coupleid": "213439",
+                    "score": "1255"
+                }
+            ],
+            "name": "Youth Championship Standard (WTVFQ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Standard_(WFQ)_371635",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1269"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                },
+                {
+                    "change": "+13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1028"
+                },
+                {
+                    "change": "-12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Diego Montealegre & Alexa Gamburg",
+                    "coupleid": "272016",
+                    "score": "1038"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "961"
+                }
+            ],
+            "name": "Youth Novice Standard (WFQ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Tango_(T)_371642",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1269"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                },
+                {
+                    "change": "+10",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1038"
+                },
+                {
+                    "change": "-10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Diego Montealegre & Alexa Gamburg",
+                    "coupleid": "272016",
+                    "score": "1028"
+                }
+            ],
+            "name": "Youth Novice Tango (T)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Viennese_Waltz_(V)_371644",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1269"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1126"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1044"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Diego Montealegre & Alexa Gamburg",
+                    "coupleid": "272016",
+                    "score": "1022"
+                }
+            ],
+            "name": "Youth Novice Viennese Waltz (V)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Standard_(WTFQ)_371658",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1269"
+                },
+                {
+                    "change": "+9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1135"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1122"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1043"
+                }
+            ],
+            "name": "Youth Pre-Champ Standard (WTFQ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Viennese_Waltz_(V)_371667",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1269"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1141"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1117"
+                },
+                {
+                    "change": "-1",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1042"
+                }
+            ],
+            "name": "Youth Pre-Champ Viennese Waltz (V)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Adult_Championship_Latin_(SCRPJ)_371727",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stanislav Engelgardt & Tatiana Vasilieva",
+                    "coupleid": "231418",
+                    "score": "1521"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Jacob Korenev & Dayana Nikon",
+                    "coupleid": "120842",
+                    "score": "1500"
+                },
+                {
+                    "change": "+23",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Ryan Raffloer & Hanna Sverdlov",
+                    "coupleid": "272032",
+                    "score": "1414"
+                },
+                {
+                    "change": "+6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Romaikin & Dakota Pizzi",
+                    "coupleid": "272039",
+                    "score": "1406"
+                },
+                {
+                    "change": "-29",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Phillip Eugene Vinokurov & Jessa Mae Briones",
+                    "coupleid": "272045",
+                    "score": "1444"
+                },
+                {
+                    "change": "-4",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Groysman & Shelby Joy Cole",
+                    "coupleid": "263068",
+                    "score": "1354"
+                }
+            ],
+            "name": "Adult Championship Latin (SCRPJ)",
+            "age": "Amateur",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Adult_Novice_Latin_(SCR)_371648",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Prashanth Rajarajan & Cindy-Yan Lin",
+                    "coupleid": "250509",
+                    "score": "1295"
+                }
+            ],
+            "name": "Adult Novice Latin (SCR)",
+            "age": "Amateur",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_371679",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Prashanth Rajarajan & Cindy-Yan Lin",
+                    "coupleid": "250509",
+                    "score": "1295"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Novice_Latin_(SCR)_371647",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristian Evstigneev & Vika Sepiashvili",
+                    "coupleid": "245741",
+                    "score": "1273"
+                },
+                {
+                    "change": "+8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yanni Glukhovskiy & Regina Rabkina",
+                    "coupleid": "272017",
+                    "score": "952"
+                },
+                {
+                    "change": "-8",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Aleksey Yereshchenko & Jacklyn Mogilevsky",
+                    "coupleid": "249652",
+                    "score": "929"
+                }
+            ],
+            "name": "Junior I Novice Latin (SCR)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_I_Pre-Champ_Latin_(SCRJ)_371668",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dave Firestein & Nicole Shtern",
+                    "coupleid": "203269",
+                    "score": "1172"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "David Kobus & Maya Kulaqowski",
+                    "coupleid": "271144",
+                    "score": "953"
+                }
+            ],
+            "name": "Junior I Pre-Champ Latin (SCRJ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Championship_Latin_(SCRPJ)_371701",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Kristers Smits & Sophie Shvartsman",
+                    "coupleid": "202960",
+                    "score": "1392"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1322"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1158"
+                }
+            ],
+            "name": "Junior II Championship Latin (SCRPJ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Jive_(J)_371650",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1091"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "coupleid": "244972",
+                    "score": "1074"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Lior Golden & Heather Lohrey",
+                    "coupleid": "272018",
+                    "score": "973"
+                }
+            ],
+            "name": "Junior II Novice Jive (J)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Novice_Latin_(SCR)_371649",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+20",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1081"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "coupleid": "244972",
+                    "score": "1084"
+                },
+                {
+                    "change": "+29",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Lior Golden & Heather Lohrey",
+                    "coupleid": "272018",
+                    "score": "973"
+                },
+                {
+                    "change": "-35",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Matthew Barinberg & Camilla Vertsman",
+                    "coupleid": "240058",
+                    "score": "1168"
+                },
+                {
+                    "change": "+6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Russell Levi & Chantal Khodarkovsky",
+                    "coupleid": "272019",
+                    "score": "950"
+                },
+                {
+                    "change": "-6",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Bryan Rudshteyn & Roshelle Gutt",
+                    "coupleid": "272020",
+                    "score": "938"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Daniel Timchenko & Anastasia Bondarchuk",
+                    "coupleid": "272021",
+                    "score": "926"
+                }
+            ],
+            "name": "Junior II Novice Latin (SCR)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Latin_(SCRJ)_371672",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1323"
+                },
+                {
+                    "change": "+12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sean Lama & Michelle Rabin",
+                    "coupleid": "258547",
+                    "score": "1158"
+                },
+                {
+                    "change": "+17",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alex Volynsky & Simone Lempert",
+                    "coupleid": "244971",
+                    "score": "1108"
+                },
+                {
+                    "change": "+9",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Lev Libkind & Susan Arnopolin",
+                    "coupleid": "244972",
+                    "score": "1083"
+                },
+                {
+                    "change": "-37",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Matthew Barinberg & Camilla Vertsman",
+                    "coupleid": "240058",
+                    "score": "1131"
+                }
+            ],
+            "name": "Junior II Pre-Champ Latin (SCRJ)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Junior_II_Pre-Champ_Paso_Doble_(P)_371676",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Ukraine",
+                    "couple": "Svyryd Syvyk & Diana-Maria Byk",
+                    "coupleid": "263384",
+                    "score": "1323"
+                }
+            ],
+            "name": "Junior II Pre-Champ Paso Doble (P)",
+            "age": "Junior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_I_Championship_Latin_(SCRPJ)_371703",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "coupleid": "242520",
+                    "score": "1407"
+                }
+            ],
+            "name": "Senior I Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Senior_II_Championship_Latin_(SCRPJ)_371714",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "coupleid": "242520",
+                    "score": "1407"
+                },
+                {
+                    "change": "+6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1277"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alex Mirsakov & Inna Mirsakova",
+                    "coupleid": "196582",
+                    "score": "1253"
+                },
+                {
+                    "change": "-2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1198"
+                }
+            ],
+            "name": "Senior II Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Under_21_Championship_Latin_(SCRPJ)_371712",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Jacob Korenev & Dayana Nikon",
+                    "coupleid": "120842",
+                    "score": "1502"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Ryan Raffloer & Hanna Sverdlov",
+                    "coupleid": "272032",
+                    "score": "1391"
+                }
+            ],
+            "name": "Under 21 Championship Latin (SCRPJ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Championship_Latin_(SCRPJ)_371706",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jaryd Farcon & Kyla Dzhaniashvili",
+                    "coupleid": "234821",
+                    "score": "1461"
+                },
+                {
+                    "change": "+13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Joshua Lishnevetsky & Angela Gerzberg",
+                    "coupleid": "187357",
+                    "score": "1398"
+                },
+                {
+                    "change": "+2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Robert Guitelman & Klinta Smite",
+                    "coupleid": "231761",
+                    "score": "1385"
+                },
+                {
+                    "change": "-16",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mathew Kheyfets & Vanesa Falisova",
+                    "coupleid": "234817",
+                    "score": "1382"
+                },
+                {
+                    "change": "+10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Denis Smotrov & Karina Mirochnik",
+                    "coupleid": "213439",
+                    "score": "1271"
+                },
+                {
+                    "change": "-11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Anthony Mancuso & Rachel Privler",
+                    "coupleid": "235520",
+                    "score": "1289"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Nikita Smirnov & Francesca Dugo",
+                    "coupleid": "195378",
+                    "score": "1029"
+                }
+            ],
+            "name": "Youth Championship Latin (SCRPJ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Jive_(J)_371652",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1138"
+                },
+                {
+                    "change": "+12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1094"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1080"
+                },
+                {
+                    "change": "-9",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Stanley Faynblut & Greta Gemuriman",
+                    "coupleid": "272022",
+                    "score": "1052"
+                }
+            ],
+            "name": "Youth Novice Jive (J)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Latin_(SCR)_371651",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1135"
+                },
+                {
+                    "change": "+24",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1082"
+                },
+                {
+                    "change": "-10",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1086"
+                },
+                {
+                    "change": "-13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Stanley Faynblut & Greta Gemuriman",
+                    "coupleid": "272022",
+                    "score": "1061"
+                },
+                {
+                    "change": "-6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Gregory Slonim & Jessica Reznik",
+                    "coupleid": "244974",
+                    "score": "1026"
+                }
+            ],
+            "name": "Youth Novice Latin (SCR)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Novice_Paso_Doble_(P)_371655",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stanley Faynblut & Greta Gemuriman",
+                    "coupleid": "272022",
+                    "score": "1052"
+                }
+            ],
+            "name": "Youth Novice Paso Doble (P)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Latin_(SCRJ)_371674",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mateusz Wyszynski & Megan Acceta",
+                    "coupleid": "263079",
+                    "score": "1141"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michal Wyszynski & Samanta Bryk",
+                    "coupleid": "272015",
+                    "score": "1099"
+                },
+                {
+                    "change": "-2",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nikita Lylyk & Alexa Podolsky",
+                    "coupleid": "263077",
+                    "score": "1078"
+                },
+                {
+                    "change": "+10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nikita Smirnov & Francesca Dugo",
+                    "coupleid": "195378",
+                    "score": "1029"
+                },
+                {
+                    "change": "-17",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Stanley Faynblut & Greta Gemuriman",
+                    "coupleid": "272022",
+                    "score": "1035"
+                }
+            ],
+            "name": "Youth Pre-Champ Latin (SCRJ)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        },
+        {
+            "url": "Youth_Pre-Champ_Paso_Doble_(P)_371677",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Stanley Faynblut & Greta Gemuriman",
+                    "coupleid": "272022",
+                    "score": "1035"
+                }
+            ],
+            "name": "Youth Pre-Champ Paso Doble (P)",
+            "age": "Youth",
+            "date": "10 Jan 2015"
+        }
+    ],
+    "compid": "26755",
+    "rating": "194"
+}

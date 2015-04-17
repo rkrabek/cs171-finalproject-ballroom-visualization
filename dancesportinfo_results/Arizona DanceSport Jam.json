@@ -1,0 +1,245 @@
+{
+    "events": [
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Open_Ballroom_(W+T+VW+F+Q)_381515",
+            "name": "Amateur Open Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "212210",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1260",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Pre_Champ_Ballroom_(W+F+Q)_381516",
+            "name": "Amateur Pre Champ Ballroom (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "212210",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1260",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_Open_Ballroom_(W+T+F+Q)_381522",
+            "name": "Senior III Open Ballroom (W/T/F/Q)",
+            "results": [
+                {
+                    "coupleid": "173185",
+                    "couple": "Richard Miles & Annette Miles",
+                    "country": "England",
+                    "change": "+1",
+                    "score": "1273",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "2064",
+                    "couple": "Zoar Leggett & Cheryl Leggett",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1196",
+                    "result": "2"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Senior_III_PreChamp_Ballroom_(W+F+Q)_381523",
+            "name": "Senior III PreChamp Ballroom (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "173185",
+                    "couple": "Richard Miles & Annette Miles",
+                    "country": "England",
+                    "change": "+1",
+                    "score": "1274",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "2064",
+                    "couple": "Zoar Leggett & Cheryl Leggett",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1195",
+                    "result": "2"
+                }
+            ],
+            "age": "Over50"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Senior_I_Open_Ballroom_(W+T+VW+F+Q)_381519",
+            "name": "Senior I Open Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "212210",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1260",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Senior_I_Pre_Champ_Ballroom_(W+F+Q)_381520",
+            "name": "Senior I Pre Champ Ballroom (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "212210",
+                    "couple": "Robert Haines & Thara Maclaren",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1260",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Ballroom",
+            "url": "Senior_II_Ballroom_(W+F+Q)_381521",
+            "name": "Senior II Ballroom (W/F/Q)",
+            "results": [
+                {
+                    "coupleid": "2064",
+                    "couple": "Zoar Leggett & Cheryl Leggett",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1197",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "PreTeen_Novice_Latin_(C+R)_381517",
+            "name": "PreTeen Novice Latin (C/R)",
+            "results": [
+                {
+                    "coupleid": "276000",
+                    "couple": "Asher Ralphs & Ana Lujan",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "PreTeen_Pre-Champ_Latin_(C+R+S)_381518",
+            "name": "PreTeen Pre-Champ Latin (C/R/S)",
+            "results": [
+                {
+                    "coupleid": "276000",
+                    "couple": "Asher Ralphs & Ana Lujan",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "Teddy_Bear_Novice_Latin_(C+R)_381524",
+            "name": "Teddy Bear Novice Latin (C/R)",
+            "results": [
+                {
+                    "coupleid": "276001",
+                    "couple": "Justin Lujan & Julia Zilman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "Teddy_Bear_Open_Latin_(C+S+R+P+J)_381525",
+            "name": "Teddy Bear Open Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "276001",
+                    "couple": "Justin Lujan & Julia Zilman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "Teddy_Bear_Pre-Champ_Latin_(C+R+S)_381526",
+            "name": "Teddy Bear Pre-Champ Latin (C/R/S)",
+            "results": [
+                {
+                    "coupleid": "276001",
+                    "couple": "Justin Lujan & Julia Zilman",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Juvenile"
+        },
+        {
+            "date": "28 Feb 2015",
+            "style": "Latin",
+            "url": "Youth_Open_Latin_(C+S+R+P+J)_381527",
+            "name": "Youth Open Latin (C/S/R/P/J)",
+            "results": [
+                {
+                    "coupleid": "276000",
+                    "couple": "Asher Ralphs & Ana Lujan",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "859",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "27321",
+    "url": "Arizona_DanceSport_Jam_27321",
+    "name": "Arizona DanceSport Jam",
+    "rating": "64"
+}

@@ -1,0 +1,105 @@
+{
+    "events": [
+        {
+            "date": "12 Feb 2015",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_377738",
+            "name": "Professional Rising Star Latin",
+            "results": [
+                {
+                    "coupleid": "173437",
+                    "couple": "Jake Davies & Olena Kalinina",
+                    "country": "USA",
+                    "change": "+4",
+                    "score": "1728",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "268352",
+                    "couple": "Stanislav Savich & Nicole Prosser",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1705",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "155840",
+                    "couple": "Dmytro Kovalenko & Nina Kovalenko",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1664",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "272805",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "country": "USA",
+                    "change": "+20",
+                    "score": "1583",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "120939",
+                    "couple": "Jungie Zamora & Sheena Richen Daminar",
+                    "country": "Philippines",
+                    "change": "+2",
+                    "score": "1593",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "274365",
+                    "couple": "Andrei Gavrilov & Alena Tovarnova",
+                    "country": "USA",
+                    "change": "+41",
+                    "score": "1510",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "38611",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1533",
+                    "result": "7"
+                },
+                {
+                    "coupleid": "130738",
+                    "couple": "Aleksandr Lushnov & Maria Bavyko",
+                    "country": "USA",
+                    "change": "+11",
+                    "score": "1512",
+                    "result": "8"
+                },
+                {
+                    "coupleid": "71891",
+                    "couple": "SeHyoung Jang Don & Adele Jang Don",
+                    "country": "USA",
+                    "change": "-45",
+                    "score": "1586",
+                    "result": "9"
+                },
+                {
+                    "coupleid": "272308",
+                    "couple": "Giorgi Khmiadashvily & Christina Dupey",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1496",
+                    "result": "10"
+                },
+                {
+                    "coupleid": "272806",
+                    "couple": "Manuel Trillo & Nelly Mustafayeva",
+                    "country": "USA",
+                    "change": "-26",
+                    "score": "1491",
+                    "result": "11"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "27084",
+    "url": "New_York_Dance_Festival_27084",
+    "name": "New York Dance Festival",
+    "rating": "72"
+}

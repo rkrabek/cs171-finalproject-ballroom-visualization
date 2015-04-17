@@ -1,0 +1,99 @@
+{
+    "events": [
+        {
+            "date": "18 Apr 2014",
+            "style": "Ballroom",
+            "url": "Professional_Open_Ballroom_Champ_(W+T+VW+FT+QS)_308561",
+            "name": "Professional Open Ballroom Champ (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "13660",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1725",
+                    "result": "1"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "18 Apr 2014",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_Champ_(CC+S+R+PD+J)_308559",
+            "name": "Professional Open Latin Champ (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "13660",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1708",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "173437",
+                    "couple": "Jake Davies & Olena Kalinina",
+                    "country": "England",
+                    "change": "+12",
+                    "score": "1677",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "181181",
+                    "couple": "Gene Bersten & Elena Bersten",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1655",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "246866",
+                    "couple": "Andrey Strinadko & Ching Kao",
+                    "country": "USA",
+                    "change": "-24",
+                    "score": "1655",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "=",
+                    "score": "1564",
+                    "result": "5"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "18 Apr 2014",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_Champ_(C+S+R+PD+J)_308560",
+            "name": "Professional Rising Star Latin Champ (C/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "181181",
+                    "couple": "Gene Bersten & Elena Bersten",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1655",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "=",
+                    "score": "1564",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "23121",
+    "url": "Southern_States_DanceSport_Championships_23121",
+    "name": "Southern States DanceSport Championships",
+    "rating": "68"
+}

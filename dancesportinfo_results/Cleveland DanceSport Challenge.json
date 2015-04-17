@@ -1,0 +1,207 @@
+{
+    "name": "Cleveland DanceSport Challenge",
+    "url": "Cleveland_DanceSport_Challenge__25141",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+FT+QS)_346679",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yuri Nartov & Sarika Hudson",
+                    "coupleid": "262290",
+                    "score": "1608"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Eric Gillitzer & Deborah Gillitzer",
+                    "coupleid": "252490",
+                    "score": "1538"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (W/T/VW/FT/QS)",
+            "age": "Professional",
+            "date": "19 Sep 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(CC+S+R+PD+J)_346678",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1492"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Michael Curtis & Irina Ostrova",
+                    "coupleid": "218728",
+                    "score": "1471"
+                }
+            ],
+            "name": "Professional Rising Star Latin (CC/S/R/PD/J)",
+            "age": "Professional",
+            "date": "19 Sep 2014"
+        },
+        {
+            "url": "Amateur_Open_Ballroom_(W+T+VW+FT+QS)_346673",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1444"
+                },
+                {
+                    "change": "-16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jim Mendlik & Patsy Mendlik",
+                    "coupleid": "203498",
+                    "score": "1434"
+                }
+            ],
+            "name": "Amateur Open Ballroom (W/T/VW/FT/QS)",
+            "age": "Amateur",
+            "date": "20 Sep 2014"
+        },
+        {
+            "url": "Amateur_Pre_Champ_Ballroom_(W+T+VW+FT+QS)_346676",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Nunes & Maria Volokh",
+                    "coupleid": "258180",
+                    "score": "1444"
+                }
+            ],
+            "name": "Amateur Pre Champ Ballroom (W/T/VW/FT/QS)",
+            "age": "Amateur",
+            "date": "20 Sep 2014"
+        },
+        {
+            "url": "Professional_Open_Ballroom_(W+T+VW+FT+QS)_346680",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Richard Tonizzo & Claire Hansen",
+                    "coupleid": "13219",
+                    "score": "1821"
+                },
+                {
+                    "change": "+1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Yuri Nartov & Sarika Hudson",
+                    "coupleid": "262290",
+                    "score": "1609"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eric Gillitzer & Deborah Gillitzer",
+                    "coupleid": "252490",
+                    "score": "1537"
+                }
+            ],
+            "name": "Professional Open Ballroom (W/T/VW/FT/QS)",
+            "age": "Professional",
+            "date": "20 Sep 2014"
+        },
+        {
+            "url": "Amateur_Open_Latin_(CC+S+R+PD+J)_346674",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Marco Brosseau & Alice Muraru",
+                    "coupleid": "235517",
+                    "score": "1420"
+                },
+                {
+                    "change": "+11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Arcangelo Tucci & Yitian Chen",
+                    "coupleid": "203499",
+                    "score": "1345"
+                },
+                {
+                    "change": "-12",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Travis Hendershot & Kyrsten Hendershot",
+                    "coupleid": "190078",
+                    "score": "1334"
+                }
+            ],
+            "name": "Amateur Open Latin (CC/S/R/PD/J)",
+            "age": "Amateur",
+            "date": "20 Sep 2014"
+        },
+        {
+            "url": "Professional_Open_Latin_(CC+S+R+PD+J)_346683",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Francis Lafreniere & Claudia Primeau (aka Sauve)",
+                    "coupleid": "26808",
+                    "score": "1757"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Dmytro Kovalenko & Nina Kovalenko",
+                    "coupleid": "155840",
+                    "score": "1621"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "coupleid": "20073",
+                    "score": "1496"
+                },
+                {
+                    "change": "-4",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Michael Curtis & Irina Ostrova",
+                    "coupleid": "218728",
+                    "score": "1467"
+                }
+            ],
+            "name": "Professional Open Latin (CC/S/R/PD/J)",
+            "age": "Professional",
+            "date": "20 Sep 2014"
+        }
+    ],
+    "compid": "25141",
+    "rating": "111"
+}

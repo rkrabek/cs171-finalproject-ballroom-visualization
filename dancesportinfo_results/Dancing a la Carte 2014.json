@@ -1,0 +1,424 @@
+{
+    "events": [
+        {
+            "date": "23 May 2014",
+            "style": "Ballroom",
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+FT+QS)_319499",
+            "name": "Professional Rising Star Ballroom (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "245614",
+                    "couple": "Igor Gayenko & Sarika Hudson",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1667",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "245615",
+                    "couple": "Anton Domansky & Anna Chaldysheva",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1645",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "245540",
+                    "couple": "Ferdinand Salonga & Kate Woolfe",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1522",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "23 May 2014",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_(CC+S+R+PD+J)_319500",
+            "name": "Professional Rising Star Latin (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "140355",
+                    "couple": "Tomas Vasicek & Kimberly Harris",
+                    "country": "USA",
+                    "change": "+17",
+                    "score": "1626",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "169336",
+                    "couple": "Werner Figar & Shimkiri Syiem",
+                    "country": "Austria",
+                    "change": "+15",
+                    "score": "1590",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "242306",
+                    "couple": "Vlad Astafiev & Linda Gergye",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1561",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "251479",
+                    "couple": "Leon Turetsky & Kim Le",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1517",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "255329",
+                    "couple": "Artsiom Chapialiou & Volha Chapialiova",
+                    "country": "USA",
+                    "change": "-51",
+                    "score": "1619",
+                    "result": "5"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Open_Ballroom_Championship_(W+T+VW+FT+QS)_319494",
+            "name": "Amateur Open Ballroom Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "255327",
+                    "couple": "Michael Malek & Elizabeth Lombard",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1469",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Junior_I_Novice_Ballroom_3-Dance_(W+FT+QS)_319485",
+            "name": "Junior I Novice Ballroom 3-Dance (W/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "245539",
+                    "couple": "Lance Posternak & Lisa Liubovich",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1196",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Junior_I_Pre_Champ_Ballroom_4-Dance_(W+T+FT+QS)_319487",
+            "name": "Junior I Pre Champ Ballroom 4-Dance (W/T/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "245539",
+                    "couple": "Lance Posternak & Lisa Liubovich",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1196",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Professional_Open_Ballroom_(W+T+VW+F+Q)_319497",
+            "name": "Professional Open Ballroom (W/T/VW/F/Q)",
+            "results": [
+                {
+                    "coupleid": "86759",
+                    "couple": "Anatoli Gorolevici & Irina Gorolevici (aka Gareyeva)",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1722",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "245614",
+                    "couple": "Igor Gayenko & Sarika Hudson",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1670",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "245615",
+                    "couple": "Anton Domansky & Anna Chaldysheva",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1641",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "252901",
+                    "couple": "Nenad Pavlovic & Anastasiya Barkhatova",
+                    "country": "USA",
+                    "change": "+14",
+                    "score": "1067",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "245540",
+                    "couple": "Ferdinand Salonga & Kate Woolfe",
+                    "country": "USA",
+                    "change": "-14",
+                    "score": "1508",
+                    "result": "5"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Novice_Ballroom_3-Dance_(W+FT+QS)_319489",
+            "name": "Senior II Novice Ballroom 3-Dance (W/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "255326",
+                    "couple": "Fred Schwartz & Ann Mary Schwartz",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1014",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Open_Ballroom_(W+T+VW+FT+QS)_319490",
+            "name": "Senior II Open Ballroom (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "255326",
+                    "couple": "Fred Schwartz & Ann Mary Schwartz",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1014",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Senior_II_Pre_Champ_Ballroom_4-Dance_(W+T+FT+QS)_319491",
+            "name": "Senior II Pre Champ Ballroom 4-Dance (W/T/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "202959",
+                    "couple": "Mark Laird & Nicki Laird",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1393",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "255326",
+                    "couple": "Fred Schwartz & Ann Mary Schwartz",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1014",
+                    "result": "2"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Senior_Open_Ballroom_Championship_(W+T+VW+FT+QS)_319495",
+            "name": "Senior Open Ballroom Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "249294",
+                    "couple": "Suki Kramer & Gunnar Sverrisson",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1450",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Ballroom",
+            "url": "Youth_Pre_Champ_Ballroom_4-Dance_(W+T+FT+QS)_319492",
+            "name": "Youth Pre Champ Ballroom 4-Dance (W/T/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "202731",
+                    "couple": "Jean Francis Genereux & Justine Prevost",
+                    "country": "Canada",
+                    "change": "=",
+                    "score": "1368",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Latin",
+            "url": "Amateur_Open_Latin_(CC+S+R+PD+J)_319484",
+            "name": "Amateur Open Latin (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "234813",
+                    "couple": "Steven Varshavsky & Karolina Ioukhnikov",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1448",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "213748",
+                    "couple": "Jean-Philippe Caisse & Marie Fourriere",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1379",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Latin",
+            "url": "Junior_I_Novice_Latin_3-Dance_(CC+S+R)_319486",
+            "name": "Junior I Novice Latin 3-Dance (CC/S/R)",
+            "results": [
+                {
+                    "coupleid": "245539",
+                    "couple": "Lance Posternak & Lisa Liubovich",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1175",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Latin",
+            "url": "Junior_I_Pre_Champ_Latin_4-Dance_(CC+S+R+J)_319488",
+            "name": "Junior I Pre Champ Latin 4-Dance (CC/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "245539",
+                    "couple": "Lance Posternak & Lisa Liubovich",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1175",
+                    "result": "1"
+                }
+            ],
+            "age": "Junior"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_(CC+S+R+PD+J)_319498",
+            "name": "Professional Open Latin (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "141088",
+                    "couple": "Hayk Balasanyan & Emilia Pogosyan",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1672",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "140355",
+                    "couple": "Tomas Vasicek & Kimberly Harris",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1632",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "164299",
+                    "couple": "Vladimir Velev & Lily Kolman",
+                    "country": "USA",
+                    "change": "+17",
+                    "score": "1593",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "31508",
+                    "couple": "Dmitri Karabanov & Daria Emelianova",
+                    "country": "Russia",
+                    "change": "+16",
+                    "score": "1571",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "242306",
+                    "couple": "Vlad Astafiev & Linda Gergye",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1562",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "251479",
+                    "couple": "Leon Turetsky & Kim Le",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1525",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "255329",
+                    "couple": "Artsiom Chapialiou & Volha Chapialiova",
+                    "country": "USA",
+                    "change": "-47",
+                    "score": "1572",
+                    "result": "7"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 May 2014",
+            "style": "Latin",
+            "url": "Youth_Pre_Champ_Latin_4-Dance_(CC+S+R+J)_319493",
+            "name": "Youth Pre Champ Latin 4-Dance (CC/S/R/J)",
+            "results": [
+                {
+                    "coupleid": "202731",
+                    "couple": "Jean Francis Genereux & Justine Prevost",
+                    "country": "Canada",
+                    "change": "=",
+                    "score": "1466",
+                    "result": "1"
+                }
+            ],
+            "age": "Youth"
+        }
+    ],
+    "compid": "23760",
+    "url": "Dancing_a_la_Carte_2014_23760",
+    "name": "Dancing a la Carte 2014",
+    "rating": "91"
+}

@@ -1,0 +1,107 @@
+{
+    "events": [
+        {
+            "date": "04 Oct 2014",
+            "style": "Ballroom",
+            "url": "Amateur_Collegiate_Novice_Standard_(WFQ)_349289",
+            "name": "Amateur Collegiate Novice Standard (WFQ)",
+            "results": [
+                {
+                    "coupleid": "259487",
+                    "couple": "Isaac Greeson & Maria Khlebnikova",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1100",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "237491",
+                    "couple": "Yubing Hou & Heather Jennings",
+                    "country": "USA",
+                    "change": "+8",
+                    "score": "1063",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "248993",
+                    "couple": "Jeffrey Proulx & Caitlin Kirby",
+                    "country": "USA",
+                    "change": "-15",
+                    "score": "1049",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "04 Oct 2014",
+            "style": "Latin",
+            "url": "Amateur_Collegiate_Novice_Latin_(SCR)_349288",
+            "name": "Amateur Collegiate Novice Latin (SCR)",
+            "results": [
+                {
+                    "coupleid": "236975",
+                    "couple": "Kris Ezra & Sylvia Lefebvre",
+                    "country": "USA",
+                    "change": "+2",
+                    "score": "1131",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "263649",
+                    "couple": "Michael Busche & Lizzie Hammel",
+                    "country": "USA",
+                    "change": "+24",
+                    "score": "1074",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "248987",
+                    "couple": "Boris Yelin & Emily Carroll",
+                    "country": "USA",
+                    "change": "-2",
+                    "score": "1068",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "253013",
+                    "couple": "Daniel Totzkay & Nicole Markovic",
+                    "country": "USA",
+                    "change": "-4",
+                    "score": "1046",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "259485",
+                    "couple": "Jeffrey Proulx & Xueqing Liu",
+                    "country": "USA",
+                    "change": "-21",
+                    "score": "1034",
+                    "result": "5"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "04 Oct 2014",
+            "style": "Latin",
+            "url": "Amateur_Collegiate_Pre-Champ_Latin_(SCRJ)_349290",
+            "name": "Amateur Collegiate Pre-Champ Latin (SCRJ)",
+            "results": [
+                {
+                    "coupleid": "236975",
+                    "couple": "Kris Ezra & Sylvia Lefebvre",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1131",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25331",
+    "url": "Illini_Dancesport_Invitational_2014_25331",
+    "name": "Illini Dancesport Invitational 2014",
+    "rating": "56"
+}

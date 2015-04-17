@@ -1,0 +1,41 @@
+{
+    "events": [
+        {
+            "date": "21 Mar 2015",
+            "style": "Ballroom",
+            "url": "Adult_Pre-Champ_Standard_(WTVFQ)_386138",
+            "name": "Adult Pre-Champ Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "277705",
+                    "couple": "Jeff Mccollum & Connie Liu",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1338",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "93552",
+                    "couple": "Michael Otero & Diane Darling",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1327",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "273465",
+                    "couple": "Ian Chan & Anya Sheedy",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1050",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "27593",
+    "url": "Worcester_Classic_27593",
+    "name": "Worcester Classic",
+    "rating": "46"
+}

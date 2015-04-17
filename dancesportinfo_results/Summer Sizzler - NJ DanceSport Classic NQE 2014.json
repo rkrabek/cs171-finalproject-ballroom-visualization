@@ -1,0 +1,729 @@
+{
+    "name": "Summer Sizzler - NJ DanceSport Classic NQE 2014",
+    "url": "Summer_Sizzler_-_NJ_DanceSport_Classic_NQE_2014_24047",
+    "events": [
+        {
+            "url": "Adult_Championship_Standard_(WTVFQ)_324884",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Brandon Buchthal & Ilana Kotliar",
+                    "coupleid": "249665",
+                    "score": "1403"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Thomas Tien & Sharron Ji",
+                    "coupleid": "244962",
+                    "score": "1387"
+                },
+                {
+                    "change": "-9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1369"
+                },
+                {
+                    "change": "-14",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1348"
+                }
+            ],
+            "name": "Adult Championship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Adult_Novice_Standard_(WFQ)_324886",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "coupleid": "239563",
+                    "score": "1317"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Eugene Lobko & Alla Zemlyak",
+                    "coupleid": "244968",
+                    "score": "1073"
+                }
+            ],
+            "name": "Adult Novice Standard (WFQ)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_324888",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Thomas Tien & Sharron Ji",
+                    "coupleid": "244962",
+                    "score": "1394"
+                },
+                {
+                    "change": "+25",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "coupleid": "239563",
+                    "score": "1342"
+                },
+                {
+                    "change": "-13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alexander Wilson & Lara Wilson (aka Kleinfelter)",
+                    "coupleid": "208257",
+                    "score": "1356"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1331"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1268"
+                }
+            ],
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_III_Championship_Standard_(WTVFQ)_324903",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1484"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1209"
+                },
+                {
+                    "change": "-16",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Martin Goldberger & Rebecca Painter",
+                    "coupleid": "86020",
+                    "score": "1218"
+                }
+            ],
+            "name": "Senior III Championship Standard (WTVFQ)",
+            "age": "Over50",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Standard_(WFQ)_324904",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Monty Yurchison & Jane Chasin",
+                    "coupleid": "169616",
+                    "score": "1111"
+                }
+            ],
+            "name": "Senior III Novice Standard (WFQ)",
+            "age": "Over50",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Standard_(WTFQ)_324905",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1209"
+                }
+            ],
+            "name": "Senior III Pre-Champ Standard (WTFQ)",
+            "age": "Over50",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Standard_(WTVFQ)_324890",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "David Wright & Liva Wright",
+                    "coupleid": "8792",
+                    "score": "1589"
+                },
+                {
+                    "change": "+23",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Thomas Tien & Sharron Ji",
+                    "coupleid": "244962",
+                    "score": "1417"
+                },
+                {
+                    "change": "-11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Niklas Manz & Yvonne Manz",
+                    "coupleid": "20457",
+                    "score": "1446"
+                },
+                {
+                    "change": "+8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1376"
+                },
+                {
+                    "change": "-20",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Gregory Rominger & Jennifer Albury",
+                    "coupleid": "210958",
+                    "score": "1386"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1268"
+                }
+            ],
+            "name": "Senior I Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Standard_(WFQ)_324891",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1121"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Patrick Haizel & Yvonne Smith",
+                    "coupleid": "210960",
+                    "score": "1100"
+                }
+            ],
+            "name": "Senior I Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Champ_Standard_(WTFQ)_324892",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1306"
+                },
+                {
+                    "change": "+13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Patrick Haizel & Yvonne Smith",
+                    "coupleid": "210960",
+                    "score": "1113"
+                },
+                {
+                    "change": "-13",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1108"
+                }
+            ],
+            "name": "Senior I Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Championship_Standard_(WTVFQ)_324897",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vince Feingold & Irina Feingold",
+                    "coupleid": "110006",
+                    "score": "1484"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Niklas Manz & Yvonne Manz",
+                    "coupleid": "20457",
+                    "score": "1445"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gregory Rominger & Jennifer Albury",
+                    "coupleid": "210958",
+                    "score": "1390"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1318"
+                },
+                {
+                    "change": "-17",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1359"
+                },
+                {
+                    "change": "+6",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Martin Goldberger & Rebecca Painter",
+                    "coupleid": "86020",
+                    "score": "1234"
+                },
+                {
+                    "change": "-7",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1224"
+                }
+            ],
+            "name": "Senior II Championship Standard (WTVFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Standard_(WFQ)_324899",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Patrick Haizel & Yvonne Smith",
+                    "coupleid": "210960",
+                    "score": "1135"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1115"
+                },
+                {
+                    "change": "-28",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Monty Yurchison & Jane Chasin",
+                    "coupleid": "169616",
+                    "score": "1111"
+                }
+            ],
+            "name": "Senior II Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_324900",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Glenn Wuennenberg & Bonnie Wuennenberg",
+                    "coupleid": "37358",
+                    "score": "1318"
+                },
+                {
+                    "change": "+27",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brad Scholz & Judit Scholz",
+                    "coupleid": "234811",
+                    "score": "1142"
+                },
+                {
+                    "change": "+4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Patrick Haizel & Yvonne Smith",
+                    "coupleid": "210960",
+                    "score": "1139"
+                },
+                {
+                    "change": "-31",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Carlie Coats & Jan Yarborough (aka Coats)",
+                    "coupleid": "65052",
+                    "score": "1193"
+                }
+            ],
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Adult_Championship_Latin_(SCRPJ)_324883",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ben Lavon & Aliona Cheborak",
+                    "coupleid": "243176",
+                    "score": "1451"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Filipp Akopyan & Uliana Shunevich",
+                    "coupleid": "239544",
+                    "score": "1436"
+                },
+                {
+                    "change": "+15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Guy Platt & Freda Chan",
+                    "coupleid": "217898",
+                    "score": "1337"
+                },
+                {
+                    "change": "-16",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1362"
+                }
+            ],
+            "name": "Adult Championship Latin (SCRPJ)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Adult_Novice_Latin_(SCR)_324885",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+53",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Tommy Zinkosky & Gabriella Kelley",
+                    "coupleid": "203500",
+                    "score": "1210"
+                },
+                {
+                    "change": "-11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sebastian Tomkowski & Anna Raytsina",
+                    "coupleid": "207586",
+                    "score": "1371"
+                },
+                {
+                    "change": "+7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Kim Yu Tiamco & Monica Lee",
+                    "coupleid": "243186",
+                    "score": "1235"
+                },
+                {
+                    "change": "+28",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1172"
+                },
+                {
+                    "change": "+33",
+                    "result": "5",
+                    "country": "Spain",
+                    "couple": "Carlos De Los Santos & Milakirstie Kulsa",
+                    "coupleid": "256526",
+                    "score": "942"
+                },
+                {
+                    "change": "-18",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1192"
+                },
+                {
+                    "change": "-47",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "coupleid": "239563",
+                    "score": "1210"
+                },
+                {
+                    "change": "-45",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Yuen-jong Liu & Sarah Wong",
+                    "coupleid": "243189",
+                    "score": "1182"
+                }
+            ],
+            "name": "Adult Novice Latin (SCR)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_324887",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+15",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Allen Granzberg & Milana Lazareva",
+                    "coupleid": "148134",
+                    "score": "1377"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Marcos Martinez & Whitney Hallam",
+                    "coupleid": "256527",
+                    "score": "1386"
+                },
+                {
+                    "change": "+30",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tommy Zinkosky & Gabriella Kelley",
+                    "coupleid": "203500",
+                    "score": "1240"
+                },
+                {
+                    "change": "-20",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sebastian Tomkowski & Anna Raytsina",
+                    "coupleid": "207586",
+                    "score": "1351"
+                },
+                {
+                    "change": "-3",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Kim Yu Tiamco & Monica Lee",
+                    "coupleid": "243186",
+                    "score": "1232"
+                },
+                {
+                    "change": "+21",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Daniel Girshik & Bella Ratner",
+                    "coupleid": "244964",
+                    "score": "1193"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Stephen Torres & Nicole Barron",
+                    "coupleid": "207594",
+                    "score": "1191"
+                },
+                {
+                    "change": "-22",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "coupleid": "239563",
+                    "score": "1188"
+                },
+                {
+                    "change": "-16",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Yuen-jong Liu & Sarah Wong",
+                    "coupleid": "243189",
+                    "score": "1166"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Latin_(SCRPJ)_324889",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+7",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "coupleid": "242520",
+                    "score": "1404"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "coupleid": "85076",
+                    "score": "1387"
+                },
+                {
+                    "change": "+28",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Denis Kojinov & Jeanette Chevalier White",
+                    "coupleid": "97272",
+                    "score": "1179"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Cayetano Farcon & Armie Farcon",
+                    "coupleid": "153421",
+                    "score": "1310"
+                },
+                {
+                    "change": "-25",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1306"
+                }
+            ],
+            "name": "Senior I Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Championship_Latin_(SCRPJ)_324893",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "coupleid": "85076",
+                    "score": "1399"
+                },
+                {
+                    "change": "-11",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Arkady Rabinovich & Arlene Yu",
+                    "coupleid": "242520",
+                    "score": "1393"
+                },
+                {
+                    "change": "+7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Cayetano Farcon & Armie Farcon",
+                    "coupleid": "153421",
+                    "score": "1317"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sean Shiauhwei Lin & Vivian Lin",
+                    "coupleid": "106804",
+                    "score": "1298"
+                }
+            ],
+            "name": "Senior II Championship Latin (SCRPJ)",
+            "age": "Senior",
+            "date": "07 Jun 2014"
+        }
+    ],
+    "compid": "24047",
+    "rating": "103"
+}

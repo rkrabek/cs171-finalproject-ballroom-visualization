@@ -1,0 +1,321 @@
+{
+    "events": [
+        {
+            "date": "22 Jan 2015",
+            "style": "Ballroom",
+            "url": "Professional_Open_Ballroom_373904",
+            "name": "Professional Open Ballroom",
+            "results": [
+                {
+                    "coupleid": "230401",
+                    "couple": "Oscar Pedrinelli & Lenka Kovalcikova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1821",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "655",
+                    "couple": "Martin Reinbold & Liene Reinbold (aka Skrastina)",
+                    "country": "Latvia",
+                    "change": "=",
+                    "score": "1705",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "176985",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "country": "USA",
+                    "change": "+19",
+                    "score": "1608",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "252489",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1610",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "272806",
+                    "couple": "Manuel Trillo & Nelly Mustafayeva",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1583",
+                    "result": "5"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "23 Jan 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Open_Ballroom_Scholarship_373905",
+            "name": "Amateur Open Ballroom Scholarship",
+            "results": [
+                {
+                    "coupleid": "231835",
+                    "couple": "Carmine Rucco & Maria Bolyard",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1395",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "178575",
+                    "couple": "Robert Pratico & Deborah Pratico",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1163",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "23 Jan 2015",
+            "style": "Ballroom",
+            "url": "Senior_Open_Ballroom_Scholarship_373906",
+            "name": "Senior Open Ballroom Scholarship",
+            "results": [
+                {
+                    "coupleid": "230077",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "country": "USA",
+                    "change": "+17",
+                    "score": "1400",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "272807",
+                    "couple": "Don Srygley & Kim Srygley",
+                    "country": "USA",
+                    "change": "-17",
+                    "score": "1433",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "178575",
+                    "couple": "Robert Pratico & Deborah Pratico",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1163",
+                    "result": "3"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "23 Jan 2015",
+            "style": "Latin",
+            "url": "Amateur_Open_Latin_Scholarship_373909",
+            "name": "Amateur Open Latin Scholarship",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "23 Jan 2015",
+            "style": "Latin",
+            "url": "Professional_RS_Latin_373901",
+            "name": "Professional RS Latin",
+            "results": [
+                {
+                    "coupleid": "272805",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "country": "USA",
+                    "change": "+39",
+                    "score": "1514",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "38611",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "country": "USA",
+                    "change": "-9",
+                    "score": "1534",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "245617",
+                    "couple": "Srdan Mikuljan & Carolina Avila",
+                    "country": "USA",
+                    "change": "-17",
+                    "score": "1510",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "20073",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "country": "USA",
+                    "change": "-16",
+                    "score": "1479",
+                    "result": "4"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 Jan 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Pre_Champ_Ballroom_373910",
+            "name": "Amateur Pre Champ Ballroom",
+            "results": [
+                {
+                    "coupleid": "231835",
+                    "couple": "Carmine Rucco & Maria Bolyard",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1395",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "24 Jan 2015",
+            "style": "Ballroom",
+            "url": "Professional_RS_Ballroom_373902",
+            "name": "Professional RS Ballroom",
+            "results": [
+                {
+                    "coupleid": "176985",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "country": "USA",
+                    "change": "+12",
+                    "score": "1620",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "252489",
+                    "couple": "Dumitru Turcan & Cristina Turcan",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1598",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "24 Jan 2015",
+            "style": "Latin",
+            "url": "Amateur_Pre_Champ_Latin_373911",
+            "name": "Amateur Pre Champ Latin",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "24 Jan 2015",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_373903",
+            "name": "Professional Open Latin",
+            "results": [
+                {
+                    "coupleid": "183019",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "country": "USA",
+                    "change": "+6",
+                    "score": "1765",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "250026",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1745",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "104712",
+                    "couple": "Evgeni Likhachev & Maria Levina",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1714",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "13660",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "country": "USA",
+                    "change": "-8",
+                    "score": "1704",
+                    "result": "4"
+                },
+                {
+                    "coupleid": "199028",
+                    "couple": "Ryan Lewis & Tessa Marie Murphy",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1635",
+                    "result": "5"
+                },
+                {
+                    "coupleid": "272805",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "country": "USA",
+                    "change": "+21",
+                    "score": "1535",
+                    "result": "6"
+                },
+                {
+                    "coupleid": "38611",
+                    "couple": "Zsolt Katona & T\ufffd\ufffdmea Potys",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1535",
+                    "result": "7"
+                },
+                {
+                    "coupleid": "245617",
+                    "couple": "Srdan Mikuljan & Carolina Avila",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1513",
+                    "result": "8"
+                },
+                {
+                    "coupleid": "272806",
+                    "couple": "Manuel Trillo & Nelly Mustafayeva",
+                    "country": "USA",
+                    "change": "-20",
+                    "score": "1517",
+                    "result": "9"
+                },
+                {
+                    "coupleid": "20073",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "country": "USA",
+                    "change": "-5",
+                    "score": "1474",
+                    "result": "10"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "26868",
+    "url": "Nashville_Starz_2015_26868",
+    "name": "Nashville Starz 2015",
+    "rating": "90"
+}

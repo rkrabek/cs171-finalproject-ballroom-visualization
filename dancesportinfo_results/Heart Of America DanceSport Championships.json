@@ -1,0 +1,183 @@
+{
+    "events": [
+        {
+            "date": "08 Aug 2014",
+            "style": "Ballroom",
+            "url": "Open_Amateur_Ballroom_Champ_(W+T+VW+FT+QS)_340310",
+            "name": "Open Amateur Ballroom Champ (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "230077",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1427",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "08 Aug 2014",
+            "style": "Ballroom",
+            "url": "Professional_Rising_Star_Ballroom_(W+T+VW+FT+QS)_340306",
+            "name": "Professional Rising Star Ballroom (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "190210",
+                    "couple": "Kevin Camarata & Michelle Camarata (aka Jones)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1567",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "181186",
+                    "couple": "Craig Tomazin & Holly Collins",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1339",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "08 Aug 2014",
+            "style": "Ballroom",
+            "url": "Senior_Open_Ballroom_Championship_(W+T+VW+FT+QS)_340304",
+            "name": "Senior Open Ballroom Championship (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "230077",
+                    "couple": "Roberto Schipp & Leigh Wieland",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1427",
+                    "result": "1"
+                }
+            ],
+            "age": "Senior"
+        },
+        {
+            "date": "08 Aug 2014",
+            "style": "Latin",
+            "url": "Professional_Rising_Star_Latin_(CC+S+R+PD+J)_340305",
+            "name": "Professional Rising Star Latin (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "232132",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1606",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "20073",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "country": "USA",
+                    "change": "+16",
+                    "score": "1489",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "217793",
+                    "couple": "Israel Pena & Lisa Holt",
+                    "country": "USA",
+                    "change": "-17",
+                    "score": "1504",
+                    "result": "3"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "09 Aug 2014",
+            "style": "Ballroom",
+            "url": "Professional_Open_Ballroom_Champ_(W+T+VW+FT+QS)_340309",
+            "name": "Professional Open Ballroom Champ (W/T/VW/FT/QS)",
+            "results": [
+                {
+                    "coupleid": "10",
+                    "couple": "Pavel Cherdantsau & Svetlana Rudkovskaya",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1682",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "190210",
+                    "couple": "Kevin Camarata & Michelle Camarata (aka Jones)",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1567",
+                    "result": "2"
+                }
+            ],
+            "age": "Professional"
+        },
+        {
+            "date": "09 Aug 2014",
+            "style": "Latin",
+            "url": "Open_Amateur_Latin_Champ_(CC+S+R+PD+J)_340311",
+            "name": "Open Amateur Latin Champ (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "248527",
+                    "couple": "David Nyemchek & Maysen Wilder",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1350",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "09 Aug 2014",
+            "style": "Latin",
+            "url": "Professional_Open_Latin_Championship_(CC+S+R+PD+J)_340307",
+            "name": "Professional Open Latin Championship (CC/S/R/PD/J)",
+            "results": [
+                {
+                    "coupleid": "232132",
+                    "couple": "Aleksey Lytvyn & Carly Lytvyn (aka Booth)",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1607",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "10",
+                    "couple": "Pavel Cherdantsau & Svetlana Rudkovskaya",
+                    "country": "USA",
+                    "change": "+1",
+                    "score": "1556",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "20073",
+                    "couple": "Mariusz Skonieczny & Mary Jester",
+                    "country": "USA",
+                    "change": "+10",
+                    "score": "1499",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "217793",
+                    "couple": "Israel Pena & Lisa Holt",
+                    "country": "USA",
+                    "change": "-12",
+                    "score": "1492",
+                    "result": "4"
+                }
+            ],
+            "age": "Professional"
+        }
+    ],
+    "compid": "24739",
+    "url": "Heart_Of_America_DanceSport_Championships_24739",
+    "name": "Heart Of America DanceSport Championships",
+    "rating": "75"
+}

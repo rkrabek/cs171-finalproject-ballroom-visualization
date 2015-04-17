@@ -1,0 +1,209 @@
+{
+    "name": "River City Ball 2014",
+    "url": "River_City_Ball_2014_24209",
+    "events": [
+        {
+            "url": "Adult_Championship_Standard_(WTVFQ)_327492",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Vorobiev & Zoe Zimmerman",
+                    "coupleid": "257116",
+                    "score": "1444"
+                }
+            ],
+            "name": "Adult Championship Standard (WTVFQ)",
+            "age": "Amateur",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Adult_Novice_Standard_(WFQ)_327495",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1300"
+                }
+            ],
+            "name": "Adult Novice Standard (WFQ)",
+            "age": "Amateur",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Standard_(WTFQ)_327502",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1300"
+                }
+            ],
+            "name": "Adult Pre-Champ Standard (WTFQ)",
+            "age": "Amateur",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Standard_(WFQ)_327509",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+22",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1071"
+                },
+                {
+                    "change": "+14",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Bill Hingley & Glenda Hingley",
+                    "coupleid": "131855",
+                    "score": "1035"
+                },
+                {
+                    "change": "-35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Vidar Moen & Cindy Moen (aka Ogden)",
+                    "coupleid": "231232",
+                    "score": "1266"
+                }
+            ],
+            "name": "Senior III Novice Standard (WFQ)",
+            "age": "Over50",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Standard_(WTFQ)_327513",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1071"
+                }
+            ],
+            "name": "Senior III Pre-Champ Standard (WTFQ)",
+            "age": "Over50",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Standard_(WFQ)_327503",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1116"
+                }
+            ],
+            "name": "Senior I Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Standard_(WFQ)_327506",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+16",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1132"
+                },
+                {
+                    "change": "+20",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1050"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Bill Hingley & Glenda Hingley",
+                    "coupleid": "131855",
+                    "score": "1021"
+                },
+                {
+                    "change": "-45",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vidar Moen & Cindy Moen (aka Ogden)",
+                    "coupleid": "231232",
+                    "score": "1301"
+                }
+            ],
+            "name": "Senior II Novice Standard (WFQ)",
+            "age": "Senior",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Senior_II_Pre-Champ_Standard_(WTFQ)_327507",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Rood & Susan Philbrick",
+                    "coupleid": "100581",
+                    "score": "1133"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1049"
+                }
+            ],
+            "name": "Senior II Pre-Champ Standard (WTFQ)",
+            "age": "Senior",
+            "date": "14 Jun 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(SCRJ)_327498",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Peter Krastev & Janine Roffle",
+                    "coupleid": "204229",
+                    "score": "1349"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (SCRJ)",
+            "age": "Amateur",
+            "date": "14 Jun 2014"
+        }
+    ],
+    "compid": "24209",
+    "rating": "95"
+}

@@ -1,0 +1,748 @@
+{
+    "name": "Columbia Star Ball 2014",
+    "url": "Columbia_Star_Ball_2014_23411",
+    "events": [
+        {
+            "url": "Adult_Pre-Champ_Ballroom_(WTFQ)_314523",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+11",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Scott Nicholson & Evgeniya Gorobets",
+                    "coupleid": "242753",
+                    "score": "1361"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Nicholas Kane & Sabrina Hargis",
+                    "coupleid": "232706",
+                    "score": "1346"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Alexander Chang & Yuliya Talmazan",
+                    "coupleid": "217594",
+                    "score": "1298"
+                },
+                {
+                    "change": "-17",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1302"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Kyle Mccausland & Sarah Berger",
+                    "coupleid": "245010",
+                    "score": "1234"
+                }
+            ],
+            "name": "Adult Pre-Champ Ballroom (WTFQ)",
+            "age": "Amateur",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_III_Novice_Ballroom_(WFQ)_314578",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+17",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Edward Brennan & Cecilia Wong",
+                    "coupleid": "249195",
+                    "score": "1041"
+                },
+                {
+                    "change": "-17",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1032"
+                }
+            ],
+            "name": "Senior III Novice Ballroom (WFQ)",
+            "age": "Over50",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Ballroom_(WTVFQ)_313466",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1595"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sarosh Ahmad & Zoe Wydroug",
+                    "coupleid": "125596",
+                    "score": "1544"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom (WTVFQ)",
+            "age": "Professional",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_I_Championship_Ballroom_(WTVFQ)_314559",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitry Ischenko & Sasha Grocott",
+                    "coupleid": "170614",
+                    "score": "1404"
+                },
+                {
+                    "change": "+3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Lars Linder & Holly Linder",
+                    "coupleid": "49705",
+                    "score": "1362"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "George Pytlik & Tatiana Spesivtseva",
+                    "coupleid": "238262",
+                    "score": "1332"
+                }
+            ],
+            "name": "Senior I Championship Ballroom (WTVFQ)",
+            "age": "Senior",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Ballroom_(WFQ)_314563",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1399"
+                }
+            ],
+            "name": "Senior I Novice Ballroom (WFQ)",
+            "age": "Senior",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_I_Pre-Novice_Ballroom_(TF)_314567",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Neil Hicks & Dori Yates",
+                    "coupleid": "253717",
+                    "score": "1014"
+                }
+            ],
+            "name": "Senior I Pre-Novice Ballroom (TF)",
+            "age": "Senior",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_II_Novice_Ballroom_(WFQ)_314577",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1049"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Edward Brennan & Cecilia Wong",
+                    "coupleid": "249195",
+                    "score": "1024"
+                }
+            ],
+            "name": "Senior II Novice Ballroom (WFQ)",
+            "age": "Senior",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Adult_Pre-Champ_Latin_(CSRJ)_313449",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+19",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Eric Hayden & Samantha Sun",
+                    "coupleid": "253545",
+                    "score": "1160"
+                },
+                {
+                    "change": "+17",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Alex Galvan & Haley Wayt",
+                    "coupleid": "253546",
+                    "score": "1103"
+                },
+                {
+                    "change": "-35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jesse Maher & Cassey Bartlernay",
+                    "coupleid": "253547",
+                    "score": "1172"
+                }
+            ],
+            "name": "Adult Pre-Champ Latin (CSRJ)",
+            "age": "Amateur",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_(CSRPJ)_313467",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ilie Bardahan & Katya Gorokhovsky",
+                    "coupleid": "251413",
+                    "score": "1619"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1578"
+                }
+            ],
+            "name": "Professional Rising Star Latin (CSRPJ)",
+            "age": "Professional",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_I_Novice_Latin_(CRJ)_314566",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Turkey",
+                    "couple": "Gokturk Yurtyapan & Asli Yurtyapan (aka Erdal)",
+                    "coupleid": "13212",
+                    "score": "1037"
+                }
+            ],
+            "name": "Senior I Novice Latin (CRJ)",
+            "age": "Senior",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Youth_Novice_Latin_(CRJ)_314590",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Eric Hayden & Samantha Sun",
+                    "coupleid": "253545",
+                    "score": "1160"
+                }
+            ],
+            "name": "Youth Novice Latin (CRJ)",
+            "age": "Youth",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Youth_Pre-Champ_Latin_(CSRJ)_314603",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Eric Hayden & Samantha Sun",
+                    "coupleid": "253545",
+                    "score": "1160"
+                }
+            ],
+            "name": "Youth Pre-Champ Latin (CSRJ)",
+            "age": "Youth",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Open_Ten_Dance_(WTVFQCSRPJ)_314491",
+            "style": "10 Dance",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1641"
+                },
+                {
+                    "change": "-10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Simeon Stoynov & Kora Stoynova (aka Uczekaj)",
+                    "coupleid": "1147",
+                    "score": "1616"
+                }
+            ],
+            "name": "Open Ten Dance (WTVFQCSRPJ)",
+            "age": "Amateur",
+            "date": "09 May 2014"
+        },
+        {
+            "url": "Senior_III_Pre-Champ_Ballroom_(WTFQ)_314580",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Canada",
+                    "couple": "Terrance Nicholson & Candace Nicholson",
+                    "coupleid": "131847",
+                    "score": "1032"
+                }
+            ],
+            "name": "Senior III Pre-Champ Ballroom (WTFQ)",
+            "age": "Over50",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Professional_Open_Ballroom_(WTVFQ)_314607",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Denis Kutepov & Lesya Sinitsa",
+                    "coupleid": "220542",
+                    "score": "1832"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1767"
+                },
+                {
+                    "change": "+5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Simeon Stoynov & Kora Stoynova (aka Uczekaj)",
+                    "coupleid": "1147",
+                    "score": "1659"
+                },
+                {
+                    "change": "+11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1606"
+                },
+                {
+                    "change": "-16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Paul Daniells & Julianne Dibacco",
+                    "coupleid": "248526",
+                    "score": "1617"
+                }
+            ],
+            "name": "Professional Open Ballroom (WTVFQ)",
+            "age": "Professional",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Adult_Open_Scholarship_Latin_(CSRPJ)_314521",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Umar Dyallo & Natasha Zrazhevskaya",
+                    "coupleid": "212202",
+                    "score": "1483"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "Canada",
+                    "couple": "Oleksiy Styran & Anca Florescu",
+                    "coupleid": "182877",
+                    "score": "1449"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1409"
+                },
+                {
+                    "change": "-4",
+                    "result": "4",
+                    "country": "Canada",
+                    "couple": "Han Ly & Crystal Li",
+                    "coupleid": "131842",
+                    "score": "1377"
+                }
+            ],
+            "name": "Adult Open Scholarship Latin (CSRPJ)",
+            "age": "Amateur",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Junior_I_Closed_4-Dance_Latin_(CSRJ)_314528",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Zachary Ellis & Maria Bakhmetyeva",
+                    "coupleid": "253699",
+                    "score": "1350"
+                }
+            ],
+            "name": "Junior I Closed 4-Dance Latin (CSRJ)",
+            "age": "Junior",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Junior_I_Open_Latin_(CSRPJ)_314533",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1350"
+                }
+            ],
+            "name": "Junior I Open Latin (CSRPJ)",
+            "age": "Junior",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Junior_II_Open_Scholarship_Latin_(CSRPJ)_314542",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1350"
+                }
+            ],
+            "name": "Junior II Open Scholarship Latin (CSRPJ)",
+            "age": "Junior",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Professional_Open_Latin_(CSRPJ)_314612",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Nikolai Voronovich & Maria Nikolishina",
+                    "coupleid": "2102",
+                    "score": "1872"
+                },
+                {
+                    "change": "+2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1739"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Pavel Balykin & Maegan Mendoza",
+                    "coupleid": "165314",
+                    "score": "1695"
+                },
+                {
+                    "change": "+11",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Ilie Bardahan & Katya Gorokhovsky",
+                    "coupleid": "251413",
+                    "score": "1630"
+                },
+                {
+                    "change": "-9",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Simeon Stoynov & Kora Stoynova (aka Uczekaj)",
+                    "coupleid": "1147",
+                    "score": "1629"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Igor Colac & Roxane Milotti",
+                    "coupleid": "51285",
+                    "score": "1576"
+                }
+            ],
+            "name": "Professional Open Latin (CSRPJ)",
+            "age": "Professional",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Under_21_Open_Scholarship_Latin_(CSRPJ)_314588",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1410"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Scott Nicholson & Evgeniya Gorobets",
+                    "coupleid": "242753",
+                    "score": "1343"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Alex Galvan & Haley Wayt",
+                    "coupleid": "253546",
+                    "score": "1103"
+                }
+            ],
+            "name": "Under 21 Open Scholarship Latin (CSRPJ)",
+            "age": "Youth",
+            "date": "10 May 2014"
+        },
+        {
+            "url": "Adult_Open_Scholarship_Ballroom_(WTVFQ)_313443",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Ruslan Kalyuzhnyy & Kseniya Sovenko",
+                    "coupleid": "230649",
+                    "score": "1562"
+                },
+                {
+                    "change": "+13",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1477"
+                },
+                {
+                    "change": "-15",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Andreas Meijer & Jody Frease Meijer",
+                    "coupleid": "8877",
+                    "score": "1504"
+                },
+                {
+                    "change": "+2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nicholas Kane & Sabrina Hargis",
+                    "coupleid": "232706",
+                    "score": "1348"
+                },
+                {
+                    "change": "-2",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vyacheslav Andrejev & Diana Wojcik",
+                    "coupleid": "231846",
+                    "score": "1300"
+                }
+            ],
+            "name": "Adult Open Scholarship Ballroom (WTVFQ)",
+            "age": "Amateur",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Junior_I_Open_Ballroom_(WTVFQ)_314531",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1379"
+                }
+            ],
+            "name": "Junior I Open Ballroom (WTVFQ)",
+            "age": "Junior",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Junior_II_Open_Scholarship_Ballroom_(WTVFQ)_314535",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Erik Linder & Rickie Taylor",
+                    "coupleid": "108729",
+                    "score": "1379"
+                }
+            ],
+            "name": "Junior II Open Scholarship Ballroom (WTVFQ)",
+            "age": "Junior",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Pre-Teen_II_Closed_Scholarship_Ballroom_(WTFQ)_314543",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Lazar Isakharov & Alena Budko",
+                    "coupleid": "231229",
+                    "score": "1237"
+                }
+            ],
+            "name": "Pre-Teen II Closed Scholarship Ballroom (WTFQ)",
+            "age": "Juvenile",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Under_21_Open_Scholarship_Ballroom_(WTVFQ)_314587",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Misha Vorobiev & Sonya Tsekanovsky",
+                    "coupleid": "31548",
+                    "score": "1477"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Scott Nicholson & Evgeniya Gorobets",
+                    "coupleid": "242753",
+                    "score": "1368"
+                },
+                {
+                    "change": "-7",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Nicholas Kane & Sabrina Hargis",
+                    "coupleid": "232706",
+                    "score": "1341"
+                }
+            ],
+            "name": "Under 21 Open Scholarship Ballroom (WTVFQ)",
+            "age": "Youth",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Pre-Teen_II_Closed_Scholarship_Latin_(CSRJ)_314557",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Lazar Isakharov & Alena Budko",
+                    "coupleid": "231229",
+                    "score": "1243"
+                }
+            ],
+            "name": "Pre-Teen II Closed Scholarship Latin (CSRJ)",
+            "age": "Juvenile",
+            "date": "11 May 2014"
+        },
+        {
+            "url": "Youth_Open_Scholarship_Latin_(CSRPJ)_314591",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Scott Nicholson & Evgeniya Gorobets",
+                    "coupleid": "242753",
+                    "score": "1343"
+                }
+            ],
+            "name": "Youth Open Scholarship Latin (CSRPJ)",
+            "age": "Youth",
+            "date": "11 May 2014"
+        }
+    ],
+    "compid": "23411",
+    "rating": "208"
+}

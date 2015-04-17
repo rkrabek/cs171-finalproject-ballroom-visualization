@@ -1,0 +1,1364 @@
+{
+    "name": "Nevada Star Ball 2014",
+    "url": "Nevada_Star_Ball_2014_24854",
+    "events": [
+        {
+            "url": "Junior_Open_Int_Ballroom_Champ_(W+T+VW+F+QS)_341964",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Robert Mcshinsky & Peyton Munson",
+                    "coupleid": "212213",
+                    "score": "1371"
+                },
+                {
+                    "change": "+48",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1180"
+                },
+                {
+                    "change": "+5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brandon Keck & Kaylee Christensen",
+                    "coupleid": "171770",
+                    "score": "1281"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jared Alley & Serena Keck",
+                    "coupleid": "198798",
+                    "score": "1225"
+                },
+                {
+                    "change": "-27",
+                    "result": "5",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Ryan Lay & Aubry Ma",
+                    "coupleid": "170601",
+                    "score": "1262"
+                },
+                {
+                    "change": "-40",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Dylan Burnham & Alayna Zenger",
+                    "coupleid": "239141",
+                    "score": "1252"
+                }
+            ],
+            "name": "Junior Open Int Ballroom Champ (W/T/VW/F/QS)",
+            "age": "Junior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Junior_Pre-Champ_Int_Ballroom_(W+T+FT+QS)_341963",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+32",
+                    "result": "1",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Ryan Lay & Aubry Ma",
+                    "coupleid": "170601",
+                    "score": "1289"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tanner Cole & Aubree Harper",
+                    "coupleid": "260438",
+                    "score": "1293"
+                },
+                {
+                    "change": "+35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jared Alley & Serena Keck",
+                    "coupleid": "198798",
+                    "score": "1213"
+                },
+                {
+                    "change": "-34",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dylan Burnham & Alayna Zenger",
+                    "coupleid": "239141",
+                    "score": "1292"
+                },
+                {
+                    "change": "-25",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Shanden Hoffman & Ashton Cole",
+                    "coupleid": "260439",
+                    "score": "1246"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Logan Beach & Brooke Morley",
+                    "coupleid": "260437",
+                    "score": "1201"
+                }
+            ],
+            "name": "Junior Pre-Champ Int Ballroom (W/T/FT/QS)",
+            "age": "Junior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Pre-Teen_Pre-Champ_Int_Ballroom_(W+T+FT+QS)_341994",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matthew Bezzant & Caroline Money",
+                    "coupleid": "260446",
+                    "score": "1147"
+                },
+                {
+                    "change": "+7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Cardon Getter & Chloe Baines",
+                    "coupleid": "260445",
+                    "score": "1105"
+                },
+                {
+                    "change": "-11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Macade Zenger & Nikki Johnson",
+                    "coupleid": "260443",
+                    "score": "1087"
+                }
+            ],
+            "name": "Pre-Teen Pre-Champ Int Ballroom (W/T/FT/QS)",
+            "age": "Juvenile",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Open_Professional_Int_Ballroom_Champ_(W+T+VW+F+QS)_341999",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Victor Fung & Anastasia Muravyova",
+                    "coupleid": "130906",
+                    "score": "2036"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Mikhail Avdeev & Olga Blinova",
+                    "coupleid": "139095",
+                    "score": "1883"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Denis Kutepov & Lesya Sinitsa",
+                    "coupleid": "220542",
+                    "score": "1856"
+                },
+                {
+                    "change": "+2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Iaroslav Bieliei & Olga Tsikalyuk",
+                    "coupleid": "256716",
+                    "score": "1818"
+                },
+                {
+                    "change": "-3",
+                    "result": "5",
+                    "country": "Canada",
+                    "couple": "Richard Tonizzo & Claire Hansen",
+                    "coupleid": "13219",
+                    "score": "1793"
+                },
+                {
+                    "change": "-3",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "coupleid": "255621",
+                    "score": "1754"
+                }
+            ],
+            "name": "Open Professional Int Ballroom Champ (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Senior_Novice_International_Ballroom_(T+FT)_342008",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Max Croft & Maureen Croft",
+                    "coupleid": "129430",
+                    "score": "1285"
+                },
+                {
+                    "change": "-2",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Elmer Martinez & Maritess Tuazon",
+                    "coupleid": "205043",
+                    "score": "1231"
+                }
+            ],
+            "name": "Senior Novice International Ballroom (T/FT)",
+            "age": "Senior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Senior_Novice_International_Ballroom_(W+QS)_342006",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+3",
+                    "result": "1",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Max Croft & Maureen Croft",
+                    "coupleid": "129430",
+                    "score": "1283"
+                },
+                {
+                    "change": "-3",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Elmer Martinez & Maritess Tuazon",
+                    "coupleid": "205043",
+                    "score": "1233"
+                }
+            ],
+            "name": "Senior Novice International Ballroom (W/QS)",
+            "age": "Senior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Senior_Pre-Champ_Int_Ballroom_(W+T+FT+QS)_342013",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jeong Hwan Kim & Lily Tsai",
+                    "coupleid": "251977",
+                    "score": "1483"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Edward Lam & Tina Lam",
+                    "coupleid": "181176",
+                    "score": "1374"
+                },
+                {
+                    "change": "+28",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "Raynald Goudreau & Marie-Claude Rodrigue",
+                    "coupleid": "122196",
+                    "score": "951"
+                },
+                {
+                    "change": "-13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Elmer Martinez & Maritess Tuazon",
+                    "coupleid": "205043",
+                    "score": "1218"
+                },
+                {
+                    "change": "-16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "George Dao & Vickie Dao",
+                    "coupleid": "232843",
+                    "score": "1171"
+                }
+            ],
+            "name": "Senior Pre-Champ Int Ballroom (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Youth_Open_Int_Ballroom_Champ_(W+T+VW+F+QS)_341970",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+30",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Robert Mcshinsky & Peyton Munson",
+                    "coupleid": "212213",
+                    "score": "1401"
+                },
+                {
+                    "change": "+48",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1228"
+                },
+                {
+                    "change": "+25",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brandon Keck & Kaylee Christensen",
+                    "coupleid": "171770",
+                    "score": "1306"
+                },
+                {
+                    "change": "-10",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Sawyer Stolle & Janica Liu",
+                    "coupleid": "260434",
+                    "score": "1365"
+                },
+                {
+                    "change": "-34",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Adam Coker & Kyla Zenger",
+                    "coupleid": "239137",
+                    "score": "1369"
+                },
+                {
+                    "change": "-55",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Eric Ascione & Grace Anderson",
+                    "coupleid": "232837",
+                    "score": "1387"
+                }
+            ],
+            "name": "Youth Open Int Ballroom Champ (W/T/VW/F/QS)",
+            "age": "Youth",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Junior_Open_Int_Latin_Champ_(C+S+R+PD+J)_341966",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+38",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Robert Mcshinsky & Peyton Munson",
+                    "coupleid": "212213",
+                    "score": "1292"
+                },
+                {
+                    "change": "-8",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Keck & Kaylee Christensen",
+                    "coupleid": "171770",
+                    "score": "1310"
+                },
+                {
+                    "change": "+28",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jared Alley & Serena Keck",
+                    "coupleid": "198798",
+                    "score": "1258"
+                },
+                {
+                    "change": "-6",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Brian King & Nicole Stepansov",
+                    "coupleid": "92789",
+                    "score": "1258"
+                },
+                {
+                    "change": "-11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Dylan Burnham & Alayna Zenger",
+                    "coupleid": "239141",
+                    "score": "1241"
+                },
+                {
+                    "change": "-42",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Tanner Cole & Aubree Harper",
+                    "coupleid": "260438",
+                    "score": "1242"
+                }
+            ],
+            "name": "Junior Open Int Latin Champ (C/S/R/PD/J)",
+            "age": "Junior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Junior_Pre-Champ_Int_Latin_(C+S+R+J)_341965",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+59",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Jared Alley & Serena Keck",
+                    "coupleid": "198798",
+                    "score": "1230"
+                },
+                {
+                    "change": "+20",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brian King & Nicole Stepansov",
+                    "coupleid": "92789",
+                    "score": "1264"
+                },
+                {
+                    "change": "-20",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tanner Cole & Aubree Harper",
+                    "coupleid": "260438",
+                    "score": "1284"
+                },
+                {
+                    "change": "-18",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Dylan Burnham & Alayna Zenger",
+                    "coupleid": "239141",
+                    "score": "1252"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Shanden Hoffman & Ashton Cole",
+                    "coupleid": "260439",
+                    "score": "1215"
+                },
+                {
+                    "change": "-6",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Morgan Baumann & Lilian Meier",
+                    "coupleid": "171773",
+                    "score": "1199"
+                },
+                {
+                    "change": "-41",
+                    "result": "7",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Ryan Lay & Aubry Ma",
+                    "coupleid": "170601",
+                    "score": "1209"
+                }
+            ],
+            "name": "Junior Pre-Champ Int Latin (C/S/R/J)",
+            "age": "Junior",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Pre-Teen_Novice_International_Latin_(C+R)_342021",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aram Melik-Bakhshyan & Ruzanna Melik-Bakhshyan",
+                    "coupleid": "260454",
+                    "score": "1005"
+                }
+            ],
+            "name": "Pre-Teen Novice International Latin (C/R)",
+            "age": "Juvenile",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Pre-Teen_Novice_International_Latin_(S+J)_342020",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aram Melik-Bakhshyan & Ruzanna Melik-Bakhshyan",
+                    "coupleid": "260454",
+                    "score": "1005"
+                }
+            ],
+            "name": "Pre-Teen Novice International Latin (S/J)",
+            "age": "Juvenile",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Pre-Teen_Open_Int_Latin_Champ_(C+S+R+PD+J)_341967",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+18",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Franco Alvarez & Isabella Lohr",
+                    "coupleid": "215463",
+                    "score": "1212"
+                },
+                {
+                    "change": "-14",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Andrew Keck & Nicole Ascione",
+                    "coupleid": "198870",
+                    "score": "1213"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Aram Melik-Bakhshyan & Jasmine Khorlaryan",
+                    "coupleid": "200083",
+                    "score": "1155"
+                }
+            ],
+            "name": "Pre-Teen Open Int Latin Champ (C/S/R/PD/J)",
+            "age": "Juvenile",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Pre-Teen_Pre-Champ_Int_Latin_(C+S+R+J)_341998",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+8",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Franco Alvarez & Isabella Lohr",
+                    "coupleid": "215463",
+                    "score": "1220"
+                },
+                {
+                    "change": "-6",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Andrew Keck & Nicole Ascione",
+                    "coupleid": "198870",
+                    "score": "1207"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Aram Melik-Bakhshyan & Jasmine Khorlaryan",
+                    "coupleid": "200083",
+                    "score": "1156"
+                },
+                {
+                    "change": "+12",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Matthew Bezzant & Caroline Money",
+                    "coupleid": "260446",
+                    "score": "1110"
+                },
+                {
+                    "change": "-1",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Macade Zenger & Nikki Johnson",
+                    "coupleid": "260443",
+                    "score": "1097"
+                },
+                {
+                    "change": "-14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Cardon Getter & Chloe Baines",
+                    "coupleid": "260445",
+                    "score": "1084"
+                }
+            ],
+            "name": "Pre-Teen Pre-Champ Int Latin (C/S/R/J)",
+            "age": "Juvenile",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Youth_Open_Int_Latin_Champ_(C+S+R+PD+J)_341961",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+23",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Gasparyan & Nazik Sldryan",
+                    "coupleid": "72392",
+                    "score": "1406"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Eric Ascione & Grace Anderson",
+                    "coupleid": "232837",
+                    "score": "1466"
+                },
+                {
+                    "change": "-6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tyler Alder & Makayla Bezzant",
+                    "coupleid": "258798",
+                    "score": "1390"
+                },
+                {
+                    "change": "+34",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Kevin Sun & Julia Moseyko",
+                    "coupleid": "237561",
+                    "score": "1276"
+                },
+                {
+                    "change": "-7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Daniel Bernecker & Charity Anderson",
+                    "coupleid": "260436",
+                    "score": "1335"
+                },
+                {
+                    "change": "-16",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Yaroslav Pospishil & Katya Ivanho-Kalinuka",
+                    "coupleid": "260435",
+                    "score": "1320"
+                },
+                {
+                    "change": "-18",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Stepan Yeritsyan & Erica Gore",
+                    "coupleid": "249208",
+                    "score": "1295"
+                }
+            ],
+            "name": "Youth Open Int Latin Champ (C/S/R/PD/J)",
+            "age": "Youth",
+            "date": "13 Aug 2014"
+        },
+        {
+            "url": "Amateur_Open_Int_Latin_Champ_(C+S+R+PD+J)_341969",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Aleksei Karaulov & Vlada Semenova (aka Karaulov)",
+                    "coupleid": "34208",
+                    "score": "1640"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Nikita Malakhov & Nadezda Vlasova",
+                    "coupleid": "158624",
+                    "score": "1561"
+                },
+                {
+                    "change": "+14",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Eric Ascione & Grace Anderson",
+                    "coupleid": "232837",
+                    "score": "1480"
+                },
+                {
+                    "change": "-7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Casey Treu & Carli Treu",
+                    "coupleid": "37895",
+                    "score": "1477"
+                },
+                {
+                    "change": "+11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Mitchell Itkin & Natasha Shevchenko",
+                    "coupleid": "232147",
+                    "score": "1407"
+                },
+                {
+                    "change": "-19",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Parker Lynn & Kristina Tieken",
+                    "coupleid": "239182",
+                    "score": "1432"
+                }
+            ],
+            "name": "Amateur Open Int Latin Champ (C/S/R/PD/J)",
+            "age": "Amateur",
+            "date": "15 Aug 2014"
+        },
+        {
+            "url": "RS_Pro_International_Latin_(C+S+R+PD+J)_341983",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1745"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Pavel Balykin & Maegan Mendoza",
+                    "coupleid": "165314",
+                    "score": "1677"
+                },
+                {
+                    "change": "+5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Vincenzo Minieri & Rosaria Vivone",
+                    "coupleid": "251478",
+                    "score": "1648"
+                },
+                {
+                    "change": "+3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Maksim Kapitannikov & Natalia Fridmanovich",
+                    "coupleid": "217919",
+                    "score": "1624"
+                },
+                {
+                    "change": "-11",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Vertan Zakhariants & Tania Reis",
+                    "coupleid": "128881",
+                    "score": "1611"
+                },
+                {
+                    "change": "-1",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Artemi Okunev & Yulia Dragina",
+                    "coupleid": "205045",
+                    "score": "1549"
+                }
+            ],
+            "name": "RS Pro International Latin (C/S/R/PD/J)",
+            "age": "Professional",
+            "date": "15 Aug 2014"
+        },
+        {
+            "url": "Amateur_Novice_International_Ballroom_(T+FT)_342002",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+6",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matthew Mitsvotai & Rebekah Johns",
+                    "coupleid": "249243",
+                    "score": "1328"
+                },
+                {
+                    "change": "-1",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Andrew Reese & Krista Whatcott",
+                    "coupleid": "232134",
+                    "score": "1305"
+                },
+                {
+                    "change": "-4",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brandon Ostler & Sarah Miskin",
+                    "coupleid": "239120",
+                    "score": "1274"
+                },
+                {
+                    "change": "+13",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Greg Brignone & Laura Molnar",
+                    "coupleid": "260448",
+                    "score": "1063"
+                },
+                {
+                    "change": "-5",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Chandler Warr & Natalie Howell",
+                    "coupleid": "260440",
+                    "score": "1056"
+                },
+                {
+                    "change": "-8",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "James Jumanville & Margaret Naughton",
+                    "coupleid": "260449",
+                    "score": "1031"
+                }
+            ],
+            "name": "Amateur Novice International Ballroom (T/FT)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Amateur_Novice_International_Ballroom_(W+QS)_342000",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+10",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Matthew Mitsvotai & Rebekah Johns",
+                    "coupleid": "249243",
+                    "score": "1322"
+                },
+                {
+                    "change": "+10",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Brandon Ostler & Sarah Miskin",
+                    "coupleid": "239120",
+                    "score": "1278"
+                },
+                {
+                    "change": "+21",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Michael Gibbons & Marina Bair",
+                    "coupleid": "260292",
+                    "score": "1168"
+                },
+                {
+                    "change": "-30",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Andrew Reese & Krista Whatcott",
+                    "coupleid": "232134",
+                    "score": "1306"
+                },
+                {
+                    "change": "-10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Cameron Jewkes & Rebecca Bourne",
+                    "coupleid": "260447",
+                    "score": "1175"
+                },
+                {
+                    "change": "+11",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Chandler Warr & Natalie Howell",
+                    "coupleid": "260440",
+                    "score": "1061"
+                },
+                {
+                    "change": "=",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Greg Brignone & Laura Molnar",
+                    "coupleid": "260448",
+                    "score": "1050"
+                },
+                {
+                    "change": "-11",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "James Jumanville & Margaret Naughton",
+                    "coupleid": "260449",
+                    "score": "1039"
+                }
+            ],
+            "name": "Amateur Novice International Ballroom (W/QS)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Amateur_Open_Int_Ballroom_Champ_(W+T+VW+F+QS)_341975",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+1",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Andres End & Veronika End (aka Korotnikova)",
+                    "coupleid": "109711",
+                    "score": "1699"
+                },
+                {
+                    "change": "+17",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Marek Klepadlo & Liana Bakhtiarova",
+                    "coupleid": "252881",
+                    "score": "1561"
+                },
+                {
+                    "change": "-14",
+                    "result": "3",
+                    "country": "Canada",
+                    "couple": "James Cutler & Virginie Primeau",
+                    "coupleid": "259471",
+                    "score": "1635"
+                },
+                {
+                    "change": "+22",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jonathan Bailey & Hannah Augustine",
+                    "coupleid": "142567",
+                    "score": "1490"
+                },
+                {
+                    "change": "-6",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Casey Treu & Carli Treu",
+                    "coupleid": "37895",
+                    "score": "1500"
+                },
+                {
+                    "change": "-21",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Dan Manea & Mia Hu",
+                    "coupleid": "131644",
+                    "score": "1490"
+                }
+            ],
+            "name": "Amateur Open Int Ballroom Champ (W/T/VW/F/QS)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Pre-Champ_Amateur_Int_Ballroom_(W+T+FT+QS)_341960",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "New Zealand (Aotearoa)",
+                    "couple": "Ashlin Hannon & Jessica Lay",
+                    "coupleid": "180329",
+                    "score": "1479"
+                },
+                {
+                    "change": "+18",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Sawyer Stolle & Janica Liu",
+                    "coupleid": "260434",
+                    "score": "1383"
+                },
+                {
+                    "change": "+3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Adam Coker & Kyla Zenger",
+                    "coupleid": "239137",
+                    "score": "1372"
+                },
+                {
+                    "change": "+2",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "William Bautista & Xiaojuan Liu",
+                    "coupleid": "204230",
+                    "score": "1355"
+                },
+                {
+                    "change": "+16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Tyler Alder & Makayla Bezzant",
+                    "coupleid": "258798",
+                    "score": "1325"
+                },
+                {
+                    "change": "-18",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Adam Lee & Clarissa Mcintire",
+                    "coupleid": "232815",
+                    "score": "1329"
+                },
+                {
+                    "change": "-21",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Matthew Mitsvotai & Rebekah Johns",
+                    "coupleid": "249243",
+                    "score": "1312"
+                }
+            ],
+            "name": "Pre-Champ Amateur Int Ballroom (W/T/FT/QS)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "RS_Pro_International_Ballroom_(W+T+VW+F+QS)_341957",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Vladislav Shahov & Ekaterina Popova",
+                    "coupleid": "255621",
+                    "score": "1754"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "Byelorussia",
+                    "couple": "Evgeniy Maiorov & Olga Lisovskaya",
+                    "coupleid": "4956",
+                    "score": "1662"
+                },
+                {
+                    "change": "+11",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Vyacheslav Kostyanets & Valeryya Kostyanets",
+                    "coupleid": "78002",
+                    "score": "1606"
+                },
+                {
+                    "change": "+14",
+                    "result": "4",
+                    "country": "Moldova",
+                    "couple": "Stas Chelnakoff & Taisiia Babiuk",
+                    "coupleid": "202957",
+                    "score": "1505"
+                },
+                {
+                    "change": "-29",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Sarosh Ahmad & Zoe Wydroug",
+                    "coupleid": "125596",
+                    "score": "1605"
+                }
+            ],
+            "name": "RS Pro International Ballroom (W/T/VW/F/QS)",
+            "age": "Professional",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Senior_Open_Int_Ballroom_Champ_(W+T+VW+F+QS)_342018",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dan Manea & Mia Hu",
+                    "coupleid": "131644",
+                    "score": "1499"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Jeong Hwan Kim & Lily Tsai",
+                    "coupleid": "251977",
+                    "score": "1474"
+                }
+            ],
+            "name": "Senior Open Int Ballroom Champ (W/T/VW/F/QS)",
+            "age": "Senior",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Amateur_Novice_International_Latin_(C+R)_341989",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Paul Skousen & Brittany England",
+                    "coupleid": "257541",
+                    "score": "1317"
+                },
+                {
+                    "change": "+48",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Chris Bashard & Courtney Maxfield",
+                    "coupleid": "260442",
+                    "score": "1098"
+                },
+                {
+                    "change": "-10",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Tristan Moe & Kexin Ma",
+                    "coupleid": "258807",
+                    "score": "1286"
+                },
+                {
+                    "change": "+7",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Ryan Crookston & Katrina Pedersen",
+                    "coupleid": "260441",
+                    "score": "1185"
+                },
+                {
+                    "change": "-39",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Brandon Ostler & Sarah Miskin",
+                    "coupleid": "239120",
+                    "score": "1267"
+                },
+                {
+                    "change": "-20",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Chandler Warr & Natalie Howell",
+                    "coupleid": "260440",
+                    "score": "1164"
+                }
+            ],
+            "name": "Amateur Novice International Latin (C/R)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Amateur_Novice_International_Latin_(S+J)_341991",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+57",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Chris Bashard & Courtney Maxfield",
+                    "coupleid": "260442",
+                    "score": "1155"
+                },
+                {
+                    "change": "-9",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Paul Skousen & Brittany England",
+                    "coupleid": "257541",
+                    "score": "1308"
+                },
+                {
+                    "change": "-5",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Brandon Ostler & Sarah Miskin",
+                    "coupleid": "239120",
+                    "score": "1262"
+                },
+                {
+                    "change": "+3",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Ryan Crookston & Katrina Pedersen",
+                    "coupleid": "260441",
+                    "score": "1188"
+                },
+                {
+                    "change": "-36",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Tristan Moe & Kexin Ma",
+                    "coupleid": "258807",
+                    "score": "1250"
+                },
+                {
+                    "change": "-16",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Chandler Warr & Natalie Howell",
+                    "coupleid": "260440",
+                    "score": "1148"
+                }
+            ],
+            "name": "Amateur Novice International Latin (S/J)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Pre-Champ_Amateur_Int_Latin_(C+S+R+J)_341958",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+9",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alex Gasparyan & Nazik Sldryan",
+                    "coupleid": "72392",
+                    "score": "1415"
+                },
+                {
+                    "change": "+4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Tyler Alder & Makayla Bezzant",
+                    "coupleid": "258798",
+                    "score": "1394"
+                },
+                {
+                    "change": "+35",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Stepan Yeritsyan & Erica Gore",
+                    "coupleid": "249208",
+                    "score": "1330"
+                },
+                {
+                    "change": "-18",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Jose Esquivel & Chanel Coles",
+                    "coupleid": "260433",
+                    "score": "1365"
+                },
+                {
+                    "change": "-7",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Adam Lee & Clarissa Mcintire",
+                    "coupleid": "232815",
+                    "score": "1333"
+                },
+                {
+                    "change": "-24",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Aj Heaps & Racquel Hansen",
+                    "coupleid": "260432",
+                    "score": "1323"
+                }
+            ],
+            "name": "Pre-Champ Amateur Int Latin (C/S/R/J)",
+            "age": "Amateur",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Open_Professional_Int_Latin_Champ_(C+S+R+PD+J)_341986",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "Italy",
+                    "couple": "Emanuele Soldi & Elisa Nasato",
+                    "coupleid": "4139",
+                    "score": "1908"
+                },
+                {
+                    "change": "+16",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1773"
+                },
+                {
+                    "change": "+9",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Genya Bartashevich & Yana Mazhnikova",
+                    "coupleid": "110748",
+                    "score": "1756"
+                },
+                {
+                    "change": "-8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Evgeni Likhachev & Maria Levina",
+                    "coupleid": "104712",
+                    "score": "1745"
+                },
+                {
+                    "change": "-16",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1729"
+                },
+                {
+                    "change": "=",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Vincenzo Minieri & Rosaria Vivone",
+                    "coupleid": "251478",
+                    "score": "1648"
+                }
+            ],
+            "name": "Open Professional Int Latin Champ (C/S/R/PD/J)",
+            "age": "Professional",
+            "date": "16 Aug 2014"
+        },
+        {
+            "url": "Senior_Open_Int_Latin_Champ_(C+S+R+PD+J)_342012",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "George Dao & Vickie Dao",
+                    "coupleid": "232843",
+                    "score": "1121"
+                }
+            ],
+            "name": "Senior Open Int Latin Champ (C/S/R/PD/J)",
+            "age": "Senior",
+            "date": "16 Aug 2014"
+        }
+    ],
+    "compid": "24854",
+    "rating": "218"
+}

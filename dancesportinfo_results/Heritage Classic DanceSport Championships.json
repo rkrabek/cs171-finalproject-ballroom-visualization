@@ -1,0 +1,528 @@
+{
+    "name": "Heritage Classic DanceSport Championships",
+    "url": "Heritage_Classic_DanceSport_Championships_27390",
+    "events": [
+        {
+            "url": "Professional_Rising_Star_Ballroom_382750",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+30",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Yuri Nartov & Sarika Hudson",
+                    "coupleid": "262290",
+                    "score": "1745"
+                },
+                {
+                    "change": "-7",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Oleksiy Buravenko & Victoria Karzukhina",
+                    "coupleid": "232377",
+                    "score": "1751"
+                },
+                {
+                    "change": "-1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "coupleid": "272168",
+                    "score": "1720"
+                },
+                {
+                    "change": "-23",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Mechyslav Pavlyuk & Gemma-louise Arnold",
+                    "coupleid": "171560",
+                    "score": "1713"
+                },
+                {
+                    "change": "=",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "coupleid": "176985",
+                    "score": "1626"
+                }
+            ],
+            "name": "Professional Rising Star Ballroom",
+            "age": "Professional",
+            "date": "05 Mar 2015"
+        },
+        {
+            "url": "Professional_Rising_Star_Latin_382751",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Adam Katona & Bella Gubzheva",
+                    "coupleid": "252883",
+                    "score": "1679"
+                },
+                {
+                    "change": "+27",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Felipe Gonzalez & Darinka Divljak",
+                    "coupleid": "275040",
+                    "score": "1602"
+                },
+                {
+                    "change": "-3",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "coupleid": "272168",
+                    "score": "1607"
+                },
+                {
+                    "change": "-26",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "coupleid": "253894",
+                    "score": "1600"
+                }
+            ],
+            "name": "Professional Rising Star Latin",
+            "age": "Professional",
+            "date": "05 Mar 2015"
+        },
+        {
+            "url": "Open_Professional_Ballroom_Championship_382752",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "+2",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Alexandr Voskalchuk & Veronika Egorova",
+                    "coupleid": "147130",
+                    "score": "1889"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "Germany",
+                    "couple": "R\ufffd\ufffddiger Homm & Katya Kanevskaya",
+                    "coupleid": "263503",
+                    "score": "1849"
+                },
+                {
+                    "change": "+1",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Gianni Caliandro & Arianna Esposito",
+                    "coupleid": "106100",
+                    "score": "1808"
+                },
+                {
+                    "change": "+8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Nazar Batih & Mariko Cantley",
+                    "coupleid": "208249",
+                    "score": "1773"
+                },
+                {
+                    "change": "+10",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Yuri Nartov & Sarika Hudson",
+                    "coupleid": "262290",
+                    "score": "1755"
+                },
+                {
+                    "change": "-2",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "coupleid": "13660",
+                    "score": "1745"
+                },
+                {
+                    "change": "-1",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Dimitrijus Sazinas & Karolina Szpiech",
+                    "coupleid": "188280",
+                    "score": "1729"
+                },
+                {
+                    "change": "-2",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Mechyslav Pavlyuk & Gemma-louise Arnold",
+                    "coupleid": "171560",
+                    "score": "1711"
+                },
+                {
+                    "change": "-16",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "coupleid": "272168",
+                    "score": "1704"
+                },
+                {
+                    "change": "=",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Dmitriy Solomakha & Gabriela Solomakha (aka Sevillano)",
+                    "coupleid": "176985",
+                    "score": "1626"
+                }
+            ],
+            "name": "Open Professional Ballroom Championship",
+            "age": "Professional",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Junior_Open_Latin_5-Dance_Champ_382764",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Michael May & Pallany English",
+                    "coupleid": "276561",
+                    "score": "1228"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Seth Greeley & Meg Greeley",
+                    "coupleid": "258291",
+                    "score": "944"
+                }
+            ],
+            "name": "Junior Open Latin 5-Dance Champ",
+            "age": "Junior",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Junior_Rising_Star_Latin_3-Dance_Champ_(C+R+J)_382763",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Seth Greeley & Meg Greeley",
+                    "coupleid": "258291",
+                    "score": "944"
+                }
+            ],
+            "name": "Junior Rising Star Latin 3-Dance Champ (C/R/J)",
+            "age": "Junior",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "PreTeen_Rising_Star_Latin_3-Dance_Champ_(C+R+J)_382765",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Brock Montgomery & Charlie Montgomery",
+                    "coupleid": "276562",
+                    "score": "1098"
+                },
+                {
+                    "change": "=",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Bryce Greeley & Kate Greeley",
+                    "coupleid": "258292",
+                    "score": "854"
+                }
+            ],
+            "name": "PreTeen Rising Star Latin 3-Dance Champ (C/R/J)",
+            "age": "Juvenile",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Senior_Latin_Novice_2-Dance_(C+R)_382757",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+5",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1029"
+                },
+                {
+                    "change": "-5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Peter Klein & Lourdes Klein",
+                    "coupleid": "247445",
+                    "score": "993"
+                }
+            ],
+            "name": "Senior Latin Novice 2-Dance (C/R)",
+            "age": "Senior",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Senior_Latin_Novice_2-Dance_(S+J)_382758",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1033"
+                },
+                {
+                    "change": "-4",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Peter Klein & Lourdes Klein",
+                    "coupleid": "247445",
+                    "score": "989"
+                }
+            ],
+            "name": "Senior Latin Novice 2-Dance (S/J)",
+            "age": "Senior",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Senior_Latin_Pre-Champ_4-Dance_(C+S+R+J)_382759",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1033"
+                }
+            ],
+            "name": "Senior Latin Pre-Champ 4-Dance (C/S/R/J)",
+            "age": "Senior",
+            "date": "06 Mar 2015"
+        },
+        {
+            "url": "Amateur_Ballroom_Open_5-Dance_Championship_382756",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Florin Vlad & Natalia O''Connor",
+                    "coupleid": "170829",
+                    "score": "1523"
+                }
+            ],
+            "name": "Amateur Ballroom Open 5-Dance Championship",
+            "age": "Amateur",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Senior_Ballroom_Novice_2-Dance_(T+FT)_382761",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1007"
+                }
+            ],
+            "name": "Senior Ballroom Novice 2-Dance (T/FT)",
+            "age": "Senior",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Senior_Ballroom_Novice_2-Dance_(W+QS)_382760",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1007"
+                }
+            ],
+            "name": "Senior Ballroom Novice 2-Dance (W/QS)",
+            "age": "Senior",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Senior_Ballroom_Pre-Champ_4-Dance_(W+T+FT+QS)_382762",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Wayne Vinson & Cynthia Vinson",
+                    "coupleid": "247446",
+                    "score": "1007"
+                }
+            ],
+            "name": "Senior Ballroom Pre-Champ 4-Dance (W/T/FT/QS)",
+            "age": "Senior",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Under_21_Ballroom_Open_5-Dance_Championship_382754",
+            "style": "Ballroom",
+            "results": [
+                {
+                    "change": "=",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Florin Vlad & Natalia O''Connor",
+                    "coupleid": "170829",
+                    "score": "1523"
+                }
+            ],
+            "name": "Under 21 Ballroom Open 5-Dance Championship",
+            "age": "Youth",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Amateur_Latin_Open_5-Dance_Championship_382755",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+12",
+                    "result": "1",
+                    "country": "Italy",
+                    "couple": "Cristian Priori & Eleonora Riccardi",
+                    "coupleid": "173364",
+                    "score": "1601"
+                },
+                {
+                    "change": "-12",
+                    "result": "2",
+                    "country": "Italy",
+                    "couple": "Riccardo Pacini & Sonia Spadoni",
+                    "coupleid": "9816",
+                    "score": "1592"
+                },
+                {
+                    "change": "=",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Dennis Porch & Mary Lou Porch",
+                    "coupleid": "268673",
+                    "score": "1359"
+                }
+            ],
+            "name": "Amateur Latin Open 5-Dance Championship",
+            "age": "Amateur",
+            "date": "07 Mar 2015"
+        },
+        {
+            "url": "Open_Professional_Latin_Championship_382753",
+            "style": "Latin",
+            "results": [
+                {
+                    "change": "+4",
+                    "result": "1",
+                    "country": "USA",
+                    "couple": "Dmitriy Nikishkin & Olena Shvets",
+                    "coupleid": "183019",
+                    "score": "1775"
+                },
+                {
+                    "change": "+5",
+                    "result": "2",
+                    "country": "USA",
+                    "couple": "Roman Italyankin & Aleksandra Bokova",
+                    "coupleid": "250026",
+                    "score": "1743"
+                },
+                {
+                    "change": "+6",
+                    "result": "3",
+                    "country": "USA",
+                    "couple": "Sergiy Samchynskyy & Yuliya Besarab",
+                    "coupleid": "13660",
+                    "score": "1716"
+                },
+                {
+                    "change": "+8",
+                    "result": "4",
+                    "country": "USA",
+                    "couple": "Adam Katona & Bella Gubzheva",
+                    "coupleid": "252883",
+                    "score": "1687"
+                },
+                {
+                    "change": "-21",
+                    "result": "5",
+                    "country": "USA",
+                    "couple": "Jake Davies & Olena Kalinina",
+                    "coupleid": "173437",
+                    "score": "1707"
+                },
+                {
+                    "change": "+14",
+                    "result": "6",
+                    "country": "USA",
+                    "couple": "Jonas Kazlauskas & Kathleen Ilo",
+                    "coupleid": "272168",
+                    "score": "1621"
+                },
+                {
+                    "change": "+6",
+                    "result": "7",
+                    "country": "USA",
+                    "couple": "Felipe Gonzalez & Darinka Divljak",
+                    "coupleid": "275040",
+                    "score": "1608"
+                },
+                {
+                    "change": "-3",
+                    "result": "8",
+                    "country": "USA",
+                    "couple": "Aleksey Alekseev & Ekaterina Derevleva",
+                    "coupleid": "253894",
+                    "score": "1597"
+                },
+                {
+                    "change": "-18",
+                    "result": "9",
+                    "country": "USA",
+                    "couple": "Vlad Astafiev & Evgeniya Didenko",
+                    "coupleid": "272805",
+                    "score": "1593"
+                },
+                {
+                    "change": "=",
+                    "result": "10",
+                    "country": "USA",
+                    "couple": "Denis Satonin & Amanda Satonin (aka Enright)",
+                    "coupleid": "139754",
+                    "score": "1476"
+                }
+            ],
+            "name": "Open Professional Latin Championship",
+            "age": "Professional",
+            "date": "07 Mar 2015"
+        }
+    ],
+    "compid": "27390",
+    "rating": "142"
+}

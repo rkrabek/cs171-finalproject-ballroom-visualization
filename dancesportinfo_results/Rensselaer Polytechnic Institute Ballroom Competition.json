@@ -1,0 +1,99 @@
+{
+    "events": [
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Championship_Standard_(WTVFQ)_384213",
+            "name": "Amateur Championship Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "273706",
+                    "couple": "Chris Borbasou & Tetyana Borbasou",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1484",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "207608",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1254",
+                    "result": "2"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Ballroom",
+            "url": "Amateur_Pre-Champ_Standard_(WTVFQ)_384215",
+            "name": "Amateur Pre-Champ Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "268657",
+                    "couple": "Eric Newbury & Chelsea Davidson",
+                    "country": "USA",
+                    "change": "+31",
+                    "score": "1262",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "273706",
+                    "couple": "Chris Borbasou & Tetyana Borbasou",
+                    "country": "USA",
+                    "change": "-18",
+                    "score": "1466",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "207608",
+                    "couple": "Meredith Stead & Daphna Locker",
+                    "country": "USA",
+                    "change": "-14",
+                    "score": "1240",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "14 Mar 2015",
+            "style": "Latin",
+            "url": "Amateur_Pre-Champ_Latin_(CSRPJ)_384214",
+            "name": "Amateur Pre-Champ Latin (CSRPJ)",
+            "results": [
+                {
+                    "coupleid": "269706",
+                    "couple": "Jim Ladouce & Charlotte Jolicoeur",
+                    "country": "USA",
+                    "change": "+5",
+                    "score": "1308",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "249296",
+                    "couple": "Alex Rothstein & Jennifer Lippens",
+                    "country": "USA",
+                    "change": "+15",
+                    "score": "1252",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "85076",
+                    "couple": "Andrew Prouty & Ilona Prouty",
+                    "country": "USA",
+                    "change": "-20",
+                    "score": "1259",
+                    "result": "3"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "27456",
+    "url": "Rensselaer_Polytechnic_Institute_Ballroom_Competition_27456",
+    "name": "Rensselaer Polytechnic Institute Ballroom Competition",
+    "rating": "61"
+}

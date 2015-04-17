@@ -1,0 +1,66 @@
+{
+    "events": [
+        {
+            "date": "26 Oct 2014",
+            "style": "Ballroom",
+            "url": "Open_Standard_(WTVFQ)_354054",
+            "name": "Open Standard (WTVFQ)",
+            "results": [
+                {
+                    "coupleid": "239563",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "country": "USA",
+                    "change": "+3",
+                    "score": "1371",
+                    "result": "1"
+                },
+                {
+                    "coupleid": "98149",
+                    "couple": "Alan Wong & Amy Friss",
+                    "country": "USA",
+                    "change": "-1",
+                    "score": "1331",
+                    "result": "2"
+                },
+                {
+                    "coupleid": "262157",
+                    "couple": "Anthony Kozloff & Shantel Mays",
+                    "country": "USA",
+                    "change": "+7",
+                    "score": "1278",
+                    "result": "3"
+                },
+                {
+                    "coupleid": "188734",
+                    "couple": "Scott Loescher & Masha Pindrus",
+                    "country": "USA",
+                    "change": "-9",
+                    "score": "1261",
+                    "result": "4"
+                }
+            ],
+            "age": "Amateur"
+        },
+        {
+            "date": "26 Oct 2014",
+            "style": "Latin",
+            "url": "Open_Latin_(SCRPJ)_354051",
+            "name": "Open Latin (SCRPJ)",
+            "results": [
+                {
+                    "coupleid": "239563",
+                    "couple": "Jonathan Liu & Annie Yao",
+                    "country": "USA",
+                    "change": "=",
+                    "score": "1202",
+                    "result": "1"
+                }
+            ],
+            "age": "Amateur"
+        }
+    ],
+    "compid": "25650",
+    "url": "UConn_Husky_Classic_2014_25650",
+    "name": "UConn Husky Classic 2014",
+    "rating": "53"
+}
