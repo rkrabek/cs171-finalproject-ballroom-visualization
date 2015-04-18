@@ -132,13 +132,14 @@
                 .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
                 .rollup(function(leaves) { return leaves[0].coupleid })
                 .entries(couples);
-debugger;
+
             var list = d3.select("#primaryCouple").append("select")
 
             list.selectAll("option")
                 .data(nested_data)
                 .enter()
                 .append("option")
+                .attr("class", function(d) {return d.key;})
                 .attr("value", function(d) {return d.key;})
                 .attr("id", function(d) {return d.key;})
                 .text(function(d) {
@@ -147,7 +148,14 @@ debugger;
 
             // Filter data by selected couple
             var lineData = []
-            d3.selectAll("form").on("change", function () {
+            
+            d3.select("#primaryCouple").on("change", change)
+            function change() {
+                console.log(this.options[this.selectedIndex].value)
+            }
+
+
+            /*d3.selectAll("form").on("change", function () {
                 var thisCouple = couples.filter(function(c) {
                     if (d3.select("#" + c.coupleid + "").property('selected') == true) {
                         return true;
@@ -157,7 +165,7 @@ debugger;
                 
                     // RETURN FILTERED DATA
                 })
-            })
+            }) */
 
             //--------------------------------------------//
             // -- FORMAT ARRAYS OF DATA FOR LINE GRAPH -- //
@@ -180,6 +188,10 @@ debugger;
             // -- INITIALIZE VISUALIZATION -- //
             //--------------------------------//
             var dateFormatter = d3.time.format("%Y-%m-%d");
+
+            console.log(dateFormatter.parse("07 03 2015"));
+            debugger;
+
 
             var vis1 = d3.select("#visualisation"),
                 WIDTH = 1000,
@@ -220,11 +232,11 @@ debugger;
                 })
                 .interpolate("basis");
 
-            vis1.append('svg:path')
+            /*vis1.append('svg:path')
               .attr('d', couple1(dataToGraph[0]))
               .attr('stroke', 'green')
               .attr('stroke-width', 2)
-              .attr('fill', 'none'); 
+              .attr('fill', 'none'); */
      });
 
 </script>
