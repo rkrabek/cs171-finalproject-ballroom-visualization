@@ -38,3 +38,51 @@ As stated above, this project aims to allow dancers to track their progress and 
 Our goal is to produce a visualization that is customizable and answer a variety of questions about dancers’ progress over time and relative to others. To accomplish this we intend to implement a series of coordinated displays pertaining both to the individual dancer and to overall trends in the ballroom world.  Through this project we hope to better our understanding of how to manipulate and present data with JavaScript and d3 and to create a useful product for ballroom dancers around the world. 
 
 ## Exploratory Data Analysis
+
+We are currently in the stage of exploratory Data Analysis. We originally experimented with the [C3](http://c3js.org/) charting library that is based on D3 but provides more streamlined, simplified code. Our [first prototype of visualization 1](https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/final_project_testing/project_test_c3.html) was generated in C3 for two couples at different competitions. This visualization allowed easy comparisons between the two couples or a focus on the main couple using the "show" and "hide" functionality from C3. Although it provided an easy means of charting the data, C3 did not prove versitile enough to implement the fully integrated designed view that we were aiming to produce so we began our [second prototype of visualziation 1] using the D3 library. 
+
+Our data is fully collectd and properly formatted. The reshaping process takes data broadly with the form:
+[
+	{
+		competition name:
+		competition id:
+		competition events: [
+			{
+				event style:
+				event date:
+				event results: [
+					{
+						result:
+						couple:
+						couple score:
+					},
+					...
+				]
+			},
+			...
+		]
+	},
+	...
+]
+
+and gives it the structure below.
+
+[
+	{
+		couple name:
+		couple id:
+		couple events: [
+			{
+				competition name:
+				competition id:
+				event style: 
+				couple score: 
+			},
+			...
+		]
+	},
+	...
+]
+
+We chose this structure because it allows us to index the data by couple and have events objects ready for each couple so that if that couple is chosen for visualization we have ready an object for each competitor with all of their scores and the date that they recieved the scores. When we began the visualization process we found that we had over 1500 unique couples from over 70 competitions.
+
