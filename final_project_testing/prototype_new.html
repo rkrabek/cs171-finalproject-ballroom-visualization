@@ -45,7 +45,7 @@
         // -- LOAD DATA -- //
         //-----------------//    
 
-        d3.json("data/project_MAC_Columbia_data.json", function(error, data) {
+        d3.json("data/combined.json", function(error, data) {
             var allData = []
             allData = data
             //---------------------------------------//
@@ -57,7 +57,7 @@
             allData.map(function(d,i) {
                 d.events.map(function(e,j) {
                     e.results.map(function(r,k) {
-                        allIDs.push(r["coupleid"]);
+                        allIDs.push(r["couple"]);
                     })
                 })
             });        
@@ -70,11 +70,7 @@
                     uniqueIDs.push(allIDs[i]);
                 }
             }
-<<<<<<< HEAD
 
-=======
-debugger;
->>>>>>> 2374443c6b1acc623f76ecea9d40791f96cfeb53
             //---------------------------------------------//
             // -- SET UP STRUCTURE FOR OBJECT OF COUPLES-- //
             //---------------------------------------------//
@@ -97,10 +93,6 @@ debugger;
                 couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
                 eventCount = 0;
             });
-<<<<<<< HEAD
-=======
-debugger;
->>>>>>> 2374443c6b1acc623f76ecea9d40791f96cfeb53
 
             //--------------------------------------------------------------------//
             // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
@@ -140,31 +132,33 @@ debugger;
                 .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
                 .rollup(function(leaves) { return leaves[0].coupleid })
                 .entries(couples);
-
+debugger;
             var list = d3.select("#primaryCouple").append("select")
 
             list.selectAll("option")
                 .data(nested_data)
                 .enter()
                 .append("option")
-                .attr("value", function(d) {return d.values;})
-                .attr("id", function(d) {return d.values;})
+                .attr("value", function(d) {return d.key;})
+                .attr("id", function(d) {return d.key;})
                 .text(function(d) {
-                return d.values; });
+                return d.key; });
             
+
             // Filter data by selected couple
             var lineData = []
-
-            /*d3.selectAll("form").on("change", function () {
+            d3.selectAll("form").on("change", function () {
                 var thisCouple = couples.filter(function(c) {
-                    if (d3.select("#"+ c.coupleid.toString()).property('selected') == true) {
+                    if (d3.select("#" + c.coupleid + "").property('selected') == true) {
                         return true;
                     } else {
                         return false;
                     };
+                
+                    // RETURN FILTERED DATA
                 })
-            })*/
-        
+            })
+
             //--------------------------------------------//
             // -- FORMAT ARRAYS OF DATA FOR LINE GRAPH -- //
             //--------------------------------------------//

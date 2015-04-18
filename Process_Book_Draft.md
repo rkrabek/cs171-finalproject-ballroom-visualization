@@ -1,6 +1,16 @@
 # CS 171 Project Process Book Draft
 #### Robert Krabek and Leila Hofer   April 17, 2015
 
+## Table of Contents
+1. Overview and Motivation
+2. Related Work
+3. Driving Questions
+4. Exploratory Data Analysis
+5. Implementation
+	- C3 Visualization 1 Prototype
+	- D3 Visualization 1 Prototype
+6. Evaluation
+
 ## Overview and Motivation
 
 There are tens of thousands of ballroom dancers around the world who compete regularly in events where they are judged by a panel of professionals against their competitors and given placements accordingly. The need to track ones progress is paramount for dancers aiming to assess the effectiveness of their training regimes or simply to see how they measure up against their peers. The current web-based infrastructure that presents information on dancers’ results does not aggregate or display data in a way that makes comparisons over time or between couples easy and intuitive. This project therefore aims to meet the need for an intuitive, user-friendly way for dancers to see where they stand in the world of competitive ballroom.
@@ -26,7 +36,7 @@ Source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-brea
 Obviously there would have to be two highlighted lines per snapshot in our visualization as they are meant to compare the user to another couple specifically.
 
 
-## Questions
+## Driving Questions
 
 #####Summary
 - How has my ranking as a couple changed throughout my dancing career?
@@ -39,9 +49,10 @@ Our goal is to produce a visualization that is customizable and answer a variety
 
 ## Exploratory Data Analysis
 
-We are currently in the stage of exploratory Data Analysis. We originally experimented with the [C3](http://c3js.org/) charting library that is based on D3 but provides more streamlined, simplified code. Our [first prototype of visualization 1](https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/final_project_testing/project_test_c3.html) was generated in C3 for two couples at different competitions. This visualization allowed easy comparisons between the two couples or a focus on the main couple using the "show" and "hide" functionality from C3. Although it provided an easy means of charting the data, C3 did not prove versitile enough to implement the fully integrated designed view that we were aiming to produce so we began our [second prototype of visualziation 1] using the D3 library. 
+We are currently in the stage of exploratory Data Analysis. We originally experimented with the [C3](http://c3js.org/) charting library that is based on D3 but provides more streamlined, simplified code. Our [first prototype of visualization 1](https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/final_project_testing/project_test_c3.html) was generated in C3 for two couples at different competitions. Although it provided an easy means of charting the data, C3 did not prove versitile enough to implement the fully integrated designed view that we were aiming to produce so we began our [second prototype of visualziation 1] using the D3 library. 
 
 Our data is fully collectd and properly formatted. The reshaping process takes data broadly with the form:
+
 [
 	{
 		competition name:
@@ -85,4 +96,29 @@ and gives it the structure below.
 ]
 
 We chose this structure because it allows us to index the data by couple and have events objects ready for each couple so that if that couple is chosen for visualization we have ready an object for each competitor with all of their scores and the date that they recieved the scores. When we began the visualization process we found that we had over 1500 unique couples from over 70 competitions.
+
+## Design Evolution
+
+In progress, little evolution as of yet.
+
+## Implementation
+
+###### C3 Visualization 1 Implementation Prototype
+
+- Provides comparisons of couples
+- "Show" and "hide" functionality from C3 allows the focus to change from an individual couple's progress over time to a comparison of one couples progress to other couple's progress. Buttons are used to trigger this.
+- Mouseover of points on line chart provide a tooltip showing the exact scores of each couple at each point
+- This visualization has only been implemented using a tiny subset of mock-data for two couples but has not been integrated with our actual dataset
+
+###### D3 Visualization 1 Implementation Prototype
+
+- Prototpye in progress
+- Data is properly reshaped and this visualization uses all the data we hoped it would
+- Dropdown menue is currently populated with an alphabetical list of all couples
+- Filtering by selection is currently in the proccess of being implemented
+- Show and hide functionality is currenlty in the process of being implemented
+
+###### Evaluation
+Currently needs a lot of work both on fucntionality and styling. The data turned out to be MUCH messier than we expected so we are currently about half a week behind our desired schedule. Now that the data is set however we are on track to catch up and meet our goals. 
+
 
