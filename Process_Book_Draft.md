@@ -104,7 +104,7 @@ In progress, little evolution as of yet.
 ## Implementation
 
 ###### C3 Visualization 1 Implementation Prototype
-
+![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/C3_Visualization1_Prototype.png)
 - Provides comparisons of couples
 - "Show" and "hide" functionality from C3 allows the focus to change from an individual couple's progress over time to a comparison of one couples progress to other couple's progress. Buttons are used to trigger this.
 - Mouseover of points on line chart provide a tooltip showing the exact scores of each couple at each point

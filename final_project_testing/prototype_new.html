@@ -84,7 +84,7 @@
                 allData.forEach(function(d) {
                     d.events.forEach(function(e) {
                         e.results.forEach(function(r) {
-                            if (r.coupleid == c) {
+                            if (r.couple == c) {
                                 eventCount ++;
                             }
                         })
@@ -107,7 +107,7 @@
                             couples[i]["coupleid"] = c;
                             couples[i]["names"] = r["couple"];
                             couples[i]["counry"] = r["country"];
-                            if (r.coupleid == c) {
+                            if (r.couple == c) {
                                 couples[i].events[eventCount]["score"] = r["score"];
                                 couples[i].events[eventCount]["change"] = r["change"];
                                 couples[i].events[eventCount]["date"] = e["date"];
