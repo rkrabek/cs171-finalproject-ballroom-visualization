@@ -103,6 +103,19 @@ In progress, little evolution as of yet.
 
 ## Implementation
 
+###### A note about the files
+1. The C3 Visualization 1 Implementation prototype is contained in the folder data_and_implementation/c3_vis1_prototype.html
+2. The D3 Visualization 1 implementation prototype code is contained in two files in the data_and_implementation folder:
+	- index.html is where the data is restructured and the event handlers are set up
+	- scorevis.js is in the js folder and is where the visualization specific code is found
+3. The data folder contains three files
+	- combine.json which is the full dataset we are using that is merged from the 70 competition json files
+	- project_data_original_structure.json is a sample of the original structure
+	- project_data_structure_sample.json is a sample of the desired structure
+
+other files are largerly extraneous.
+
+
 ###### C3 Visualization 1 Implementation Prototype
 - Provides comparisons of couples
 - "Show" and "hide" functionality from C3 allows the focus to change from an individual couple's progress over time to a comparison of one couples progress to other couple's progress. Buttons are used to trigger this.
