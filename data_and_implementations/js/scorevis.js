@@ -27,7 +27,7 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
 
 
     // TODO: define all "constants" here
-    this.margin = {top: 20, right: 0, bottom: 60, left: 50},
+    this.margin = {top: 20, right: 2000, bottom: 6000, left: 50},
     this.width = 850,
     this.height = 330;
 
@@ -57,6 +57,12 @@ ScoreVis.prototype.initVis = function(){
       .range([0, this.width]);
 
     this.y = d3.scale.linear()
+      .range([this.height, 0]);
+
+    this.xScale = d3.time.scale()
+      .range([0, this.width]);
+
+    this.yScale = d3.scale.linear()
       .range([this.height, 0]);
 
     this.xAxis = d3.svg.axis()
@@ -129,10 +135,13 @@ ScoreVis.prototype.wrangleData= function(){
  * @param _options -- only needed if different kinds of updates are needed
  */
 ScoreVis.prototype.updateVis = function(){
-
+    that = this;
     // updates scales
     this.x.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
     this.y.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
+
+    this.xScale.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
+    this.yScale.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
 
     // updates axis
     this.svg.select(".x.axis")
@@ -158,19 +167,15 @@ ScoreVis.prototype.updateVis = function(){
 */
             var couple1 = d3.svg.line()
                 .x(function(d) {
-                    d.events.map(function (e) {
-                        return e.date
-                    })
+                    return that.xScale(d.date);
                 })
                 .y(function(d) {
-                    d.events.map(function (e) {
-                        return e.score
-                    })
+                    return that.xScale(d.date);
                 })
                 .interpolate("basis");
-debugger;
-            this.svg.append('path')
-              .attr('d', couple1(displayData[3]))
+
+            this.svg.append('svg:path')
+              .attr('d', couple1(this.displayData[3].events))
               .attr('stroke', 'green')
               .attr('stroke-width', 2)
               .attr('fill', 'none'); 
