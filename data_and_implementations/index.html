@@ -85,9 +85,26 @@
                     *   prios: [..,..,..,...] (array of number of votes per priority -> array length =16)
                     *   ages: [..,..,..,..] (array counts of votes per age 0-99)
                     *
-                    * */
-                    var allData = _allData;
+                    * */ 
+                    var allData = _allData
+                    allData.map(function (d){
+                        d.events.map(function (e){
+                            e.date = dateFormatter.parse(e["date"]);
+                        });
+                    });
+                    allData = _allData.sort(function (a, b) {
+                        if (a.events[0].date < b.events[0].date) {
+                            return -1;
+                        } else if (a.events[0].date > b.events[0].date) {
+                            return 1;
+                        } else if (a.events[0].date == b.events[0].date) {
+                            return 0;
+                        }     
+                    });
+
                     var allIDs = [];
+
+
                     allData.map(function(d,i) {
                         d.events.map(function(e,j) {
                             e.results.map(function(r,k) {
@@ -139,7 +156,7 @@
                                     if (r.couple == c) {
                                         couples[i].events[eventCount]["score"] = r["score"];
                                         couples[i].events[eventCount]["change"] = r["change"];
-                                        couples[i].events[eventCount]["date"] = dateFormatter.parse(e["date"]);
+                                        couples[i].events[eventCount]["date"] = (e["date"]);
                                         couples[i].events[eventCount]["style"] = e["style"];
                                         couples[i].events[eventCount]["compid"] = d["compid"];
                                         couples[i].events[eventCount]["compname"] = d["name"];                        

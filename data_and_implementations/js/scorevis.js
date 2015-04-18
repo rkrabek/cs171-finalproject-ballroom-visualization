@@ -170,7 +170,7 @@ ScoreVis.prototype.updateVis = function(){
                     return that.xScale(d.date);
                 })
                 .y(function(d) {
-                    return that.xScale(d.date);
+                    return that.yScale(d.score);
                 })
                 .interpolate("basis");
 
