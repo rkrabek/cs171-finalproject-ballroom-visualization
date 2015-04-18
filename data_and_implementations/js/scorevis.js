@@ -133,7 +133,7 @@ ScoreVis.prototype.updateVis = function(){
     // updates scales
     this.x.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
     this.y.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
-console.log(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
+
     // updates axis
     this.svg.select(".x.axis")
         .call(this.xAxis);
@@ -141,7 +141,7 @@ console.log(d3.extent(this.displayData[3].events, function(d) { return d.date; }
     this.svg.select(".y.axis")
         .call(this.yAxis)
 
-    // updates graph
+    /* updates graph
     var path = this.svg.selectAll(".area")
       .data([this.displayData])
 
@@ -155,7 +155,25 @@ console.log(d3.extent(this.displayData[3].events, function(d) { return d.date; }
 
     path.exit()
       .remove();
-
+*/
+            var couple1 = d3.svg.line()
+                .x(function(d) {
+                    d.events.map(function (e) {
+                        return e.date
+                    })
+                })
+                .y(function(d) {
+                    d.events.map(function (e) {
+                        return e.score
+                    })
+                })
+                .interpolate("basis");
+debugger;
+            this.svg.append('path')
+              .attr('d', couple1(displayData[3]))
+              .attr('stroke', 'green')
+              .attr('stroke-width', 2)
+              .attr('fill', 'none'); 
 
 
     // TODO: implement update graphs (D3: update, enter, exit)
