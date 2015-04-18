@@ -52,7 +52,6 @@ Source: Section 6/final
 Colors will be chosen more sparingly than in this design in order to better highlight the user’s country relative to the others, however the general layout will be similar. The user will be able to track the change in their country’s competitiveness over time by brushing over dates in Visualization 1, which will trigger a corresponding change in Visualization 2.
 
 Additionally, snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
-Visualization 3 Inspiration
 
 #####Visualization 4 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
