@@ -20,7 +20,7 @@ There are tens of thousands of ballroom dancers around the world who compete reg
 This project was heavily inspired by the article that came out in the New York Times highlighting Peyton Manning's record breaking touchdown career. Both the content (showing progress over time) and the style of the visualziation (simple line charts with color highlights) seemed appropriate and desirable for our project as we are also aiming to track progress over time and highlihgt individuals.
 
 The following is the inspiration for the major visualization of our data.
-#####Visualization 1 Inspiration 
+####Visualization 1 Inspiration 
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
 See Images/Visualization1_Inspiration if image does not appear
 source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1
@@ -29,7 +29,7 @@ Instead of touchdowns, our visualization will be tracking world rankings in ball
 
 Additionally, this article gave us the inspiration for snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
 
-#####Visualization 4 Inspiration
+####Visualization 4 Inspiration
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
 Source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1)
 
@@ -38,7 +38,7 @@ Obviously there would have to be two highlighted lines per snapshot in our visua
 
 ## Driving Questions
 
-#####Summary
+####Summary
 - How has my ranking as a couple changed throughout my dancing career?
 - How has my ranking changed compared to other couples I know?
 - How have specific competitions affected my ranking as a dancer?
@@ -103,7 +103,7 @@ In progress, little evolution as of yet.
 
 ## Implementation
 
-###### A note about the files
+#### A note about the files
 1. The C3 Visualization 1 Implementation prototype is contained in the folder data_and_implementation/c3_vis1_prototype.html
 2. The D3 Visualization 1 implementation prototype code is contained in two files in the data_and_implementation folder:
 	- index.html is where the data is restructured and the event handlers are set up
@@ -116,7 +116,7 @@ In progress, little evolution as of yet.
 other files are largerly extraneous.
 
 
-###### C3 Visualization 1 Implementation Prototype
+#### C3 Visualization 1 Implementation Prototype
 - Provides comparisons of couples
 - "Show" and "hide" functionality from C3 allows the focus to change from an individual couple's progress over time to a comparison of one couples progress to other couple's progress. Buttons are used to trigger this.
 - Mouseover of points on line chart provide a tooltip showing the exact scores of each couple at each point
@@ -124,7 +124,7 @@ other files are largerly extraneous.
 - Screenshot image of this visualization provided below
 ![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/C3_Visualization1_Prototype.png)
 
-###### D3 Visualization 1 Implementation Prototype
+#### D3 Visualization 1 Implementation Prototype
 
 - Prototpye in progress
 - Data is properly reshaped and this visualization uses all the data we hoped it would
