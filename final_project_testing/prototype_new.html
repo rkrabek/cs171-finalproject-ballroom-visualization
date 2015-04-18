@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Visualization 1 Prototype</title>
+
+    <!-- ADD Libraries-->
+    <script src="libs/d3/d3.min.js" charset="utf-8"></script>
+    <script src="libs/jquery/jquery-2.1.1.min.js" charset="utf-8"></script>
+    <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <!-- Load c3.js -->
+    <script src="libs/c3/c3-0.4.10/c3.min.js"></script>
+
+    <!--Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap.min.css"> 
+    <!-- Load c3.css -->
+    <link href="libs/c3/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
+   
+    <!-- Get some nice font-->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- add own vis classes-->
+    <!--<script src = "js/priovis.js"></script>-->
+    <!--<script src = "js/agevis.js"></script>-->
+    <!--<script src = "js/countvis.js"></script>-->
+
+    <!-- add own stylesheet-->
+    <!--<link rel="stylesheet" type="text/css" href="css/myStyle.css">-->
+
+</head>
+<body>
+    <div class="container">
+        <h1>Visualization 1 Prototype</h1>
+    </div> 
+    Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
+    <div><svg id="visualisation" width="1000" height="500"></svg></div>
+    <div> 
+        <button class="small" onclick="hide();">Hide</button>
+        <button class="small" onclick="show();">Show</button>
+    </div>
+</body> 
+    <script>
+        //-----------------//
+        // -- LOAD DATA -- //
+        //-----------------//    
+
+        d3.json("data/project_MAC_Columbia_data.json", function(error, data) {
+            var allData = []
+            allData = data
+            //---------------------------------------//
+            // -- GENERATE LIST OF UNIQUE COUPLES -- //
+            //---------------------------------------//
+
+            // Map through all data to pull out ID's of all couples competing in each event (duplicates present) 
+            var allIDs = [];
+            allData.map(function(d,i) {
+                d.events.map(function(e,j) {
+                    e.results.map(function(r,k) {
+                        allIDs.push(r["coupleid"]);
+                    })
+                })
+            });        
+            allIDs.sort()
+
+            // Keep only unique couple ID's
+            uniqueIDs = [];
+            for (var i = 0; i < allIDs.length; i++) {
+                if (allIDs[i + 1] != allIDs[i]) {
+                    uniqueIDs.push(allIDs[i]);
+                }
+            }
+debugger;
+            //---------------------------------------------//
+            // -- SET UP STRUCTURE FOR OBJECT OF COUPLES-- //
+            //---------------------------------------------//
+
+            // Generate array of objects to hold information and results for each unique couple
+            var couples = d3.range(0,uniqueIDs.length).map(function(){ return { }; })
+            
+            // Generate "events" array for each couple to hold the number of events that couple competed in
+            var eventCount = 0    
+            uniqueIDs.forEach(function(c, i) {
+                allData.forEach(function(d) {
+                    d.events.forEach(function(e) {
+                        e.results.forEach(function(r) {
+                            if (r.coupleid == c) {
+                                eventCount ++;
+                            }
+                        })
+                    })
+                })
+                couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
+                eventCount = 0;
+            });
+debugger;
+
+            //--------------------------------------------------------------------//
+            // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
+            //--------------------------------------------------------------------//
+      
+            // For each unique id map through all data and populate arrays
+            uniqueIDs.map(function(c, i) {
+                eventCount = 0
+                allData.map(function(d) {
+                    d.events.map(function(e) {
+                        e.results.map(function(r) {
+                            couples[i]["coupleid"] = c;
+                            couples[i]["names"] = r["couple"];
+                            couples[i]["counry"] = r["country"];
+                            if (r.coupleid == c) {
+                                couples[i].events[eventCount]["score"] = r["score"];
+                                couples[i].events[eventCount]["change"] = r["change"];
+                                couples[i].events[eventCount]["date"] = e["date"];
+                                couples[i].events[eventCount]["style"] = e["style"];
+                                couples[i].events[eventCount]["compid"] = d["compid"];
+                                couples[i].events[eventCount]["compname"] = d["name"];                        
+                                eventCount++;
+                            }
+                        })
+                    })
+                })
+            })
+            //console.log(couples)
+
+
+            //-----------------------//
+            // -- FILTER BY COUPLE-- //
+            //-----------------------//
+            
+            // Populate dropbdown menue with unique couple ID's
+            var nested_data = d3.nest()
+                .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
+                .rollup(function(leaves) { return leaves[0].coupleid })
+                .entries(couples);
+
+            var list = d3.select("#primaryCouple").append("select")
+
+            list.selectAll("option")
+                .data(nested_data)
+                .enter()
+                .append("option")
+                .attr("value", function(d) {return d.values;})
+                .attr("id", function(d) {return d.values;})
+                .text(function(d) {
+                return d.values; });
+            
+            // Filter data by selected couple
+            var lineData = []
+
+            /*d3.selectAll("form").on("change", function () {
+                var thisCouple = couples.filter(function(c) {
+                    if (d3.select("#"+ c.coupleid.toString()).property('selected') == true) {
+                        return true;
+                    } else {
+                        return false;
+                    };
+                })
+            })*/
+        
+            //--------------------------------------------//
+            // -- FORMAT ARRAYS OF DATA FOR LINE GRAPH -- //
+            //--------------------------------------------//
+            var dataToGraph = d3.range(0,couples.length).map(function(){ return { }; })
+
+            eventCount = 0    
+            couples.map(function(d, i) {
+                eventCount = d.events.length;
+                dataToGraph[i] = d3.range(0,eventCount).map(function(){ return { }; })
+                eventCount = 0;
+            });
+
+            couples.map(function(d, i) {
+                d.events.map(function(e, j) {
+                    dataToGraph[i][j] = e                                
+                })
+            })
+            //--------------------------------//
+            // -- INITIALIZE VISUALIZATION -- //
+            //--------------------------------//
+            var dateFormatter = d3.time.format("%Y-%m-%d");
+
+            var vis1 = d3.select("#visualisation"),
+                WIDTH = 1000,
+                HEIGHT = 500,
+                MARGINS = { top: 20, right: 20, bottom: 20, left: 50 },
+
+                xScale = d3.time.scale()
+                    .range([MARGINS.left, WIDTH - MARGINS.right])
+                    .domain(d3.extent(dataToGraph.map(function(d) { d.map(function(e) { return dateFormatter.parse(e.date); }) }))),
+
+                yScale = d3.scale.linear()
+                    .range([HEIGHT - MARGINS.top, MARGINS.bottom])
+                    .domain([1000, 2000]),
+                
+                xAxis = d3.svg.axis()
+                    .scale(xScale),
+
+                yAxis = d3.svg.axis()
+                    .scale(yScale)
+                    .orient("left");
+            
+            vis1.append("svg:g")
+                .attr("class", "x axis")
+                .attr("transform", "translate(0," + (HEIGHT - MARGINS.bottom) + ")")
+                .call(xAxis);      
+
+            vis1.append("svg:g")
+                .attr("class", "y axis")
+                .attr("transform", "translate(" + (MARGINS.left) + ",0)")
+                .call(yAxis); 
+
+            var couple1 = d3.svg.line()
+                .x(function(d) {
+                    return xScale(dateFormatter.parse(d.date))
+                })
+                .y(function(d) {
+                    return yScale(d.score);
+                })
+                .interpolate("basis");
+
+            vis1.append('svg:path')
+              .attr('d', couple1(dataToGraph[0]))
+              .attr('stroke', 'green')
+              .attr('stroke-width', 2)
+              .attr('fill', 'none'); 
+     });
+
+</script>
+
+
+
+
+
+
+
