@@ -27,8 +27,8 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
 
 
     // TODO: define all "constants" here
-    this.margin = {top: 20, right: 0, bottom: 30, left: 50},
-    this.width = 650,
+    this.margin = {top: 20, right: 0, bottom: 60, left: 50},
+    this.width = 850,
     this.height = 330;
 
     this.initVis();
@@ -67,20 +67,20 @@ ScoreVis.prototype.initVis = function(){
       .scale(this.y)
       .orient("left");
 
-    this.area = d3.svg.area()
+    /*this.area = d3.svg.area()
       .interpolate("monotone")
       .x(function(d) { return that.x(d.time); })
       .y0(this.height)
       .y1(function(d) { return that.y(d.count); });
-    
+    */
     // -  implement brushing !!
-    this.brush = d3.svg.brush()
+ /*   this.brush = d3.svg.brush()
       .on("brush", function(){
         var selectedDates = that.brush.extent();
         // Trigger selectionChanged event. You'd need to account for filtering by time AND type
         $(that.eventHandler).trigger("selectionChanged", selectedDates);
       });
-
+*/
     // --- ONLY FOR BONUS ---  implement zooming
 
 
@@ -99,13 +99,7 @@ ScoreVis.prototype.initVis = function(){
         .attr("y", 6)
         .attr("dy", ".71em")
         .style("text-anchor", "end")
-        .text("Counts");
-
-    this.svg.append("g")
-      .attr("class", "brush");
-
-    //TODO: implement the slider -- see example at http://bl.ocks.org/mbostock/6452972
-    this.addSlider(this.svg)
+        .text("Score");
 
 
     // filter, aggregate, modify data
@@ -120,7 +114,7 @@ ScoreVis.prototype.initVis = function(){
 /**
  * Method to wrangle the data. In this case it takes an options object
   */
-CountVis.prototype.wrangleData= function(){
+ScoreVis.prototype.wrangleData= function(){
 
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
@@ -134,12 +128,12 @@ CountVis.prototype.wrangleData= function(){
  * the drawing function - should use the D3 selection, enter, exit
  * @param _options -- only needed if different kinds of updates are needed
  */
-CountVis.prototype.updateVis = function(){
+ScoreVis.prototype.updateVis = function(){
 
     // updates scales
-    this.x.domain(d3.extent(this.displayData, function(d) { return d.time; }));
-    this.y.domain(d3.extent(this.displayData, function(d) { return d.count; }));
-
+    this.x.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
+    this.y.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
+console.log(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
     // updates axis
     this.svg.select(".x.axis")
         .call(this.xAxis);
@@ -162,11 +156,7 @@ CountVis.prototype.updateVis = function(){
     path.exit()
       .remove();
 
-    this.brush.x(this.x);
-    this.svg.select(".brush")
-        .call(this.brush)
-      .selectAll("rect")
-        .attr("height", this.height);
+
 
     // TODO: implement update graphs (D3: update, enter, exit)
  
@@ -191,7 +181,7 @@ CountVis.prototype.updateVis = function(){
  * be defined here.
  * @param selection
  */
-CountVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
+ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
 
     // TODO: call wrangle function
     this.updateVis
@@ -221,7 +211,7 @@ var getInnerWidth = function(element) {
  * creates the y axis slider
  * @param svg -- the svg element
  */
-CountVis.prototype.addSlider = function(svg){
+ScoreVis.prototype.addSlider = function(svg){
     var that = this;
 
     // TODO: Think of what is domain and what is range for the y axis slider !!

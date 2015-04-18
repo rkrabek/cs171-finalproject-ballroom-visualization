@@ -27,10 +27,12 @@
         <h1>Visualization 1 Prototype</h1>
     </div> 
     Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
-    <div><svg id="visualisation" width="1000" height="500"></svg></div>
     <div> 
         <button class="small" onclick="hide();">Hide</button>
         <button class="small" onclick="show();">Show</button>
+    </div>
+    <div class="row">
+            <div class="col-md-9" id="scoreVis"></div>
     </div>
 </body>
     <script>
@@ -48,19 +50,18 @@
             // this function can convert Date objects to a string
             // it can also convert strings to Date objects
             // see: https://github.com/mbostock/d3/wiki/Time-Formatting
-            var dateFormatter = d3.time.format("%Y-%m-%d");
+            var dateFormatter = d3.time.format("%d %b %Y");
 
 
             // call this function after Data is loaded, reformatted and bound to the variables
             var initVis = function(){
-
                 //TODO: Create an eventHandler  --> DONE :)
                 var MyEventHandler = new Object();
 
 
                 //TODO: 
                 //Instantiate all Vis Objects here
-                var score_vis = new ScoreVis(d3.select("#scoreVis"), allData, MyEventHandler);
+                var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
 
                 // TODO: bind the eventHandler to the Vis Objects
                 /*$(MyEventHandler).bind("selectionChanged", function(event, type){
@@ -85,65 +86,71 @@
                     *   ages: [..,..,..,..] (array counts of votes per age 0-99)
                     *
                     * */
-                    
-                     
-                    allData = _allData.map(function (d) {
+                    var allData = _allData;
+                    var allIDs = [];
+                    allData.map(function(d,i) {
+                        d.events.map(function(e,j) {
+                            e.results.map(function(r,k) {
+                                allIDs.push(r["couple"]);
+                            })
+                        })
+                    });
+                    allIDs.sort();
+                    //filters out duplicate ID's
+                    uniqueIDs = [];
+                    for (var i = 0; i < allIDs.length; i++) {
+                        if (allIDs[i + 1] != allIDs[i]) {
+                            uniqueIDs.push(allIDs[i]);
+                        }
+                    } 
 
-                                var res = {
-                                    time: dateFormatter.parse(d.day),
-                                    count: parseInt(d["count(*)"])
-                                };
+                    var couples = d3.range(0,uniqueIDs.length).map(function(){ return { }; })
+                    // Generate "events" array for each couple to hold the number of events that couple competed in
+                    var eventCount = 0 
+                      
+                    uniqueIDs.forEach(function(c, i) {
+                        allData.forEach(function(d) {
+                            d.events.forEach(function(e) {
+                                e.results.forEach(function(r) {
+                                    if (r.couple == c) {
+                                        eventCount ++;
+                                    }
+                                })
+                            })
+                        })
+                        couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
+                       
+                        eventCount = 0;
+                    });
 
-                                // TODO: implement that  !!
-                                
-                                /*for (var i = 0; i < 16; i++){
-                                    res.priorities.push("" + _metaData.choices[i] + "": d["sum(p" + i + ")"]);
-                                }*/
-                           
-
-                                res.prios = [];
-                                for (var i = 0; i < 16; i++){
-                                    res.prios.push(d["sum(p" + i + ")"]);
-                                }
-                                
-                                
-                                
-                                // should be an array of 16 numbers with the total count MAPping the prio values,
-                                //  [d["sum(p0)"], d["sum(p1)"], d["sum(p2)"],...]
-                                // Example:
-                                // [10,200,500,... ]
-
-
-                                // This is ONE way to create an array of length 100
-                                // and set every value to "0")
-
-                                res.ages = d3.range(0, 100).map(function () {
-                                    return 0;
-                                });
-/*
-                                res.ages = ageIndex.forEach(function (f) {
-                                    if(f = d.age.map = )
-                                }*/
-                                d.age.map(function (f){
-                                    res.ages[f.age] = parseInt(f["count(*)"]);
-                                });
-
-
-
-                                // TODO: Assign the count for each age to the index position
-                                // eg: res.ages[22] should contain the count value for age 22
-                                // BE AWARE THAT THE DATA MIGHT CONTAIN ages >99 which you have to handle especially
-                                // final result:
-                                // [0,0,0,..,1034,23,...] -- array length is 100
-
-                                return res;
-                            }
-                    )
-                    allData.type = [];
-                    for (var i = 100; i < 116; i++){
-                        allData.type.push(_metaData.choices[i]);
-                    };
-                    metaData = _metaData;
+                    //--------------------------------------------------------------------//
+                    // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
+                    //--------------------------------------------------------------------//
+              
+                    // For each unique id map through all data and populate arrays
+                    uniqueIDs.map(function(c, i) {
+                        eventCount = 0
+                        allData.map(function(d) {
+                            d.events.map(function(e) {
+                                e.results.map(function(r) {
+                                    couples[i]["coupleid"] = c;
+                                    couples[i]["names"] = r["couple"];
+                                    couples[i]["country"] = r["country"];
+                                    if (r.couple == c) {
+                                        couples[i].events[eventCount]["score"] = r["score"];
+                                        couples[i].events[eventCount]["change"] = r["change"];
+                                        couples[i].events[eventCount]["date"] = dateFormatter.parse(e["date"]);
+                                        couples[i].events[eventCount]["style"] = e["style"];
+                                        couples[i].events[eventCount]["compid"] = d["compid"];
+                                        couples[i].events[eventCount]["compname"] = d["name"];                        
+                                        eventCount++;
+                                    }
+                                })
+                            })
+                        })
+                    })
+                    debugger;
+                    couplesData = couples;
                     initVis();
                 }
             }
@@ -153,16 +160,8 @@
                 //TODO: load data here and call "dataLoaded" afterwards
                 // Hint: http://giscollective.org/d3-queue-js/
                 queue()
-                    .defer(d3.json, "data/perDayData.json")
-                    .defer(d3.json, "data/MyWorld_fields.json")
+                    .defer(d3.json, "data/combined.json")
                     .await(dataLoaded);
-
-                // bind reset zoom button to a function (-- ONLY FOR BONUS --)
-                d3.select("#fitInBtn").on("click", function() {
-                    // TODO: -- ONLY FOR BONUS --
-                });
-
-
             }
 
             startHere();
