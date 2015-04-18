@@ -6,16 +6,13 @@ from pprint import pprint
 
 result = []
 
-
-
-
 #pprint(data)
 for file in os.listdir("../dancesportinfo_results"):
 	if file.endswith(".json"):
 		with open(file) as data_file:
 			result.append(json.load(data_file))
 
-with open('combined.json', 'w') as outfile:
+with open('combined2.json', 'w') as outfile:
 	json.dump(result, outfile)
 #var allComps = {};
 
