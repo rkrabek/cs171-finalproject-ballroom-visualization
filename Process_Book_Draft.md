@@ -118,7 +118,7 @@ In progress, little evolution as of yet.
 - Filtering by selection is currently in the proccess of being implemented
 - Show and hide functionality is currenlty in the process of being implemented
 
-###### Evaluation
+## Evaluation
 Currently needs a lot of work both on fucntionality and styling. The data turned out to be MUCH messier than we expected so we are currently about half a week behind our desired schedule. Now that the data is set however we are on track to catch up and meet our goals. 
 
 
