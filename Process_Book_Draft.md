@@ -21,7 +21,7 @@ This project was heavily inspired by the article that came out in the New York T
 
 The following is the inspiration for the major visualization of our data.
 ####Visualization 1 Inspiration 
-![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
+![alt text](https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization1_Inspiration.png)
 See Images/Visualization1_Inspiration if image does not appear
 source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1
 
@@ -30,7 +30,7 @@ Instead of touchdowns, our visualization will be tracking world rankings in ball
 Additionally, this article gave us the inspiration for snapshots comparing the users to other specific dancers could be a feature available to the user, again similar in design to snapshot visualizations relating to touchdown passes shown below.
 
 ####Visualization 4 Inspiration
-![alt text] (https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
+![alt text](https://github.com/rkrabek/cs171-finalproject-ballroom-visualization/blob/master/Images/Visualization4_Inspiration.png)
 Source: http://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html?_r=0&abt=0002&abg=1)
 
 Obviously there would have to be two highlighted lines per snapshot in our visualization as they are meant to compare the user to another couple specifically.
