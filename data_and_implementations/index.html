@@ -136,13 +136,14 @@
                             })
                         })
                         couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
+                       
                         eventCount = 0;
                     });
 
                     //--------------------------------------------------------------------//
                     // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
                     //--------------------------------------------------------------------//
-
+              
                     // For each unique id map through all data and populate arrays
                     uniqueIDs.map(function(c, i) {
                         eventCount = 0
@@ -165,39 +166,7 @@
                             })
                         })
                     })
-
-                    // Populate dropbdown menue with unique couple ID's
-                    var nested_data = d3.nest()
-                        .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
-                        .rollup(function(leaves) { return leaves[0].coupleid })
-                        .entries(couples);
-
-                    var list = d3.select("#primaryCouple").append("select").on("change", change)
-
-                    list.selectAll("option")
-                        .data(nested_data)
-                        .enter()
-                        .append("option")
-                        .attr("class", function(d) {return d.key;})
-                        .attr("value", function(d) {return d.key;})
-                        .attr("id", function(d) {return d.key;})
-                        .text(function(d) {
-                        return d.key; })
-                        .on("change", change);
-
-                    var selectedIndex = 0;
-
-                    function change() { 
-                            selectedIndex = list.property('selectedIndex');
-                            console.log(selectedIndex)
-                    }
-
-                    // Filter by couple
-                    couplesData = couples[3];
-                    debugger;
-                    console.log(couples)
-                    //console.log(couplesData)
-
+                    couplesData = couples;
                     initVis();
                 }
             }
@@ -213,17 +182,6 @@
 
             startHere();
         })
-
-        //--------------------------------//
-        //------------- HELP! ------------//
-        //--------------------------------//
-
-        /*var change = function(){
-            selectedIndex = list.property('selectedIndex');
-            console.log(selectedIndex)
-            couplesData = couples[selectedIndex];
-            initVis();couplesData
-        }*/
     </script>
 </body>
 </html>

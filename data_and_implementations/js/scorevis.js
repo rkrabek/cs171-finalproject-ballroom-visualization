@@ -2,7 +2,6 @@
  * Created by Hendrik Strobelt (hendrik.strobelt.com) on 1/28/15.
  */
 
-//Leila's additions: added color scale l.63
 
 /*
  *
@@ -59,8 +58,6 @@ ScoreVis.prototype.initVis = function(){
 
     this.y = d3.scale.linear()
       .range([this.height, 0]);
-
-    this.color = d3.scale.category10();
 
     this.xScale = d3.time.scale()
       .range([0, this.width]);
@@ -140,11 +137,11 @@ ScoreVis.prototype.wrangleData= function(){
 ScoreVis.prototype.updateVis = function(){
     that = this;
     // updates scales
-    this.x.domain(d3.extent(this.displayData.events, function(d) { return d.date; }));
-    this.y.domain(d3.extent(this.displayData.events, function(d) { return d.score; }));
+    this.x.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
+    this.y.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
 
-    this.xScale.domain(d3.extent(this.displayData.events, function(d) { return d.date; }));
-    this.yScale.domain(d3.extent(this.displayData.events, function(d) { return d.score; }));
+    this.xScale.domain(d3.extent(this.displayData[3].events, function(d) { return d.date; }));
+    this.yScale.domain(d3.extent(this.displayData[3].events, function(d) { return d.score; }));
 
     // updates axis
     this.svg.select(".x.axis")
@@ -168,40 +165,20 @@ ScoreVis.prototype.updateVis = function(){
     path.exit()
       .remove();
 */
-    var line = d3.svg.line()
-        .interpolate("basis")
-        .x(function(d) { debugger; return that.xScale(d.date); })
-        .y(function(d) { return that.yScale(d.score); });
-
-
-  var city = svg.selectAll(".city")
-      .data(cities)
-    .enter().append("g")
-      .attr("class", "city");
-
-  city.append("path")
-      .attr("class", "line")
-      .attr("d", function(d) { return line(d.values); })
-      .style("stroke", function(d) { return color(d.name); });
-
-  city.append("text")
-      .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; })
-      .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.temperature) + ")"; })
-      .attr("x", 3)
-      .attr("dy", ".35em")
-      .text(function(d) { return d.name; });
-});
-
-           /* var couple1 = d3.svg.line()
-                .x(function(d) { return that.xScale(d.date); })
-                .y(function(d) { return that.yScale(d.score); })
-                .interpolate("cardinal");
+            var couple1 = d3.svg.line()
+                .x(function(d) {
+                    return that.xScale(d.date);
+                })
+                .y(function(d) {
+                    return that.yScale(d.score);
+                })
+                .interpolate("basis");
 
             this.svg.append('svg:path')
-              .attr('d', couple1(this.displayData.events))
+              .attr('d', couple1(this.displayData[3].events))
               .attr('stroke', 'green')
               .attr('stroke-width', 2)
-              .attr('fill', 'none'); */
+              .attr('fill', 'none'); 
 
 
     // TODO: implement update graphs (D3: update, enter, exit)
