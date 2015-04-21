@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Homework 3 - MyWorld Data</title>
+
+    <!-- ADD Libraries-->
+    <script src="libs/d3/d3.min.js" charset="utf-8"></script>
+    <script src="libs/jquery/jquery-2.1.1.min.js" charset="utf-8"></script>
+    <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <!-- Load c3.js -->
+    <script src="libs/c3/c3-0.4.10/c3.min.js"></script>
+    <!--Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="libs/bootstrap/css/bootstrap.min.css">
+    <!-- Load c3.css -->
+    <link href="libs/c3/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
+    <!-- Get some nice font-->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- add own vis classes-->
+    <script src = "js/scorevis.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1>Visualization 1 Prototype</h1>
+    </div> 
+    Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
+    <div> 
+        <button class="small" onclick="hide();">Hide</button>
+        <button class="small" onclick="show();">Show</button>
+    </div>
+    <div class="row">
+            <div class="col-md-9" id="scoreVis"></div>
+    </div>
+</body>
+    <script>
+        $(function(){ // this function is called after the HTML document is fully loaded
+
+
+            //==========================================
+            //--- HERE IS WHERE ALL THE MAGIC STARTS --
+            //==========================================
+
+
+            // variables keeping global knowledge of the data
+            var allData = [];
+
+            // this function can convert Date objects to a string
+            // it can also convert strings to Date objects
+            // see: https://github.com/mbostock/d3/wiki/Time-Formatting
+            var dateFormatter = d3.time.format("%d %b %Y");
+
+
+            // call this function after Data is loaded, reformatted and bound to the variables
+            var initVis = function(){
+                //TODO: Create an eventHandler  --> DONE :)
+                var MyEventHandler = new Object();
+
+
+                //TODO: 
+                //Instantiate all Vis Objects here
+                var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
+
+                // TODO: bind the eventHandler to the Vis Objects
+                /*$(MyEventHandler).bind("selectionChanged", function(event, type){
+                    prio_vis.onSelectionChange(type);
+                });*/
+                // events will be created from the CountVis object (nothing to do here)
+                // events will be consumed by the PrioVis and AgeVis object (binding should happen here)
+            }
+
+            // call this function after both files are loaded -- error should be "null" if no error
+            var dataLoaded = function (error, _allData) {
+
+                if (!error) {
+
+                    // make our data look nicer and more useful:
+                    // per Day we want to have an object looking like this:
+                    /*
+                    * {
+                    *   time: .. (should be a Date object)
+                    *   count: .. (number of all votes)
+                    *   prios: [..,..,..,...] (array of number of votes per priority -> array length =16)
+                    *   ages: [..,..,..,..] (array counts of votes per age 0-99)
+                    *
+                    * */ 
+                    var allData = _allData
+                    allData.map(function (d){
+                        d.events.map(function (e){
+                            e.date = dateFormatter.parse(e["date"]);
+                        });
+                    });
+                    allData = _allData.sort(function (a, b) {
+                        if (a.events[0].date < b.events[0].date) {
+                            return -1;
+                        } else if (a.events[0].date > b.events[0].date) {
+                            return 1;
+                        } else if (a.events[0].date == b.events[0].date) {
+                            return 0;
+                        }     
+                    });
+
+                    var allIDs = [];
+
+
+                    allData.map(function(d,i) {
+                        d.events.map(function(e,j) {
+                            e.results.map(function(r,k) {
+                                allIDs.push(r["couple"]);
+                            })
+                        })
+                    });
+                    allIDs.sort();
+                    //filters out duplicate ID's
+                    uniqueIDs = [];
+                    for (var i = 0; i < allIDs.length; i++) {
+                        if (allIDs[i + 1] != allIDs[i]) {
+                            uniqueIDs.push(allIDs[i]);
+                        }
+                    } 
+
+                    var couples = d3.range(0,uniqueIDs.length).map(function(){ return { }; })
+                    // Generate "events" array for each couple to hold the number of events that couple competed in
+                    var eventCount = 0 
+                      
+                    uniqueIDs.forEach(function(c, i) {
+                        allData.forEach(function(d) {
+                            d.events.forEach(function(e) {
+                                e.results.forEach(function(r) {
+                                    if (r.couple == c) {
+                                        eventCount ++;
+                                    }
+                                })
+                            })
+                        })
+                        couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
+                        eventCount = 0;
+                    });
+
+                    //--------------------------------------------------------------------//
+                    // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
+                    //--------------------------------------------------------------------//
+
+                    // For each unique id map through all data and populate arrays
+                    uniqueIDs.map(function(c, i) {
+                        eventCount = 0
+                        allData.map(function(d) {
+                            d.events.map(function(e) {
+                                e.results.map(function(r) {
+                                    couples[i]["coupleid"] = c;
+                                    couples[i]["names"] = r["couple"];
+                                    couples[i]["country"] = r["country"];
+                                    if (r.couple == c) {
+                                        couples[i].events[eventCount]["score"] = r["score"];
+                                        couples[i].events[eventCount]["change"] = r["change"];
+                                        couples[i].events[eventCount]["date"] = (e["date"]);
+                                        couples[i].events[eventCount]["style"] = e["style"];
+                                        couples[i].events[eventCount]["compid"] = d["compid"];
+                                        couples[i].events[eventCount]["compname"] = d["name"];                        
+                                        eventCount++;
+                                    }
+                                })
+                            })
+                        })
+                    })
+
+                    // Populate dropbdown menue with unique couple ID's
+                    var nested_data = d3.nest()
+                        .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
+                        .rollup(function(leaves) { return leaves[0].coupleid })
+                        .entries(couples);
+
+                    var list = d3.select("#primaryCouple").append("select").on("change", change)
+
+                    list.selectAll("option")
+                        .data(nested_data)
+                        .enter()
+                        .append("option")
+                        .attr("class", function(d) {return d.key;})
+                        .attr("value", function(d) {return d.key;})
+                        .attr("id", function(d) {return d.key;})
+                        .text(function(d) {
+                        return d.key; })
+                        .on("change", change);
+
+                    var selectedIndex = 0;
+
+                    function change() { 
+                            selectedIndex = list.property('selectedIndex');
+                            console.log(selectedIndex)
+                    }
+
+                    // Filter by couple
+                    couplesData = couples[3];
+                    debugger;
+                    console.log(couples)
+                    //console.log(couplesData)
+
+                    initVis();
+                }
+            }
+
+            var startHere = function(){
+
+                //TODO: load data here and call "dataLoaded" afterwards
+                // Hint: http://giscollective.org/d3-queue-js/
+                queue()
+                    .defer(d3.json, "data/combined.json")
+                    .await(dataLoaded);
+            }
+
+            startHere();
+        })
+
+        //--------------------------------//
+        //------------- HELP! ------------//
+        //--------------------------------//
+
+        /*var change = function(){
+            selectedIndex = list.property('selectedIndex');
+            console.log(selectedIndex)
+            couplesData = couples[selectedIndex];
+            initVis();couplesData
+        }*/
+    </script>
+</body>
+</html>
