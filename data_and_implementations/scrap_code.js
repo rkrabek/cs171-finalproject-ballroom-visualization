@@ -1,3 +1,12 @@
+  
+  
+// return max and min temperatures in values array
+  y.domain([
+    d3.min(cities, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
+    d3.max(cities, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); })
+  ]);
+
+
 
     /*uniqueIDs.map(function(c, i) {
         allData.map(function(d) {

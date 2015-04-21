@@ -33,7 +33,11 @@
     <div class="container">
         <h1>Visualization 1 Prototype</h1>
     </div> 
-    Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
+    <label>Choose Primary Couple</label>
+        <form><div id="primaryCouple" class="primaryCouple" ></div></form>
+    <label>Choose Secondary Couples: </label> 
+    <input id = "addCouples" type="number" step="1" value="0" min="0" max="5" onchange="update_couples()">                         
+        <form><div id="secondaryCouples" class="secondaryCouples"></div></form>
     <div><svg id="visualisation" width="1000" height="500"></svg></div>
     <div> 
         <button class="small" onclick="hide();">Hide</button>
@@ -120,20 +124,19 @@
                     })
                 })
             })
-            //console.log(couples)
 
 
             //-----------------------//
             // -- FILTER BY COUPLE-- //
             //-----------------------//
-            
+
             // Populate dropbdown menue with unique couple ID's
             var nested_data = d3.nest()
-                .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
+                .key(function(d, i) { console.log(d.coupleid); return d.coupleid}).sortKeys(d3.ascending)
                 .rollup(function(leaves) { return leaves[0].coupleid })
                 .entries(couples);
 
-            var list = d3.select("#primaryCouple").append("select")
+            var list = d3.select("#primaryCouple").append("select").on("change", change)
 
             list.selectAll("option")
                 .data(nested_data)
@@ -144,9 +147,48 @@
                 .attr("id", function(d) {return d.key;})
                 .text(function(d) {
                 return d.key; });
-                //.on("change", change)
+                
 
+            function change () {
+                var selectedIndex = list.property('selectedIndex')
+                console.log(selectedIndex)
+            }
+     });
 
+    
+        /*function update_couples () {
+                var selectedIndex = list.property('selectedIndex')
+                console.log(selectedIndex)
+        }*/
+/*
+
+        function update_couples () {
+            d3.select("#addCouples").on("change", function () {
+                console.log("hi")
+                console.log(d3.select(this).attr("input")); 
+            })    
+        }
+
+          function change() {
+                var selectedIndex = list.property('selectedIndex')
+                console.log(selectedIndex)
+            }
+            var nested_data = d3.nest()
+                .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
+                .rollup(function(leaves) { return leaves[0].coupleid })
+                .entries(couples);
+
+            var list = d3.select("#secondaryCouple").append("select")
+
+            list.selectAll("option")
+                .data(nested_data)
+                .enter()
+                .append("option")
+                .attr("class", function(d) {return d.key;})
+                .attr("value", function(d) {return d.key;})
+                .attr("id", function(d) {return d.key;})
+                .text(function(d) {
+                return d.key; }); */
 
             /*d3.selectAll("form").on("change", function () {
                 var thisCouple = couples.filter(function(c) {
@@ -241,7 +283,7 @@
               .attr('stroke', 'green')
               .attr('stroke-width', 2)
               .attr('fill', 'none'); */
-     });
+
 
 </script>
 
