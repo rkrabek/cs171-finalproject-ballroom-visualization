@@ -144,15 +144,8 @@
                 .attr("id", function(d) {return d.key;})
                 .text(function(d) {
                 return d.key; });
-            
+                .on("change", change),
 
-            // Filter data by selected couple
-            var lineData = []
-            
-            d3.select("#primaryCouple").on("change", change)
-            function change() {
-                console.log(this.options[this.selectedIndex].value)
-            }
 
 
             /*d3.selectAll("form").on("change", function () {
@@ -167,10 +160,21 @@
                 })
             }) */
 
+/*
+            options = select.selectAll('option').data(dd); 
+
+            // Filter data by selected couple
+            var lineData = []
+            
+            d3.select("#primaryCouple").on("change", change)
+            function change() {
+                console.log(this.options[this.selectedIndex].value)
+            }*/
+
             //--------------------------------------------//
             // -- FORMAT ARRAYS OF DATA FOR LINE GRAPH -- //
             //--------------------------------------------//
-            var dataToGraph = d3.range(0,couples.length).map(function(){ return { }; })
+            /*var dataToGraph = d3.range(0,couples.length).map(function(){ return { }; })
 
             eventCount = 0    
             couples.map(function(d, i) {
@@ -232,7 +236,7 @@
                 })
                 .interpolate("basis");
 
-            /*vis1.append('svg:path')
+            vis1.append('svg:path')
               .attr('d', couple1(dataToGraph[0]))
               .attr('stroke', 'green')
               .attr('stroke-width', 2)
