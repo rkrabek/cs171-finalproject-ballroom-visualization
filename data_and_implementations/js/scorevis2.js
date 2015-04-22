@@ -53,6 +53,7 @@ ScoreVis.prototype.initVis = function(){
       .append("g")
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
 
+    this.g = this.svg.append("g")
     // creates axis and scales
     this.x = d3.time.scale()
       .range([0, this.width]);
@@ -138,27 +139,19 @@ ScoreVis.prototype.wrangleData= function(){
 ScoreVis.prototype.updateVis = function(){
     var that = this;
 
-    // updates scales
-    this.x.domain([
-      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); }),
-      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); })
-    ]);
+    // define mins and maxes for scale domains
+    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); });
+    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); });
+    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); });
+    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); });
     
-    this.y.domain([
-      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); }),
-      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); })
-    ]);
+    // updates scale domains
+    this.x.domain([dateMin, dateMax]);  
+    this.y.domain([scoreMin, scoreMax]);
+    this.xScale.domain([dateMin, dateMax]); 
+    this.yScale.domain([scoreMin, scoreMax]);
 
-    this.xScale.domain([
-      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); }),
-      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); })
-    ]);
-    
-    this.yScale.domain([
-      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); }),
-      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); })
-    ]);
-
+    // color scale ... doesn't work
     this.color.domain(this.displayData.map(function(d) {return d.coupleid}));
 
     // updates axis
@@ -184,53 +177,40 @@ ScoreVis.prototype.updateVis = function(){
       .remove();
   */
 
-//-------------------------- THIS WORKS : START ---------------------------------------------//
-   /* var line = d3.svg.line()
-        .interpolate("basis")
-        .x(function(d) { return that.x(d.date); })
-        .y(function(d) { return that.y(d.score); })
-
-  var couple = this.svg.selectAll(".couple")
-      .data(this.displayData)
-    .enter().append("g")
-      .attr("class", "couple");
-
-  var iterator = 0;
-  couple.append("path")
-      .attr("class", "line")
-      .attr('d', function(d) { return line(d.events); })
-      .attr('stroke', function(d, j) {
-            iterator ++;
-            return "hsl(" + iterator*50 + ",100%,50%)";
-        })
-      .attr('stroke-width', 2)
-      .attr('fill', 'none')
-      //.style("stroke", function(d) { return this.color(d.coupleid); });
-
-  couple.append("text")
-      .datum(function(d) { return {coupleid: d.coupleid, event: d.events[d.events.length - 1]}; })
-      .attr("transform", function(d) { return "translate(" + that.x(d.event.date) + "," + that.y(d.event.score) + ")"; })
-      .attr("x", 3)
-      .attr("dy", ".35em")
-      .text(function(d) { return d.coupleid; });*/
-//-------------------------- THIS WORKS : END ---------------------------------------------//
-
-//-------------------------- THIS WORKS 2 : START -----------------------------------------//
- /* var line = d3.svg.line()
+  // define line function
+  var line = d3.svg.line()
     .x(function(d) { return that.x(d.date); })
     .y(function(d) { return that.y(d.score); })
     .interpolate("basis");
 
+  // loop through all couples in displayData
   this.displayData.forEach(function(d,i) {
-    that.svg.append('svg:path')
-      .attr('d', line(d.events))
-      .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
-      .attr('stroke-width', 2)
-      .attr('id', 'line_'+d.coupleno)
-      .attr('fill', 'none')
-      //.on('mouseover', function() {})
+      
+      // append text to 'g' for that couple
+      that.g.append('g:text')
+          //.datum(function() { return { debugger; coupleid: d.coupleid, one_event: d.events[d.events.length - 1]}; })
+          .attr("transform", function() { return "translate(" + that.x(d.events[d.events.length - 1].date) + "," + that.y(d.events[d.events.length - 1].score) + ")"; })
+          .attr("x", 3)
+          .attr("dy", ".35em")
+          .attr('id', 'text_'+d.coupleno)
+          .attr('opacity', 0)
+          .text(function() { return d.coupleid; });
+      
+      // append path to 'g' for that couple and implement mouseover/mouseout functionality for text for that couple
+      that.g.append('g:path')
+        .attr('d', line(d.events))
+        .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
+        .attr('stroke-width', 2)
+        .attr('id', 'line_'+d.coupleno)
+        .attr('fill', 'none')
+        .on('mouseover', function() {
+            d3.select("#text_" + d.coupleno).style("opacity", 1);
+        })
+        .on('mouseout', function() {
+            d3.select("#text_" + d.coupleno).style("opacity", 0);
+        });
 
-    //console.log(that.width)
+    // append legend and implement on click functionality for line and text for that couple
     that.svg.append("text")
       .attr("x", function() { return i%3*that.width/4+100 })
       .attr("y", function() { return i%2*20 + that.height + 50})
@@ -240,59 +220,10 @@ ScoreVis.prototype.updateVis = function(){
           var active   = d.active ? false : true;
           var opacity = active ? 0 : 1;
           d3.select("#line_" + d.coupleno).style("opacity", opacity);
+          d3.select("#text_" + d.coupleno).style("opacity", 0);
           d.active = active;
       })
       .text(d.coupleid);
-});*/
-//-------------------------- THIS WORKS 2 : END -----------------------------------------//
-  var line = d3.svg.line()
-      .x(function(d) { return that.x(d.date); })
-      .y(function(d) { return that.y(d.score); })
-      .interpolate("basis");
-
-  this.displayData.forEach(function(d,i) {
-      var couple = that.svg.selectAll(".couple")
-          .data(that.displayData)
-      .enter().append("g")
-          .attr("class", "couple");
-
-      couple.append("text")
-          .datum(function(d) { return {coupleid: d.coupleid, event: d.events[d.events.length - 1]}; })
-          .attr("transform", function(d) { return "translate(" + that.x(d.event.date) + "," + that.y(d.event.score) + ")"; })
-          .attr("x", 3)
-          .attr("dy", ".35em")
-          .text(function(d) { return d.coupleid; })
-          .style("opacity", "0");
-
-      couple.append("path")
-          .attr("class", "line")
-          .attr('d', function(d) { return line(d.events); })
-          .attr('stroke', function(d,j) { return "hsl(" + j/15 * 200 + ",100%,50%)"; })
-          .attr('stroke-width', 2)
-          .attr('id', 'line_'+d.coupleno)
-          .attr('fill', 'none')
-        //.style("stroke", function(d) { return this.color(d.coupleid); });
-          //.on('mouseover', function() {
- 
-          //})
-          //.on('mouseout', function() {
-
-          //});
-
-      //console.log(that.width)
-      that.svg.append("text")
-        .attr("x", function() { return i%3*that.width/4+100 })
-        .attr("y", function() { return i%2*20 + that.height + 50})
-        .style("fill", "black")
-        .attr("class","legend")
-        .on('click',function(){
-            var active   = d.active ? false : true;
-            var opacity = active ? 0 : 1;
-            console.log("#line_" + d.coupleno);
-            d3.select("#line_" + d.coupleno).style("opacity", opacity);
-            d.active = active;
-        })
-        .text(d.coupleid);
 });
 /*
             var couple1 = d3.svg.line()

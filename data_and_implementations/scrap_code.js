@@ -125,3 +125,67 @@ console.log(allResults)
         });
       } */
 
+
+// if you take out the this.svg.append('g') then both of these sections work
+
+//-------------------------- THIS WORKS : START ---------------------------------------------//
+   /* var line = d3.svg.line()
+        .interpolate("basis")
+        .x(function(d) { return that.x(d.date); })
+        .y(function(d) { return that.y(d.score); })
+
+  var couple = this.svg.selectAll(".couple")
+      .data(this.displayData)
+    .enter().append("g")
+      .attr("class", "couple");
+
+  var iterator = 0;
+  couple.append("path")
+      .attr("class", "line")
+      .attr('d', function(d) { return line(d.events); })
+      .attr('stroke', function(d, j) {
+            iterator ++;
+            return "hsl(" + iterator*50 + ",100%,50%)";
+        })
+      .attr('stroke-width', 2)
+      .attr('fill', 'none')
+      //.style("stroke", function(d) { return this.color(d.coupleid); });
+
+  couple.append("text")
+      .datum(function(d) { return {coupleid: d.coupleid, event: d.events[d.events.length - 1]}; })
+      .attr("transform", function(d) { return "translate(" + that.x(d.event.date) + "," + that.y(d.event.score) + ")"; })
+      .attr("x", 3)
+      .attr("dy", ".35em")
+      .text(function(d) { return d.coupleid; });*/
+//-------------------------- THIS WORKS : END ---------------------------------------------//
+
+//-------------------------- THIS WORKS 2 : START -----------------------------------------//
+ /* var line = d3.svg.line()
+    .x(function(d) { return that.x(d.date); })
+    .y(function(d) { return that.y(d.score); })
+    .interpolate("basis");
+
+  this.displayData.forEach(function(d,i) {
+    that.svg.append('svg:path')
+      .attr('d', line(d.events))
+      .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
+      .attr('stroke-width', 2)
+      .attr('id', 'line_'+d.coupleno)
+      .attr('fill', 'none')
+      //.on('mouseover', function() {})
+
+    //console.log(that.width)
+    that.svg.append("text")
+      .attr("x", function() { return i%3*that.width/4+100 })
+      .attr("y", function() { return i%2*20 + that.height + 50})
+      .style("fill", "black")
+      .attr("class","legend")
+      .on('click',function(){
+          var active   = d.active ? false : true;
+          var opacity = active ? 0 : 1;
+          d3.select("#line_" + d.coupleno).style("opacity", opacity);
+          d.active = active;
+      })
+      .text(d.coupleid);
+});*/
+//-------------------------- THIS WORKS 2 : END -----------------------------------------//
