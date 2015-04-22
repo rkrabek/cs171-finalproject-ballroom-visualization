@@ -181,11 +181,21 @@ ScoreVis.prototype.updateVis = function(){
   var line = d3.svg.line()
     .x(function(d) { return that.x(d.date); })
     .y(function(d) { return that.y(d.score); })
-    .interpolate("basis");
+    //.interpolate("basis");
+
 
   // loop through all couples in displayData
   this.displayData.forEach(function(d,i) {
-      
+      var points = that.svg.selectAll(".point")
+          .data(that.displayData[i].events)
+        .enter().append("svg:circle")
+           .attr("stroke", "black")
+           .attr('id', 'point_'+d.coupleno)
+           .attr("fill", function(d, i) { return "black" })
+           .attr("cx", function(d, i) { return that.x(d.date) })
+           .attr("cy", function(d, i) { return that.y(d.score) })
+           .attr("r", function(d, i) { return 3 });
+
       // append text to 'g' for that couple
       that.g.append('g:text')
           //.datum(function() { return { debugger; coupleid: d.coupleid, one_event: d.events[d.events.length - 1]}; })
@@ -220,6 +230,7 @@ ScoreVis.prototype.updateVis = function(){
           var active   = d.active ? false : true;
           var opacity = active ? 0 : 1;
           d3.select("#line_" + d.coupleno).style("opacity", opacity);
+          d3.selectAll("#point_" + d.coupleno).style("opacity", opacity);
           d3.select("#text_" + d.coupleno).style("opacity", 0);
           d.active = active;
       })
