@@ -88,6 +88,7 @@ d3.tsv("data.tsv", function(error, data) {
       })
     };
   });
+
   x.domain(d3.extent(data, function(d) { return d.date; }));
   y.domain([
     d3.min(cities, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
@@ -97,7 +98,7 @@ d3.tsv("data.tsv", function(error, data) {
 
 var line = d3.svg.line()
     .interpolate("basis")
-    .x(function(d) { debugger; return x(d.date); })
+    .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.temperature); });
 
 
@@ -108,7 +109,7 @@ var line = d3.svg.line()
 
   city.append("path")
       .attr("class", "line")
-      .attr("d", function(d) { return line(d.values); })
+      .attr("d", function(d) {  return line(d.values); })
       .style("stroke", function(d) { return color(d.name); });
 
   city.append("text")

@@ -28,7 +28,7 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
 
 
     // TODO: define all "constants" here
-    this.margin = {top: 20, right: 2000, bottom: 6000, left: 50},
+    this.margin = {top: 50, right: 200, bottom: 100, left: 50},
     this.width = 850,
     this.height = 330;
 
@@ -110,7 +110,6 @@ ScoreVis.prototype.initVis = function(){
         .style("text-anchor", "end")
         .text("Score");
 
-
     // filter, aggregate, modify data
     this.wrangleData();
 
@@ -128,7 +127,6 @@ ScoreVis.prototype.wrangleData= function(){
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
     this.displayData = this.data;
-
 }
 
 
@@ -138,13 +136,30 @@ ScoreVis.prototype.wrangleData= function(){
  * @param _options -- only needed if different kinds of updates are needed
  */
 ScoreVis.prototype.updateVis = function(){
-    that = this;
-    // updates scales
-    this.x.domain(d3.extent(this.displayData.events, function(d) { return d.date; }));
-    this.y.domain(d3.extent(this.displayData.events, function(d) { return d.score; }));
+    var that = this;
 
-    this.xScale.domain(d3.extent(this.displayData.events, function(d) { return d.date; }));
-    this.yScale.domain(d3.extent(this.displayData.events, function(d) { return d.score; }));
+    // updates scales
+    this.x.domain([
+      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); }),
+      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); })
+    ]);
+    
+    this.y.domain([
+      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); }),
+      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); })
+    ]);
+
+    this.xScale.domain([
+      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); }),
+      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); })
+    ]);
+    
+    this.yScale.domain([
+      d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); }),
+      d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); })
+    ]);
+
+    this.color.domain(this.displayData.map(function(d) {return d.coupleid}));
 
     // updates axis
     this.svg.select(".x.axis")
@@ -167,32 +182,120 @@ ScoreVis.prototype.updateVis = function(){
 
     path.exit()
       .remove();
-*/
-    var line = d3.svg.line()
+  */
+
+//-------------------------- THIS WORKS : START ---------------------------------------------//
+   /* var line = d3.svg.line()
         .interpolate("basis")
-        .x(function(d) { debugger; return that.xScale(d.date); })
-        .y(function(d) { return that.yScale(d.score); });
+        .x(function(d) { return that.x(d.date); })
+        .y(function(d) { return that.y(d.score); })
 
-
-  var city = svg.selectAll(".city")
-      .data(cities)
+  var couple = this.svg.selectAll(".couple")
+      .data(this.displayData)
     .enter().append("g")
-      .attr("class", "city");
+      .attr("class", "couple");
 
-  city.append("path")
+  var iterator = 0;
+  couple.append("path")
       .attr("class", "line")
-      .attr("d", function(d) { return line(d.values); })
-      .style("stroke", function(d) { return color(d.name); });
+      .attr('d', function(d) { return line(d.events); })
+      .attr('stroke', function(d, j) {
+            iterator ++;
+            return "hsl(" + iterator*50 + ",100%,50%)";
+        })
+      .attr('stroke-width', 2)
+      .attr('fill', 'none')
+      //.style("stroke", function(d) { return this.color(d.coupleid); });
 
-  city.append("text")
-      .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; })
-      .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.temperature) + ")"; })
+  couple.append("text")
+      .datum(function(d) { return {coupleid: d.coupleid, event: d.events[d.events.length - 1]}; })
+      .attr("transform", function(d) { return "translate(" + that.x(d.event.date) + "," + that.y(d.event.score) + ")"; })
       .attr("x", 3)
       .attr("dy", ".35em")
-      .text(function(d) { return d.name; });
-});
+      .text(function(d) { return d.coupleid; });*/
+//-------------------------- THIS WORKS : END ---------------------------------------------//
 
-           /* var couple1 = d3.svg.line()
+//-------------------------- THIS WORKS 2 : START -----------------------------------------//
+ /* var line = d3.svg.line()
+    .x(function(d) { return that.x(d.date); })
+    .y(function(d) { return that.y(d.score); })
+    .interpolate("basis");
+
+  this.displayData.forEach(function(d,i) {
+    that.svg.append('svg:path')
+      .attr('d', line(d.events))
+      .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
+      .attr('stroke-width', 2)
+      .attr('id', 'line_'+d.coupleno)
+      .attr('fill', 'none')
+      //.on('mouseover', function() {})
+
+    //console.log(that.width)
+    that.svg.append("text")
+      .attr("x", function() { return i%3*that.width/4+100 })
+      .attr("y", function() { return i%2*20 + that.height + 50})
+      .style("fill", "black")
+      .attr("class","legend")
+      .on('click',function(){
+          var active   = d.active ? false : true;
+          var opacity = active ? 0 : 1;
+          d3.select("#line_" + d.coupleno).style("opacity", opacity);
+          d.active = active;
+      })
+      .text(d.coupleid);
+});*/
+//-------------------------- THIS WORKS 2 : END -----------------------------------------//
+  var line = d3.svg.line()
+      .x(function(d) { return that.x(d.date); })
+      .y(function(d) { return that.y(d.score); })
+      .interpolate("basis");
+
+  this.displayData.forEach(function(d,i) {
+      var couple = that.svg.selectAll(".couple")
+          .data(that.displayData)
+      .enter().append("g")
+          .attr("class", "couple");
+
+      couple.append("text")
+          .datum(function(d) { return {coupleid: d.coupleid, event: d.events[d.events.length - 1]}; })
+          .attr("transform", function(d) { return "translate(" + that.x(d.event.date) + "," + that.y(d.event.score) + ")"; })
+          .attr("x", 3)
+          .attr("dy", ".35em")
+          .text(function(d) { return d.coupleid; })
+          .style("opacity", "0");
+
+      couple.append("path")
+          .attr("class", "line")
+          .attr('d', function(d) { return line(d.events); })
+          .attr('stroke', function(d,j) { return "hsl(" + j/15 * 200 + ",100%,50%)"; })
+          .attr('stroke-width', 2)
+          .attr('id', 'line_'+d.coupleno)
+          .attr('fill', 'none')
+        //.style("stroke", function(d) { return this.color(d.coupleid); });
+          //.on('mouseover', function() {
+ 
+          //})
+          //.on('mouseout', function() {
+
+          //});
+
+      //console.log(that.width)
+      that.svg.append("text")
+        .attr("x", function() { return i%3*that.width/4+100 })
+        .attr("y", function() { return i%2*20 + that.height + 50})
+        .style("fill", "black")
+        .attr("class","legend")
+        .on('click',function(){
+            var active   = d.active ? false : true;
+            var opacity = active ? 0 : 1;
+            console.log("#line_" + d.coupleno);
+            d3.select("#line_" + d.coupleno).style("opacity", opacity);
+            d.active = active;
+        })
+        .text(d.coupleid);
+});
+/*
+            var couple1 = d3.svg.line()
                 .x(function(d) { return that.xScale(d.date); })
                 .y(function(d) { return that.yScale(d.score); })
                 .interpolate("cardinal");

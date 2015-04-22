@@ -19,7 +19,7 @@
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 
     <!-- add own vis classes-->
-    <script src = "js/scorevis.js"></script>
+    <script src = "js/scorevis2.js"></script>
 
 </head>
 <body>
@@ -27,10 +27,6 @@
         <h1>Visualization 1 Prototype</h1>
     </div> 
     Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
-    <div> 
-        <button class="small" onclick="hide();">Hide</button>
-        <button class="small" onclick="show();">Show</button>
-    </div>
     <div class="row">
             <div class="col-md-9" id="scoreVis"></div>
     </div>
@@ -57,7 +53,6 @@
             var initVis = function(){
                 //TODO: Create an eventHandler  --> DONE :)
                 var MyEventHandler = new Object();
-
 
                 //TODO: 
                 //Instantiate all Vis Objects here
@@ -150,9 +145,9 @@
                             d.events.map(function(e) {
                                 e.results.map(function(r) {
                                     couples[i]["coupleid"] = c;
-                                    couples[i]["names"] = r["couple"];
-                                    couples[i]["country"] = r["country"];
                                     if (r.couple == c) {
+                                        couples[i]["coupleno"] = r["coupleid"]; 
+                                        couples[i]["country"] = r["country"];
                                         couples[i].events[eventCount]["score"] = r["score"];
                                         couples[i].events[eventCount]["change"] = r["change"];
                                         couples[i].events[eventCount]["date"] = (e["date"]);
@@ -162,6 +157,7 @@
                                         eventCount++;
                                     }
                                 })
+                                //console.log(couples[i])
                             })
                         })
                     })
@@ -192,10 +188,17 @@
                             console.log(selectedIndex)
                     }
 
+                    //couplesData= couples[3];
+                    couplesData = []
                     // Filter by couple
-                    couplesData = couples[3];
-                    debugger;
-                    console.log(couples)
+                    couplesData[0] = couples[0];
+                    couplesData[1] = couples[100];
+                    couplesData[2] = couples[2];
+                    couplesData[3] = couples[3];
+                    couplesData[4] = couples[4];
+                    couplesData[5] = couples[5];
+
+                    //debugger;
                     //console.log(couplesData)
 
                     initVis();
