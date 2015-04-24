@@ -138,13 +138,14 @@ ScoreVis.prototype.wrangleData= function(){
  */
 ScoreVis.prototype.updateVis = function(){
     var that = this;
+debugger;
 
     // define mins and maxes for scale domains
-    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); });
-    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); });
-    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); });
-    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); });
-    
+    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return e.date;}); });
+    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return e.date;}); });
+    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return parseInt(e.score); }); });
+    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return parseInt(e.score)/*+50*/; }); });
+
     // updates scale domains
     this.x.domain([dateMin, dateMax]);  
     this.y.domain([scoreMin, scoreMax]);
@@ -186,15 +187,22 @@ ScoreVis.prototype.updateVis = function(){
 
   // loop through all couples in displayData
   this.displayData.forEach(function(d,i) {
+      // append points     
       var points = that.svg.selectAll(".point")
           .data(that.displayData[i].events)
         .enter().append("svg:circle")
-           .attr("stroke", "black")
+           .attr("stroke", function(d,j) { return "hsl(" + i/12 * 200 + ",100%,50%)"; })
            .attr('id', 'point_'+d.coupleno)
-           .attr("fill", function(d, i) { return "black" })
+           .attr("fill", function(d,j) { return "hsl(" + i/9 * 200 + ",100%,50%)"; })
            .attr("cx", function(d, i) { return that.x(d.date) })
            .attr("cy", function(d, i) { return that.y(d.score) })
-           .attr("r", function(d, i) { return 3 });
+           .attr("r", function(d, i) { return 3 })
+           .on('mouseover', function() {
+              //d3.select("#text_" + d.coupleno).style("opacity", 1);
+           })
+           .on('mouseout', function() {
+              //d3.select("#text_" + d.coupleno).style("opacity", 0);
+           });
 
       // append text to 'g' for that couple
       that.g.append('g:text')
@@ -208,34 +216,34 @@ ScoreVis.prototype.updateVis = function(){
       
       // append path to 'g' for that couple and implement mouseover/mouseout functionality for text for that couple
       that.g.append('g:path')
-        .attr('d', line(d.events))
-        .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
-        .attr('stroke-width', 2)
-        .attr('id', 'line_'+d.coupleno)
-        .attr('fill', 'none')
-        .on('mouseover', function() {
-            d3.select("#text_" + d.coupleno).style("opacity", 1);
-        })
-        .on('mouseout', function() {
-            d3.select("#text_" + d.coupleno).style("opacity", 0);
-        });
+          .attr('d', line(d.events))
+          .attr('stroke', function(d,j) { return "hsl(" + i/9 * 200 + ",100%,50%)"; })
+          .attr('stroke-width', 2)
+          .attr('id', 'line_'+d.coupleno)
+          .attr('fill', 'none')
+          .on('mouseover', function() {
+              d3.select("#text_" + d.coupleno).style("opacity", 1);
+          })
+          .on('mouseout', function() {
+              d3.select("#text_" + d.coupleno).style("opacity", 0);
+          });
 
-    // append legend and implement on click functionality for line and text for that couple
-    that.svg.append("text")
-      .attr("x", function() { return i%3*that.width/4+100 })
-      .attr("y", function() { return i%2*20 + that.height + 50})
-      .style("fill", "black")
-      .attr("class","legend")
-      .on('click',function(){
-          var active   = d.active ? false : true;
-          var opacity = active ? 0 : 1;
-          d3.select("#line_" + d.coupleno).style("opacity", opacity);
-          d3.selectAll("#point_" + d.coupleno).style("opacity", opacity);
-          d3.select("#text_" + d.coupleno).style("opacity", 0);
-          d.active = active;
-      })
-      .text(d.coupleid);
-});
+      // append legend and implement on click functionality for line and text for that couple
+      that.svg.append("text")
+          .attr("x", function() { return i%3*that.width/4+100 })
+          .attr("y", function() { return i%2*20 + that.height + 50})
+          .style("fill", function(d,j) { return "hsl(" + i/14 * 200 + ",100%,50%)"; })
+          .attr("class","legend")
+          .on('click',function(){
+              var active   = d.active ? false : true;
+              var opacity = active ? 0 : 1;
+              d3.select("#line_" + d.coupleno).style("opacity", opacity);
+              d3.selectAll("#point_" + d.coupleno).style("opacity", opacity);
+              d3.select("#text_" + d.coupleno).style("opacity", 0);
+              d.active = active;
+          })
+          .text(d.coupleid);
+      });
 /*
             var couple1 = d3.svg.line()
                 .x(function(d) { return that.xScale(d.date); })
