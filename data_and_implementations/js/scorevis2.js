@@ -133,13 +133,14 @@ ScoreVis.prototype.wrangleData= function(){
 
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
-    this.displayData = this.data
-    /*this.displayData[0] = this.data[100];
-    this.displayData[1] = this.data[200];
+    //this.displayData = this.data
+    this.displayData[0] = this.data[100];
+    this.displayData[1] = this.data[150];
     this.displayData[2] = this.data[300];
     this.displayData[3] = this.data[400];
     this.displayData[4] = this.data[500];
-    this.displayData[5] = this.data[600];*/
+    this.displayData[5] = this.data[600];
+
 }
 
 
@@ -163,10 +164,10 @@ ScoreVis.prototype.updateVis = function(){
     this.xScale.domain([dateMin, dateMax]); 
     this.yScale.domain([scoreMin, scoreMax]);
 
-    // color scale ... doesn"t work
+    // color scale ...
     this.color.domain(this.displayData.map(function(d) {return d.coupleid}));
 
-    this.tip.html(function(d) { return d; });
+    //this.tip.html(function(d) { return d; });
     /*this.tip = d3.tip()
       .attr('class', 'd3-tip')
       .offset([-10, 0])
@@ -182,7 +183,7 @@ ScoreVis.prototype.updateVis = function(){
     this.svg.select(".y.axis")
         .call(this.yAxis)
 
-    this.svg.call(this.tip);    
+    //this.svg.call(this.tip);    
 
     /* updates graph
     var path = this.svg.selectAll(".area")
@@ -258,14 +259,14 @@ ScoreVis.prototype.updateVis = function(){
 
       // append text for lines for each couple to "gLines"
       that.gLines.append("gLines:text")
-          //.datum(function() { return { debugger; coupleid: d.coupleid, one_event: d.events[d.events.length - 1]}; })
+          //.datum(function() { return { coupleid: d.coupleid, one_event: d.events[d.events.length - 1]}; })
           .attr("transform", function() { return "translate(" + that.x(d.events[d.events.length - 1].date) + "," + that.y(d.events[d.events.length - 1].score) + ")"; })
           .attr("x", 3)
           .attr("dy", ".35em")
           .attr("id", "text_"+d.coupleno)
           .attr("opacity", 0)
           .style("fill", function() {return that.color(i);} )
-          .style("font-size","24px")
+          .style("font-size","22px")
           .attr("class","legend")
           .text(function() { return d.coupleid; });
       
