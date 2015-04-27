@@ -37,7 +37,7 @@
 
     <!-- add own vis classes-->
     <script src = "js/scorevis2.js"></script>
-    <script src = "js/resultvis.js"></script>
+    <!--<script src = "js/resultvis.js"></script>-->
 
 </head>
 <body>
@@ -76,7 +76,7 @@
                 //Instantiate all Vis Objects here
                 var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
                 debugger;
-               var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
+               //var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
 
                 // TODO: bind the eventHandler to the Vis Objects
                 /*$(MyEventHandler).bind("selectionChanged", function(event, type){
