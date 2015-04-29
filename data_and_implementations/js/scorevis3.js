@@ -2,7 +2,7 @@
  * Created by Hendrik Strobelt (hendrik.strobelt.com) on 1/28/15.
  */
 
-//Leila"s additions: added color scale l.63
+//Leila's additions: added color scale l.63
 
 /*
  *
@@ -25,22 +25,12 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.data = _data;
     this.eventHandler = _eventHandler;
     this.displayData = [];
-
-
+    //console.log(selectedIndex);
+    debugger;
     // TODO: define all "constants" here
-    this.margin = {top: 50, right: 400, bottom: 100, left: 50},
+    this.margin = {top: 50, right: 200, bottom: 100, left: 50},
     this.width = 850,
     this.height = 330;
-
-    var selectedIndex = [];
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
 
     this.initVis();
 }
@@ -53,7 +43,7 @@ ScoreVis.prototype.initVis = function(){
 
     var that = this; // read about the this
 
-    //TODO: implement here all things that don"t change
+    //TODO: implement here all things that don't change
     //TODO: implement here all things that need an initial status
     // Examples are:
     // - construct SVG layout
@@ -63,10 +53,7 @@ ScoreVis.prototype.initVis = function(){
       .append("g")
         .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
 
-    this.gLines = this.svg.append("g")
-
-    this.gPoints = this.svg.append("g")
-
+    this.g = this.svg.append("g")
     // creates axis and scales
     this.x = d3.time.scale()
       .range([0, this.width]);
@@ -90,9 +77,6 @@ ScoreVis.prototype.initVis = function(){
       .scale(this.y)
       .orient("left");
 
-    this.tip = d3.tip()
-      .attr('class', 'd3-tip');
-
     /*this.area = d3.svg.area()
       .interpolate("monotone")
       .x(function(d) { return that.x(d.time); })
@@ -103,7 +87,7 @@ ScoreVis.prototype.initVis = function(){
  /*   this.brush = d3.svg.brush()
       .on("brush", function(){
         var selectedDates = that.brush.extent();
-        // Trigger selectionChanged event. You"d need to account for filtering by time AND type
+        // Trigger selectionChanged event. You'd need to account for filtering by time AND type
         $(that.eventHandler).trigger("selectionChanged", selectedDates);
       });
 */
@@ -127,8 +111,6 @@ ScoreVis.prototype.initVis = function(){
         .style("text-anchor", "end")
         .text("Score");
 
-
-
     // filter, aggregate, modify data
     this.wrangleData();
 
@@ -141,17 +123,11 @@ ScoreVis.prototype.initVis = function(){
 /**
  * Method to wrangle the data. In this case it takes an options object
   */
-ScoreVis.prototype.wrangleData= function(){
+ScoreVis.prototype.wrangleData = function(){
 
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
-    this.displayData = this.data
-    /*this.displayData[0] = this.data[100];
-    this.displayData[1] = this.data[200];
-    this.displayData[2] = this.data[300];
-    this.displayData[3] = this.data[400];
-    this.displayData[4] = this.data[500];
-    this.displayData[5] = this.data[600];*/
+    this.displayData = this.data;
 }
 
 
@@ -164,28 +140,19 @@ ScoreVis.prototype.updateVis = function(){
     var that = this;
 
     // define mins and maxes for scale domains
-    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return e.date;}); });
-    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return e.date;}); });
-    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return parseInt(e.score); }); });
-    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return parseInt(e.score)/*+50*/; }); });
-
+    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.date;}); });
+    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.date;}); });
+    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) {return e.score-50;}); });
+    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) {return e.score;}); });
+    
     // updates scale domains
     this.x.domain([dateMin, dateMax]);  
     this.y.domain([scoreMin, scoreMax]);
     this.xScale.domain([dateMin, dateMax]); 
     this.yScale.domain([scoreMin, scoreMax]);
 
-    // color scale ... doesn"t work
+    // color scale ... doesn't work
     this.color.domain(this.displayData.map(function(d) {return d.coupleid}));
-
-    this.tip.html(function(d) { return d; });
-    /*this.tip = d3.tip()
-      .attr('class', 'd3-tip')
-      .offset([-10, 0])
-      .html(function(d) { 
-            return "<strong>Comp:</strong> <span style='color:red'>" + d.coupleid + "</span>";
-          })
-      })*/
 
     // updates axis
     this.svg.select(".x.axis")
@@ -193,8 +160,6 @@ ScoreVis.prototype.updateVis = function(){
 
     this.svg.select(".y.axis")
         .call(this.yAxis)
-
-    this.svg.call(this.tip);    
 
     /* updates graph
     var path = this.svg.selectAll(".area")
@@ -216,111 +181,72 @@ ScoreVis.prototype.updateVis = function(){
   var line = d3.svg.line()
     .x(function(d) { return that.x(d.date); })
     .y(function(d) { return that.y(d.score); })
-    .interpolate("monotone");
-  
-  this.ptext = that.gPoints.selectAll(".ptext");
+    //.interpolate("basis");
 
-  // append text for points for competitions to "gPoints"
-  var enterCompName = function(i, j) {
-    console.log("hi")
-      that.ptext
-          .data(that.displayData[i].events[j])
-        .enter().append("gPoints:text")
-           .attr("id", function(e) {return "ptext_" + e.compid; })
-           .attr("transform", function(e) { return "translate(" + that.x(e.date) + "," + that.y(e.score) + ")"; })
-           .attr("x", 3)
-           .attr("dy", ".35em")
-           .attr("id", function(e) { return "ptext_"+e.compid; })
-           .attr("opacity", 1)
-           .text( function(e) { return e.compname; });
-
-      //that.ptext.exit().remove;
-  }
-
-  var exitCompNmae = function() {
-      that.ptext
-          .data([])
-        .enter().append("gPoints:text")
-           .attr("id", function(e) { return "ptext_" + e.compid; })
-           .attr("transform", function(e) { return "translate(" + that.x(e.date) + "," + that.y(e.score) + ")"; })
-           .attr("x", 3)
-           .attr("dy", ".35em")
-           .attr("id", function(e) { return "ptext_"+e.compid; })
-           .attr("opacity", 1)
-           .text( function(e) { return e.compname; });
-
-      that.ptext.remove;
-  }
 
   // loop through all couples in displayData
   this.displayData.forEach(function(d,i) {
-
-      // append circles for points for competitions to "gPoints"
-      that.points = that.gPoints.selectAll(".point")
+      var points = that.svg.selectAll(".point")
           .data(that.displayData[i].events)
-        .enter().append("gPoints:circle")
-           .attr("stroke", function() {return that.color(i);} )
-           .attr("id", "point_"+d.coupleno)
-           .attr("fill", function() {return that.color(i);} )
-           .attr("cx", function(e) { return that.x(e.date) })
-           .attr("cy", function(e) { return that.y(e.score) })
-           .attr("r", 3.5)
-           .on("mouseover",function(e, j) { enterCompName(i, j) })
-           .on("mouseout", exitCompNmae());
+        .enter().append("svg:circle")
+           .attr("stroke", "black")
+           .attr('id', 'point_'+d.coupleno)
+           .attr("fill", function(d, i) { return "black" })
+           .attr("cx", function(d, i) { return that.x(d.date) })
+           .attr("cy", function(d, i) { return that.y(d.score) })
+           .attr("r", function(d, i) { return 3 });
 
-      // append text for lines for each couple to "gLines"
-      that.gLines.append("gLines:text")
+      // append text to 'g' for that couple
+      that.g.append('g:text')
           //.datum(function() { return { debugger; coupleid: d.coupleid, one_event: d.events[d.events.length - 1]}; })
           .attr("transform", function() { return "translate(" + that.x(d.events[d.events.length - 1].date) + "," + that.y(d.events[d.events.length - 1].score) + ")"; })
           .attr("x", 3)
           .attr("dy", ".35em")
-          .attr("id", "text_"+d.coupleno)
-          .attr("opacity", 0)
-          .style("fill", function() {return that.color(i);} )
-          .style("font-size","24px")
-          .attr("class","legend")
+          .attr('id', 'text_'+d.coupleno)
+          .attr('opacity', 0)
           .text(function() { return d.coupleid; });
       
-      // append path for lines for each couple to "gLines" and implement mouseover/mouseout functionality for text for that couple
-      that.gLines.append("gLines:path")
-          .attr("d", line(d.events))
-          .attr("opacity", 0.5)
-          .attr("stroke", function() {return that.color(i);} )/*function() { return "hsl(" + i/9 * 200 + ",100%,50%)"; })*/
-          .attr("stroke-width", 3)
-          .attr("id", "line_"+d.coupleno)
-          .attr("fill", "none")
-          .on("mouseover", function() {
-              d3.select("#text_" + d.coupleno).style("opacity", 1);
-          })
-          .on("mouseout", function() {
-              d3.select("#text_" + d.coupleno).style("opacity", 0);
-          });
+      // append path to 'g' for that couple and implement mouseover/mouseout functionality for text for that couple
+      that.g.append('g:path')
+        .attr('d', line(d.events))
+        .attr('stroke', function(d,j) { return "hsl(" + i/6 * 200 + ",100%,50%)"; })
+        .attr('stroke-width', 2)
+        .attr('id', 'line_'+d.coupleno)
+        .attr('fill', 'none')
+        .on('mouseover', function() {
+            d3.select("#text_" + d.coupleno).style("opacity", 1);
+        })
+        .on('mouseout', function() {
+            d3.select("#text_" + d.coupleno).style("opacity", 0);
+        });
 
-      // append legend and implement on click functionality for line and text for that couple
-      that.svg.append("text")
-          .attr("x", function() { return i%3*that.width/3+100 })
-          .attr("y", function() { return i%2*20 + that.height + 50})
-          .on("click",function(){
-              var active   = d.active ? false : true;
-              var opacity = active ? 0 : 1;
-              d3.select("#line_" + d.coupleno).style("opacity", opacity);
-              d3.selectAll("#point_" + d.coupleno).style("opacity", opacity);
-              d3.select("#text_" + d.coupleno).style("opacity", 0);
-              d.active = active;
-          })
-          .text(d.coupleid);
-      });
+    // append legend and implement on click functionality for line and text for that couple
+    that.svg.append("text")
+      .attr("x", function() { return i%3*that.width/4+100 })
+      .attr("y", function() { return i%2*20 + that.height + 50})
+      .style("fill", "black")
+      .attr("class","legend")
+      .on('click',function(){
+          var active   = d.active ? false : true;
+          var opacity = active ? 0 : 1;
+          d3.select("#line_" + d.coupleno).style("opacity", opacity);
+          d3.selectAll("#point_" + d.coupleno).style("opacity", opacity);
+          d3.select("#text_" + d.coupleno).style("opacity", 0);
+          d.active = active;
+      })
+      .text(d.coupleid);
+});
 /*
             var couple1 = d3.svg.line()
                 .x(function(d) { return that.xScale(d.date); })
                 .y(function(d) { return that.yScale(d.score); })
                 .interpolate("cardinal");
 
-            this.svg.append("svg:path")
-              .attr("d", couple1(this.displayData.events))
-              .attr("stroke", "green")
-              .attr("stroke-width", 2)
-              .attr("fill", "none"); */
+            this.svg.append('svg:path')
+              .attr('d', couple1(this.displayData.events))
+              .attr('stroke', 'green')
+              .attr('stroke-width', 2)
+              .attr('fill', 'none'); */
 
 
     // TODO: implement update graphs (D3: update, enter, exit)
@@ -363,38 +289,47 @@ ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
  * ==================================
  *
  * */
+ScoreVis.prototype.filterData = function(_filter){
 
-ScoreVis.prototype.createDropdown = function(){
-  var that = this;
-  var list = d3.select("#primaryCouple").append("select").on("change", changeDisplay)
-//couples.unshift("null");
 
-  list.selectAll("option")
-      .data(this.data)
-      .enter()
-      .append("option")
-      .attr("class", "coupleNames")
-      //.attr("value", function(d) {return d.coupleid;})
-      //.attr("id", function(d) {return d.coupleid;})
-      .text(function(d) {
-      return d.coupleid; })
-      .on("change", changeDisplay);
+    // Set filter to a function that accepts all items
+    // ONLY if the parameter _filter is NOT null use this parameter
+    var filter = function(){return true;}
+    if (_filter != null){
+        filter = _filter;
+    }
+    //Dear JS hipster, a more hip variant of this construct would be:
+    // var filter = _filter || function(){return true;}
 
-  function changeDisplay() {
-    selectedIndex = d3.select(this)
-      .selectAll("option")
-      .filter(function (d, i) { 
-          return this.selected; 
-      }); 
-    //selectedIndex = list.property('selectedIndex');
-    console.log(selectedIndex);
-  }
+    var that = this;
+
+    // create an array of values for age 0-100
+    var res = d3.range(100).map(function () {
+        return 0;
+    });
+
+
+    // accumulate all values that fulfill the filter criterion
+
+    // TODO: implement the function that filters the data and sums the values
+    var selectedTime = {}
+    selectedTime = that.data.filter(filter);
+    selectedTime.map(function (d) {
+        res = sumArray(res, d.ages);
+        //d.ages.map(function (e){
+           // res[e.age] += parseInt(e["count(*)"]);
+        //})
+    });
+
+    return res;
+
 }
+
 
 var getInnerWidth = function(element) {
     var style = window.getComputedStyle(element.node(), null);
 
-    return parseInt(style.getPropertyValue("width"));
+    return parseInt(style.getPropertyValue('width'));
 }
 
 

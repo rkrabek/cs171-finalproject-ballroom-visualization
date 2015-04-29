@@ -167,10 +167,10 @@ ScoreVis.prototype.updateVis = function(){
 */
             var couple1 = d3.svg.line()
                 .x(function(d) {
-                    return that.xScale(d.date);
+                    return that.x(d.date);
                 })
                 .y(function(d) {
-                    return that.yScale(d.score);
+                    return that.y(d.score);
                 })
                 .interpolate("basis");
 
