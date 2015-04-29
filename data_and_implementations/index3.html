@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html>
+<style>
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: black;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+.axis text {
+   	stroke: black;
+   	fill: black;
+}
+
+</style>
 <head lang="en">
     <meta charset="UTF-8">
     <title>Homework 3 - MyWorld Data</title>
 
-    <!-- ADD Libraries-->
+    <!-- ADD Libraries    font-family: sans-serif;
+    font-size: 15px;-->
     <script src="libs/d3/d3.min.js" charset="utf-8"></script>
     <script src="libs/jquery/jquery-2.1.1.min.js" charset="utf-8"></script>
     <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
     <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <!-- Load c3.js -->
     <script src="libs/c3/c3-0.4.10/c3.min.js"></script>
     <!--Stylesheets-->
@@ -19,7 +36,7 @@
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 
     <!-- add own vis classes-->
-    <script src = "js/scorevis3.js"></script>
+    <script src = "js/scorevis2.js"></script>
 
 </head>
 <body>
@@ -162,23 +179,23 @@
                         })
                     })
 
-                    // Populate dropdown menue with unique couple ID's
-                    /*var nested_data = d3.nest()
+                    // Populate dropbdown menue with unique couple ID's
+ /*                   var nested_data = d3.nest()
                         .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
                         .rollup(function(leaves) { return leaves[0].coupleid })
                         .entries(couples);
-                        */
- /*                   var list = d3.select("#primaryCouple").append("select").on("change", change)
-//couples.unshift("null");
+
+                    var list = d3.select("#primaryCouple").append("select").on("change", change)
+
                     list.selectAll("option")
-                        .data(couples)
+                        .data(nested_data)
                         .enter()
                         .append("option")
-                        .attr("class", function(d) { return d.coupleid;})
-                        .attr("value", function(d) {return d.coupleid;})
-                        .attr("id", function(d) {return d.coupleid;})
+                        .attr("class", function(d) {return d.key;})
+                        .attr("value", function(d) {return d.key;})
+                        .attr("id", function(d) {return d.key;})
                         .text(function(d) {
-                        return d.coupleid; })
+                        return d.key; })
                         .on("change", change);
 
                     var selectedIndex = 0;
@@ -189,19 +206,17 @@
                     }
 */
                     //couplesData= couples[3];
-                    couplesData = []
+                    //couplesData = []
                     // Filter by couple
-                    couplesData[0] = couples[0];
-                    couplesData[1] = couples[100];
-                    couplesData[2] = couples[2];
-                    couplesData[3] = couples[3];
-                    couplesData[4] = couples[4];
-                    couplesData[5] = couples[5];
-                    //couplesData.unshift("null");
-
                     couplesData = couples;
+                    //couplesData[1] = couples[100];
+                    //couplesData[2] = couples[2];
+                    //couplesData[3] = couples[3];
+                    //couplesData[4] = couples[4];
+                    //couplesData[5] = couples[5];
+
                     //debugger;
-                    console.log(couplesData)
+                    //console.log(couplesData)
 
                     initVis();
                 }
