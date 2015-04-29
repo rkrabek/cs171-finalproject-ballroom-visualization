@@ -37,7 +37,7 @@
 
     <!-- add own vis classes-->
     <script src = "js/scorevis2.js"></script>
-    <!--<script src = "js/resultvis.js"></script>-->
+    <script src = "js/resultvis.js"></script>
 
 </head>
 <body>
@@ -47,6 +47,7 @@
     Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
     <div class="row">
             <div class="col-md-9" id="scoreVis"></div>
+            <div class="col-md-9" id="resultVis"></div>
     </div>
 </body>
     <script>
@@ -76,7 +77,7 @@
                 //Instantiate all Vis Objects here
                 var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
 
-               //var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
+               var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
 
                 // TODO: bind the eventHandler to the Vis Objects
                 /*$(MyEventHandler).bind("selectionChanged", function(event, type){
@@ -183,7 +184,7 @@
                     })
 
                     // Populate dropbdown menue with unique couple ID's
- /*                   var nested_data = d3.nest()
+                    var nested_data = d3.nest()
                         .key(function(d, i) { return d.coupleid}).sortKeys(d3.ascending)
                         .rollup(function(leaves) { return leaves[0].coupleid })
                         .entries(couples);
@@ -207,7 +208,7 @@
                             selectedIndex = list.property('selectedIndex');
                             console.log(selectedIndex)
                     }
-*/
+
                     //couplesData= couples[3];
                     //couplesData = []
                     // Filter by couple

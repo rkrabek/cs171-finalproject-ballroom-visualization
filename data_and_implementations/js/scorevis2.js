@@ -32,16 +32,6 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.width = 850,
     this.height = 330;
 
-    var selectedIndex = [];
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-
     this.initVis();
 }
 
@@ -127,8 +117,6 @@ ScoreVis.prototype.initVis = function(){
         .style("text-anchor", "end")
         .text("Score");
 
-
-
     // filter, aggregate, modify data
     this.wrangleData();
 
@@ -165,10 +153,10 @@ ScoreVis.prototype.updateVis = function(){
     var that = this;
 
     // define mins and maxes for scale domains
-    dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return e.date;}); });
-    dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return e.date;}); });
-    scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return parseInt(e.score); }); });
-    scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return parseInt(e.score)/*+50*/; }); });
+    var dateMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return e.date;}); });
+    var dateMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return e.date;}); });
+    var scoreMin = d3.min(this.displayData, function(d) { return d3.min(d.events, function(e) { return parseInt(e.score); }); });
+    var scoreMax = d3.max(this.displayData, function(d) { return d3.max(d.events, function(e) { return parseInt(e.score)/*+50*/; }); });
 
     // updates scale domains
     this.x.domain([dateMin, dateMax]);  
@@ -364,33 +352,6 @@ ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
  * ==================================
  *
  * */
-
-ScoreVis.prototype.createDropdown = function(){
-  var that = this;
-  var list = d3.select("#primaryCouple").append("select").on("change", changeDisplay)
-//couples.unshift("null");
-
-  list.selectAll("option")
-      .data(this.data)
-      .enter()
-      .append("option")
-      .attr("class", "coupleNames")
-      //.attr("value", function(d) {return d.coupleid;})
-      //.attr("id", function(d) {return d.coupleid;})
-      .text(function(d) {
-      return d.coupleid; })
-      .on("change", changeDisplay);
-
-  function changeDisplay() {
-    selectedIndex = d3.select(this)
-      .selectAll("option")
-      .filter(function (d, i) { 
-          return this.selected; 
-      }); 
-    //selectedIndex = list.property('selectedIndex');
-    console.log(selectedIndex);
-  }
-}
 
 var getInnerWidth = function(element) {
     var style = window.getComputedStyle(element.node(), null);

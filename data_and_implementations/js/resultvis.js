@@ -20,7 +20,7 @@
  * @param _eventHandler -- the Eventhandling Object to emit data to (see Task 4)
  * @constructor
  */
-ScoreVis = function(_parentElement, _data, _eventHandler){
+ResultVis = function(_parentElement, _data, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
     this.eventHandler = _eventHandler;
@@ -39,7 +39,7 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
 /**
  * Method that sets up the SVG and the variables
  */
-ScoreVis.prototype.initVis = function(){
+ResultVis.prototype.initVis = function(){
 
     var that = this; // read about the this
 
@@ -80,7 +80,7 @@ ScoreVis.prototype.initVis = function(){
 /**
  * Method to wrangle the data. In this case it takes an options object
   */
-ScoreVis.prototype.wrangleData= function(){
+ResultVis.prototype.wrangleData= function(){
 
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
@@ -90,8 +90,10 @@ ScoreVis.prototype.wrangleData= function(){
     this.displayData[2] = this.data[300];
     this.displayData[3] = this.data[400];
     this.displayData[4] = this.data[500];
-    this.displayData[5] = this.data[600];*/
+    this.displayData[5] = this.data[600]; */
     debugger;
+
+    // Filter data
 
 }
 
@@ -101,9 +103,29 @@ ScoreVis.prototype.wrangleData= function(){
  * the drawing function - should use the D3 selection, enter, exit
  * @param _options -- only needed if different kinds of updates are needed
  */
-ScoreVis.prototype.updateVis = function() {
+ResultVis.prototype.updateVis = function() {
     var that = this;
 
+    var scoreMin = d3.min(this.displayData.events, function(d) { return d3.min(d.results, function(e) { return parseInt(e.score); }); });
+    var scoreMax = d3.max(this.displayData.events, function(d) { return d3.max(d.results, function(e) { return parseInt(e.score); }); });
+
+    xScale.domain([min, max]);
+    yScale.domain(data.map(function(d) { return d.name; }));
+    
+    var rows = g.append("g")
+                    .selectAll("g.row")
+                    .data(data)
+                  .enter()
+                    .append("g")
+                    .attr("class", "row")
+ 
+        var bars = rows
+                    .append("rect")
+                    .attr("width", function(d) { return xScale(d.population); })
+                    .attr("height", 5)
+                    .attr("x", xScale(min))
+                    .attr("y", function(d) { return yScale(d.name); })
+                    .text(function(d) { return d; }); 
   
 }
 
