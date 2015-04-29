@@ -37,6 +37,7 @@
 
     <!-- add own vis classes-->
     <script src = "js/scorevis2.js"></script>
+    <!--<script src = "js/resultvis.js"></script>-->
 
 </head>
 <body>
@@ -75,6 +76,8 @@
                 //Instantiate all Vis Objects here
                 var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
 
+               //var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
+
                 // TODO: bind the eventHandler to the Vis Objects
                 /*$(MyEventHandler).bind("selectionChanged", function(event, type){
                     prio_vis.onSelectionChange(type);
@@ -98,7 +101,7 @@
                     *   ages: [..,..,..,..] (array counts of votes per age 0-99)
                     *
                     * */ 
-                    var allData = _allData
+                    allData = _allData
                     allData.map(function (d){
                         d.events.map(function (e){
                             e.date = dateFormatter.parse(e["date"]);
