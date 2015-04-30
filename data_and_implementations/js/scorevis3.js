@@ -32,6 +32,19 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.width = 850,
     this.height = 330;
 
+    /*this.vars = {
+    "debug": false,
+    //'encoding': "gdp",
+    "filter": []
+    //'aggregate': [],
+    //'year': 1995,
+    //'min_year': 1995,
+    //'max_year': 2012,
+    //'columns': [],
+    //'data': null,
+    //'sort_by': {'column': 'population', 'asc': true}
+  }*/
+
     var selectedIndex = [];
     this.createDropdown();
     this.createDropdown();
@@ -366,30 +379,37 @@ ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
 
 ScoreVis.prototype.createDropdown = function(){
   var that = this;
-  var list = d3.select("#primaryCouple").append("select").on("change", changeDisplay)
-//couples.unshift("null");
-
+  var list = d3.select("#primaryCouple").append("select").on("change", function() {selectedIndex = that.displayChange(); console.log(selectedIndex)});
+  //couples.unshift("null");
   list.selectAll("option")
-      .data(this.data)
-      .enter()
-      .append("option")
-      .attr("class", "coupleNames")
-      //.attr("value", function(d) {return d.coupleid;})
-      //.attr("id", function(d) {return d.coupleid;})
-      .text(function(d) {
-      return d.coupleid; })
-      .on("change", changeDisplay);
-
-  function changeDisplay() {
-    selectedIndex = d3.select(this)
-      .selectAll("option")
-      .filter(function (d, i) { 
-          return this.selected; 
-      }); 
-    //selectedIndex = list.property('selectedIndex');
-    console.log(selectedIndex);
+        .data(this.data)
+        .enter()
+        .append("option")
+        .attr("class", function(d) {return d.coupleid;})
+        .text(function(d) {
+        return d.coupleid; })
   }
-}
+
+ScoreVis.prototype.displayChange = function() {
+    selectedIndex = []
+
+    selectedIndex = d3.selectAll("option")
+        .filter(function(d,i) {
+            return this.selected;
+        });
+
+    //selectedIndex = list.property('selectedIndex');
+    //console.log(selectedIndex);
+
+    var selectedIndex2 = []
+    selectedIndex[0].forEach(function(d, i) {
+        selectedIndex2[i] = d.className
+    })
+    return selectedIndex2;
+
+    //selectedIndex = list.property('selectedIndex');
+} 
+
 
 var getInnerWidth = function(element) {
     var style = window.getComputedStyle(element.node(), null);
@@ -399,62 +419,6 @@ var getInnerWidth = function(element) {
 
 
 
-/**
- * creates the y axis slider
- * @param svg -- the svg element
- */
-ScoreVis.prototype.addSlider = function(svg){
-    var that = this;
-
-    // TODO: Think of what is domain and what is range for the y axis slider !!
-    var sliderScale = d3.scale.linear().domain([0,200]).range([0,200])
-
-    var sliderDragged = function(){
-        var value = Math.max(0, Math.min(200,d3.event.y));
-
-        var sliderValue = sliderScale.invert(value);
-
-        // TODO: do something here to deform the y scale
-        console.log("Y Axis Slider value: ", sliderValue);
-
-
-        d3.select(this)
-            .attr("y", function () {
-                return sliderScale(sliderValue);
-            })
-
-        that.updateVis({});
-    }
-    var sliderDragBehaviour = d3.behavior.drag()
-        .on("drag", sliderDragged)
-
-    var sliderGroup = svg.append("g").attr({
-        class:"sliderGroup",
-        "transform":"translate("+0+","+30+")"
-    })
-
-    sliderGroup.append("rect").attr({
-        class:"sliderBg",
-        x:5,
-        width:10,
-        height:200
-    }).style({
-        fill:"lightgray"
-    })
-
-    sliderGroup.append("rect").attr({
-        "class":"sliderHandle",
-        y:0,
-        width:20,
-        height:10,
-        rx:2,
-        ry:2
-    }).style({
-        fill:"#333333"
-    }).call(sliderDragBehaviour)
-
-
-}
 
 
 
