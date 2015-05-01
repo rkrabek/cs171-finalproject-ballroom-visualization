@@ -24,8 +24,8 @@ ResultVis = function(_parentElement, _data, _eventHandler){
     this.parentElement = _parentElement;
     this.data = _data;
     this.eventHandler = _eventHandler;
+    this.compData = [];
     this.displayData = [];
-
 
     // TODO: define all "constants" here
     this.margin = {top: 50, right: 400, bottom: 100, left: 50},
@@ -81,19 +81,23 @@ ResultVis.prototype.initVis = function(){
  * Method to wrangle the data. In this case it takes an options object
   */
 ResultVis.prototype.wrangleData= function(){
-
+    that = this;
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
-    this.displayData = this.data[0]
-    /*this.displayData[0] = this.data[100];
-    this.displayData[1] = this.data[200];
-    this.displayData[2] = this.data[300];
-    this.displayData[3] = this.data[400];
-    this.displayData[4] = this.data[500];
-    this.displayData[5] = this.data[600]; */
-    debugger;
 
-    // Filter data
+    // compData holds all data from that comp (including name of comp, compid etc.)
+    this.compData = this.data.filter(function(d) {
+            if (d.name == that.data[0].name) {
+                return true;
+            }
+    })[0];
+
+    // displayData holds data for event to be visualized, including the array of result objects 
+    this.displayData = that.compData.events.filter(function(e) {
+            if (e.name == that.data[0].events[1].name) {
+                return true;
+            }
+    })[0];
 
 }
 
@@ -106,19 +110,23 @@ ResultVis.prototype.wrangleData= function(){
 ResultVis.prototype.updateVis = function() {
     var that = this;
 
-    var scoreMin = d3.min(this.displayData.events, function(d) { return d3.min(d.results, function(e) { return parseInt(e.score); }); });
-    var scoreMax = d3.max(this.displayData.events, function(d) { return d3.max(d.results, function(e) { return parseInt(e.score); }); });
+    var scoreMin = d3.min(this.displayData.results, function(r) { return parseInt(r.score); }); });
+    var scoreMax = d3.max(this.displayData.results, function(r) { return parseInt(r.score); }); });
 
-    xScale.domain([min, max]);
-    yScale.domain(data.map(function(d) { return d.name; }));
+    this.xScale.domain([scoreMin, scoreMax]);
+    this.yScale.domain(this.displayData.map(function(d) { return d.name; }));
     
-    var rows = g.append("g")
-                    .selectAll("g.row")
-                    .data(data)
-                  .enter()
-                    .append("g")
-                    .attr("class", "row")
- 
+    groups = g
+      .attr("class", "gParent")
+      .selectAll("g.group")
+      .data(displayData, function(d))
+
+     groups_enter = groups.enter()
+      .append("g")
+      .attr("class", "group")
+      .attr("transform", function(d, i) { 
+        return "translate(0, " + yScale(accessor_name(d)) +")"; 
+      });
         var bars = rows
                     .append("rect")
                     .attr("width", function(d) { return xScale(d.population); })
@@ -128,6 +136,7 @@ ResultVis.prototype.updateVis = function() {
                     .text(function(d) { return d; }); 
   
 }
+ResultVis.prototype.accessor_name = function(d) { return d.name; };
 
 /**
  * Gets called by event handler and should create new aggregated data
