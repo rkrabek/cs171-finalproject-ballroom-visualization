@@ -51,9 +51,7 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.createDropdown();
     this.createDropdown();
     this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
-    this.createDropdown();
+
 
     this.initVis();
 }
@@ -65,7 +63,6 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
 ScoreVis.prototype.initVis = function(){
 
     var that = this; // read about the this
-
     //TODO: implement here all things that don"t change
     //TODO: implement here all things that need an initial status
     // Examples are:
@@ -154,11 +151,16 @@ ScoreVis.prototype.initVis = function(){
 /**
  * Method to wrangle the data. In this case it takes an options object
   */
-ScoreVis.prototype.wrangleData= function(){
+ScoreVis.prototype.wrangleData= function(filteredData){
 
     // displayData should hold the data which is visualized
     // pretty simple in this case -- no modifications needed
-    this.displayData = this.data
+    if (filteredData != null) {
+          this.displayData = filteredData;
+    } else if (filteredData == null) {
+      this.displayData = this.data;
+    }
+    debugger;
     /*this.displayData[0] = this.data[100];
     this.displayData[1] = this.data[200];
     this.displayData[2] = this.data[300];
@@ -359,10 +361,46 @@ ScoreVis.prototype.updateVis = function(){
  * be defined here.
  * @param selection
  */
-ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
+ScoreVis.prototype.onSelectionChange= function (){
+    var that = this;
+    selectedIndex = []
 
+    selectedIndex = d3.selectAll("option")
+        .filter(function(d,i) {
+            return this.selected;
+        });
+
+    //selectedIndex = list.property('selectedIndex');
+    //console.log(selectedIndex);
+
+    var selectedIndex2 = []
+    selectedIndex[0].forEach(function(d, i) {
+        selectedIndex2[i] = d.className
+    })
+
+    //sorts alphabetically
+    selectedIndex2 = selectedIndex2.sort();
+    //filters out duplicate couples
+    var uniqueIndex = [];
+    for (var i = 0; i < selectedIndex2.length; i++) {
+        if (selectedIndex2[i + 1] != selectedIndex2[i]) {
+            uniqueIndex.push(selectedIndex2[i]);
+        }
+    }
+    var filteredIndex = [];
+    uniqueIndex.map(function (d){
+      that.data.map(function (e){
+        if (e.coupleid == d) {
+          filteredIndex.push(e);
+        } else {
+          return false;
+        }
+      });
+    });
+    
+    this.wrangleData(filteredIndex);
     // TODO: call wrangle function
-    this.updateVis
+    this.updateVis();
     // do nothing -- no update when brushing
 
 
@@ -379,13 +417,13 @@ ScoreVis.prototype.onSelectionChange= function (selectionStart, selectionEnd){
 
 ScoreVis.prototype.createDropdown = function(){
   var that = this;
-  var list = d3.select("#primaryCouple").append("select").on("change", function() {selectedIndex = that.displayChange(); console.log(selectedIndex)});
+  var list = d3.select("#primaryCouple").append("select").on("change", function() {selectedIndex = that.onSelectionChange();});
   //couples.unshift("null");
   list.selectAll("option")
-        .data(this.data)
+        .data(that.data)
         .enter()
         .append("option")
-        .attr("class", function(d) {return d.coupleid;})
+        .attr("class", function(d) { return d.coupleid;})
         .text(function(d) {
         return d.coupleid; })
   }
