@@ -204,6 +204,15 @@ ScoreVis.prototype.updateVis = function(){
         .on('mouseout', tip.hide);
         //.style("fill", function(d) { return that.color(d.coupleid); })
 
+    this.svg.selectAll('circle')
+        .on("click", function(d) {
+            var selectedStuff = [];
+            selectedStuff.push(d.compname);
+            selectedStuff.push(d.eventname);
+            debugger;
+            $(that.eventHandler).trigger("selectionChanged", selectedStuff);
+        })
+
   }
 
  function remove_graph() {

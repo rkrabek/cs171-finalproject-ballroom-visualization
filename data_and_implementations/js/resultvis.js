@@ -32,7 +32,7 @@ ResultVis = function(_parentElement, _data, _eventHandler){
     this.width = 600 - this.margin.left - this.margin.right;
     this.height = 480 - this.margin.top - this.margin.bottom;
 
-    this.wrangleData();
+    //this.wrangleData();
 
     this.initVis();
 }
@@ -56,10 +56,10 @@ ResultVis.prototype.initVis = function(){
     this.yScale = d3.scale.ordinal().rangeRoundBands([0, that.height]);
 
     // filter, aggregate, modify data
-    this.wrangleData();
+   // this.wrangleData();
 
     // create table (vertical bar chart)
-    this.createVis();
+    //this.createVis();
 
     // update table
     //this.updateVis();
@@ -70,22 +70,23 @@ ResultVis.prototype.initVis = function(){
 /**
  * Method to wrangle the data. In this case it takes an options object
   */
-ResultVis.prototype.wrangleData= function(){
+ResultVis.prototype.wrangleData= function(compName, eventName){
     that = this;
-
+debugger;
     // compData holds all data from that comp (including name of comp, compid etc.)
-    this.compData = this.data.filter(function(d) {
-            if (d.name == that.data[0].name) {
+    this.compData = this.data.filter(function (d) {
+            if (d.name == compName) {
                 return true;
             }
     })[0];
-
+debugger;
     // displayData holds data for event to be visualized, including the array of result objects 
     this.displayData = that.compData.events.filter(function(e) {
-            if (e.name == that.data[0].events[1].name) {
+            if (e.name == eventName) {
                 return true;
             }
     })[0];
+    this.createVis();
 
 }
 
@@ -143,6 +144,27 @@ ResultVis.prototype.createVis = function() {
 function remove_table() {
     d3.select(".gParent").remove()
 }  
+
+ResultVis.prototype.onSelectionChange = function (selectedComp){
+    debugger;
+    // TODO: call wrangle function
+    var filterComps = function (d) {
+        if(d.time >= selectionStart && d.time <= selectionEnd) {
+            return true;
+        }
+        else {
+            return false;
+        } 
+    }
+    if (selectionStart.getTime() !== selectionEnd.getTime()) {
+        this.wrangleData(filterDates);
+    } else {
+        this.wrangleData(null);
+    }
+    this.updateVis();
+
+
+}
 /**
  * the drawing function - should use the D3 selection, enter, exit
  * @param _options -- only needed if different kinds of updates are needed

@@ -158,9 +158,10 @@
                 var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
 
                 // TODO: bind the eventHandler to the Vis Objects
-                /*$(MyEventHandler).bind("selectionChanged", function(event, type){
-                    prio_vis.onSelectionChange(type);
-                });*/
+                $(MyEventHandler).bind("selectionChanged", function (event, selectedComp, selectedEvent){
+                    debugger;
+                    result_vis.wrangleData(selectedComp, selectedEvent);
+                });
                 // events will be created from the CountVis object (nothing to do here)
                 // events will be consumed by the PrioVis and AgeVis object (binding should happen here)
             }
@@ -242,7 +243,8 @@
                                         couples[i].events[eventCount]["date"] = e["date"];
                                         couples[i].events[eventCount]["style"] = e["style"];
                                         couples[i].events[eventCount]["compid"] = d["compid"];
-                                        couples[i].events[eventCount]["compname"] = d["name"];   
+                                        couples[i].events[eventCount]["compname"] = d["name"];
+                                        couples[i].events[eventCount]["eventname"] = e["name"];
                                         couples[i].events[eventCount]["coupleid"] = r["coupleid"];        
                                         eventCount++;
                                     }
