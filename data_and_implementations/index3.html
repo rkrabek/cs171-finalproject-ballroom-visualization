@@ -106,7 +106,8 @@
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
 
     <!-- add own vis classes-->
-    <script type = "text/javascript" src = "js/scorevis3.js"></script>
+    <script src = "js/scorevis3.js"></script>
+    <script src = "js/resultvis.js"></script>
 
 </head>
 <body>
@@ -121,11 +122,12 @@
        <!-- <button id="addCouple" class="changeCouples" onclick="createDropdown();">Add Couple</button>
         <button id="deleteCouple" class="changeCouples" onclick="deleteDropdown();">Undo Add</button> -->
     </div>
-    <p class="container">
+    <div class="container">
         <div id="primaryCouple" class="primaryCouple"></div>
-    </p>    
+    </div>    
     <div class="row">
             <div class="col-md-9" id="scoreVis"></div>
+            <div class="col-md-9" id="resultVis"></div>
     </div>
 </body>
     <script>
@@ -145,8 +147,6 @@
 
             // call this function after Data is loaded, reformatted and bound to the variables
             var initVis = function(){
-                
-                //createDropdown();
 
                 //TODO: Create an eventHandler  --> DONE :)
                 var MyEventHandler = new Object();
@@ -154,6 +154,8 @@
                 //TODO: 
                 //Instantiate all Vis Objects here
                 var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
+
+                var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
 
                 // TODO: bind the eventHandler to the Vis Objects
                 /*$(MyEventHandler).bind("selectionChanged", function(event, type){
@@ -168,7 +170,7 @@
 
                 if (!error) {
 
-                    var allData = _allData
+                    allData = _allData
                     allData.map(function (d){
                         d.events.map(function (e){
                             e.date = dateFormatter.parse(e["date"]);
@@ -249,9 +251,7 @@
                             })
                         })
                     })
-
-                    
-
+    
                     couplesData = couples;
 
                     initVis();

@@ -28,9 +28,11 @@ ResultVis = function(_parentElement, _data, _eventHandler){
     this.displayData = [];
 
     // TODO: define all "constants" here
-    this.margin = {top: 50, right: 400, bottom: 100, left: 50},
-    this.width = 850,
-    this.height = 330;
+    this.margin = {top: 50, right: 50, bottom: 50, left: 50};
+    this.width = 600 - this.margin.left - this.margin.right;
+    this.height = 480 - this.margin.top - this.margin.bottom;
+
+    this.wrangleData();
 
     this.initVis();
 }
@@ -41,38 +43,26 @@ ResultVis = function(_parentElement, _data, _eventHandler){
  */
 ResultVis.prototype.initVis = function(){
 
-    var that = this; // read about the this
-
-    //TODO: implement here all things that don"t change
-    //TODO: implement here all things that need an initial status
-    // Examples are:
-    // - construct SVG layout
-    this.svg = this.parentElement.append("svg")
-        .attr("width", this.width + this.margin.left + this.margin.right)
-        .attr("height", this.height + this.margin.top + this.margin.bottom)
-      .append("g")
-        .attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
-
-    // this.color = d3.scale.category20();
-
-    this.xScale = d3.scale.linear()
-      .range([0, this.width]);
-
-    this.yScale = d3.scale.ordinal()
-      .rangeRoundBands([0, this.height], .8, 0);
+    var that = this; 
 
     this.svg = d3.select("body").append("svg")
-                .attr("width", this.width+this.margin.left+this.margin.right)
-                .attr("height", this.height+this.margin.top+this.margin.bottom);
- 
+        .attr("width", that.width+that.margin.left+that.margin.right)
+        .attr("height", that.height+that.margin.top+that.margin.bottom);
+
     this.g = this.svg.append("g")
-                .attr("transform", "translate("+this.margin.left+","+this.margin.top+")");
+        .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
+
+    this.xScale = d3.scale.linear().range([0, that.width]);
+    this.yScale = d3.scale.ordinal().rangeRoundBands([0, that.height]);
 
     // filter, aggregate, modify data
     this.wrangleData();
 
-    // call the update method
-    this.updateVis();
+    // create table (vertical bar chart)
+    this.createVis();
+
+    // update table
+    //this.updateVis();
 }
 
 
@@ -82,8 +72,6 @@ ResultVis.prototype.initVis = function(){
   */
 ResultVis.prototype.wrangleData= function(){
     that = this;
-    // displayData should hold the data which is visualized
-    // pretty simple in this case -- no modifications needed
 
     // compData holds all data from that comp (including name of comp, compid etc.)
     this.compData = this.data.filter(function(d) {
@@ -101,13 +89,65 @@ ResultVis.prototype.wrangleData= function(){
 
 }
 
+ResultVis.prototype.createVis = function() {
+    var that = this;
+
+    // scale bar height to fill vis
+    this.bar_height = this.height/this.displayData.results.length;
+
+    // scale bar width by result
+    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return d.score }))]);
+    
+    // Vertical list of countries
+    this.yScale.domain(that.displayData.results.map(function(d)  { return d.coupleid }));
+
+    this.g = this.svg.append("g")
+        .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
+
+    // Groups for countries
+    this.groups = this.g
+        .attr("class", "gParent")
+        .selectAll("g.group")
+        .data(that.displayData.results, function(d) { return d.coupleid });
+
+    // Create a group for each country
+    this.groups_enter = this.groups.enter()
+        .append("g")
+        .attr("class", "group")
+        .attr("transform", function(d, i) { 
+            return "translate(0, " + that.yScale(d.coupleid) + ")"; 
+      });
+
+    // Text for each bar
+    this.groups_enter.append("text")
+        .attr("class","result")
+        .attr("dx", -5)
+        .attr("dy", this.bar_height)
+        .attr("text-anchor", "end")
+        .text(function(d) { return d.result; });
+
+    // Bar details
+    this.bars = this.groups_enter
+        .append("rect")
+        .attr("class","rect")
+        //.style("fill", function(d,i){ return color(d.continent) })
+        //.transition().duration(200)
+        .attr("width", function(d, i) { 
+            return that.xScale(d.score); 
+        })
+        .attr("height", that.bar_height-2)
 
 
+  }  
+
+function remove_table() {
+    d3.select(".gParent").remove()
+}  
 /**
  * the drawing function - should use the D3 selection, enter, exit
  * @param _options -- only needed if different kinds of updates are needed
  */
-ResultVis.prototype.updateVis = function() {
+/*ResultVis.prototype.updateVis = function() {
     var that = this;
 
     var scoreMin = d3.min(this.displayData.results, function(r) { return parseInt(r.score); }); });
@@ -135,8 +175,7 @@ ResultVis.prototype.updateVis = function() {
                     .attr("y", function(d) { return yScale(d.name); })
                     .text(function(d) { return d; }); 
   
-}
-ResultVis.prototype.accessor_name = function(d) { return d.name; };
+}*/
 
 /**
  * Gets called by event handler and should create new aggregated data

@@ -27,11 +27,12 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.data = _data;
     this.eventHandler = _eventHandler;
     this.displayData = [];
+    var selectedIndex = [];  
+    this.listCount = 0;  
+
     this.margin = {top: 50, right: 400, bottom: 100, left: 100},
     this.width = 750,
     this.height = 330;
-    this.listCount = 0;
-    var selectedIndex = [];
 
     this.createButtons();
 
