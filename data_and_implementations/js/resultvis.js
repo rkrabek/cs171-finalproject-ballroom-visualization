@@ -31,7 +31,7 @@ ResultVis = function(_parentElement, _data, _eventHandler){
     this.margin = {top: 50, right: 50, bottom: 50, left: 50};
     this.width = 600 - this.margin.left - this.margin.right;
     this.height = 480 - this.margin.top - this.margin.bottom;
-
+    this.bar_height = 30
     //this.wrangleData();
 
     this.initVis();
@@ -72,14 +72,13 @@ ResultVis.prototype.initVis = function(){
   */
 ResultVis.prototype.wrangleData= function(compName, eventName){
     that = this;
-debugger;
     // compData holds all data from that comp (including name of comp, compid etc.)
     this.compData = this.data.filter(function (d) {
             if (d.name == compName) {
                 return true;
             }
     })[0];
-debugger;
+
     // displayData holds data for event to be visualized, including the array of result objects 
     this.displayData = that.compData.events.filter(function(e) {
             if (e.name == eventName) {
@@ -91,23 +90,40 @@ debugger;
 }
 
 ResultVis.prototype.createVis = function() {
-    var that = this;
+   var that = this;
+    
+    remove_table()
 
     // scale bar height to fill vis
-    this.bar_height = this.height/this.displayData.results.length;
+    this.height = this.bar_height*this.displayData.results.length;
 
     // scale bar width by result
     this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return d.score }))]);
-    
+
     // Vertical list of countries
     this.yScale.domain(that.displayData.results.map(function(d)  { return d.coupleid }));
 
+    // update tool tip
+    var tip = d3.tip()
+        .attr("class", "d3-tip-2")
+        .direction("e")
+        .offset([0, 20])
+        .html(function(d) { 
+            if (d.change<0) {
+                return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span>";
+            } else {
+                return "<strong>Change:</strong> <span style='color:#FE9A2E'>" + d.change + "</span>";
+            }
+      });
+
     this.g = this.svg.append("g")
+        .attr("class", "gParent2")
         .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
+
+    this.g.call(tip);    
 
     // Groups for countries
     this.groups = this.g
-        .attr("class", "gParent")
         .selectAll("g.group")
         .data(that.displayData.results, function(d) { return d.coupleid });
 
@@ -122,31 +138,64 @@ ResultVis.prototype.createVis = function() {
     // Text for each bar
     this.groups_enter.append("text")
         .attr("class","result")
-        .attr("dx", -5)
-        .attr("dy", this.bar_height)
+        .attr("dx", 10)
+        .attr("dy", this.bar_height/2)
         .attr("text-anchor", "end")
-        .text(function(d) { return d.result; });
+        .text(function(d) { return "placement: " + d.result; });
 
-    // Bar details
-    this.bars = this.groups_enter
+    // Main bar details
+    this.mainBars = this.groups_enter
         .append("rect")
-        .attr("class","rect")
+        .attr("class","mainRect")
         //.style("fill", function(d,i){ return color(d.continent) })
         //.transition().duration(200)
         .attr("width", function(d, i) { 
             return that.xScale(d.score); 
         })
         .attr("height", that.bar_height-2)
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide);
 
+    // Change bar details
+    this.changeBars = this.groups_enter
+        .append("rect")
+        .attr("class","changeRect")
+        .attr("fill", function(d) {
+            if (d.change<0) {
+                return "gray"
+            } else {
+                return "#FE9A2E"
+            }
+        })
+        .attr("opacity", "0")
+        //.style("fill", function(d,i){ return color(d.continent) })
+        //.transition().duration(200)
+        .attr("width", function(d, i) { 
+            if (d.change=="=") {
+                return that.xScale(0)
+            } else {
+                return that.xScale(Math.abs(d.change)); 
+            }
+        })
+        .attr("height", that.bar_height-2)
+        .attr("transform", function(d, i) { 
+            if (d.change<0) {
+                return "translate(" + that.xScale(d.score) + ",0)";
+            } else if (d.change=="=") {
+                return "translate(" + that.xScale(d.score) + ",0)";
+            } else {    
+                return "translate(" + that.xScale(parseInt(d.score)-parseInt(d.change)) + ",0)";
+            }
+      })  
 
-  }  
+}   
 
 function remove_table() {
-    d3.select(".gParent").remove()
+    d3.select(".gParent2").remove()
 }  
 
 ResultVis.prototype.onSelectionChange = function (selectedComp){
-    debugger;
+
     // TODO: call wrangle function
     var filterComps = function (d) {
         if(d.time >= selectionStart && d.time <= selectionEnd) {

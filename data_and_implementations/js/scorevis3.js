@@ -209,7 +209,6 @@ ScoreVis.prototype.updateVis = function(){
             var selectedStuff = [];
             selectedStuff.push(d.compname);
             selectedStuff.push(d.eventname);
-            debugger;
             $(that.eventHandler).trigger("selectionChanged", selectedStuff);
         })
 
