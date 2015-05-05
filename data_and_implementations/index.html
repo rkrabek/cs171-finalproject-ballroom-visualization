@@ -1,14 +1,178 @@
+
 <!DOCTYPE html>
 <html>
+<!--text:hover {
+    opacity:0;
+}-->
+<style>
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    stroke: black;
+    fill: black;
+}
+.d3-tip-1 {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip-1:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.6);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip-1.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.d3-tip-2 {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip-2:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+}
+
+/* Style northward tooltips differently */
+/* Eastward tooltips */
+.d3-tip-2.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 0;
+  top: 50%;
+  left: -8px;
+}
+.point {
+    stroke: gray;
+    opacity: 0.8;
+    fill: lightgray;
+    stroke-width: 2;
+}
+
+.linetext {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.couple:hover .line{
+    stroke-width: 5;
+    opacity: .8;
+}
+
+.couple:hover .linetext {
+  visibility: visible;
+  opacity: .8;
+}
+
+.couple:hover .point{
+    fill: gray;
+    opacity: .8;
+}
+.changeCouples {
+    background-color: #ccc;
+    border-radius:30px;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+
+.changeCouples:hover {
+    border: none;
+    background:gray;
+    box-shadow: 0px 0px 1px #777;
+}
+
+.group .mainRect{
+    /*fill: #FE9A2E;*/
+    fill: #D3D3D3;
+}
+
+.group:hover .mainRect {
+    fill: gray;
+    /*fill: #FF4000;*/
+    /*ill:  #FE9A2E;*/
+}
+
+.group:hover .changeRect {
+    visibility: visible;
+    opacity: 1;
+}
+
+.group:hover #text_couple {
+    fill: white;
+}
+
+#loadcontainer {
+    font-size: large;
+}
+
+#text {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#text_couple {
+    font-family: sans-serif;
+    fill:gray;
+    font-weight: bold;
+}
+
+#text_result {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+</style>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>Homework 3 - MyWorld Data</title>
+    <title>Visualizing Ballroom By Leila Hofer and Robert Krabek</title>
 
-    <!-- ADD Libraries-->
+    <!-- ADD Libraries    font-family: sans-serif;
+    font-size: 15px;-->
     <script src="libs/d3/d3.min.js" charset="utf-8"></script>
     <script src="libs/jquery/jquery-2.1.1.min.js" charset="utf-8"></script>
     <script src="libs/bootstrap/js/bootstrap.min.js" charset="utf-8"></script>
     <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <!-- Load c3.js -->
     <script src="libs/c3/c3-0.4.10/c3.min.js"></script>
     <!--Stylesheets-->
@@ -17,22 +181,35 @@
     <link href="libs/c3/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
     <!-- Get some nice font-->
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!-- add own vis classes-->
     <script src = "js/scorevis.js"></script>
-
+    <script src = "js/resultvis.js"></script>
 </head>
 <body>
+    <div class = "download" id = "download">
     <div class="container">
-        <h1>Visualization 1 Prototype</h1>
+        <h1>Visualizing Competitive Ballroom Results</h1>
+        <h5>By Leila Hofer and Robert Krabek<h5>
     </div> 
-    Choose Primary Couple <form><div id="primaryCouple" class="primaryCouple"></div></form>    
-    <div> 
-        <button class="small" onclick="hide();">Hide</button>
-        <button class="small" onclick="show();">Show</button>
+    <div class="container">
+        <h3>Compare Couples:</h3>
     </div>
+    <div class="container" id="loadcontainer" align="center">
+        <text class="text_loading" opacity="0">Loading...</text>
+        <p><i id="icon_loading" class="fa fa-refresh fa-spin" opacity="0"></i></p>
+    </div>
+    <div id = "buttonContainer" class="container">
+       <!-- <button id="addCouple" class="changeCouples" onclick="createDropdown();">Add Couple</button>
+        <button id="deleteCouple" class="changeCouples" onclick="deleteDropdown();">Undo Add</button> -->
+    </div>
+    <p></p>
+    <div class="container">
+        <div id="primaryCouple" class="primaryCouple"></div>
+    </div>    
     <div class="row">
             <div class="col-md-9" id="scoreVis"></div>
+            <div class="col-md-9" id="resultVis"></div>
     </div>
 </body>
     <script>
@@ -48,25 +225,24 @@
             var allData = [];
 
             // this function can convert Date objects to a string
-            // it can also convert strings to Date objects
-            // see: https://github.com/mbostock/d3/wiki/Time-Formatting
             var dateFormatter = d3.time.format("%d %b %Y");
-
 
             // call this function after Data is loaded, reformatted and bound to the variables
             var initVis = function(){
+
                 //TODO: Create an eventHandler  --> DONE :)
                 var MyEventHandler = new Object();
-
 
                 //TODO: 
                 //Instantiate all Vis Objects here
                 var score_vis = new ScoreVis(d3.select("#scoreVis"), couplesData, MyEventHandler);
 
+                var result_vis = new ResultVis(d3.select("#resultVis"), allData, MyEventHandler);
+
                 // TODO: bind the eventHandler to the Vis Objects
-                /*$(MyEventHandler).bind("selectionChanged", function(event, type){
-                    prio_vis.onSelectionChange(type);
-                });*/
+                $(MyEventHandler).bind("selectionChanged", function (event, selectedComp, selectedEvent){
+                    result_vis.onSelectionChange(selectedComp, selectedEvent);
+                });
                 // events will be created from the CountVis object (nothing to do here)
                 // events will be consumed by the PrioVis and AgeVis object (binding should happen here)
             }
@@ -76,17 +252,7 @@
 
                 if (!error) {
 
-                    // make our data look nicer and more useful:
-                    // per Day we want to have an object looking like this:
-                    /*
-                    * {
-                    *   time: .. (should be a Date object)
-                    *   count: .. (number of all votes)
-                    *   prios: [..,..,..,...] (array of number of votes per priority -> array length =16)
-                    *   ages: [..,..,..,..] (array counts of votes per age 0-99)
-                    *
-                    * */ 
-                    var allData = _allData
+                    allData = _allData
                     allData.map(function (d){
                         d.events.map(function (e){
                             e.date = dateFormatter.parse(e["date"]);
@@ -136,14 +302,13 @@
                             })
                         })
                         couples[i]["events"] = d3.range(0,eventCount).map(function(){ return { }; })
-                       
                         eventCount = 0;
                     });
 
                     //--------------------------------------------------------------------//
                     // -- POPULATE "COUPLES" OBJECT AND "EVENTS" OBJECTS WITHIN COUPLES-- //
                     //--------------------------------------------------------------------//
-              
+
                     // For each unique id map through all data and populate arrays
                     uniqueIDs.map(function(c, i) {
                         eventCount = 0
@@ -151,22 +316,31 @@
                             d.events.map(function(e) {
                                 e.results.map(function(r) {
                                     couples[i]["coupleid"] = c;
-                                    couples[i]["names"] = r["couple"];
-                                    couples[i]["country"] = r["country"];
                                     if (r.couple == c) {
+                                        couples[i]["coupleno"] = r["coupleid"]; 
+                                        couples[i]["country"] = r["country"];
                                         couples[i].events[eventCount]["score"] = r["score"];
                                         couples[i].events[eventCount]["change"] = r["change"];
-                                        couples[i].events[eventCount]["date"] = (e["date"]);
+                                        couples[i].events[eventCount]["date"] = e["date"];
                                         couples[i].events[eventCount]["style"] = e["style"];
                                         couples[i].events[eventCount]["compid"] = d["compid"];
-                                        couples[i].events[eventCount]["compname"] = d["name"];                        
+                                        couples[i].events[eventCount]["compname"] = d["name"];
+                                        couples[i].events[eventCount]["eventname"] = e["name"];
+                                        couples[i].events[eventCount]["coupleid"] = r["coupleid"];        
                                         eventCount++;
                                     }
                                 })
+                                //console.log(couples[i])
                             })
                         })
                     })
+    
                     couplesData = couples;
+
+                   // var obj = couplesData;
+                   // var data = "text/json;charset=uf-8," + encodeURIComponent(JSON.stringify(obj));
+                   // $('<a href="data:' + data + '" download="data.json">download JSON</a>').appendTo('#download');
+
                     initVis();
                 }
             }
@@ -181,7 +355,10 @@
             }
 
             startHere();
+
         })
+
+
     </script>
 </body>
 </html>
