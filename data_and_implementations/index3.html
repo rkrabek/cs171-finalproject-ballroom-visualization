@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <!--text:hover {
@@ -206,7 +207,7 @@
 
                 // TODO: bind the eventHandler to the Vis Objects
                 $(MyEventHandler).bind("selectionChanged", function (event, selectedComp, selectedEvent){
-                    result_vis.wrangleData(selectedComp, selectedEvent);
+                    result_vis.onSelectionChange(selectedComp, selectedEvent);
                 });
                 // events will be created from the CountVis object (nothing to do here)
                 // events will be consumed by the PrioVis and AgeVis object (binding should happen here)

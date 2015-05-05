@@ -85,15 +85,12 @@ ResultVis.prototype.wrangleData= function(compName, eventName){
                 return true;
             }
     })[0];
-    this.createVis();
 
 }
 
-ResultVis.prototype.createVis = function() {
+ResultVis.prototype.updateVis = function() {
    var that = this;
     
-    remove_table()
-
     // scale bar height to fill vis
     this.height = this.bar_height*this.displayData.results.length;
 
@@ -194,24 +191,13 @@ function remove_table() {
     d3.select(".gParent2").remove()
 }  
 
-ResultVis.prototype.onSelectionChange = function (selectedComp){
+ResultVis.prototype.onSelectionChange = function (selectedComp, selectedEvent){
 
-    // TODO: call wrangle function
-    var filterComps = function (d) {
-        if(d.time >= selectionStart && d.time <= selectionEnd) {
-            return true;
-        }
-        else {
-            return false;
-        } 
-    }
-    if (selectionStart.getTime() !== selectionEnd.getTime()) {
-        this.wrangleData(filterDates);
-    } else {
-        this.wrangleData(null);
-    }
+    remove_table();
+
+    this.wrangleData(selectedComp, selectedEvent);
+
     this.updateVis();
-
 
 }
 /**
