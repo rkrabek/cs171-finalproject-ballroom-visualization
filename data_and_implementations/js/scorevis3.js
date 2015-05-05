@@ -31,7 +31,7 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.listCount = 0;  
 
     this.margin = {top: 50, right: 400, bottom: 100, left: 100},
-    this.width = 750,
+    this.width = 600,
     this.height = 330;
 
     this.createButtons();
@@ -136,8 +136,8 @@ ScoreVis.prototype.updateVis = function(){
     
     // update tool tip
     var tip = d3.tip()
-      .attr("class", "d3-tip")
-      .offset([-10, 0])
+      .attr("class", "d3-tip-1")
+      .offset([-40, -10])
       .html(function(d) { 
             return "<strong>Comp:</strong> <span style='color:red'>" + d.compname + "</span>";
       });

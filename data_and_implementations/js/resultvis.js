@@ -29,8 +29,8 @@ ResultVis = function(_parentElement, _data, _eventHandler){
 
     // TODO: define all "constants" here
     this.margin = {top: 50, right: 50, bottom: 50, left: 50};
-    this.width = 600 - this.margin.left - this.margin.right;
-    this.height = 480 - this.margin.top - this.margin.bottom;
+    this.width = 700 - this.margin.left - this.margin.right;
+    this.height = 2000 - this.margin.top - this.margin.bottom;
     this.bar_height = 30
     //this.wrangleData();
 
@@ -53,7 +53,7 @@ ResultVis.prototype.initVis = function(){
         .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
 
     this.xScale = d3.scale.linear().range([0, that.width]);
-    this.yScale = d3.scale.ordinal().rangeRoundBands([0, that.height]);
+    this.yScale = d3.scale.ordinal();
 
     // filter, aggregate, modify data
    // this.wrangleData();
@@ -92,19 +92,21 @@ ResultVis.prototype.updateVis = function() {
    var that = this;
     
     // scale bar height to fill vis
-    this.height = this.bar_height*this.displayData.results.length;
+    this.height = this.bar_height*this.displayData.results.length+10*this.displayData.results.length /*+500*/;
 
-    // scale bar width by result
-    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return d.score }))]);
+    this.yScale.rangeBands([0, that.height, 10]);
 
     // Vertical list of countries
-    this.yScale.domain(that.displayData.results.map(function(d)  { return d.coupleid }));
-
+    this.yScale.domain(that.displayData.results.map(function(d) { return d.result }));
+    
+    // scale bar width by result
+    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { debugger; return d.score}))]);
+   
     // update tool tip
     var tip = d3.tip()
         .attr("class", "d3-tip-2")
-        .direction("e")
-        .offset([0, 20])
+        //.direction("e")
+        .offset( [-40, 200 ])
         .html(function(d) { 
             if (d.change<0) {
                 return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span>";
@@ -117,8 +119,6 @@ ResultVis.prototype.updateVis = function() {
         .attr("class", "gParent2")
         .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
 
-    this.g.call(tip);    
-
     // Groups for countries
     this.groups = this.g
         .selectAll("g.group")
@@ -129,16 +129,16 @@ ResultVis.prototype.updateVis = function() {
         .append("g")
         .attr("class", "group")
         .attr("transform", function(d, i) { 
-            return "translate(0, " + that.yScale(d.coupleid) + ")"; 
+            return "translate(0, " + that.yScale(d.result) + ")"; 
       });
 
     // Text for each bar
     this.groups_enter.append("text")
         .attr("class","result")
-        .attr("dx", 10)
+        .attr("dx", -10)
         .attr("dy", this.bar_height/2)
         .attr("text-anchor", "end")
-        .text(function(d) { return "placement: " + d.result; });
+        .text(function(d) { return d.result; });
 
     // Main bar details
     this.mainBars = this.groups_enter
@@ -149,9 +149,11 @@ ResultVis.prototype.updateVis = function() {
         .attr("width", function(d, i) { 
             return that.xScale(d.score); 
         })
-        .attr("height", that.bar_height-2)
+        .attr("height", that.bar_height)
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
+
+    this.mainBars.call(tip);    
 
     // Change bar details
     this.changeBars = this.groups_enter
@@ -174,7 +176,7 @@ ResultVis.prototype.updateVis = function() {
                 return that.xScale(Math.abs(d.change)); 
             }
         })
-        .attr("height", that.bar_height-2)
+        .attr("height", that.bar_height)
         .attr("transform", function(d, i) { 
             if (d.change<0) {
                 return "translate(" + that.xScale(d.score) + ",0)";
@@ -183,9 +185,41 @@ ResultVis.prototype.updateVis = function() {
             } else {    
                 return "translate(" + that.xScale(parseInt(d.score)-parseInt(d.change)) + ",0)";
             }
-      })  
+      })     
 
 }   
+
+/*
+
+.d3-tip-2 {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border-radius: 2px;
+}
+
+//Creates a small triangle extender for the tooltip 
+.d3-tip-2:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+}
+
+// Style northward tooltips differently 
+// Eastward tooltips
+.d3-tip-2.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 0;
+  top: 50%;
+  left: -8px;
+}
+*/
 
 function remove_table() {
     d3.select(".gParent2").remove()
