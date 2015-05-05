@@ -114,8 +114,8 @@ ResultVis.prototype.updateVis = function() {
         .html(function(d) { 
             if (d.change<0) {
                 return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span><div><strong>Score:</strong> <span style='color:red'>" + d.score + "</span></div>";
-            } else if (d.change==0) {
-                return "<strong>Change:</strong> <span style='color:red'>" + 0 + "</span><div><strong>Score:</strong> <span style='color:red'>" + d.score + "</span></div>";
+            } else if (d.change=="=") {
+                return "<strong>Change:</strong> <span style='color:#FFD119'>" + 0 + "</span><div><strong>Score:</strong> <span style='color:#FFD119'>" + d.score + "</span></div>";
             } else {
                 return "<strong>Change:</strong> <span style='color:#00B200'>" + d.change + "</span><div><strong>Score:</strong> <span style='color:#00B200'>" + d.score + "</span></div>";
             }
