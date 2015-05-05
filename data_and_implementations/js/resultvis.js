@@ -99,7 +99,7 @@ ResultVis.prototype.updateVis = function() {
     this.yScale.rangeBands([0, that.height]);
 
     // Vertical list of countries
-    this.yScale.domain(that.displayData.results.map(function(d) { return parseInt(d.result) }));
+    this.yScale.domain(that.displayData.results.map(function(d, i) { return i }));
     
     // scale bar width by result
     this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return parseInt(d.score) })) ]);
@@ -144,7 +144,7 @@ ResultVis.prototype.updateVis = function() {
         .append("g")
         .attr("class", "group")
         .attr("transform", function(d, i) { 
-            return "translate(0, " + that.yScale(d.result) + ")"; 
+            return "translate(0, " + that.yScale(i) + ")"; 
       });
 
     // Text for each bar
