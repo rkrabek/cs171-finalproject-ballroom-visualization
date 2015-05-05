@@ -6,6 +6,10 @@
 }-->
 <style>
 
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .axis path,
 .axis line {
     fill: none;
@@ -62,19 +66,18 @@
   font-size: 10px;
   width: 100%;
   line-height: 1;
-  color: rgba(0, 0, 0, 0.6);
-  content: "\25BC";
+  color: rgba(0, 0, 0, 0.8);
   position: absolute;
-  text-align: center;
 }
 
 /* Style northward tooltips differently */
-.d3-tip-2.n:after {
-  margin: -1px 0 0 0;
-  top: 100%;
-  left: 0;
+/* Eastward tooltips */
+.d3-tip-2.e:after {
+  content: "\25C0";
+  margin: -4px 0 0 0;
+  top: 50%;
+  left: -8px;
 }
-
 .point {
     stroke: gray;
     opacity: 0.8;
@@ -118,11 +121,14 @@
 }
 
 .group .mainRect{
-    fill: #FE9A2E;
+    /*fill: #FE9A2E;*/
+    fill: #D3D3D3;
 }
 
 .group:hover .mainRect {
-    fill: #FF4000;
+    fill: gray;
+    /*fill: #FF4000;*/
+    /*ill:  #FE9A2E;*/
 }
 
 .group:hover .changeRect {
@@ -130,7 +136,30 @@
     opacity: 1;
 }
 
+.group:hover #text_couple {
+    fill: white;
+}
 
+#loadcontainer {
+    font-size: large;
+}
+
+#text {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#text_couple {
+    font-family: sans-serif;
+    fill:gray;
+    font-weight: bold;
+}
+
+#text_result {
+    font-family: sans-serif;
+    font-weight: bold;
+}
 
 </style>
 <head lang="en">
@@ -152,25 +181,29 @@
     <link href="libs/c3/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
     <!-- Get some nice font-->
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!-- add own vis classes-->
     <script src = "js/scorevis3.js"></script>
     <script src = "js/resultvis.js"></script>
-
 </head>
 <body>
     <div class = "download" id = "download">
     <div class="container">
-        <h1>Visualizing Ballroom</h1>
+        <h1>Visualizing Competitive Ballroom Results</h1>
         <h5>By Leila Hofer and Robert Krabek<h5>
     </div> 
     <div class="container">
-        <h3>Compare Specific Couples:</h3>
+        <h3>Compare Couples:</h3>
+    </div>
+    <div class="container" id="loadcontainer" align="center">
+        <text class="text_loading" opacity="0">Loading...</text>
+        <p><i id="icon_loading" class="fa fa-refresh fa-spin" opacity="0"></i></p>
     </div>
     <div id = "buttonContainer" class="container">
        <!-- <button id="addCouple" class="changeCouples" onclick="createDropdown();">Add Couple</button>
         <button id="deleteCouple" class="changeCouples" onclick="deleteDropdown();">Undo Add</button> -->
     </div>
+    <p></p>
     <div class="container">
         <div id="primaryCouple" class="primaryCouple"></div>
     </div>    

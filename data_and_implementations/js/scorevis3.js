@@ -31,10 +31,12 @@ ScoreVis = function(_parentElement, _data, _eventHandler){
     this.listCount = 0;  
 
     this.margin = {top: 50, right: 400, bottom: 100, left: 100},
-    this.width = 600,
+    this.width = 800,
     this.height = 330;
 
     this.createButtons();
+
+    this.createDropdown();
 
     this.displayChange();
 
@@ -89,11 +91,8 @@ ScoreVis.prototype.initVis = function(){
         .style("text-anchor", "end")
         .text("Score");
 
-    // filter, aggregate, modify data
-    this.wrangleData();
+    this.onSelectionChange(); 
 
-    // call the update method
-    this.updateVis();
 }
 
 
@@ -118,6 +117,8 @@ ScoreVis.prototype.wrangleData= function(filteredData){
  * @param _options -- only needed if different kinds of updates are needed
  */
 ScoreVis.prototype.updateVis = function(){
+   d3.selectAll(".text_loading").remove()
+   d3.selectAll("i").remove()
 
     var that = this;
 

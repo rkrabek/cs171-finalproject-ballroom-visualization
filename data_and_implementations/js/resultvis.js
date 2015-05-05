@@ -29,8 +29,8 @@ ResultVis = function(_parentElement, _data, _eventHandler){
 
     // TODO: define all "constants" here
     this.margin = {top: 50, right: 50, bottom: 50, left: 50};
-    this.width = 700 - this.margin.left - this.margin.right;
-    this.height = 2000 - this.margin.top - this.margin.bottom;
+    this.width = 800 - this.margin.left - this.margin.right;
+    this.height = 1600 - this.margin.top - this.margin.bottom;
     this.bar_height = 30
     //this.wrangleData();
 
@@ -54,6 +54,7 @@ ResultVis.prototype.initVis = function(){
 
     this.xScale = d3.scale.linear().range([0, that.width]);
     this.yScale = d3.scale.ordinal();
+
 
     // filter, aggregate, modify data
    // this.wrangleData();
@@ -89,7 +90,8 @@ ResultVis.prototype.wrangleData= function(compName, eventName){
 }
 
 ResultVis.prototype.updateVis = function() {
-   var that = this;
+
+    var that = this;
     
     // scale bar height to fill vis
     this.height = this.bar_height*this.displayData.results.length+10*this.displayData.results.length /*+500*/;
@@ -100,18 +102,22 @@ ResultVis.prototype.updateVis = function() {
     this.yScale.domain(that.displayData.results.map(function(d) { return parseInt(d.result) }));
     
     // scale bar width by result
-    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return parseInt (d.score) })) ]);
+    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return parseInt(d.score) })) ]);
 
     // update tool tip
     var tip = d3.tip()
         .attr("class", "d3-tip-2")
-        //.direction("e")
-        .offset( [-10, 200 ])
+        .direction("e")
+        .offset(function(d) {
+            return [0, this.getBBox().height/*+that.xScale(Math.abs(parseInt(d.change)))*/]
+        })
         .html(function(d) { 
             if (d.change<0) {
-                return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span>";
+                return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span><div><strong>Score:</strong> <span style='color:red'>" + d.score + "</span></div>";
+            } else if (d.change==0) {
+                return "<strong>Change:</strong> <span style='color:red'>" + 0 + "</span><div><strong>Score:</strong> <span style='color:red'>" + d.score + "</span></div>";
             } else {
-                return "<strong>Change:</strong> <span style='color:#FE9A2E'>" + d.change + "</span>";
+                return "<strong>Change:</strong> <span style='color:#00B200'>" + d.change + "</span><div><strong>Score:</strong> <span style='color:#00B200'>" + d.score + "</span></div>";
             }
       });
 
@@ -121,12 +127,12 @@ ResultVis.prototype.updateVis = function() {
 
     // Text for each bar
     this.g.append("text")
-        .attr("class","title")
-        .attr("dx", this.width/2)
+        .attr("id", "text")
+        .attr("align", "center")
         .attr("dy", -10)
-        .attr("text-anchor", "end")
+        //.attr("text-anchor", "end")
         .attr("opacity", 1)
-        .text(function() {debugger; return that.compData.name} );
+        .text(function() {return "Placements from " + that.displayData.name } )
 
     // Groups for countries
     this.groups = this.g
@@ -143,7 +149,7 @@ ResultVis.prototype.updateVis = function() {
 
     // Text for each bar
     this.groups_enter.append("text")
-        .attr("class","result")
+        .attr("id","text_result")
         .attr("dx", -10)
         .attr("dy", this.bar_height/2)
         .attr("text-anchor", "end")
@@ -162,7 +168,14 @@ ResultVis.prototype.updateVis = function() {
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
 
-    this.mainBars.call(tip);    
+    this.mainBars.call(tip);   
+
+    this.groups_enter.append("text")
+        .attr("id","text_couple")
+        .attr("dx", 10)
+        .attr("dy", this.bar_height/2)
+        .attr("text-anchor", "start")
+        .text(function(d) { return d.couple; }); 
 
     // Change bar details
     this.changeBars = this.groups_enter
@@ -170,12 +183,18 @@ ResultVis.prototype.updateVis = function() {
         .attr("class","changeRect")
         .attr("fill", function(d) {
             if (d.change<0) {
-                return "gray"
+                return "red"
             } else {
-                return "#FE9A2E"
+                return "#00B200"
             }
         })
-        .attr("opacity", "0")
+        .attr("opacity", function(d) {
+            if (d.change<0)
+                return ".5";
+            else {
+                return "1";
+            }
+        })
         //.style("fill", function(d,i){ return color(d.continent) })
         //.transition().duration(200)
         .attr("width", function(d, i) { 
