@@ -137,7 +137,7 @@ ScoreVis.prototype.updateVis = function(){
     // update tool tip
     var tip = d3.tip()
       .attr("class", "d3-tip-1")
-      .offset([-40, -10])
+      .offset([-10, 0])
       .html(function(d) { 
             return "<strong>Comp:</strong> <span style='color:red'>" + d.compname + "</span>";
       });

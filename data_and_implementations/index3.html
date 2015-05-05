@@ -159,6 +159,7 @@
 
 </head>
 <body>
+    <div class = "download" id = "download">
     <div class="container">
         <h1>Visualizing Ballroom</h1>
         <h5>By Leila Hofer and Robert Krabek<h5>
@@ -302,6 +303,10 @@
                     })
     
                     couplesData = couples;
+
+                   // var obj = couplesData;
+                   // var data = "text/json;charset=uf-8," + encodeURIComponent(JSON.stringify(obj));
+                   // $('<a href="data:' + data + '" download="data.json">download JSON</a>').appendTo('#download');
 
                     initVis();
                 }

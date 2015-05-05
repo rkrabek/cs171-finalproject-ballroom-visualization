@@ -94,19 +94,19 @@ ResultVis.prototype.updateVis = function() {
     // scale bar height to fill vis
     this.height = this.bar_height*this.displayData.results.length+10*this.displayData.results.length /*+500*/;
 
-    this.yScale.rangeBands([0, that.height, 10]);
+    this.yScale.rangeBands([0, that.height]);
 
     // Vertical list of countries
-    this.yScale.domain(that.displayData.results.map(function(d) { return d.result }));
+    this.yScale.domain(that.displayData.results.map(function(d) { return parseInt(d.result) }));
     
     // scale bar width by result
-    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { debugger; return d.score}))]);
-   
+    this.xScale.domain([0, d3.max(that.displayData.results.map(function(d)  { return parseInt (d.score) })) ]);
+
     // update tool tip
     var tip = d3.tip()
         .attr("class", "d3-tip-2")
         //.direction("e")
-        .offset( [-40, 200 ])
+        .offset( [-10, 200 ])
         .html(function(d) { 
             if (d.change<0) {
                 return "<strong>Change:</strong> <span style='color:red'>" + d.change + "</span>";
@@ -118,6 +118,15 @@ ResultVis.prototype.updateVis = function() {
     this.g = this.svg.append("g")
         .attr("class", "gParent2")
         .attr("transform", "translate("+that.margin.left+","+that.margin.top+")");
+
+    // Text for each bar
+    this.g.append("text")
+        .attr("class","title")
+        .attr("dx", this.width/2)
+        .attr("dy", -10)
+        .attr("text-anchor", "end")
+        .attr("opacity", 1)
+        .text(function() {debugger; return that.compData.name} );
 
     // Groups for countries
     this.groups = this.g
